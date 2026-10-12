@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + OVER 2,5
-Aggiornato: 12/10/2026 14:52 (ora italiana)
+Aggiornato: 12/10/2026 15:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -412,12 +412,12 @@ Stagione 2026/2027 (71 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Red Star                         10  🟢 70%
-   2. Boulogne                          8  🟢 50%  🔴
+   2. Boulogne                          8  🟢 50%
    3. Nancy                             8  🔴
-   4. Sochaux                          8+  🟢 50%
+   4. Sochaux                          8+  🟢 50%  🔴
    5. Clermont Foot                     6  🟢 67%
    6. Grenoble                          5  🟢 80%
-   7. Nantes                            4
+   7. Nantes                            4  🔴
    8. Montpellier                       3  🟢 67%  🔴
    9. Reims                             3  🟢 67%
   10. Rodez                             3  🟢 67%
@@ -495,7 +495,7 @@ RITARDI 1X + OVER 2,5
    2. FC Andorra                        7  🔴
    3. Girona                            5  🟢 80%
    4. Castellón                         3  🟢 67%
-   5. Sabadell                          3  🟢 67%
+   5. Sabadell                          3  🟢 67%  🔴
    6. AD Ceuta FC                       2  🟢 100%
    7. Granada                           2  🟢 100%
    8. Cádiz                             1
@@ -572,8 +572,8 @@ Stagione 2026/2027 (49 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Patro Eisden                      3  🔴
-   2. Sporting Hasselt                  3  🟢 67%  🔴
-   3. KSC Lokeren                       2  🟢 100%  🔴
+   2. Sporting Hasselt                  3  🟢 67%
+   3. KSC Lokeren                       2  🟢 100%
    4. Virton                            2  🟢 100%
    5. Anderlecht Futures                1  🟢 100%
    6. Eupen                             1  🟢 100%
@@ -583,7 +583,7 @@ RITARDI 1X + OVER 2,5
   10. FC Liège                          0
 
 RITARDI X2 + OVER 2,5
-   1. K. Lierse SK                     10  🟢 80%
+   1. K. Lierse SK                     10  🟢 80%  🔴
    2. Beerschot                         7  🟢 71%  🔴
    3. Francs Borains                    5  🟢 60%
    4. FCV Dender EH                     4  🟢 50%
@@ -597,9 +597,9 @@ RITARDI X2 + OVER 2,5
 RITARDI 12 + OVER 2,5
    1. Genk U23                          2  🟢 50%
    2. Patro Eisden                      2  🔴
-   3. Anderlecht Futures                1  🟢 100%
-   4. Eupen                             1  🟢 100%
-   5. KSC Lokeren                       1  🟢 100%  🔴
+   3. Anderlecht Futures                1  🟢 100%  🔴
+   4. Eupen                             1  🟢 100%  🔴
+   5. KSC Lokeren                       1  🟢 100%
    6. Beerschot                         0
    7. Club Brugge NXT                   0
    8. FC Liège                          0
@@ -731,13 +731,13 @@ SVIZZERA - CHALLENGE LEAGUE
 Stagione 2026/2027 (50 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. FC Rapperswil-Jona                3  🟢 100%  🔴
+   1. FC Rapperswil-Jona                3  🟢 100%
    2. Yverdon                           3  🟢 67%
    3. FC Stade Lausanne-Ouchy           2  🟢 50%  🔴
    4. Etoile Carouge                    1  🟢 100%
    5. Kriens                            1  🟢 100%
    6. Wil                               1  🟢 100%
-   7. Aarau                             0
+   7. Aarau                             0  🔴
    8. Stade Nyonnais                    0  🔴
    9. Winterthur                        0
   10. Xamax                             0
@@ -748,20 +748,20 @@ RITARDI X2 + OVER 2,5
    3. Winterthur                        4  🟢 75%
    4. Yverdon                           4  🟢 75%  🔴
    5. Aarau                             2  🟢 100%
-   6. Kriens                            2  🟢 100%  🔴
+   6. Kriens                            2  🟢 100%
    7. Stade Nyonnais                    2  🟢 100%  🔴
    8. Xamax                             1  🟢 100%
    9. FC Rapperswil-Jona                0
-  10. FC Stade Lausanne-Ouchy           0
+  10. FC Stade Lausanne-Ouchy           0  🔴
 
 RITARDI 12 + OVER 2,5
-   1. Yverdon                           3  🟢 67%
-   2. Etoile Carouge                    1  🟢 100%  🔴
-   3. Kriens                            1  🟢 100%  🔴
+   1. Yverdon                           3  🟢 67%  🔴
+   2. Etoile Carouge                    1  🟢 100%
+   3. Kriens                            1  🟢 100%
    4. Wil                               1  🟢 100%  🔴
    5. Aarau                             0
    6. FC Rapperswil-Jona                0
-   7. FC Stade Lausanne-Ouchy           0
+   7. FC Stade Lausanne-Ouchy           0  🔴
    8. Stade Nyonnais                    0
    9. Winterthur                        0
   10. Xamax                             0
@@ -812,24 +812,24 @@ Stagione 2026/2027 (64 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Kapfenberger SV                   3
-   2. FC Hertha Wels                    2  🟢 50%  🔴
+   2. FC Hertha Wels                    2  🟢 50%
    3. SKU Amstetten                     2  🟢 100%
-   4. Austria Wien II                   1  🔴
+   4. Austria Wien II                   1
    5. BW Linz                           1  🟢 100%
    6. FC Wacker Innsbruck               1  🟢 100%
    7. Rapid Wien II                     1  🟢 100%
    8. SW Bregenz                        1
-   9. Admira Wacker                     0
+   9. Admira Wacker                     0  🔴
   10. Austria Salzburg                  0
 
 RITARDI X2 + OVER 2,5
    1. SW Bregenz                        9  🟢 78%
-   2. Austria Wien II                   7  🟢 71%  🔴
+   2. Austria Wien II                   7  🟢 71%
    3. BW Linz                           7  🟢 86%  🔴
    4. Floridsdorfer AC                  5  🟢 100%  🔴
    5. Admira Wacker                     3  🟢 67%
    6. Voitsberg                         3  🟢 100%
-   7. Austria Salzburg                  2  🟢 100%  🔴
+   7. Austria Salzburg                  2  🟢 100%
    8. FC Liefering                      2  🟢 100%
    9. SKN St. Pölten                    2  🟢 100%
   10. FC Hertha Wels                    1
@@ -844,7 +844,7 @@ RITARDI 12 + OVER 2,5
    7. Admira Wacker                     0  🔴
    8. Austria Salzburg                  0
    9. FC Liefering                      0
-  10. FC Wacker Innsbruck               0  🔴
+  10. FC Wacker Innsbruck               0
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
@@ -898,7 +898,7 @@ RITARDI 1X + OVER 2,5
    5. AVS Futebol SAD                   2  🟢 50%
    6. Académica                         2  🟢 100%
    7. Felgueiras 1932                   2  🟢 50%  🔴
-   8. Leixões                           2  🟢 50%
+   8. Leixões                           2  🟢 50%  🔴
    9. Lusitânia Lourosa                 2  🟢 100%
   10. Penafiel                          2  🟢 100%
 
@@ -915,7 +915,7 @@ RITARDI X2 + OVER 2,5
   10. Vizela                            1  🟢 100%
 
 RITARDI 12 + OVER 2,5
-   1. União de Leiria                   4  🟢 75%
+   1. União de Leiria                   4  🟢 75%  🔴
    2. Torreense                         3
    3. Vizela                            3  🟢 67%
    4. Tondela                           2  🟢 50%  🔴
@@ -924,7 +924,7 @@ RITARDI 12 + OVER 2,5
    7. Lusitânia Lourosa                 1  🟢 100%
    8. Sporting CP B                     1  🟢 100%
    9. AVS Futebol SAD                   0
-  10. Amarante FC                       0  🔴
+  10. Amarante FC                       0
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -1133,7 +1133,7 @@ Stagione 2026 (206 partite giocate) + 2025
 RITARDI 1X + OVER 2,5
    1. IFK Värnamo                      13  🟢 77%  🔴
    2. Östersunds FK                    10
-   3. Nordic United FC                  9  🟢 89%  🔴
+   3. Nordic United FC                  9  🟢 89%
    4. Helsingborg                       6  🟢 67%
    5. IK Oddevold                       4  🟢 50%
    6. Falkenbergs FF                    3  🟢 67%
@@ -1144,7 +1144,7 @@ RITARDI 1X + OVER 2,5
 
 RITARDI X2 + OVER 2,5
    1. Östersunds FK                    10  🔴
-   2. Sandvikens IF                     7  🟢 86%
+   2. Sandvikens IF                     7  🟢 86%  🔴
    3. IK Brage                          6  🟢 83%
    4. Ljungskile                        4  🟢 100%
    5. Helsingborg                       3
@@ -1156,11 +1156,11 @@ RITARDI X2 + OVER 2,5
 
 RITARDI 12 + OVER 2,5
    1. Östersunds FK                    16  🟢 62%  🔴
-   2. Helsingborg                       3
-   3. Norrby                            2  🟢 50%  🔴
-   4. IK Brage                          1  🟢 100%
-   5. IK Oddevold                       1  🟢 100%
-   6. Ljungskile                        1  🟢 100%  🔴
+   2. Helsingborg                       3  🔴
+   3. Norrby                            2  🟢 50%
+   4. IK Brage                          1  🟢 100%  🔴
+   5. IK Oddevold                       1  🟢 100%  🔴
+   6. Ljungskile                        1  🟢 100%
    7. Nordic United FC                  1  🟢 100%
    8. Varbergs BoIS FC                  1  🟢 100%
    9. Örebro                            1  🟢 100%
@@ -1211,34 +1211,34 @@ REP. CECA - FNL
 Stagione 2026/2027 (79 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. Baník Ostrava B                   8  🟢 75%  🔴
+   1. Baník Ostrava B                   8  🟢 75%
    2. Ústí nad Labem                    5  🟢 80%
-   3. FC Silon Táborsko                 1
+   3. FC Silon Táborsko                 1  🔴
    4. FC Vlašim                         1  🟢 100%
    5. Hanácká Slavia Kromeriz           1  🟢 100%
-   6. Karviná                           1
+   6. Karviná                           1  🔴
    7. Kladno                            1
    8. Opava                             1  🟢 100%
-   9. Příbram                           1  🟢 100%  🔴
+   9. Příbram                           1  🟢 100%
   10. Slavia Prague B                   1  🟢 100%
 
 RITARDI X2 + OVER 2,5
    1. Karviná                           6  🟢 83%
-   2. FC Vlašim                         5  🟢 100%
+   2. FC Vlašim                         5  🟢 100%  🔴
    3. Slavia Prague B                   4  🟢 75%
-   4. Třinec                            4  🟢 75%  🔴
-   5. FC Silon Táborsko                 2  🟢 50%
+   4. Třinec                            4  🟢 75%
+   5. FC Silon Táborsko                 2  🟢 50%  🔴
    6. Baník Ostrava B                   1  🟢 100%
-   7. Kladno                            1  🔴
+   7. Kladno                            1
    8. Dukla Praha                       0
    9. Hanácká Slavia Kromeriz           0
-  10. Opava                             0
+  10. Opava                             0  🔴
 
 RITARDI 12 + OVER 2,5
-   1. Kladno                            4  🟢 75%  🔴
+   1. Kladno                            4  🟢 75%
    2. SK Prostějov                      4  🟢 75%
    3. Baník Ostrava B                   1  🟢 100%
-   4. Dukla Praha                       1  🟢 100%
+   4. Dukla Praha                       1  🟢 100%  🔴
    5. FC Silon Táborsko                 1
    6. FC Vlašim                         1  🟢 100%  🔴
    7. Karviná                           1
@@ -1295,15 +1295,15 @@ RITARDI 1X + OVER 2,5
    2. FK Pohronie                       5  🟢 80%
    3. Liptovský Mikuláš                 5  🟢 80%
    4. FC Petržalka 1898                 4  🟢 75%  🔴
-   5. Slovan Galanta                    3  🟢 100%  🔴
+   5. Slovan Galanta                    3  🟢 100%
    6. Žilina B                          3  🟢 67%
-   7. FC STK 1914 Šamorín               2  🟢 100%
+   7. FC STK 1914 Šamorín               2  🟢 100%  🔴
    8. MFK Zvolen                        2  🟢 50%
    9. Slovan Bratislava B               2  🟢 100%
   10. Baník Lehota pod Vtacnikom        1
 
 RITARDI X2 + OVER 2,5
-   1. Humenné                          11  🟢 55%  🔴
+   1. Humenné                          11  🟢 55%
    2. FC Petržalka 1898                 9  🟢 67%  🔴
    3. FC STK 1914 Šamorín               5  🟢 80%
    4. MFK Zvolen                        3  🟢 67%
@@ -1315,16 +1315,16 @@ RITARDI X2 + OVER 2,5
   10. Inter Bratislava                  0
 
 RITARDI 12 + OVER 2,5
-   1. FC Petržalka 1898                 4  🟢 75%
+   1. FC Petržalka 1898                 4  🟢 75%  🔴
    2. Slovan Bratislava B               3  🟢 100%
    3. Zlaté Moravce                     3  🟢 67%  🔴
    4. FC STK 1914 Šamorín               2  🟢 100%
    5. Liptovský Mikuláš                 2  🟢 100%
    6. MFK Zvolen                        2  🟢 50%
-   7. Baník Lehota pod Vtacnikom        1  🔴
+   7. Baník Lehota pod Vtacnikom        1
    8. FK Pohronie                       1  🟢 100%
    9. Považská Bystrica                 1  🟢 100%
-  10. Tatran Prešov                     1  🟢 100%
+  10. Tatran Prešov                     1  🟢 100%  🔴
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1384,11 +1384,11 @@ RITARDI 1X + OVER 2,5
 
 RITARDI X2 + OVER 2,5
    1. Dunfermline Athletic             11  🟢 64%
-   2. Stenhousemuir                    9+  🟢 56%  🔴
+   2. Stenhousemuir                    9+  🟢 56%
    3. Queen's Park                      7  🟢 86%
    4. Inverness Caledonian Thistle      2  🟢 100%  🔴
    5. Ayr United                        1  🟢 100%
-   6. Raith Rovers                      1  🟢 100%
+   6. Raith Rovers                      1  🟢 100%  🔴
    7. Arbroath                          0
    8. Greenock Morton                   0
    9. Livingston                        0
@@ -1396,7 +1396,7 @@ RITARDI X2 + OVER 2,5
 
 RITARDI 12 + OVER 2,5
    1. Dunfermline Athletic             13  🟢 69%  🔴
-   2. Stenhousemuir                     5  🔴
+   2. Stenhousemuir                     5
    3. Inverness Caledonian Thistle      3  🟢 100%  🔴
    4. Ayr United                        1  🟢 100%
    5. Queen's Park                      1  🟢 100%
@@ -1404,7 +1404,7 @@ RITARDI 12 + OVER 2,5
    7. Arbroath                          0
    8. Greenock Morton                   0
    9. Livingston                        0
-  10. Partick Thistle                   0
+  10. Partick Thistle                   0  🔴
 
 ==================================================
 IRLANDA - PREMIER DIVISION
