@@ -1,0 +1,1647 @@
+RITARDI DOPPIA CHANCE + OVER 2,5
+Aggiornato: 12/10/2026 12:11 (ora italiana)
+Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
+Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
+🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).
+Fonte: FotMob
+
+==================================================
+ITALIA - SERIE A
+Stagione 2026/2027 (58 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Cagliari                          7
+   2. Bologna                           3  🟢 67%
+   3. Torino                            3  🟢 100%
+   4. Atalanta                          2  🟢 100%
+   5. Como                              2  🟢 50%
+   6. Juventus                          2  🟢 100%
+   7. Venezia                           2  🟢 100%
+   8. Lecce                             1  🟢 100%
+   9. Milan                             1  🟢 100%
+  10. Roma                              1
+
+RITARDI X2 + OVER 2,5
+   1. Parma                             8  🟢 62%
+   2. Juventus                          6  🟢 83%
+   3. Frosinone                         4  🟢 100%
+   4. Monza                             4  🟢 100%
+   5. Napoli                            4  🟢 75%
+   6. Como                              3  🟢 67%
+   7. Genoa                             3  🟢 100%
+   8. Sassuolo                          3  🟢 100%
+   9. Cagliari                          2  🟢 50%
+  10. Fiorentina                        2  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Roma                              3  🟢 67%
+   2. Cagliari                          2  🟢 50%
+   3. Como                              2  🟢 50%
+   4. Juventus                          2  🟢 100%
+   5. Torino                            2  🟢 100%
+   6. Atalanta                          1  🟢 100%
+   7. Milan                             1  🟢 100%
+   8. Sassuolo                          1  🟢 100%
+   9. Udinese                           1
+  10. Venezia                           1  🟢 100%
+
+==================================================
+ITALIA - SERIE B
+Stagione 2026/2027 (60 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Südtirol                         11  🟢 55%
+   2. Carrarese                         6  🟢 50%
+   3. Juve Stabia                       6  🟢 83%
+   4. Arezzo                            3
+   5. Virtus Entella                    3  🟢 67%
+   6. Benevento                         2  🟢 50%
+   7. Cesena                            2  🟢 100%
+   8. Cremonese                         2
+   9. Ascoli                            1
+  10. Catanzaro                         1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Padova                            6  🟢 67%
+   2. Ascoli                            5
+   3. Avellino                          5  🟢 80%
+   4. Benevento                         5  🟢 60%
+   5. Carrarese                         5
+   6. Hellas Verona                     5  🟢 100%
+   7. Modena                            4  🟢 75%
+   8. Sampdoria                         4  🟢 100%
+   9. Juve Stabia                       3  🟢 100%
+  10. Cesena                            2  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Carrarese                         5
+   2. Cesena                            4  🟢 100%
+   3. Cremonese                         3
+   4. Juve Stabia                       3  🟢 100%
+   5. Benevento                         2  🟢 50%
+   6. Virtus Entella                    2  🟢 50%
+   7. Arezzo                            1
+   8. Ascoli                            1
+   9. Padova                            1  🟢 100%
+  10. Südtirol                          1
+
+==================================================
+INGHILTERRA - PREMIER LEAGUE
+Stagione 2026/2027 (59 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Tottenham Hotspur                 5  🟢 60%
+   2. Coventry City                     4
+   3. Liverpool                         4  🟢 50%
+   4. Manchester United                 3  🟢 67%
+   5. Brighton & Hove Albion            1  🟢 100%
+   6. Manchester City                   1  🟢 100%
+   7. Sunderland                        1  🟢 100%
+   8. AFC Bournemouth                   0
+   9. Arsenal                           0
+  10. Aston Villa                       0
+
+RITARDI X2 + OVER 2,5
+   1. Leeds United                     10  🟢 70%
+   2. Sunderland                        7  🟢 86%
+   3. Arsenal                           6  🟢 83%
+   4. Fulham                            3  🟢 67%
+   5. Manchester United                 3  🟢 67%
+   6. AFC Bournemouth                   2  🟢 50%
+   7. Brighton & Hove Albion            2  🟢 100%
+   8. Chelsea                           2  🟢 100%
+   9. Crystal Palace                    2  🟢 50%
+  10. Ipswich Town                      2  🟢 50%
+
+RITARDI 12 + OVER 2,5
+   1. Everton                           7  🟢 57%
+   2. Manchester United                 4  🟢 75%
+   3. Aston Villa                       1  🟢 100%
+   4. Brentford                         1  🟢 100%
+   5. Brighton & Hove Albion            1  🟢 100%
+   6. Coventry City                     1
+   7. Hull City                         1  🟢 100%
+   8. Sunderland                        1  🟢 100%
+   9. Tottenham Hotspur                 1  🟢 100%
+  10. AFC Bournemouth                   0
+
+==================================================
+INGHILTERRA - CHAMPIONSHIP
+Stagione 2026/2027 (107 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. West Bromwich Albion              6
+   2. Bolton Wanderers                  4  🟢 75%
+   3. Derby County                      4  🟢 75%
+   4. Bristol City                      3
+   5. Watford                           3  🟢 67%
+   6. Wolverhampton Wanderers           3
+   7. Burnley                           2  🟢 100%
+   8. Birmingham City                   1
+   9. Charlton Athletic                 1  🟢 100%
+  10. Middlesbrough                     1
+
+RITARDI X2 + OVER 2,5
+   1. Southampton                       9  🟢 89%
+   2. West Bromwich Albion              8  🟢 50%
+   3. Charlton Athletic                 7  🟢 57%
+   4. Cardiff City                      6  🟢 83%
+   5. Wrexham                           5  🟢 80%
+   6. Bristol City                      4  🟢 50%
+   7. Sheffield United                  3  🟢 67%
+   8. Wolverhampton Wanderers           3
+   9. Derby County                      2  🟢 100%
+  10. Birmingham City                   1
+
+RITARDI 12 + OVER 2,5
+   1. West Bromwich Albion              6
+   2. Portsmouth                        5  🟢 60%
+   3. Queens Park Rangers               5  🟢 60%
+   4. Wolverhampton Wanderers           4
+   5. Bristol City                      3
+   6. Middlesbrough                     3  🟢 67%
+   7. Millwall                          3  🟢 67%
+   8. Preston North End                 3
+   9. Birmingham City                   2  🟢 50%
+  10. Derby County                      2  🟢 100%
+
+==================================================
+INGHILTERRA - LEAGUE ONE
+Stagione 2026/2027 (102 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Bradford City                    14  🟢 50%
+   2. Leyton Orient                     9  🟢 78%
+   3. Leicester City                   8+  🟢 88%
+   4. Peterborough United               6  🟢 67%
+   5. Doncaster Rovers                  5  🟢 60%
+   6. Notts County                      5  🟢 80%
+   7. Wigan Athletic                    4
+   8. Burton Albion                     3
+   9. Cambridge United                  3  🟢 67%
+  10. Milton Keynes Dons                3  🟢 67%
+
+RITARDI X2 + OVER 2,5
+   1. AFC Wimbledon                     9  🟢 56%
+   2. Bradford City                     5
+   3. Cambridge United                  4  🟢 75%
+   4. Barnsley                          3  🟢 100%
+   5. Doncaster Rovers                  3
+   6. Leyton Orient                     3
+   7. Plymouth Argyle                   3  🟢 67%
+   8. Stevenage                         3
+   9. Stockport County                  3
+  10. Wigan Athletic                    3
+
+RITARDI 12 + OVER 2,5
+   1. Bradford City                     5
+   2. Cambridge United                  3  🟢 67%
+   3. Doncaster Rovers                  3
+   4. Leyton Orient                     3
+   5. Sheffield Wednesday               3
+   6. Wigan Athletic                    3
+   7. Stevenage                         2
+   8. Blackpool                         1
+   9. Burton Albion                     1
+  10. Huddersfield Town                 1  🟢 100%
+
+==================================================
+INGHILTERRA - LEAGUE TWO
+Stagione 2026/2027 (114 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Northampton Town                 8+  🟢 50%
+   2. Exeter City                       7
+   3. Oldham Athletic                   6  🟢 83%
+   4. Rochdale                          6  🟢 67%
+   5. Walsall                           5  🟢 60%
+   6. Accrington Stanley                4  🟢 50%
+   7. Port Vale                         4
+   8. Rotherham United                  4  🟢 50%
+   9. Salford City                      4  🟢 50%
+  10. Swindon Town                      4
+
+RITARDI X2 + OVER 2,5
+   1. Exeter City                     10+
+   2. Swindon Town                     10  🟢 60%
+   3. York City                        9+  🟢 100%
+   4. Northampton Town                 8+  🟢 50%
+   5. Port Vale                        8+  🟢 50%
+   6. Newport County                    7
+   7. Accrington Stanley                6  🟢 67%
+   8. Crewe Alexandra                   6  🟢 83%
+   9. Tranmere Rovers                   6  🟢 83%
+  10. Walsall                           5  🟢 60%
+
+RITARDI 12 + OVER 2,5
+   1. Northampton Town                 8+  🟢 50%
+   2. Exeter City                       7
+   3. Walsall                           6  🟢 67%
+   4. Accrington Stanley                4  🟢 50%
+   5. Colchester United                 4  🟢 75%
+   6. Port Vale                         4
+   7. Swindon Town                      4
+   8. Cheltenham Town                   2  🟢 100%
+   9. Crawley Town                      2  🟢 100%
+  10. Fleetwood Town                    2  🟢 50%
+
+==================================================
+GERMANIA - BUNDESLIGA
+Stagione 2026/2027 (45 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Mainz 05                         12  🟢 83%
+   2. Elversberg                        4  🟢 50%
+   3. Bayer Leverkusen                  2  🟢 100%
+   4. VfB Stuttgart                     2  🟢 50%
+   5. Hamburger SV                      1  🟢 100%
+   6. Hoffenheim                        1  🟢 100%
+   7. Paderborn                         1  🟢 100%
+   8. Union Berlin                      1
+   9. 1. FC Köln                        0
+  10. Augsburg                          0
+
+RITARDI X2 + OVER 2,5
+   1. RB Leipzig                        9  🟢 100%
+   2. 1. FC Köln                        6  🟢 100%
+   3. Paderborn                        5+  🟢 60%
+   4. VfB Stuttgart                     5  🟢 80%
+   5. Elversberg                        2
+   6. Schalke 04                        2  🟢 50%
+   7. Union Berlin                      2  🟢 50%
+   8. Borussia Mönchengladbach          1  🟢 100%
+   9. Eintracht Frankfurt               1  🟢 100%
+  10. Freiburg                          1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Borussia Dortmund                 2  🟢 50%
+   2. Elversberg                        2
+   3. VfB Stuttgart                     2  🟢 50%
+   4. Augsburg                          1  🟢 100%
+   5. Bayern München                    1  🟢 100%
+   6. Paderborn                         1  🟢 100%
+   7. Union Berlin                      1
+   8. Werder Bremen                     1  🟢 100%
+   9. 1. FC Köln                        0
+  10. Bayer Leverkusen                  0
+
+==================================================
+GERMANIA - 2. BUNDESLIGA
+Stagione 2026/2027 (63 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Holstein Kiel                     3
+   2. Karlsruher SC                     3  🟢 67%
+   3. St. Pauli                         3  🟢 67%
+   4. VfL Osnabrück                     3  🟢 100%
+   5. Dynamo Dresden                    2  🟢 100%
+   6. Eintracht Braunschweig            2
+   7. Kaiserslautern                    2
+   8. Arminia Bielefeld                 1
+   9. Bochum                            1
+  10. FC Heidenheim                     1
+
+RITARDI X2 + OVER 2,5
+   1. Darmstadt                         6  🟢 67%
+   2. Magdeburg                         5  🟢 100%
+   3. Greuther Fürth                    4  🟢 75%
+   4. Kaiserslautern                    4  🟢 50%
+   5. Bochum                            3  🟢 67%
+   6. Hannover 96                       3  🟢 100%
+   7. Holstein Kiel                     3
+   8. St. Pauli                         3  🟢 67%
+   9. Eintracht Braunschweig            2
+  10. Energie Cottbus                   2  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Holstein Kiel                     7  🟢 71%
+   2. FC Heidenheim                     4
+   3. St. Pauli                         4  🟢 75%
+   4. Eintracht Braunschweig            3
+   5. 1. FC Nürnberg                    2  🟢 50%
+   6. Arminia Bielefeld                 2  🟢 50%
+   7. Kaiserslautern                    2
+   8. Karlsruher SC                     2  🟢 50%
+   9. VfL Osnabrück                     2  🟢 100%
+  10. Bochum                            1
+
+==================================================
+GERMANIA - 3. LIGA
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Wehen Wiesbaden                   6  🟢 67%
+   2. Waldhof Mannheim                  5  🟢 60%
+   3. Alemannia Aachen                  3
+   4. Fortuna Köln                      3  🟢 67%
+   5. Meppen                            3  🟢 67%
+   6. Hansa Rostock                     2  🟢 100%
+   7. Ingolstadt                        1  🟢 100%
+   8. Saarbrücken                       1
+   9. Sonnenhof Großaspach              1  🟢 100%
+  10. VfB Stuttgart II                  1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Hansa Rostock                     5  🟢 100%
+   2. Würzburger Kickers                4  🟢 75%
+   3. Hoffenheim II                     2  🟢 50%
+   4. Meppen                            2  🟢 50%
+   5. Saarbrücken                       2  🟢 50%
+   6. Fortuna Köln                      1
+   7. Jahn Regensburg                   1  🟢 100%
+   8. MSV Duisburg                      1  🟢 100%
+   9. TSV Havelse                       1  🟢 100%
+  10. VfB Stuttgart II                  1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Preussen Münster                  3  🟢 100%
+   2. Fortuna Düsseldorf                2  🟢 50%
+   3. Hansa Rostock                     2  🟢 100%
+   4. Meppen                            2  🟢 50%
+   5. RW Essen                          2  🟢 100%
+   6. VfB Stuttgart II                  2  🟢 100%
+   7. Fortuna Köln                      1
+   8. SC Verl                           1  🟢 100%
+   9. Saarbrücken                       1
+  10. Würzburger Kickers                1  🟢 100%
+
+==================================================
+FRANCIA - LIGUE 1
+Stagione 2026/2027 (54 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Troyes                           6+  🟢 83%
+   2. Marseille                         5  🟢 80%
+   3. Le Havre                          1
+   4. Lille                             1
+   5. Lorient                           1
+   6. Paris FC                          1
+   7. Angers                            0
+   8. Auxerre                           0
+   9. Brest                             0
+  10. Le Mans                           0
+
+RITARDI X2 + OVER 2,5
+   1. Nice                             13  🟢 69%
+   2. Lyon                              6  🟢 83%
+   3. Auxerre                           4  🟢 75%
+   4. Lille                             4  🟢 50%
+   5. Angers                            3  🟢 67%
+   6. Brest                             3  🟢 67%
+   7. Le Havre                          3
+   8. Paris FC                          3
+   9. Rennes                            3  🟢 67%
+  10. Strasbourg                        3  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Troyes                            3  🟢 100%
+   2. Le Havre                          1
+   3. Lille                             1
+   4. Lorient                           1
+   5. Marseille                         1  🟢 100%
+   6. Monaco                            1  🟢 100%
+   7. Paris FC                          1
+   8. Toulouse                          1  🟢 100%
+   9. Angers                            0
+  10. Auxerre                           0
+
+==================================================
+FRANCIA - LIGUE 2
+Stagione 2026/2027 (71 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Red Star                         10  🟢 70%
+   2. Boulogne                          8  🟢 50%
+   3. Nancy                             8
+   4. Sochaux                          8+  🟢 50%
+   5. Clermont Foot                     6  🟢 67%
+   6. Grenoble                          5  🟢 80%
+   7. Nantes                            4
+   8. Montpellier                       3  🟢 67%
+   9. Reims                             3  🟢 67%
+  10. Rodez                             3  🟢 67%
+
+RITARDI X2 + OVER 2,5
+   1. Montpellier                       9  🟢 56%
+   2. Sochaux                           7
+   3. Dunkerque                         6  🟢 67%
+   4. Pau                               4  🟢 75%
+   5. Grenoble                          3  🟢 67%
+   6. Laval                             3  🟢 100%
+   7. Reims                             2  🟢 50%
+   8. Annecy FC                         1
+   9. Boulogne                          1  🟢 100%
+  10. Guingamp                          1
+
+RITARDI 12 + OVER 2,5
+   1. Sochaux                           7
+   2. Grenoble                          3  🟢 67%
+   3. Montpellier                       3  🟢 67%
+   4. Dunkerque                         2  🟢 50%
+   5. Metz                              2  🟢 50%
+   6. Reims                             2  🟢 50%
+   7. Saint-Étienne                     2  🟢 100%
+   8. Annecy FC                         1
+   9. Boulogne                          1  🟢 100%
+  10. Guingamp                          1
+
+==================================================
+SPAGNA - LALIGA
+Stagione 2026/2027 (77 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Sevilla                           6  🟢 67%
+   2. Elche                             5  🟢 80%
+   3. Málaga                            5  🟢 60%
+   4. Deportivo Alavés                  3
+   5. Athletic Club                     2  🟢 50%
+   6. Espanyol                          2  🟢 100%
+   7. Atlético Madrid                   1  🟢 100%
+   8. Celta Vigo                        1
+   9. Rayo Vallecano                    1  🟢 100%
+  10. Real Madrid                       1
+
+RITARDI X2 + OVER 2,5
+   1. Getafe                           17
+   2. Rayo Vallecano                    7  🟢 100%
+   3. Celta Vigo                        6  🟢 67%
+   4. Osasuna                           6  🟢 83%
+   5. Athletic Club                     5  🟢 80%
+   6. Deportivo A Coruña                4  🟢 75%
+   7. Real Betis                        3  🟢 67%
+   8. Málaga                            2  🟢 50%
+   9. Real Madrid                       2  🟢 50%
+  10. Villarreal                        2  🟢 50%
+
+RITARDI 12 + OVER 2,5
+   1. Athletic Club                     2  🟢 50%
+   2. Málaga                            2  🟢 50%
+   3. Celta Vigo                        1
+   4. Elche                             1
+   5. Espanyol                          1  🟢 100%
+   6. Racing Santander                  1  🟢 100%
+   7. Rayo Vallecano                    1  🟢 100%
+   8. Real Madrid                       1
+   9. Valencia                          1  🟢 100%
+  10. Villarreal                        1
+
+==================================================
+SPAGNA - LALIGA 2
+Stagione 2026/2027 (95 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Albacete                          7  🟢 86%
+   2. FC Andorra                        7
+   3. Girona                            5  🟢 80%
+   4. Castellón                         3  🟢 67%
+   5. Sabadell                          3  🟢 67%
+   6. AD Ceuta FC                       2  🟢 100%
+   7. Granada                           2  🟢 100%
+   8. Cádiz                             1
+   9. Eibar                             1  🟢 100%
+  10. Sporting Gijón                    1
+
+RITARDI X2 + OVER 2,5
+   1. Leganés                          12  🟢 58%
+   2. Almería                           9  🟢 67%
+   3. Mallorca                         9+  🟢 56%
+   4. Tenerife                          7  🟢 71%
+   5. Castellón                         4  🟢 75%
+   6. Celta Fortuna                     4  🟢 100%
+   7. Cádiz                             3  🟢 67%
+   8. Córdoba                           3  🟢 100%
+   9. Eldense                           3  🟢 67%
+  10. Real Oviedo                       3  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Castellón                         3  🟢 67%
+   2. FC Andorra                        2
+   3. Girona                            2  🟢 50%
+   4. Cádiz                             1
+   5. Real Valladolid                   1  🟢 100%
+   6. Sporting Gijón                    1
+   7. AD Ceuta FC                       0
+   8. Albacete                          0
+   9. Almería                           0
+  10. Burgos CF                         0
+
+==================================================
+BELGIO - FIRST DIVISION A
+Stagione 2026/2027 (72 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. OH Leuven                         3  🟢 100%
+   2. SK Beveren                        3  🟢 67%
+   3. Lommel                            2  🟢 50%
+   4. RAAL La Louvière                  2  🟢 100%
+   5. Union St.Gilloise                 2  🟢 100%
+   6. Anderlecht                        1  🟢 100%
+   7. Cercle Brugge                     1  🟢 100%
+   8. Club Brugge                       1  🟢 100%
+   9. Gent                              1  🟢 100%
+  10. Sporting Charleroi                1
+
+RITARDI X2 + OVER 2,5
+   1. Genk                              5  🟢 80%
+   2. Kortrijk                          5  🟢 60%
+   3. OH Leuven                         5  🟢 80%
+   4. Royal Antwerp                     4  🟢 75%
+   5. St.Truiden                        4  🟢 100%
+   6. Standard Liège                    4  🟢 50%
+   7. Zulte Waregem                     4  🟢 75%
+   8. Gent                              3  🟢 100%
+   9. KV Mechelen                       3
+  10. Sporting Charleroi                3
+
+RITARDI 12 + OVER 2,5
+   1. OH Leuven                         3  🟢 100%
+   2. Union St.Gilloise                 2  🟢 100%
+   3. Gent                              1  🟢 100%
+   4. Sporting Charleroi                1
+   5. Standard Liège                    1
+   6. Zulte Waregem                     1  🟢 100%
+   7. Anderlecht                        0
+   8. Cercle Brugge                     0
+   9. Club Brugge                       0
+  10. Genk                              0
+
+==================================================
+BELGIO - FIRST DIVISION B
+Stagione 2026/2027 (49 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Patro Eisden                      3
+   2. Sporting Hasselt                  3  🟢 67%
+   3. KSC Lokeren                       2  🟢 100%
+   4. Virton                            2  🟢 100%
+   5. Anderlecht Futures                1  🟢 100%
+   6. Eupen                             1  🟢 100%
+   7. Genk U23                          1
+   8. Beerschot                         0
+   9. Club Brugge NXT                   0
+  10. FC Liège                          0
+
+RITARDI X2 + OVER 2,5
+   1. K. Lierse SK                     10  🟢 80%
+   2. Beerschot                         7  🟢 71%
+   3. Francs Borains                    5  🟢 60%
+   4. FCV Dender EH                     4  🟢 50%
+   5. Anderlecht Futures                2  🟢 100%
+   6. Eupen                             2  🟢 100%
+   7. FC Liège                          2  🟢 100%
+   8. Patro Eisden                      2
+   9. Club Brugge NXT                   1  🟢 100%
+  10. Genk U23                          1
+
+RITARDI 12 + OVER 2,5
+   1. Genk U23                          2  🟢 50%
+   2. Patro Eisden                      2
+   3. Anderlecht Futures                1  🟢 100%
+   4. Eupen                             1  🟢 100%
+   5. KSC Lokeren                       1  🟢 100%
+   6. Beerschot                         0
+   7. Club Brugge NXT                   0
+   8. FC Liège                          0
+   9. FCV Dender EH                     0
+  10. Francs Borains                    0
+
+==================================================
+OLANDA - EREDIVISIE
+Stagione 2026/2027 (72 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Fortuna Sittard                   6  🟢 83%
+   2. AZ Alkmaar                        4  🟢 75%
+   3. SC Heerenveen                     4  🟢 75%
+   4. Cambuur                           2  🟢 50%
+   5. NEC Nijmegen                      2  🟢 100%
+   6. Ajax                              1  🟢 100%
+   7. Excelsior                         1  🟢 100%
+   8. FC Groningen                      1  🟢 100%
+   9. FC Twente                         1  🟢 100%
+  10. Feyenoord                         1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. FC Twente                         4  🟢 75%
+   2. Willem II                         4  🟢 75%
+   3. AZ Alkmaar                        3  🟢 67%
+   4. Cambuur                           3  🟢 67%
+   5. NEC Nijmegen                      3  🟢 100%
+   6. PSV Eindhoven                     3  🟢 100%
+   7. FC Utrecht                        2  🟢 100%
+   8. Feyenoord                         2  🟢 100%
+   9. Fortuna Sittard                   2  🟢 50%
+  10. PEC Zwolle                        2  🟢 50%
+
+RITARDI 12 + OVER 2,5
+   1. Telstar                           5
+   2. Go Ahead Eagles                   4  🟢 100%
+   3. ADO Den Haag                      3  🟢 100%
+   4. AZ Alkmaar                        3  🟢 67%
+   5. Ajax                              2  🟢 100%
+   6. Cambuur                           2  🟢 50%
+   7. Fortuna Sittard                   2  🟢 50%
+   8. NEC Nijmegen                      2  🟢 100%
+   9. FC Twente                         1  🟢 100%
+  10. Feyenoord                         1  🟢 100%
+
+==================================================
+OLANDA - EERSTE DIVISIE
+Stagione 2026/2027 (100 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Roda JC Kerkrade                  6  🟢 67%
+   2. FC Den Bosch                      3
+   3. FC Emmen                          3  🟢 67%
+   4. FC Dordrecht                      2  🟢 100%
+   5. FC Volendam                       2  🟢 50%
+   6. Jong Ajax                         2  🟢 50%
+   7. VVV-Venlo                         2  🟢 100%
+   8. Jong AZ Alkmaar                   1
+   9. Jong PSV                          1  🟢 100%
+  10. MVV Maastricht                    1
+
+RITARDI X2 + OVER 2,5
+   1. FC Volendam                     10+  🟢 80%
+   2. TOP Oss                           9  🟢 78%
+   3. FC Den Bosch                      6  🟢 67%
+   4. Jong PSV                          6  🟢 100%
+   5. RKC Waalwijk                      6  🟢 100%
+   6. Roda JC Kerkrade                  6  🟢 67%
+   7. Almere City FC                    4  🟢 50%
+   8. Jong AZ Alkmaar                   4  🟢 75%
+   9. MVV Maastricht                    4  🟢 75%
+  10. De Graafschap                     1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Roda JC Kerkrade                  8  🟢 62%
+   2. FC Den Bosch                      3
+   3. Vitesse                           3  🟢 100%
+   4. FC Volendam                       2  🟢 50%
+   5. NAC Breda                         2  🟢 50%
+   6. Jong AZ Alkmaar                   1
+   7. Jong PSV                          1  🟢 100%
+   8. MVV Maastricht                    1
+   9. Almere City FC                    0
+  10. De Graafschap                     0
+
+==================================================
+SVIZZERA - SUPER LEAGUE
+Stagione 2026/2027 (60 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Lausanne                          3
+   2. St. Gallen                        2  🟢 50%
+   3. Grasshopper                       1  🟢 100%
+   4. Young Boys                        1  🟢 100%
+   5. Basel                             0
+   6. FC Vaduz                          0
+   7. FC Zürich                         0
+   8. Lugano                            0
+   9. Luzern                            0
+  10. Servette                          0
+
+RITARDI X2 + OVER 2,5
+   1. FC Zürich                         3  🟢 100%
+   2. Grasshopper                       2  🟢 100%
+   3. Luzern                            2  🟢 100%
+   4. Servette                          2  🟢 100%
+   5. Sion                              2  🟢 100%
+   6. Young Boys                        2  🟢 100%
+   7. Basel                             1  🟢 100%
+   8. FC Vaduz                          1  🟢 100%
+   9. Lausanne                          1
+  10. Lugano                            1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Grasshopper                       1  🟢 100%
+   2. Lausanne                          1
+   3. St. Gallen                        1
+   4. Young Boys                        1  🟢 100%
+   5. Basel                             0
+   6. FC Vaduz                          0
+   7. FC Zürich                         0
+   8. Lugano                            0
+   9. Luzern                            0
+  10. Servette                          0
+
+==================================================
+SVIZZERA - CHALLENGE LEAGUE
+Stagione 2026/2027 (50 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. FC Rapperswil-Jona                3  🟢 100%
+   2. Yverdon                           3  🟢 67%
+   3. FC Stade Lausanne-Ouchy           2  🟢 50%
+   4. Etoile Carouge                    1  🟢 100%
+   5. Kriens                            1  🟢 100%
+   6. Wil                               1  🟢 100%
+   7. Aarau                             0
+   8. Stade Nyonnais                    0
+   9. Winterthur                        0
+  10. Xamax                             0
+
+RITARDI X2 + OVER 2,5
+   1. Etoile Carouge                   10  🟢 70%
+   2. Wil                               4  🟢 100%
+   3. Winterthur                        4  🟢 75%
+   4. Yverdon                           4  🟢 75%
+   5. Aarau                             2  🟢 100%
+   6. Kriens                            2  🟢 100%
+   7. Stade Nyonnais                    2  🟢 100%
+   8. Xamax                             1  🟢 100%
+   9. FC Rapperswil-Jona                0
+  10. FC Stade Lausanne-Ouchy           0
+
+RITARDI 12 + OVER 2,5
+   1. Yverdon                           3  🟢 67%
+   2. Etoile Carouge                    1  🟢 100%
+   3. Kriens                            1  🟢 100%
+   4. Wil                               1  🟢 100%
+   5. Aarau                             0
+   6. FC Rapperswil-Jona                0
+   7. FC Stade Lausanne-Ouchy           0
+   8. Stade Nyonnais                    0
+   9. Winterthur                        0
+  10. Xamax                             0
+
+==================================================
+AUSTRIA - BUNDESLIGA
+Stagione 2026/2027 (48 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Austria Wien                      1  🟢 100%
+   2. Grazer AK                         1
+   3. LASK                              1  🟢 100%
+   4. Rapid Wien                        1  🟢 100%
+   5. Ried                              1  🟢 100%
+   6. Salzburg                          1
+   7. Sturm Graz                        1  🟢 100%
+   8. WSG Tirol                         1  🟢 100%
+   9. Altach                            0
+  10. Austria Lustenau                  0
+
+RITARDI X2 + OVER 2,5
+   1. Sturm Graz                        9  🟢 89%
+   2. Salzburg                          5  🟢 80%
+   3. Austria Lustenau                  3  🟢 100%
+   4. Altach                            2  🟢 100%
+   5. Rapid Wien                        2  🟢 100%
+   6. Wolfsberger AC                    2  🟢 100%
+   7. Austria Wien                      1  🟢 100%
+   8. Grazer AK                         1
+   9. Hartberg                          1  🟢 100%
+  10. LASK                              1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Austria Wien                      2  🟢 100%
+   2. Grazer AK                         2  🟢 50%
+   3. LASK                              2  🟢 100%
+   4. Rapid Wien                        1  🟢 100%
+   5. Salzburg                          1
+   6. Sturm Graz                        1  🟢 100%
+   7. Altach                            0
+   8. Austria Lustenau                  0
+   9. Hartberg                          0
+  10. Ried                              0
+
+==================================================
+AUSTRIA - 2. LIGA
+Stagione 2026/2027 (64 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Kapfenberger SV                   3
+   2. FC Hertha Wels                    2  🟢 50%
+   3. SKU Amstetten                     2  🟢 100%
+   4. Austria Wien II                   1
+   5. BW Linz                           1  🟢 100%
+   6. FC Wacker Innsbruck               1  🟢 100%
+   7. Rapid Wien II                     1  🟢 100%
+   8. SW Bregenz                        1
+   9. Admira Wacker                     0
+  10. Austria Salzburg                  0
+
+RITARDI X2 + OVER 2,5
+   1. SW Bregenz                        9  🟢 78%
+   2. Austria Wien II                   7  🟢 71%
+   3. BW Linz                           7  🟢 86%
+   4. Floridsdorfer AC                  5  🟢 100%
+   5. Admira Wacker                     3  🟢 67%
+   6. Voitsberg                         3  🟢 100%
+   7. Austria Salzburg                  2  🟢 100%
+   8. FC Liefering                      2  🟢 100%
+   9. SKN St. Pölten                    2  🟢 100%
+  10. FC Hertha Wels                    1
+
+RITARDI 12 + OVER 2,5
+   1. Austria Wien II                   1
+   2. BW Linz                           1  🟢 100%
+   3. FC Hertha Wels                    1
+   4. Kapfenberger SV                   1
+   5. SKU Amstetten                     1  🟢 100%
+   6. SW Bregenz                        1
+   7. Admira Wacker                     0
+   8. Austria Salzburg                  0
+   9. FC Liefering                      0
+  10. FC Wacker Innsbruck               0
+
+==================================================
+PORTOGALLO - LIGA PORTUGAL
+Stagione 2026/2027 (70 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Casa Pia AC                      11
+   2. Alverca                           4  🟢 75%
+   3. Braga                             3
+   4. Santa Clara                       3
+   5. Estrela da Amadora                2  🟢 50%
+   6. Famalicão                         2  🟢 100%
+   7. Gil Vicente                       2  🟢 50%
+   8. Marítimo                          2  🟢 100%
+   9. Moreirense                        2  🟢 50%
+  10. Vitória de Guimarães              2  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Vitória de Guimarães             16  🟢 62%
+   2. Gil Vicente                       8  🟢 50%
+   3. Académico Viseu                   4  🟢 75%
+   4. Benfica                           3  🟢 100%
+   5. Moreirense                        3  🟢 67%
+   6. Estrela da Amadora                2  🟢 50%
+   7. Rio Ave                           2  🟢 50%
+   8. Santa Clara                       2
+   9. Alverca                           1
+  10. Arouca                            1
+
+RITARDI 12 + OVER 2,5
+   1. Estrela da Amadora                3  🟢 67%
+   2. Arouca                            2  🟢 50%
+   3. Gil Vicente                       2  🟢 50%
+   4. Moreirense                        2  🟢 50%
+   5. Santa Clara                       2
+   6. Vitória de Guimarães              2  🟢 100%
+   7. Alverca                           1
+   8. Benfica                           1  🟢 100%
+   9. Casa Pia AC                       1
+  10. Académico Viseu                   0
+
+==================================================
+PORTOGALLO - LIGA PORTUGAL 2
+Stagione 2026/2027 (62 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Benfica B                        10  🟢 70%
+   2. Portimonense                      9  🟢 67%
+   3. Torreense                         4  🟢 50%
+   4. Sporting CP B                     3  🟢 100%
+   5. AVS Futebol SAD                   2  🟢 50%
+   6. Académica                         2  🟢 100%
+   7. Felgueiras 1932                   2  🟢 50%
+   8. Leixões                           2  🟢 50%
+   9. Lusitânia Lourosa                 2  🟢 100%
+  10. Penafiel                          2  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Tondela                          7+  🟢 71%
+   2. Farense                           5  🟢 80%
+   3. Chaves                            4  🟢 75%
+   4. Torreense                         3
+   5. Feirense                          2  🟢 50%
+   6. Académica                         1  🟢 100%
+   7. Lusitânia Lourosa                 1  🟢 100%
+   8. Sporting CP B                     1  🟢 100%
+   9. União de Leiria                   1  🟢 100%
+  10. Vizela                            1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. União de Leiria                   4  🟢 75%
+   2. Torreense                         3
+   3. Vizela                            3  🟢 67%
+   4. Tondela                           2  🟢 50%
+   5. Académica                         1  🟢 100%
+   6. Chaves                            1  🟢 100%
+   7. Lusitânia Lourosa                 1  🟢 100%
+   8. Sporting CP B                     1  🟢 100%
+   9. AVS Futebol SAD                   0
+  10. Amarante FC                       0
+
+==================================================
+NORVEGIA - ELITESERIEN
+Stagione 2026 (175 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Fredrikstad                       8  🟢 62%
+   2. Sarpsborg 08                      3  🟢 100%
+   3. Aalesund                          2  🟢 100%
+   4. Rosenborg                         2  🟢 100%
+   5. Vålerenga                         2  🟢 100%
+   6. Brann                             1  🟢 100%
+   7. Hamarkameratene                   1  🟢 100%
+   8. KFUM                              1  🟢 100%
+   9. Sandefjord                        1  🟢 100%
+  10. Start                             1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Viking                            7  🟢 100%
+   2. Tromsø                            6  🟢 83%
+   3. Sandefjord                        5  🟢 80%
+   4. Bodø/Glimt                        3  🟢 100%
+   5. Brann                             3  🟢 100%
+   6. Fredrikstad                       3  🟢 100%
+   7. Vålerenga                         2  🟢 100%
+   8. Kristiansund                      1  🟢 100%
+   9. Rosenborg                         1  🟢 100%
+  10. Aalesund                          0
+
+RITARDI 12 + OVER 2,5
+   1. Fredrikstad                       3  🟢 100%
+   2. Vålerenga                         3  🟢 100%
+   3. Brann                             1  🟢 100%
+   4. Lillestrøm                        1  🟢 100%
+   5. Molde                             1  🟢 100%
+   6. Rosenborg                         1  🟢 100%
+   7. Sandefjord                        1  🟢 100%
+   8. Tromsø                            1  🟢 100%
+   9. Viking                            1  🟢 100%
+  10. Aalesund                          0
+
+==================================================
+NORVEGIA - OBOS-LIGAEN
+Stagione 2026 (199 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Moss                              6  🟢 100%
+   2. Lyn                               5  🟢 80%
+   3. Strømsgodset                      3  🟢 67%
+   4. FK Haugesund                      2  🟢 100%
+   5. Raufoss                           2  🟢 100%
+   6. Sandnes Ulf                       1  🟢 100%
+   7. Bryne                             0
+   8. Egersund                          0
+   9. Hødd                              0
+  10. Kongsvinger                       0
+
+RITARDI X2 + OVER 2,5
+   1. Egersund                          5  🟢 100%
+   2. Kongsvinger                       5  🟢 100%
+   3. Sogndal                           4  🟢 100%
+   4. FK Haugesund                      3  🟢 100%
+   5. Bryne                             2  🟢 50%
+   6. Ranheim                           2  🟢 100%
+   7. Åsane                             2  🟢 50%
+   8. Hødd                              1  🟢 100%
+   9. Odds Ballklubb                    1  🟢 100%
+  10. Sandnes Ulf                       1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. FK Haugesund                      2  🟢 100%
+   2. Sandnes Ulf                       2  🟢 100%
+   3. Stabæk                            2  🟢 100%
+   4. Strømmen                          2  🟢 100%
+   5. Bryne                             0
+   6. Egersund                          0
+   7. Hødd                              0
+   8. Kongsvinger                       0
+   9. Lyn                               0
+  10. Moss                              0
+
+==================================================
+DANIMARCA - SUPERLIGAEN
+Stagione 2026/2027 (59 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. OB                                5  🟢 80%
+   2. Nordsjælland                      1
+   3. Randers FC                        1  🟢 100%
+   4. Viborg                            1  🟢 100%
+   5. AC Horsens                        0
+   6. AGF                               0
+   7. Brøndby IF                        0
+   8. FC København                      0
+   9. FC Midtjylland                    0
+  10. Lyngby                            0
+
+RITARDI X2 + OVER 2,5
+   1. Viborg                            4  🟢 100%
+   2. Brøndby IF                        3  🟢 67%
+   3. FC København                      3  🟢 67%
+   4. FC Midtjylland                    3  🟢 100%
+   5. Nordsjælland                      3  🟢 67%
+   6. OB                                2  🟢 50%
+   7. Randers FC                        2  🟢 100%
+   8. Sønderjyske                       2  🟢 100%
+   9. Lyngby                            1  🟢 100%
+  10. AC Horsens                        0
+
+RITARDI 12 + OVER 2,5
+   1. AGF                               4  🟢 100%
+   2. AC Horsens                        3  🟢 100%
+   3. OB                                2  🟢 50%
+   4. Nordsjælland                      1
+   5. Randers FC                        1  🟢 100%
+   6. Silkeborg                         1  🟢 100%
+   7. Viborg                            1  🟢 100%
+   8. Brøndby IF                        0
+   9. FC København                      0
+  10. FC Midtjylland                    0
+
+==================================================
+DANIMARCA - 1. DIVISION
+Stagione 2026/2027 (60 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Hillerød                          4  🟢 75%
+   2. Aarhus Fremad                     3  🟢 67%
+   3. Kolding IF                        3  🟢 67%
+   4. Hvidovre                          2  🟢 100%
+   5. AB                                1  🟢 100%
+   6. Fredericia                        1  🟢 100%
+   7. HB Køge                           1  🟢 100%
+   8. Hobro                             1  🟢 100%
+   9. Vejle Boldklub                    1  🟢 100%
+  10. Vendsyssel FF                     1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Hillerød                          8  🟢 75%
+   2. AB                                6  🟢 83%
+   3. Kolding IF                        5  🟢 80%
+   4. Hobro                             3  🟢 67%
+   5. HB Køge                           2  🟢 100%
+   6. Aarhus Fremad                     1  🟢 100%
+   7. Fredericia                        1  🟢 100%
+   8. Vendsyssel FF                     1  🟢 100%
+   9. AaB                               0
+  10. Esbjerg fB                        0
+
+RITARDI 12 + OVER 2,5
+   1. AaB                               5  🟢 80%
+   2. Fredericia                        4  🟢 50%
+   3. Hillerød                          4  🟢 75%
+   4. Kolding IF                        3  🟢 67%
+   5. Vendsyssel FF                     3  🟢 67%
+   6. AB                                1  🟢 100%
+   7. Aarhus Fremad                     1  🟢 100%
+   8. Esbjerg fB                        1  🟢 100%
+   9. HB Køge                           1  🟢 100%
+  10. Hobro                             1  🟢 100%
+
+==================================================
+SVEZIA - ALLSVENSKAN
+Stagione 2026 (182 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Degerfors                         6  🟢 83%
+   2. Kalmar FF                         6
+   3. Mjällby                           6  🟢 100%
+   4. Sirius                            6  🟢 50%
+   5. Västerås SK                       6  🟢 50%
+   6. Djurgården                        5  🟢 60%
+   7. GAIS                              4  🟢 50%
+   8. Brommapojkarna                    2  🟢 50%
+   9. Elfsborg                          2  🟢 50%
+  10. Hammarby                          2
+
+RITARDI X2 + OVER 2,5
+   1. Halmstads BK                     11  🟢 82%
+   2. Degerfors                         7  🟢 86%
+   3. Hammarby                          6  🟢 67%
+   4. Malmö FF                          4  🟢 50%
+   5. IFK Göteborg                      3
+   6. Västerås SK                       2  🟢 50%
+   7. Djurgården                        1
+   8. GAIS                              1
+   9. Häcken                            1  🟢 100%
+  10. Mjällby                           1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Degerfors                         6  🟢 83%
+   2. Hammarby                          2
+   3. IFK Göteborg                      2
+   4. Västerås SK                       2  🟢 50%
+   5. Djurgården                        1
+   6. GAIS                              1
+   7. Malmö FF                          1  🟢 100%
+   8. Mjällby                           1  🟢 100%
+   9. Sirius                            1
+  10. AIK                               0
+
+==================================================
+SVEZIA - SUPERETTAN
+Stagione 2026 (206 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. IFK Värnamo                      13  🟢 77%
+   2. Östersunds FK                    10
+   3. Nordic United FC                  9  🟢 89%
+   4. Helsingborg                       6  🟢 67%
+   5. IK Oddevold                       4  🟢 50%
+   6. Falkenbergs FF                    3  🟢 67%
+   7. IFK Norrköping                    3  🟢 67%
+   8. Norrby                            3  🟢 67%
+   9. Östers IF                         3  🟢 100%
+  10. IK Brage                          1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Östersunds FK                    10
+   2. Sandvikens IF                     7  🟢 86%
+   3. IK Brage                          6  🟢 83%
+   4. Ljungskile                        4  🟢 100%
+   5. Helsingborg                       3
+   6. Örebro                            3  🟢 100%
+   7. GIF Sundsvall                     2  🟢 100%
+   8. Norrby                            2  🟢 50%
+   9. Varbergs BoIS FC                  2  🟢 100%
+  10. IK Oddevold                       1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Östersunds FK                    16  🟢 62%
+   2. Helsingborg                       3
+   3. Norrby                            2  🟢 50%
+   4. IK Brage                          1  🟢 100%
+   5. IK Oddevold                       1  🟢 100%
+   6. Ljungskile                        1  🟢 100%
+   7. Nordic United FC                  1  🟢 100%
+   8. Varbergs BoIS FC                  1  🟢 100%
+   9. Örebro                            1  🟢 100%
+  10. Östers IF                         1  🟢 100%
+
+==================================================
+REP. CECA - 1. LIGA
+Stagione 2026/2027 (79 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Teplice                           6  🟢 100%
+   2. FC Zlín                           4  🟢 75%
+   3. Hradec Králové                    4  🟢 75%
+   4. Jablonec                          3  🟢 67%
+   5. Sigma Olomouc                     3  🟢 100%
+   6. Sparta Prague                     3  🟢 100%
+   7. Artis Brno                        2  🟢 50%
+   8. FC Zbrojovka Brno                 2  🟢 50%
+   9. Slovan Liberec                    2  🟢 50%
+  10. Baník Ostrava                     1
+
+RITARDI X2 + OVER 2,5
+   1. FC Zbrojovka Brno               10+  🟢 70%
+   2. Mladá Boleslav                    7  🟢 100%
+   3. Bohemians 1905                    5  🟢 80%
+   4. Jablonec                          4  🟢 75%
+   5. Slavia Prague                     4  🟢 75%
+   6. Slovan Liberec                    3  🟢 67%
+   7. Teplice                           3  🟢 100%
+   8. FC Zlín                           2  🟢 50%
+   9. Pardubice                         2  🟢 100%
+  10. Viktoria Plzeň                    2  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Slovácko                          5  🟢 80%
+   2. Jablonec                          3  🟢 67%
+   3. Teplice                           3  🟢 100%
+   4. Baník Ostrava                     2  🟢 50%
+   5. FC Zbrojovka Brno                 2  🟢 50%
+   6. FC Zlín                           2  🟢 50%
+   7. Slovan Liberec                    2  🟢 50%
+   8. Bohemians 1905                    1
+   9. Pardubice                         1  🟢 100%
+  10. Sigma Olomouc                     1  🟢 100%
+
+==================================================
+REP. CECA - FNL
+Stagione 2026/2027 (79 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Baník Ostrava B                   8  🟢 75%
+   2. Ústí nad Labem                    5  🟢 80%
+   3. FC Silon Táborsko                 1
+   4. FC Vlašim                         1  🟢 100%
+   5. Hanácká Slavia Kromeriz           1  🟢 100%
+   6. Karviná                           1
+   7. Kladno                            1
+   8. Opava                             1  🟢 100%
+   9. Příbram                           1  🟢 100%
+  10. Slavia Prague B                   1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Karviná                           6  🟢 83%
+   2. FC Vlašim                         5  🟢 100%
+   3. Slavia Prague B                   4  🟢 75%
+   4. Třinec                            4  🟢 75%
+   5. FC Silon Táborsko                 2  🟢 50%
+   6. Baník Ostrava B                   1  🟢 100%
+   7. Kladno                            1
+   8. Dukla Praha                       0
+   9. Hanácká Slavia Kromeriz           0
+  10. Opava                             0
+
+RITARDI 12 + OVER 2,5
+   1. Kladno                            4  🟢 75%
+   2. SK Prostějov                      4  🟢 75%
+   3. Baník Ostrava B                   1  🟢 100%
+   4. Dukla Praha                       1  🟢 100%
+   5. FC Silon Táborsko                 1
+   6. FC Vlašim                         1  🟢 100%
+   7. Karviná                           1
+   8. Slavia Prague B                   1  🟢 100%
+   9. Třinec                            1
+  10. Vysočina Jihlava                  1  🟢 100%
+
+==================================================
+SLOVACCHIA - 1. LIGA (NIKE LIGA)
+Stagione 2026/2027 (58 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Komárno                           4  🟢 75%
+   2. Zeleziarne Podbrezová             3  🟢 67%
+   3. Dukla Banská Bystrica             2
+   4. FC Košice                         2  🟢 100%
+   5. Skalica                           2  🟢 50%
+   6. Slovan Bratislava                 2  🟢 100%
+   7. Zemplín Michalovce                2  🟢 50%
+   8. DAC 1904 Dunajska Streda          1  🟢 100%
+   9. Spartak Trnava                    1  🟢 100%
+  10. Trenčín                           1
+
+RITARDI X2 + OVER 2,5
+   1. Dukla Banská Bystrica             4  🟢 50%
+   2. FC Košice                         4  🟢 100%
+   3. Skalica                           4  🟢 50%
+   4. Trenčín                           2  🟢 50%
+   5. Komárno                           1  🟢 100%
+   6. Slovan Bratislava                 1  🟢 100%
+   7. DAC 1904 Dunajska Streda          0
+   8. Ružomberok                        0
+   9. Spartak Trnava                    0
+  10. Zeleziarne Podbrezová             0
+
+RITARDI 12 + OVER 2,5
+   1. Dukla Banská Bystrica             2
+   2. FC Košice                         2  🟢 100%
+   3. Ružomberok                        2  🟢 100%
+   4. Skalica                           2  🟢 50%
+   5. Komárno                           1  🟢 100%
+   6. Slovan Bratislava                 1  🟢 100%
+   7. Trenčín                           1
+   8. Žilina                            1  🟢 100%
+   9. DAC 1904 Dunajska Streda          0
+  10. Spartak Trnava                    0
+
+==================================================
+SLOVACCHIA - 2. LIGA
+Stagione 2026/2027 (95 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Malženice                         6  🟢 67%
+   2. FK Pohronie                       5  🟢 80%
+   3. Liptovský Mikuláš                 5  🟢 80%
+   4. FC Petržalka 1898                 4  🟢 75%
+   5. Slovan Galanta                    3  🟢 100%
+   6. Žilina B                          3  🟢 67%
+   7. FC STK 1914 Šamorín               2  🟢 100%
+   8. MFK Zvolen                        2  🟢 50%
+   9. Slovan Bratislava B               2  🟢 100%
+  10. Baník Lehota pod Vtacnikom        1
+
+RITARDI X2 + OVER 2,5
+   1. Humenné                          11  🟢 55%
+   2. FC Petržalka 1898                 9  🟢 67%
+   3. FC STK 1914 Šamorín               5  🟢 80%
+   4. MFK Zvolen                        3  🟢 67%
+   5. Baník Lehota pod Vtacnikom        2  🟢 50%
+   6. Liptovský Mikuláš                 2  🟢 100%
+   7. Slovan Bratislava B               2  🟢 100%
+   8. FK Pohronie                       1  🟢 100%
+   9. MFK Bytca                         1  🟢 100%
+  10. Inter Bratislava                  0
+
+RITARDI 12 + OVER 2,5
+   1. FC Petržalka 1898                 4  🟢 75%
+   2. Slovan Bratislava B               3  🟢 100%
+   3. Zlaté Moravce                     3  🟢 67%
+   4. FC STK 1914 Šamorín               2  🟢 100%
+   5. Liptovský Mikuláš                 2  🟢 100%
+   6. MFK Zvolen                        2  🟢 50%
+   7. Baník Lehota pod Vtacnikom        1
+   8. FK Pohronie                       1  🟢 100%
+   9. Považská Bystrica                 1  🟢 100%
+  10. Tatran Prešov                     1  🟢 100%
+
+==================================================
+SCOZIA - PREMIERSHIP
+Stagione 2026/2027 (48 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Aberdeen                          4  🟢 50%
+   2. Celtic                            4  🟢 50%
+   3. Dundee United                     3  🟢 67%
+   4. Hibernian                         3
+   5. St. Johnstone                     3
+   6. Falkirk                           2  🟢 100%
+   7. Dundee FC                         1  🟢 100%
+   8. Motherwell                        1  🟢 100%
+   9. Heart of Midlothian               0
+  10. Kilmarnock                        0
+
+RITARDI X2 + OVER 2,5
+   1. St. Johnstone                    8+  🟢 62%
+   2. Kilmarnock                        5
+   3. Heart of Midlothian               4  🟢 100%
+   4. Hibernian                         4  🟢 50%
+   5. Rangers                           4
+   6. Celtic                            3
+   7. Aberdeen                          2  🟢 50%
+   8. Motherwell                        2  🟢 100%
+   9. Dundee United                     1
+  10. St. Mirren                        1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Celtic                            3
+   2. Hibernian                         3
+   3. St. Johnstone                     3
+   4. Aberdeen                          2  🟢 50%
+   5. Dundee United                     1
+   6. Motherwell                        1  🟢 100%
+   7. Dundee FC                         0
+   8. Falkirk                           0
+   9. Heart of Midlothian               0
+  10. Kilmarnock                        0
+
+==================================================
+SCOZIA - CHAMPIONSHIP
+Stagione 2026/2027 (47 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Ayr United                       11  🟢 73%
+   2. Dunfermline Athletic             11  🟢 64%
+   3. Greenock Morton                   5  🟢 80%
+   4. Stenhousemuir                     5
+   5. Raith Rovers                      4  🟢 75%
+   6. Livingston                        3  🟢 100%
+   7. Inverness Caledonian Thistle      2  🟢 100%
+   8. Arbroath                          1  🟢 100%
+   9. Partick Thistle                   1  🟢 100%
+  10. Queen's Park                      1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Dunfermline Athletic             11  🟢 64%
+   2. Stenhousemuir                    9+  🟢 56%
+   3. Queen's Park                      7  🟢 86%
+   4. Inverness Caledonian Thistle      2  🟢 100%
+   5. Ayr United                        1  🟢 100%
+   6. Raith Rovers                      1  🟢 100%
+   7. Arbroath                          0
+   8. Greenock Morton                   0
+   9. Livingston                        0
+  10. Partick Thistle                   0
+
+RITARDI 12 + OVER 2,5
+   1. Dunfermline Athletic             13  🟢 69%
+   2. Stenhousemuir                     5
+   3. Inverness Caledonian Thistle      3  🟢 100%
+   4. Ayr United                        1  🟢 100%
+   5. Queen's Park                      1  🟢 100%
+   6. Raith Rovers                      1  🟢 100%
+   7. Arbroath                          0
+   8. Greenock Morton                   0
+   9. Livingston                        0
+  10. Partick Thistle                   0
+
+==================================================
+IRLANDA - PREMIER DIVISION
+Stagione 2026 (162 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Galway United FC                  9  🟢 67%
+   2. St. Patrick's Athletic            9  🟢 89%
+   3. Dundalk                           6  🟢 100%
+   4. Bohemian FC                       1  🟢 100%
+   5. Derry City                        1
+   6. Drogheda United                   0
+   7. Shamrock Rovers                   0
+   8. Shelbourne                        0
+   9. Sligo Rovers                      0
+  10. Waterford FC                      0
+
+RITARDI X2 + OVER 2,5
+   1. Shamrock Rovers                   4  🟢 75%
+   2. Drogheda United                   2  🟢 100%
+   3. Galway United FC                  2  🟢 50%
+   4. Shelbourne                        2  🟢 100%
+   5. Sligo Rovers                      2  🟢 50%
+   6. Derry City                        1
+   7. St. Patrick's Athletic            1
+   8. Waterford FC                      1  🟢 100%
+   9. Bohemian FC                       0
+  10. Dundalk                           0
+
+RITARDI 12 + OVER 2,5
+   1. Derry City                        4  🟢 50%
+   2. Galway United FC                  2  🟢 50%
+   3. St. Patrick's Athletic            1
+   4. Bohemian FC                       0
+   5. Drogheda United                   0
+   6. Dundalk                           0
+   7. Shamrock Rovers                   0
+   8. Shelbourne                        0
+   9. Sligo Rovers                      0
+  10. Waterford FC                      0
+
+==================================================
+IRLANDA - FIRST DIVISION
+Stagione 2026 (175 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Kerry FC                          3  🟢 67%
+   2. UCD                               3  🟢 100%
+   3. Cobh Ramblers                     2  🟢 100%
+   4. Finn Harps                        2  🟢 100%
+   5. Treaty United                     2  🟢 100%
+   6. Athlone Town                      1  🟢 100%
+   7. Cork City                         1  🟢 100%
+   8. Longford Town                     1  🟢 100%
+   9. Bray Wanderers                    0
+  10. Wexford FC                        0
+
+RITARDI X2 + OVER 2,5
+   1. Cork City                         4  🟢 100%
+   2. Cobh Ramblers                     1  🟢 100%
+   3. Finn Harps                        1  🟢 100%
+   4. Kerry FC                          1  🟢 100%
+   5. Longford Town                     1  🟢 100%
+   6. UCD                               1  🟢 100%
+   7. Athlone Town                      0
+   8. Bray Wanderers                    0
+   9. Treaty United                     0
+  10. Wexford FC                        0
+
+RITARDI 12 + OVER 2,5
+   1. Wexford FC                        3  🟢 67%
+   2. Longford Town                     2  🟢 100%
+   3. Bray Wanderers                    1  🟢 100%
+   4. Cobh Ramblers                     1  🟢 100%
+   5. Cork City                         1  🟢 100%
+   6. Finn Harps                        1  🟢 100%
+   7. Kerry FC                          1  🟢 100%
+   8. UCD                               1  🟢 100%
+   9. Athlone Town                      0
+  10. Treaty United                     0
+
+==================================================
+FINLANDIA - VEIKKAUSLIIGA
+Stagione 2026 (157 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. AC Oulu                          11
+   2. KuPS                             10  🟢 50%
+   3. TPS                               8  🟢 50%
+   4. FF Jaro                           6  🟢 67%
+   5. IF Gnistan                        6  🟢 83%
+   6. FC Inter Turku                    4
+   7. FC Lahti                          2  🟢 50%
+   8. Ilves                             2  🟢 100%
+   9. IFK Mariehamn                     1  🟢 100%
+  10. SJK                               1
+
+RITARDI X2 + OVER 2,5
+   1. FC Inter Turku                    7
+   2. FF Jaro                           7  🟢 71%
+   3. KuPS                              6
+   4. VPS                               6
+   5. FC Lahti                          5  🟢 60%
+   6. IFK Mariehamn                     5  🟢 80%
+   7. SJK                               5
+   8. HJK                               4  🟢 75%
+   9. AC Oulu                           2
+  10. IF Gnistan                        2  🟢 50%
+
+RITARDI 12 + OVER 2,5
+   1. FF Jaro                           6  🟢 67%
+   2. KuPS                              6
+   3. FC Inter Turku                    4
+   4. AC Oulu                           2
+   5. FC Lahti                          2  🟢 50%
+   6. IF Gnistan                        2  🟢 50%
+   7. IFK Mariehamn                     1  🟢 100%
+   8. Ilves                             1  🟢 100%
+   9. SJK                               1
+  10. TPS                               1
+
+==================================================
+FINLANDIA - YKKOSLIIGA
+Stagione 2026 (130 partite giocate) + 2025
+==================================================
+RITARDI 1X + OVER 2,5
+   1. MP                                6  🟢 83%
+   2. JIPPO                             3
+   3. JäPS                              1  🟢 100%
+   4. KäPa                              1  🟢 100%
+   5. EIF                               0
+   6. FC KTP                            0
+   7. Haka                              0
+   8. Klubi 04                          0
+   9. PK-35                             0
+  10. SJK Akatemia                      0
+
+RITARDI X2 + OVER 2,5
+   1. MP                                5  🟢 80%
+   2. Klubi 04                          4  🟢 100%
+   3. EIF                               3  🟢 67%
+   4. Haka                              3  🟢 100%
+   5. FC KTP                            2  🟢 100%
+   6. KäPa                              2  🟢 100%
+   7. PK-35                             2  🟢 50%
+   8. SJK Akatemia                      2  🟢 100%
+   9. JIPPO                             0
+  10. JäPS                              0
+
+RITARDI 12 + OVER 2,5
+   1. MP                                5  🟢 80%
+   2. KäPa                              1  🟢 100%
+   3. EIF                               0
+   4. FC KTP                            0
+   5. Haka                              0
+   6. JIPPO                             0
+   7. JäPS                              0
+   8. Klubi 04                          0
+   9. PK-35                             0
+  10. SJK Akatemia                      0
+
+==================================================
+POLONIA - EKSTRAKLASA
+Stagione 2026/2027 (86 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Legia Warszawa                    6  🟢 100%
+   2. Pogoń Szczecin                    5  🟢 80%
+   3. Górnik Zabrze                     3  🟢 67%
+   4. Jagiellonia Białystok             3  🟢 100%
+   5. GKS Katowice                      1  🟢 100%
+   6. Korona Kielce                     1  🟢 100%
+   7. Lech Poznań                       1  🟢 100%
+   8. Motor Lublin                      1
+   9. Raków Częstochowa                 1  🟢 100%
+  10. Wisła Kraków                      1  🟢 100%
+
+RITARDI X2 + OVER 2,5
+   1. Cracovia                         11  🟢 73%
+   2. Wisła Płock                       8  🟢 88%
+   3. Radomiak Radom                    6  🟢 67%
+   4. Wisła Kraków                      5  🟢 100%
+   5. Korona Kielce                     3  🟢 100%
+   6. Motor Lublin                      2  🟢 50%
+   7. Zagłębie Lubin                    2  🟢 100%
+   8. Legia Warszawa                    1  🟢 100%
+   9. Piast Gliwice                     1  🟢 100%
+  10. Pogoń Szczecin                    1  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. Korona Kielce                     1  🟢 100%
+   2. Legia Warszawa                    1  🟢 100%
+   3. Motor Lublin                      1
+   4. Pogoń Szczecin                    1  🟢 100%
+   5. Wisła Kraków                      1  🟢 100%
+   6. Cracovia                          0
+   7. GKS Katowice                      0
+   8. Górnik Zabrze                     0
+   9. Jagiellonia Białystok             0
+  10. Lech Poznań                       0
+
+==================================================
+POLONIA - I LIGA
+Stagione 2026/2027 (88 partite giocate) + 2025/2026
+==================================================
+RITARDI 1X + OVER 2,5
+   1. Chrobry Głogów                   10  🟢 70%
+   2. Odra Opole                        6
+   3. ŁKS Łódź                          5  🟢 80%
+   4. Miedź Legnica                     2  🟢 50%
+   5. Pogoń Grodzisk Mazowiecki         2  🟢 100%
+   6. Polonia Bytom                     2
+   7. Polonia Warszawa                  2  🟢 100%
+   8. Ruch Chorzów                      2  🟢 50%
+   9. Stal Rzeszów                      2  🟢 50%
+  10. TS Podbeskidzie Bielsko-Biała     2  🟢 50%
+
+RITARDI X2 + OVER 2,5
+   1. Odra Opole                       10
+   2. Warta Poznań                      7  🟢 71%
+   3. Pogoń Siedlce                     6
+   4. Lechia Gdańsk                     3  🟢 100%
+   5. Polonia Bytom                     2
+   6. Puszcza Niepołomice               2  🟢 50%
+   7. Ruch Chorzów                      2  🟢 50%
+   8. Stal Mielec                       2  🟢 100%
+   9. TS Podbeskidzie Bielsko-Biała     2  🟢 50%
+  10. ŁKS Łódź                          2  🟢 100%
+
+RITARDI 12 + OVER 2,5
+   1. TS Podbeskidzie Bielsko-Biała   10+  🟢 80%
+   2. Odra Opole                        6
+   3. Polonia Bytom                     6  🟢 50%
+   4. Ruch Chorzów                      3  🟢 67%
+   5. Skierniewice                      2  🟢 100%
+   6. Termalica Nieciecza               2  🟢 50%
+   7. ŁKS Łódź                          2  🟢 100%
+   8. Miedź Legnica                     1
+   9. Pogoń Siedlce                     1
+  10. Puszcza Niepołomice               1
+

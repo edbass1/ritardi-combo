@@ -1,0 +1,22 @@
+name: Aggiorna ritardi
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 gen.py
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add ritardi_goal.txt ritardi_over.txt index.html
+          git commit -m "Aggiornamento ritardi $(date -u +%FT%TZ)" || echo "nessuna modifica"
+          git push
