@@ -35,6 +35,7 @@ COMBOS = {
 }
 TOP = 10
 SOTTO_N = 100     # partite considerate per le sottofrequenze
+SOTTO_MIN = 85    # minimo partite per entrare nelle sottofrequenze
 SOTTO_STAGIONI = 4
 # campionati extra (non in classifica) usati solo per lo storico delle sottofrequenze
 EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"SPAGNA":[8968],
@@ -118,9 +119,9 @@ def compute(lid, POOL):
         for tid, tname in teams.items():
             seq = [m for m in POOL if tid in (m[1], m[2])][-SOTTO_N:]
             rows.append((sum(1 for m in seq if f(m[3], m[4])), len(seq), tname))
-        rows = [r for r in rows if r[1] > 0]
-        rate = lambda r: round(r[0] / r[1], 4)
-        rows.sort(key=lambda r: (rate(r), -r[1], r[2]))
+        rows = [r for r in rows if r[1] >= SOTTO_MIN]
+        rate = lambda r: r[0]
+        rows.sort(key=lambda r: (r[0], -r[1], r[2]))
         if len(rows) > 5:
             cut = rate(rows[4]); rows = [r for r in rows if rate(r) <= cut]
         sotto.append((name, rows))
@@ -213,14 +214,14 @@ def main():
     if not fx: P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia.")
     sections["prossime"] = "\n".join(P) + "\n"
     S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime {SOTTO_N} partite di campionato)", f"Aggiornato: {now} (ora italiana)",
-         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per percentuale x/N; N<100 = storico disponibile inferiore. Fonte: FotMob", ""]
+         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob", ""]
     for c, l, r, err in data:
         S += ["="*50, f"{c} - {l}", "="*50]
         if not r: S += ["  dati non disponibili", ""]; continue
         for name, rows in r[7]:
             S.append(f"SOTTOFREQUENZA {name}")
             for i, (k, n, t) in enumerate(rows, 1):
-                S.append(f"  {i:>2}. {t:<30} {k}/{n} ({round(100*k/n)}%)")
+                S.append(f"  {i:>2}. {t:<30} {k}/{n}")
             S.append("")
     sections["sotto"] = "\n".join(S) + "\n"
     open("sottofrequenze.txt","w").write(sections["sotto"])
