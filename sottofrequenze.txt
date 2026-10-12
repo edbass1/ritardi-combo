@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 12/10/2026 20:11 (ora italiana)
+Aggiornato: 12/10/2026 23:18 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -39,15 +39,15 @@ SOTTOFREQUENZA X2 + OVER 2,5
    1. Roma                           19/100
    2. Lecce                          21/100
    3. Torino                         21/100
-   4. Juventus                       22/100
-   5. Parma                          22/100
-   6. Venezia                        22/100
+   4. Venezia                        21/100
+   5. Juventus                       22/100
+   6. Parma                          22/100
 
 SOTTOFREQUENZA 12 + OVER 2,5
    1. Juventus                       27/100
-   2. Torino                         35/100
-   3. Bologna                        36/100
-   4. Lazio                          36/100
+   2. Bologna                        36/100
+   3. Lazio                          36/100
+   4. Torino                         36/100
    5. Lecce                          38/100
    6. Parma                          38/100
 
@@ -112,7 +112,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
    1. Manchester City                26/100
-   2. Coventry City                  28/100
+   2. Coventry City                  27/100
    3. Arsenal                        30/100
    4. Sunderland                     30/100
    5. Brentford                      31/100
@@ -137,8 +137,8 @@ SOTTOFREQUENZA 1X + OVER 2,5
 SOTTOFREQUENZA X2 + OVER 2,5
    1. Sunderland                     19/100
    2. Leeds United                   20/100
-   3. Brentford                      23/100
-   4. Coventry City                  23/100
+   3. Coventry City                  22/100
+   4. Brentford                      23/100
    5. Everton                        23/100
 
 SOTTOFREQUENZA 12 + OVER 2,5
@@ -595,29 +595,32 @@ SOTTOFREQUENZA 12 + OVER 2,5
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Real Oviedo                    28/100
-   2. Sabadell                       28/89
+   1. Sabadell                       28/89
+   2. Real Oviedo                    29/100
    3. Cádiz                          33/100
    4. Burgos CF                      34/100
-   5. Tenerife                       34/100
+   5. Eibar                          35/100
+   6. Eldense                        35/100
+   7. Leganés                        35/100
+   8. Tenerife                       35/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. Real Valladolid                21/100
    2. Eibar                          23/100
    3. Sabadell                       23/89
-   4. Tenerife                       24/100
-   5. Burgos CF                      25/100
+   4. Burgos CF                      25/100
+   5. Tenerife                       25/100
 
 SOTTOFREQUENZA 12 + GOAL
    1. Tenerife                       22/100
    2. Sabadell                       23/89
    3. Leganés                        26/100
-   4. Real Oviedo                    26/100
+   4. Real Oviedo                    27/100
    5. Eibar                          28/100
 
 SOTTOFREQUENZA 1X + OVER 2,5
    1. FC Andorra                     25/100
-   2. Real Oviedo                    25/100
+   2. Real Oviedo                    26/100
    3. Burgos CF                      27/100
    4. Sabadell                       27/89
    5. Las Palmas                     28/100
@@ -1057,8 +1060,8 @@ SOTTOFREQUENZA 12 + GOAL
 SOTTOFREQUENZA 1X + OVER 2,5
    1. Santa Clara                    20/100
    2. Marítimo                       23/100
-   3. Alverca                        30/100
-   4. Famalicão                      30/100
+   3. Alverca                        29/100
+   4. Famalicão                      29/100
    5. Casa Pia AC                    31/100
    6. Vitória de Guimarães           31/100
 
@@ -1139,7 +1142,7 @@ SOTTOFREQUENZA 1X + GOAL
    2. Lillestrøm                     34/100
    3. Hamarkameratene                37/100
    4. Bodø/Glimt                     38/100
-   5. KFUM                           38/100
+   5. KFUM                           39/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. Sandefjord                     27/100
@@ -1151,12 +1154,12 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
    1. Hamarkameratene                30/100
    2. Fredrikstad                    31/100
-   3. KFUM                           37/100
+   3. KFUM                           38/100
    4. Kristiansund                   39/100
    5. Rosenborg                      39/100
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. KFUM                           28/100
+   1. KFUM                           29/100
    2. Fredrikstad                    34/100
    3. Tromsø                         34/100
    4. Kristiansund                   37/100
@@ -1167,7 +1170,9 @@ SOTTOFREQUENZA X2 + OVER 2,5
    2. Rosenborg                      24/100
    3. Sandefjord                     24/100
    4. Tromsø                         24/100
-   5. Kristiansund                   26/100
+   5. KFUM                           26/100
+   6. Kristiansund                   26/100
+   7. Vålerenga                      26/100
 
 SOTTOFREQUENZA 12 + OVER 2,5
    1. Fredrikstad                    43/100
@@ -1257,7 +1262,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
    1. AC Horsens                     26/100
    2. OB                             31/100
    3. Randers FC                     33/100
-   4. AGF                            34/100
+   4. AGF                            35/100
    5. Brøndby IF                     36/100
    6. Lyngby                         36/100
 
@@ -1271,7 +1276,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
 SOTTOFREQUENZA 12 + OVER 2,5
    1. Lyngby                         41/100
    2. AC Horsens                     44/100
-   3. AGF                            45/100
+   3. AGF                            46/100
    4. Brøndby IF                     46/100
    5. Randers FC                     47/100
 
@@ -1337,7 +1342,7 @@ SOTTOFREQUENZA X2 + GOAL
    1. GAIS                           24/100
    2. Halmstads BK                   26/100
    3. Hammarby                       27/100
-   4. Kalmar FF                      30/100
+   4. Kalmar FF                      29/100
    5. Västerås SK                    30/100
 
 SOTTOFREQUENZA 12 + GOAL
@@ -1353,7 +1358,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
    2. Djurgården                     22/100
    3. IFK Göteborg                   25/100
    4. Mjällby                        25/100
-   5. Halmstads BK                   30/100
+   5. Halmstads BK                   31/100
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. GAIS                           18/100
@@ -1365,9 +1370,9 @@ SOTTOFREQUENZA X2 + OVER 2,5
 SOTTOFREQUENZA 12 + OVER 2,5
    1. IFK Göteborg                   43/100
    2. Djurgården                     44/100
-   3. Halmstads BK                   44/100
-   4. Degerfors                      45/100
-   5. GAIS                           45/100
+   3. Degerfors                      45/100
+   4. GAIS                           45/100
+   5. Halmstads BK                   45/100
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -1711,7 +1716,7 @@ SOTTOFREQUENZA 1X + GOAL
    1. St. Patrick's Athletic         31/100
    2. Sligo Rovers                   34/100
    3. Bohemian FC                    36/100
-   4. Shamrock Rovers                37/100
+   4. Shamrock Rovers                38/100
    5. Waterford FC                   38/100
 
 SOTTOFREQUENZA X2 + GOAL
@@ -1734,8 +1739,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
    3. Shelbourne                     26/100
    4. Dundalk                        29/100
    5. Derry City                     31/100
-   6. Shamrock Rovers                31/100
-   7. St. Patrick's Athletic         31/100
+   6. St. Patrick's Athletic         31/100
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. St. Patrick's Athletic         18/100
@@ -1908,7 +1912,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
    1. Górnik Zabrze                  27/100
    2. Pogoń Szczecin                 27/100
-   3. GKS Katowice                   29/100
+   3. GKS Katowice                   28/100
    4. Widzew Łódź                    31/100
    5. Lech Poznań                    33/100
 

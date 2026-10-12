@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 20:11 (ora italiana)
+Aggiornato: 12/10/2026 23:18 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -138,3 +138,5 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Telstar: 12 + GOAL (6) 🟢 50% 🔴 Telstar
 20:15  Cracovia vs Legia Warszawa   [POLONIA - EKSTRAKLASA]
       Cracovia: X2 + GOAL (10) 🟢 70%
+20:45  Troyes vs Lens   [FRANCIA - LIGUE 1]
+      Troyes: 1X + GOAL (6+) 🟢 83% 🔴 Troyes 🔴 Lens
