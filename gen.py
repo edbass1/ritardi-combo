@@ -215,20 +215,24 @@ def main():
       if not fx: P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia.")
       sections["prossime_" + KEY] = "\n".join(P) + "\n"
     LAB = {"goal": "GOAL", "over": "OVER 2,5"}
-    cf = []
-    for c, l, r, err in data:
+    cf = []; POP = {}
+    for LI, (c, l, r, err) in enumerate(data):
         if not r: continue
         up, teams, allr = r[4], r[5], r[6]; red = red_sets(r[7])
+        POP[LI] = {"lg": f"{c} - {l}", "rit": {name: [[t, v, full, pct] for v, t, full, pct in rows] for k in r[3] for name, rows in r[3][k]},
+                   "sotto": {name: [[t, k2, n] for k2, n, t in rows] for name, rows in r[7]}}
         for t, h, a in up:
             tags = []  # (key, team, [part strings])
             for KEY in ("goal", "over"):
                 for tid in (h, a):
-                    tn = teams[tid]; parts = []
+                    tn = teams[tid]; parts = []; hparts = []
                     for key, name, v, _, full, pct in allr.get(tn, []):
                         if key == KEY and v >= (SOGLIA_GOAL if key == "goal" else SOGLIA_OVER):
                             rr = [x for x in (teams[h], teams[a]) if x in red.get(name, ())]
                             parts.append(f"{name} ({v}{'+' if full else ''})" + (f" 🟢 {pct}%" if pct >= 50 else "") + "".join(f" 🔴 {x}" for x in rr))
-                    if parts: tags.append((KEY, tn, parts))
+                            E = lambda x: html.escape(str(x), quote=True)
+                            hparts.append(f'{E(name)} <span class="pp" data-k="{LI}" data-c="{E(name)}" data-t="{E(tn)}">({v}{"+" if full else ""})</span>' + (f" 🟢 {pct}%" if pct >= 50 else "") + "".join(f' <span class="pr" data-k="{LI}" data-c="{E(name)}" data-t="{E(x)}">🔴 {E(x)}</span>' for x in rr))
+                    if parts: tags.append((KEY, tn, parts, hparts))
             if tags: cf.append((t, c, l, teams[h], teams[a], tags))
     cf.sort(key=lambda x: (x[0], x[1], x[3]))
     P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
@@ -240,14 +244,15 @@ def main():
             P += ["", "="*50, d0, "="*50]; H.append(f'<h3 class="day">{d0}</h3>'); day = d0
         P.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]")
         hb = []
-        for KEY, tn, parts in tags:
+        for KEY, tn, parts, hparts in tags:
             P.append(f"      [{LAB[KEY]}] {tn}: " + "; ".join(parts))
-            hb.append(f'<div class="tagrow"><span class="tag {KEY}">{LAB[KEY]}</span> <b>{html.escape(tn)}</b>: ' + "; ".join(html.escape(p) for p in parts) + "</div>")
+            hb.append(f'<div class="tagrow"><span class="tag {KEY}">{LAB[KEY]}</span> <b>{html.escape(tn)}</b>: ' + "; ".join(hparts) + "</div>")
         H.append(f'<div class="fx"><div class="fxh"><span class="time">{lt:%H:%M}</span> {html.escape(hn)} vs {html.escape(an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span></div>' + "".join(hb) + "</div>")
     if not cf:
         P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia."); H.append("<p>Nessuna partita nei prossimi giorni con ritardi sopra soglia.</p>")
     sections["prossime"] = "\n".join(P) + "\n"
     sections["prossime_html"] = "\n".join(H)
+    sections["popjson"] = json.dumps(POP, ensure_ascii=False).replace("</", "<\\/")
     S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime {SOTTO_N} partite di campionato)", f"Aggiornato: {now} (ora italiana)",
          "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob", ""]
     for c, l, r, err in data:
@@ -266,7 +271,7 @@ def main():
     open("ritardi_goal.txt","w").write(sections["goal"])
     open("ritardi_over.txt","w").write(sections["over"])
     page = f"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Ritardi Combo</title><style>body{{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;padding:1rem;background:#000;color:#e8e8e8;max-width:1100px;margin:auto}}h1{{color:#00ff88;text-shadow:0 0 12px #00ff8866;font-size:clamp(1.4rem,5vw,2.2rem)}}h2{{color:#10e07a;border-left:4px solid #00ff88;padding-left:.6rem;margin-top:2rem}}b{{color:#00ff88}}pre{{background:#0b0f0c;color:#d9ffe9;padding:1rem;overflow-x:auto;border:1px solid #00ff8855;border-radius:10px;box-shadow:0 0 18px #00ff8822;font-size:clamp(.72rem,2.6vw,.92rem);line-height:1.45;white-space:pre}}nav{{display:flex;flex-wrap:wrap;gap:.5rem;position:sticky;top:0;background:#000d;padding:.5rem 0;backdrop-filter:blur(6px)}}nav a{{color:#00ff88;border:1px solid #00ff88;border-radius:999px;padding:.35rem .8rem;text-decoration:none;font-size:.85rem}}nav a:hover{{background:#00ff88;color:#000}}h3.day{{color:#00ff88;margin:1.4rem 0 .5rem;border-bottom:1px solid #00ff8855}}.fx{{background:#0b0f0c;border:1px solid #00ff8844;border-radius:10px;padding:.6rem .8rem;margin:.5rem 0}}.fxh{{font-weight:600;color:#fff}}.time{{color:#00ff88;margin-right:.4rem}}.lg{{color:#8a9;font-weight:400;font-size:.85em;margin-left:.4rem}}.tagrow{{margin-top:.35rem;line-height:1.5}}.tag{{display:inline-block;padding:.05rem .5rem;border-radius:6px;font-size:.78em;font-weight:700;color:#000}}.tag.goal{{background:#2e9e5b;color:#000}}.tag.over{{background:#d9822b;color:#000}}.leg{{color:#aaa}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
+<title>Ritardi Combo</title><style>body{{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;padding:1rem;background:#000;color:#e8e8e8;max-width:1100px;margin:auto}}h1{{color:#00ff88;text-shadow:0 0 12px #00ff8866;font-size:clamp(1.4rem,5vw,2.2rem)}}h2{{color:#10e07a;border-left:4px solid #00ff88;padding-left:.6rem;margin-top:2rem}}b{{color:#00ff88}}pre{{background:#0b0f0c;color:#d9ffe9;padding:1rem;overflow-x:auto;border:1px solid #00ff8855;border-radius:10px;box-shadow:0 0 18px #00ff8822;font-size:clamp(.72rem,2.6vw,.92rem);line-height:1.45;white-space:pre}}nav{{display:flex;flex-wrap:wrap;gap:.5rem;position:sticky;top:0;background:#000d;padding:.5rem 0;backdrop-filter:blur(6px)}}nav a{{color:#00ff88;border:1px solid #00ff88;border-radius:999px;padding:.35rem .8rem;text-decoration:none;font-size:.85rem}}nav a:hover{{background:#00ff88;color:#000}}h3.day{{color:#00ff88;margin:1.4rem 0 .5rem;border-bottom:1px solid #00ff8855}}.fx{{background:#0b0f0c;border:1px solid #00ff8844;border-radius:10px;padding:.6rem .8rem;margin:.5rem 0}}.fxh{{font-weight:600;color:#fff}}.time{{color:#00ff88;margin-right:.4rem}}.lg{{color:#8a9;font-weight:400;font-size:.85em;margin-left:.4rem}}.tagrow{{margin-top:.35rem;line-height:1.5}}.tag{{display:inline-block;padding:.05rem .5rem;border-radius:6px;font-size:.78em;font-weight:700;color:#000}}.tag.goal{{background:#2e9e5b;color:#000}}.tag.over{{background:#d9822b;color:#000}}.leg{{color:#aaa}}.pp,.pr{{cursor:pointer;border-bottom:1px dashed #00ff88}}.pp{{color:#00ff88;font-weight:700}}#pop{{position:absolute;z-index:200;display:none;background:#050805;border:1px solid #00ff88;border-radius:10px;box-shadow:0 0 20px #00ff8855;padding:.6rem .8rem;max-width:min(92vw,360px);font-size:.9em;color:#e8e8e8}}#pop h4{{margin:0 0 .4rem;color:#00ff88;font-size:.95em}}#pop table{{border-collapse:collapse;width:100%}}#pop td{{padding:.12rem .35rem;border-bottom:1px solid #00ff8822}}#pop td.n{{text-align:right;color:#00ff88;font-weight:700}}#pop tr.hl td{{background:#00ff8833;color:#fff;font-weight:700}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){{document.querySelectorAll('pre').forEach(function(p){{p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'}});var f=document.querySelector('.fxlist');if(f)f.style.fontSize=(Z*100)+'%'}}function z(d){{Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>{now}</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
@@ -274,7 +279,13 @@ def main():
 <h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2><pre>{html.escape(sections['sotto'])}</pre>
 <h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) / &ge; {SOGLIA_OVER} (Over 2,5) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> <span class="tag over">OVER 2,5</span> &middot; 🔴 = top 3 Sottofrequenza</p><div class="fxlist">{sections['prossime_html']}</div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>{html.escape(sections['goal'])}</pre>
-<h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre></body></html>"""
+<h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre><div id="pop"></div><script>var POP={sections['popjson']};(function(){{var pop=document.getElementById('pop'),cur=null;function esc(x){{return String(x).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]}})}}
+function show(el){{var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+'</table>'}}
+pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}}
+function hide(){{pop.style.display='none';cur=null}}
+document.addEventListener('click',function(e){{var el=e.target.closest('.pp,.pr');if(el){{if(cur===el)hide();else show(el);e.stopPropagation();return}}if(!pop.contains(e.target))hide()}});
+if(window.matchMedia('(hover:hover)').matches){{document.addEventListener('mouseover',function(e){{var el=e.target.closest('.pp,.pr');if(el&&el!==cur)show(el)}})}}
+document.addEventListener('keydown',function(e){{if(e.key==='Escape')hide()}})}})();</script></body></html>"""
     open("index.html","w").write(page)
 
 if __name__ == "__main__":
