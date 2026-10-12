@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 12/10/2026 15:22 (ora italiana)
+Aggiornato: 12/10/2026 15:55 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -488,12 +488,12 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (95 partite giocate) + 2025/2026
+Stagione 2026/2027 (96 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. FC Andorra                        7
    2. Girona                            5  🟢 80%
-   3. Albacete                          3  🟢 100%
+   3. Albacete                          4  🟢 100%
    4. Leganés                           3  🟢 100%
    5. Cádiz                             2  🟢 50%  🔴
    6. Granada                           2  🟢 100%
@@ -520,11 +520,11 @@ RITARDI 12 + GOAL
    3. Leganés                           3  🟢 100%  🔴
    4. FC Andorra                        2
    5. Girona                            2  🟢 50%
-   6. Almería                           1  🟢 100%
-   7. Real Valladolid                   1  🟢 100%
-   8. Sporting Gijón                    1
-   9. AD Ceuta FC                       0
-  10. Albacete                          0
+   6. Real Valladolid                   2  🟢 100%
+   7. Albacete                          1  🟢 100%
+   8. Almería                           1  🟢 100%
+   9. Sporting Gijón                    1
+  10. AD Ceuta FC                       0
 
 ==================================================
 BELGIO - FIRST DIVISION A
