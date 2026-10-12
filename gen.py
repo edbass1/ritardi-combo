@@ -34,6 +34,13 @@ COMBOS = {
           ("12 + OVER 2,5", lambda h,a: h!=a and h+a>=3)],
 }
 TOP = 10
+SOTTO_N = 100     # partite considerate per le sottofrequenze
+SOTTO_STAGIONI = 4
+# campionati extra (non in classifica) usati solo per lo storico delle sottofrequenze
+EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"SPAGNA":[8968],
+         "OLANDA":[9195],"NORVEGIA":[204],"DANIMARCA":[239],"PORTOGALLO":[9112],"POLONIA":[8935],
+         "SCOZIA":[124],"FINLANDIA":[8969]}
+_CACHE = {}
 SOGLIA_GOAL = 6   # ritardo minimo per 'Prossime partite' (combo Goal)
 SOGLIA_OVER = 6   # ritardo minimo per 'Prossime partite' (combo Over 2,5)
 GIORNI = 5
@@ -49,6 +56,27 @@ def get(url):
     raise err
 
 def matches(lid, season=None):
+    k = (lid, season)
+    if k not in _CACHE: _CACHE[k] = _matches(lid, season)
+    return _CACHE[k]
+
+def country_pool(country):
+    lids = [lid for c, l, lid in LEAGUES if c == country] + EXTRA.get(country, [])
+    pool, missing = {}, []
+    for lid in lids:
+        try: d, _, _ = matches(lid)
+        except Exception: missing.append(f"{lid}"); continue
+        ss = d.get("allAvailableSeasons") or []
+        cs = d["details"].get("selectedSeason") or (ss[0] if ss else None)
+        idx = ss.index(cs) if cs in ss else 0
+        for i, se in enumerate(ss[idx:idx+SOTTO_STAGIONI]):
+            try: _, ms, _ = matches(lid, None if i == 0 else se)
+            except Exception: missing.append(f"{lid} {se}"); continue
+            for m in ms: pool[(m[0], m[1], m[2])] = m
+            time.sleep(0.3)
+    return sorted(pool.values()), missing
+
+def _matches(lid, season=None):
     url = f"https://www.fotmob.com/api/data/leagues?id={lid}"
     if season: url += "&season=" + urllib.parse.quote(season)
     d = get(url)
@@ -73,7 +101,7 @@ def matches(lid, season=None):
     return d, out, teams
 
 import urllib.parse
-def compute(lid):
+def compute(lid, POOL):
     d, cur, teams = matches(lid)
     seasons = d.get("allAvailableSeasons") or []
     cur_season = d["details"].get("selectedSeason") or (seasons[0] if seasons else None)
@@ -84,20 +112,17 @@ def compute(lid):
     if prev:
         try: _, prev_m, prev_teams = matches(lid, prev)
         except Exception: pass
-    prev2_m = []
-    if prev and seasons.index(prev)+1 < len(seasons):
-        try: _, prev2_m, _ = matches(lid, seasons[seasons.index(prev)+1])
-        except Exception: pass
     sotto = []
     for name, f in COMBOS["goal"] + COMBOS["over"]:
         rows = []
         for tid, tname in teams.items():
-            if tid not in prev_teams: continue
-            seq = [m for m in prev2_m + prev_m + cur if tid in (m[1], m[2])][-50:]
+            seq = [m for m in POOL if tid in (m[1], m[2])][-SOTTO_N:]
             rows.append((sum(1 for m in seq if f(m[3], m[4])), len(seq), tname))
-        rows.sort(key=lambda r: (r[0], r[2]))
+        rows = [r for r in rows if r[1] > 0]
+        rate = lambda r: round(r[0] / r[1], 4)
+        rows.sort(key=lambda r: (rate(r), -r[1], r[2]))
         if len(rows) > 5:
-            cut = rows[4][0]; rows = [r for r in rows if r[0] <= cut]
+            cut = rate(rows[4]); rows = [r for r in rows if rate(r) <= cut]
         sotto.append((name, rows))
     res, allr = {}, {}
     for key, combos in COMBOS.items():
@@ -125,15 +150,17 @@ def red_sets(sotto):
     out = {}
     for name, rows in sotto:
         if not rows: out[name] = set(); continue
-        cut = rows[min(2, len(rows)-1)][0]
-        out[name] = {t for k, n, t in rows if k <= cut}
+        cut = round(rows[min(2, len(rows)-1)][0] / rows[min(2, len(rows)-1)][1], 4)
+        out[name] = {t for k, n, t in rows if round(k / n, 4) <= cut}
     return out
 
 def main():
     now = datetime.datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
     data = []
+    pools = {}
     for c, l, lid in LEAGUES:
-        try: data.append((c, l, compute(lid), None))
+        if c not in pools: pools[c] = country_pool(c)
+        try: data.append((c, l, compute(lid, pools[c][0]), None))
         except Exception as e: data.append((c, l, None, str(e)))
         time.sleep(1)
     titles = {"goal": "RITARDI DOPPIA CHANCE + GOAL", "over": "RITARDI DOPPIA CHANCE + OVER 2,5"}
@@ -185,15 +212,15 @@ def main():
         P.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]"); P += info
     if not fx: P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia.")
     sections["prossime"] = "\n".join(P) + "\n"
-    S = ["SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 50 partite di campionato)", f"Aggiornato: {now} (ora italiana)",
-         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Escluse neopromosse/retrocesse. Fonte: FotMob", ""]
+    S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime {SOTTO_N} partite di campionato)", f"Aggiornato: {now} (ora italiana)",
+         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per percentuale x/N; N<100 = storico disponibile inferiore. Fonte: FotMob", ""]
     for c, l, r, err in data:
         S += ["="*50, f"{c} - {l}", "="*50]
         if not r: S += ["  dati non disponibili", ""]; continue
         for name, rows in r[7]:
             S.append(f"SOTTOFREQUENZA {name}")
             for i, (k, n, t) in enumerate(rows, 1):
-                S.append(f"  {i:>2}. {t:<30} {k}/{n}")
+                S.append(f"  {i:>2}. {t:<30} {k}/{n} ({round(100*k/n)}%)")
             S.append("")
     sections["sotto"] = "\n".join(S) + "\n"
     open("sottofrequenze.txt","w").write(sections["sotto"])
@@ -204,7 +231,7 @@ def main():
 <title>Ritardi Combo</title><style>body{{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;padding:1rem;background:#000;color:#e8e8e8;max-width:1100px;margin:auto}}h1{{color:#00ff88;text-shadow:0 0 12px #00ff8866;font-size:clamp(1.4rem,5vw,2.2rem)}}h2{{color:#10e07a;border-left:4px solid #00ff88;padding-left:.6rem;margin-top:2rem}}b{{color:#00ff88}}pre{{background:#0b0f0c;color:#d9ffe9;padding:1rem;overflow-x:auto;border:1px solid #00ff8855;border-radius:10px;box-shadow:0 0 18px #00ff8822;font-size:clamp(.72rem,2.6vw,.92rem);line-height:1.45;white-space:pre}}nav{{display:flex;flex-wrap:wrap;gap:.5rem;position:sticky;top:0;background:#000d;padding:.5rem 0;backdrop-filter:blur(6px)}}nav a{{color:#00ff88;border:1px solid #00ff88;border-radius:999px;padding:.35rem .8rem;text-decoration:none;font-size:.85rem}}nav a:hover{{background:#00ff88;color:#000}}</style></head><body>
 <h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>{now}</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
 <nav><a href="#goal">Sezione 1: + GOAL</a><a href="#over">Sezione 2: + OVER 2,5</a><a href="#prossime">Prossime partite (5 giorni)</a><a href="#sotto">Sottofrequenze</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="ritardi_over.txt">ritardi_over.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a></nav>
-<h2 id="sotto">Sottofrequenze (ultime 50 partite)</h2><pre>{html.escape(sections['sotto'])}</pre>
+<h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2><pre>{html.escape(sections['sotto'])}</pre>
 <h2 id="prossime">Prossime partite (5 giorni)</h2><pre>{html.escape(sections['prossime'])}</pre>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>{html.escape(sections['goal'])}</pre>
 <h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre></body></html>"""

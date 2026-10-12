@@ -1,2019 +1,1978 @@
-SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 50 partite di campionato)
-Aggiornato: 12/10/2026 14:20 (ora italiana)
-Le 5 squadre con meno uscite della combo (pari merito inclusi). Escluse neopromosse/retrocesse. Fonte: FotMob
+SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
+Aggiornato: 12/10/2026 14:37 (ora italiana)
+Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per percentuale x/N; N<100 = storico disponibile inferiore. Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Como                           13/50
-   2. Lecce                          13/50
-   3. Bologna                        14/50
-   4. Roma                           14/50
-   5. Udinese                        14/50
+   1. Lecce                          27/100 (27%)
+   2. Bologna                        32/100 (32%)
+   3. Udinese                        32/100 (32%)
+   4. Roma                           34/100 (34%)
+   5. Lazio                          36/100 (36%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Roma                           8/50
-   2. Lecce                          10/50
-   3. Napoli                         11/50
-   4. Inter                          12/50
-   5. Sassuolo                       12/44
+   1. Lecce                          21/100 (21%)
+   2. Roma                           26/100 (26%)
+   3. Inter                          29/100 (29%)
+   4. Venezia                        29/100 (29%)
+   5. Napoli                         30/100 (30%)
+   6. Sassuolo                       30/100 (30%)
+   7. Torino                         30/100 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Lazio                          6/50
-   2. Juventus                       10/50
-   3. Roma                           12/50
-   4. Lecce                          13/50
-   5. Parma                          13/50
+   1. Juventus                       17/100 (17%)
+   2. Frosinone                      24/100 (24%)
+   3. Lecce                          24/100 (24%)
+   4. Bologna                        27/100 (27%)
+   5. Lazio                          27/100 (27%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Como                           9/50
-   2. Bologna                        10/50
-   3. Lecce                          10/50
-   4. Udinese                        10/50
-   5. Milan                          11/50
-   6. Parma                          11/50
+   1. Udinese                        20/100 (20%)
+   2. Lecce                          21/100 (21%)
+   3. Como                           25/100 (25%)
+   4. Bologna                        28/100 (28%)
+   5. Parma                          28/100 (28%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Juventus                       7/50
-   2. Roma                           7/50
-   3. Parma                          8/50
-   4. Atalanta                       9/50
-   5. Lecce                          10/50
-   6. Napoli                         10/50
+   1. Roma                           19/100 (19%)
+   2. Lecce                          21/100 (21%)
+   3. Torino                         21/100 (21%)
+   4. Juventus                       22/100 (22%)
+   5. Parma                          22/100 (22%)
+   6. Venezia                        22/100 (22%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Lazio                          10/50
-   2. Juventus                       14/50
-   3. Parma                          15/50
-   4. Roma                           17/50
-   5. Bologna                        18/50
-   6. Lecce                          18/50
+   1. Juventus                       27/100 (27%)
+   2. Torino                         35/100 (35%)
+   3. Bologna                        36/100 (36%)
+   4. Lazio                          36/100 (36%)
+   5. Lecce                          38/100 (38%)
+   6. Parma                          38/100 (38%)
 
 ==================================================
 ITALIA - SERIE B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Modena                         16/50
-   2. Padova                         16/44
-   3. Avellino                       18/45
-   4. Cesena                         18/50
-   5. Palermo                        19/50
+   1. Arezzo                         28/100 (28%)
+   2. LR Vicenza                     30/100 (30%)
+   3. Hellas Verona                  33/100 (33%)
+   4. Cremonese                      34/100 (34%)
+   5. Ascoli                         35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Sampdoria                      13/50
-   2. Avellino                       14/45
-   3. Carrarese                      14/50
-   4. Mantova                        15/50
-   5. Palermo                        15/50
+   1. Carrarese                      25/100 (25%)
+   2. Arezzo                         28/100 (28%)
+   3. Ascoli                         30/100 (30%)
+   4. Avellino                       30/100 (30%)
+   5. LR Vicenza                     30/100 (30%)
+   6. Padova                         30/100 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Juve Stabia                    10/50
-   2. Virtus Entella                 11/44
-   3. Padova                         12/44
-   4. Palermo                        12/50
-   5. Südtirol                       12/50
+   1. Virtus Entella                 25/100 (25%)
+   2. Carrarese                      26/100 (26%)
+   3. Benevento                      27/100 (27%)
+   4. Padova                         27/100 (27%)
+   5. Südtirol                       28/100 (28%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Padova                         11/44
-   2. Cesena                         12/50
-   3. Südtirol                       12/50
-   4. Virtus Entella                 13/44
-   5. Avellino                       15/45
-   6. Modena                         15/50
-   7. Sampdoria                      15/50
+   1. Arezzo                         20/100 (20%)
+   2. Cesena                         25/100 (25%)
+   3. Padova                         26/100 (26%)
+   4. LR Vicenza                     27/100 (27%)
+   5. Ascoli                         28/100 (28%)
+   6. Hellas Verona                  28/100 (28%)
+   7. Sampdoria                      28/100 (28%)
+   8. Südtirol                       28/100 (28%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Virtus Entella                 6/44
-   2. Sampdoria                      7/50
-   3. Avellino                       9/45
-   4. Carrarese                      9/50
-   5. Empoli                         9/44
-   6. Palermo                        9/50
-   7. Südtirol                       9/50
+   1. Virtus Entella                 13/100 (13%)
+   2. Padova                         15/100 (15%)
+   3. Carrarese                      18/100 (18%)
+   4. Ascoli                         20/100 (20%)
+   5. Empoli                         20/100 (20%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Padova                         13/44
-   2. Juve Stabia                    15/50
-   3. Virtus Entella                 15/44
-   4. Empoli                         17/44
-   5. Südtirol                       17/50
+   1. Padova                         33/100 (33%)
+   2. Carrarese                      34/100 (34%)
+   3. Sampdoria                      34/100 (34%)
+   4. Virtus Entella                 34/100 (34%)
+   5. Modena                         37/100 (37%)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Everton                        15/50
-   2. Arsenal                        16/50
-   3. Fulham                         16/50
-   4. Aston Villa                    17/50
-   5. Sunderland                     17/44
-   6. Tottenham Hotspur              17/50
+   1. Everton                        34/100 (34%)
+   2. Sunderland                     34/100 (34%)
+   3. Arsenal                        35/100 (35%)
+   4. Nottingham Forest              37/100 (37%)
+   5. Leeds United                   38/100 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Manchester City                13/50
-   2. Sunderland                     13/44
-   3. Brighton & Hove Albion         14/50
-   4. Arsenal                        15/50
-   5. Newcastle United               15/50
+   1. Manchester City                26/100 (26%)
+   2. Coventry City                  28/100 (28%)
+   3. Arsenal                        30/100 (30%)
+   4. Sunderland                     30/100 (30%)
+   5. Brentford                      31/100 (31%)
+   6. Brighton & Hove Albion         31/100 (31%)
+   7. Leeds United                   31/100 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Everton                        12/50
-   2. Sunderland                     12/44
-   3. Leeds United                   14/44
-   4. Nottingham Forest              14/50
-   5. AFC Bournemouth                16/50
-   6. Brentford                      16/50
-   7. Manchester City                16/50
+   1. Everton                        20/100 (20%)
+   2. Leeds United                   25/100 (25%)
+   3. Sunderland                     28/100 (28%)
+   4. Arsenal                        31/100 (31%)
+   5. Nottingham Forest              32/100 (32%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Everton                        11/50
-   2. Fulham                         14/50
-   3. Sunderland                     14/44
-   4. Tottenham Hotspur              14/50
-   5. Aston Villa                    15/50
-   6. Crystal Palace                 15/50
-   7. Nottingham Forest              15/50
+   1. Everton                        24/100 (24%)
+   2. Sunderland                     29/100 (29%)
+   3. Hull City                      30/100 (30%)
+   4. Nottingham Forest              31/100 (31%)
+   5. Crystal Palace                 34/100 (34%)
+   6. Fulham                         34/100 (34%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Sunderland                     6/44
-   2. Brighton & Hove Albion         8/50
-   3. Leeds United                   9/44
-   4. Brentford                      10/50
-   5. Liverpool                      12/50
-   6. Manchester City                12/50
-   7. Manchester United              12/50
+   1. Sunderland                     19/100 (19%)
+   2. Leeds United                   20/100 (20%)
+   3. Brentford                      23/100 (23%)
+   4. Coventry City                  23/100 (23%)
+   5. Everton                        23/100 (23%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Everton                        15/50
-   2. AFC Bournemouth                18/50
-   3. Sunderland                     18/44
-   4. Leeds United                   19/44
-   5. Brentford                      21/50
-   6. Manchester United              21/50
+   1. Everton                        29/100 (29%)
+   2. Sunderland                     36/100 (36%)
+   3. Hull City                      40/100 (40%)
+   4. Leeds United                   41/100 (41%)
+   5. AFC Bournemouth                42/100 (42%)
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Bristol City                   14/50
-   2. Millwall                       15/50
-   3. Queens Park Rangers            17/50
-   4. Sheffield United               17/50
-   5. Stoke City                     17/50
+   1. Sheffield United               28/100 (28%)
+   2. Swansea City                   32/100 (32%)
+   3. Blackburn Rovers               34/100 (34%)
+   4. Millwall                       34/100 (34%)
+   5. Wolverhampton Wanderers        34/100 (34%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. West Bromwich Albion           12/50
-   2. Stoke City                     15/50
-   3. Swansea City                   16/50
-   4. Millwall                       17/50
-   5. Norwich City                   17/50
-   6. Watford                        17/50
+   1. Lincoln City                   26/100 (26%)
+   2. Stoke City                     28/100 (28%)
+   3. West Bromwich Albion           29/100 (29%)
+   4. Millwall                       30/100 (30%)
+   5. Blackburn Rovers               31/100 (31%)
+   6. Sheffield United               31/100 (31%)
+   7. Watford                        31/100 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Charlton Athletic              15/50
-   2. Birmingham City                16/50
-   3. Bristol City                   16/50
-   4. Millwall                       16/50
-   5. Portsmouth                     16/50
-   6. Watford                        16/50
+   1. Millwall                       26/100 (26%)
+   2. Bristol City                   28/100 (28%)
+   3. Blackburn Rovers               29/100 (29%)
+   4. Charlton Athletic              30/100 (30%)
+   5. Lincoln City                   31/100 (31%)
+   6. West Bromwich Albion           31/100 (31%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Bristol City                   12/50
-   2. Charlton Athletic              12/50
-   3. Derby County                   12/50
-   4. Blackburn Rovers               14/50
-   5. Wrexham                        14/50
+   1. Derby County                   25/100 (25%)
+   2. Burnley                        27/100 (27%)
+   3. Millwall                       27/100 (27%)
+   4. Sheffield United               28/100 (28%)
+   5. Blackburn Rovers               29/100 (29%)
+   6. Stoke City                     29/100 (29%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. West Bromwich Albion           5/50
-   2. Birmingham City                9/50
-   3. Watford                        9/50
-   4. Charlton Athletic              10/50
-   5. Portsmouth                     10/50
+   1. West Bromwich Albion           12/100 (12%)
+   2. Lincoln City                   17/100 (17%)
+   3. Birmingham City                19/100 (19%)
+   4. Cardiff City                   19/100 (19%)
+   5. Millwall                       19/100 (19%)
+   6. Stoke City                     19/100 (19%)
+   7. Watford                        19/100 (19%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Bristol City                   19/50
-   2. Wrexham                        19/50
-   3. Charlton Athletic              20/50
-   4. Portsmouth                     20/50
-   5. Blackburn Rovers               21/50
-   6. Watford                        21/50
+   1. Millwall                       36/100 (36%)
+   2. Blackburn Rovers               37/100 (37%)
+   3. West Bromwich Albion           37/100 (37%)
+   4. Wrexham                        39/100 (39%)
+   5. Bristol City                   40/100 (40%)
+   6. Burnley                        40/100 (40%)
+   7. Stoke City                     40/100 (40%)
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Bradford City                  16/50
-   2. Doncaster Rovers               16/50
-   3. Plymouth Argyle                16/50
-   4. AFC Wimbledon                  17/50
-   5. Leyton Orient                  17/50
-   6. Stockport County               17/50
+   1. AFC Wimbledon                  27/100 (27%)
+   2. Leyton Orient                  27/100 (27%)
+   3. Stevenage                      31/100 (31%)
+   4. Notts County                   32/100 (32%)
+   5. Wigan Athletic                 33/100 (33%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. AFC Wimbledon                  13/50
-   2. Stevenage                      14/50
-   3. Wigan Athletic                 14/50
-   4. Blackpool                      15/50
-   5. Bradford City                  15/50
-   6. Peterborough United            15/50
+   1. AFC Wimbledon                  26/100 (26%)
+   2. Bradford City                  27/100 (27%)
+   3. Stevenage                      27/100 (27%)
+   4. Wigan Athletic                 27/100 (27%)
+   5. Luton Town                     29/100 (29%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Wigan Athletic                 10/50
-   2. Burton Albion                  12/50
-   3. Blackpool                      14/50
-   4. Bradford City                  15/50
-   5. Stevenage                      15/50
+   1. Wigan Athletic                 20/100 (20%)
+   2. AFC Wimbledon                  23/100 (23%)
+   3. Cambridge United               28/100 (28%)
+   4. Stevenage                      28/100 (28%)
+   5. Bromley                        31/100 (31%)
+   6. Burton Albion                  31/100 (31%)
+   7. Oxford United                  31/100 (31%)
+   8. Sheffield Wednesday            31/100 (31%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Plymouth Argyle                12/50
-   2. Bradford City                  13/50
-   3. Wigan Athletic                 13/50
-   4. Stevenage                      14/50
-   5. Doncaster Rovers               15/50
-   6. Leyton Orient                  15/50
+   1. Wigan Athletic                 22/100 (22%)
+   2. Stevenage                      23/100 (23%)
+   3. AFC Wimbledon                  26/100 (26%)
+   4. Notts County                   26/100 (26%)
+   5. Doncaster Rovers               28/100 (28%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Stevenage                      8/50
-   2. Wigan Athletic                 8/50
-   3. Mansfield Town                 9/50
-   4. Bradford City                  10/50
-   5. Peterborough United            10/50
-   6. Wycombe Wanderers              10/50
+   1. Bradford City                  15/100 (15%)
+   2. Stevenage                      16/100 (16%)
+   3. Wigan Athletic                 16/100 (16%)
+   4. Cambridge United               17/100 (17%)
+   5. Luton Town                     19/100 (19%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Wigan Athletic                 15/50
-   2. Stevenage                      16/50
-   3. Bradford City                  17/50
-   4. Burton Albion                  19/50
-   5. Blackpool                      20/50
-   6. Mansfield Town                 20/50
+   1. Wigan Athletic                 28/100 (28%)
+   2. Stevenage                      33/100 (33%)
+   3. AFC Wimbledon                  34/100 (34%)
+   4. Cambridge United               36/100 (36%)
+   5. Bromley                        37/100 (37%)
+   6. Oxford United                  37/100 (37%)
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Salford City                   12/50
-   2. Shrewsbury Town                14/50
-   3. Bristol Rovers                 15/50
-   4. Oldham Athletic                15/50
-   5. Walsall                        17/50
+   1. Exeter City                    30/100 (30%)
+   2. Port Vale                      31/100 (31%)
+   3. Shrewsbury Town                31/100 (31%)
+   4. Bristol Rovers                 32/100 (32%)
+   5. Rochdale                       32/100 (32%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Bristol Rovers                 12/50
-   2. Salford City                   12/50
-   3. Accrington Stanley             13/50
-   4. Newport County                 13/50
-   5. Oldham Athletic                13/50
+   1. Bristol Rovers                 23/100 (23%)
+   2. Newport County                 23/100 (23%)
+   3. Port Vale                      24/100 (24%)
+   4. Accrington Stanley             28/100 (28%)
+   5. Northampton Town               28/100 (28%)
+   6. Rotherham United               28/100 (28%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Crawley Town                   12/50
-   2. Accrington Stanley             13/50
-   3. Chesterfield                   14/50
-   4. Gillingham                     14/50
-   5. Grimsby Town                   14/50
-   6. Oldham Athletic                14/50
+   1. Gillingham                     22/100 (22%)
+   2. Colchester United              25/100 (25%)
+   3. Port Vale                      25/100 (25%)
+   4. Exeter City                    26/100 (26%)
+   5. Oldham Athletic                27/100 (27%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Walsall                        11/50
-   2. Salford City                   12/50
-   3. Shrewsbury Town                12/50
-   4. Colchester United              14/50
-   5. Fleetwood Town                 14/50
-   6. Gillingham                     14/50
+   1. Gillingham                     22/100 (22%)
+   2. Crewe Alexandra                24/100 (24%)
+   3. Colchester United              25/100 (25%)
+   4. Exeter City                    27/100 (27%)
+   5. Oldham Athletic                27/100 (27%)
+   6. Shrewsbury Town                27/100 (27%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Colchester United              7/50
-   2. Accrington Stanley             10/50
-   3. Fleetwood Town                 10/50
-   4. Bristol Rovers                 11/50
-   5. Crewe Alexandra                11/50
-   6. Salford City                   11/50
+   1. Colchester United              13/100 (13%)
+   2. Port Vale                      15/100 (15%)
+   3. Northampton Town               18/100 (18%)
+   4. Bristol Rovers                 19/100 (19%)
+   5. Crewe Alexandra                19/100 (19%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Accrington Stanley             16/50
-   2. Chesterfield                   16/50
-   3. Crawley Town                   16/50
-   4. Colchester United              17/50
-   5. Grimsby Town                   17/50
+   1. Gillingham                     31/100 (31%)
+   2. Colchester United              32/100 (32%)
+   3. Port Vale                      34/100 (34%)
+   4. Accrington Stanley             35/100 (35%)
+   5. Crewe Alexandra                35/100 (35%)
+   6. Exeter City                    35/100 (35%)
 
 ==================================================
 GERMANIA - BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Augsburg                       17/50
-   2. Borussia Dortmund              17/50
-   3. Borussia Mönchengladbach       17/50
-   4. Bayer Leverkusen               18/50
-   5. RB Leipzig                     18/50
+   1. Union Berlin                   35/100 (35%)
+   2. Elversberg                     37/100 (37%)
+   3. Schalke 04                     37/100 (37%)
+   4. Bayer Leverkusen               38/100 (38%)
+   5. Bayern München                 39/100 (39%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Hamburger SV                   12/39
-   2. Borussia Mönchengladbach       15/50
-   3. RB Leipzig                     16/50
-   4. VfB Stuttgart                  16/50
-   5. Borussia Dortmund              17/50
-   6. Werder Bremen                  17/50
+   1. Freiburg                       31/100 (31%)
+   2. Union Berlin                   31/100 (31%)
+   3. Bayern München                 33/100 (33%)
+   4. Borussia Mönchengladbach       33/100 (33%)
+   5. RB Leipzig                     33/100 (33%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Borussia Dortmund              16/50
-   2. Borussia Mönchengladbach       16/50
-   3. Werder Bremen                  16/50
-   4. Hamburger SV                   17/39
-   5. Union Berlin                   18/50
+   1. Werder Bremen                  31/100 (31%)
+   2. Mainz 05                       32/100 (32%)
+   3. Union Berlin                   32/100 (32%)
+   4. 1. FC Köln                     36/100 (36%)
+   5. Augsburg                       39/100 (39%)
+   6. Borussia Dortmund              39/100 (39%)
+   7. Elversberg                     39/100 (39%)
+   8. Hamburger SV                   39/100 (39%)
+   9. Schalke 04                     39/100 (39%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Bayer Leverkusen               16/50
-   2. Mainz 05                       16/50
-   3. Werder Bremen                  16/50
-   4. Augsburg                       17/50
-   5. Borussia Mönchengladbach       17/50
-   6. Hamburger SV                   17/39
+   1. Mainz 05                       28/100 (28%)
+   2. Elversberg                     35/100 (35%)
+   3. Union Berlin                   35/100 (35%)
+   4. 1. FC Köln                     36/100 (36%)
+   5. Bayer Leverkusen               36/100 (36%)
+   6. Schalke 04                     36/100 (36%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Hamburger SV                   7/39
-   2. 1. FC Köln                     13/39
-   3. Borussia Dortmund              15/50
-   4. RB Leipzig                     15/50
-   5. Borussia Mönchengladbach       16/50
-   6. Freiburg                       16/50
+   1. Union Berlin                   26/100 (26%)
+   2. 1. FC Köln                     27/100 (27%)
+   3. Borussia Dortmund              28/100 (28%)
+   4. Freiburg                       28/100 (28%)
+   5. Augsburg                       29/100 (29%)
+   6. Mainz 05                       29/100 (29%)
+   7. RB Leipzig                     29/100 (29%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. 1. FC Köln                     20/39
-   2. Hamburger SV                   22/39
-   3. Werder Bremen                  23/50
-   4. Bayer Leverkusen               24/50
-   5. Borussia Dortmund              24/50
-   6. Mainz 05                       24/50
+   1. 1. FC Köln                     41/100 (41%)
+   2. Mainz 05                       41/100 (41%)
+   3. Werder Bremen                  44/100 (44%)
+   4. Schalke 04                     47/100 (47%)
+   5. Union Berlin                   47/100 (47%)
 
 ==================================================
 GERMANIA - 2. BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Magdeburg                      12/50
-   2. Kaiserslautern                 16/50
-   3. Holstein Kiel                  18/41
-   4. Dynamo Dresden                 19/41
-   5. Hertha BSC                     20/50
+   1. Magdeburg                      31/100 (31%)
+   2. VfL Osnabrück                  35/100 (35%)
+   3. Eintracht Braunschweig         37/100 (37%)
+   4. St. Pauli                      39/100 (39%)
+   5. Wolfsburg                      39/100 (39%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Kaiserslautern                 11/50
-   2. Darmstadt                      14/50
-   3. Magdeburg                      14/50
-   4. Arminia Bielefeld              15/41
-   5. Bochum                         15/41
+   1. Kaiserslautern                 27/100 (27%)
+   2. Energie Cottbus                30/100 (30%)
+   3. St. Pauli                      30/100 (30%)
+   4. VfL Osnabrück                  30/100 (30%)
+   5. Arminia Bielefeld              32/100 (32%)
+   6. Darmstadt                      32/100 (32%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Holstein Kiel                  14/41
-   2. Bochum                         16/41
-   3. Arminia Bielefeld              17/41
-   4. Magdeburg                      18/50
-   5. Darmstadt                      19/50
-   6. Hannover 96                    19/50
-   7. Hertha BSC                     19/50
-   8. Kaiserslautern                 19/50
-   9. Karlsruher SC                  19/50
+   1. Arminia Bielefeld              33/100 (33%)
+   2. Darmstadt                      33/100 (33%)
+   3. St. Pauli                      33/100 (33%)
+   4. VfL Osnabrück                  33/100 (33%)
+   5. Hannover 96                    35/100 (35%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Bochum                         13/41
-   2. Magdeburg                      13/50
-   3. Hertha BSC                     14/50
-   4. Holstein Kiel                  14/41
-   5. Eintracht Braunschweig         15/50
+   1. VfL Osnabrück                  25/100 (25%)
+   2. Magdeburg                      29/100 (29%)
+   3. St. Pauli                      29/100 (29%)
+   4. Eintracht Braunschweig         31/100 (31%)
+   5. Wolfsburg                      31/100 (31%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Bochum                         8/41
-   2. Arminia Bielefeld              10/41
-   3. Darmstadt                      10/50
-   4. Kaiserslautern                 10/50
-   5. Holstein Kiel                  12/41
+   1. St. Pauli                      23/100 (23%)
+   2. Arminia Bielefeld              24/100 (24%)
+   3. Bochum                         25/100 (25%)
+   4. Energie Cottbus                25/100 (25%)
+   5. VfL Osnabrück                  25/100 (25%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Holstein Kiel                  16/41
-   2. Bochum                         17/41
-   3. Arminia Bielefeld              19/41
-   4. Dynamo Dresden                 22/41
-   5. Hertha BSC                     22/50
+   1. St. Pauli                      40/100 (40%)
+   2. Arminia Bielefeld              42/100 (42%)
+   3. Hannover 96                    44/100 (44%)
+   4. VfL Osnabrück                  44/100 (44%)
+   5. Bochum                         45/100 (45%)
 
 ==================================================
 GERMANIA - 3. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Viktoria Köln 1904             12/50
-   2. Jahn Regensburg                17/46
-   3. Hansa Rostock                  20/50
-   4. Ingolstadt                     20/50
-   5. Wehen Wiesbaden                20/50
+   1. Viktoria Köln 1904             30/100 (30%)
+   2. Hoffenheim II                  36/100 (36%)
+   3. Hansa Rostock                  37/100 (37%)
+   4. Jahn Regensburg                37/100 (37%)
+   5. Würzburger Kickers             37/100 (37%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. MSV Duisburg                   10/46
-   2. Viktoria Köln 1904             14/50
-   3. Wehen Wiesbaden                14/50
-   4. Jahn Regensburg                16/46
-   5. TSV Havelse                    16/46
+   1. MSV Duisburg                   25/100 (25%)
+   2. Meppen                         27/100 (27%)
+   3. Jahn Regensburg                29/100 (29%)
+   4. Fortuna Köln                   32/100 (32%)
+   5. Hansa Rostock                  34/100 (34%)
+   6. Viktoria Köln 1904             34/100 (34%)
+   7. Waldhof Mannheim               34/100 (34%)
+   8. Wehen Wiesbaden                34/100 (34%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Jahn Regensburg                17/46
-   2. Hansa Rostock                  18/50
-   3. Saarbrücken                    20/50
-   4. Viktoria Köln 1904             20/50
-   5. Wehen Wiesbaden                22/50
+   1. Würzburger Kickers             25/100 (25%)
+   2. Jahn Regensburg                30/100 (30%)
+   3. Fortuna Köln                   34/100 (34%)
+   4. Hansa Rostock                  35/100 (35%)
+   5. Meppen                         36/100 (36%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Viktoria Köln 1904             13/50
-   2. Ingolstadt                     16/50
-   3. Hansa Rostock                  17/50
-   4. Jahn Regensburg                17/46
-   5. Hoffenheim II                  18/46
-   6. Saarbrücken                    18/50
+   1. Viktoria Köln 1904             27/100 (27%)
+   2. Saarbrücken                    29/100 (29%)
+   3. Fortuna Düsseldorf             33/100 (33%)
+   4. Jahn Regensburg                34/100 (34%)
+   5. Würzburger Kickers             34/100 (34%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. MSV Duisburg                   9/46
-   2. Wehen Wiesbaden                11/50
-   3. Saarbrücken                    12/50
-   4. TSV Havelse                    12/46
-   5. VfB Stuttgart II               14/50
+   1. Saarbrücken                    20/100 (20%)
+   2. MSV Duisburg                   22/100 (22%)
+   3. Jahn Regensburg                23/100 (23%)
+   4. Fortuna Köln                   24/100 (24%)
+   5. Waldhof Mannheim               25/100 (25%)
+   6. Würzburger Kickers             25/100 (25%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Saarbrücken                    22/50
-   2. Jahn Regensburg                24/46
-   3. Wehen Wiesbaden                25/50
-   4. Hansa Rostock                  26/50
-   5. Viktoria Köln 1904             26/50
+   1. Saarbrücken                    41/100 (41%)
+   2. Fortuna Köln                   44/100 (44%)
+   3. Jahn Regensburg                45/100 (45%)
+   4. Preussen Münster               46/100 (46%)
+   5. Waldhof Mannheim               46/100 (46%)
 
 ==================================================
 FRANCIA - LIGUE 1
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Lille                          14/50
-   2. Angers                         15/50
-   3. Paris Saint-Germain            16/50
-   4. Lens                           17/50
-   5. Lorient                        17/40
-   6. Paris FC                       17/40
+   1. Angers                         31/100 (31%)
+   2. Troyes                         31/100 (31%)
+   3. Lens                           32/100 (32%)
+   4. Toulouse                       33/100 (33%)
+   5. Le Mans                        35/100 (35%)
+   6. Lorient                        35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Angers                         11/50
-   2. Lyon                           11/50
-   3. Lens                           13/50
-   4. Lille                          13/50
-   5. Marseille                      13/50
-   6. Paris FC                       13/40
-   7. Rennes                         13/50
+   1. Troyes                         22/100 (22%)
+   2. Auxerre                        27/100 (27%)
+   3. Lens                           27/100 (27%)
+   4. Lyon                           28/100 (28%)
+   5. Angers                         29/100 (29%)
+   6. Lille                          29/100 (29%)
+   7. Rennes                         29/100 (29%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Lorient                        9/40
-   2. Angers                         12/50
-   3. Lille                          13/50
-   4. Brest                          16/50
-   5. Paris FC                       16/40
+   1. Angers                         28/100 (28%)
+   2. Lille                          30/100 (30%)
+   3. Le Mans                        31/100 (31%)
+   4. Brest                          33/100 (33%)
+   5. Lens                           33/100 (33%)
+   6. Troyes                         33/100 (33%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Angers                         10/50
-   2. Lille                          12/50
-   3. Lorient                        13/40
-   4. Le Havre                       14/50
-   5. Paris FC                       14/40
+   1. Angers                         20/100 (20%)
+   2. Le Havre                       26/100 (26%)
+   3. Le Mans                        26/100 (26%)
+   4. Toulouse                       27/100 (27%)
+   5. Lens                           30/100 (30%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Angers                         7/50
-   2. Le Havre                       8/50
-   3. Lille                          9/50
-   4. Lorient                        10/40
-   5. Lyon                           10/50
-   6. Paris FC                       10/40
+   1. Lille                          20/100 (20%)
+   2. Angers                         21/100 (21%)
+   3. Auxerre                        22/100 (22%)
+   4. Troyes                         22/100 (22%)
+   5. Le Havre                       23/100 (23%)
+   6. Paris FC                       23/100 (23%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Lorient                        13/40
-   2. Angers                         15/50
-   3. Lille                          17/50
-   4. Le Havre                       18/50
-   5. Paris FC                       20/40
+   1. Angers                         35/100 (35%)
+   2. Lille                          38/100 (38%)
+   3. Le Mans                        39/100 (39%)
+   4. Le Havre                       41/100 (41%)
+   5. Paris FC                       43/100 (43%)
 
 ==================================================
 FRANCIA - LIGUE 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Boulogne                       11/42
-   2. Nancy                          11/42
-   3. Montpellier                    13/42
-   4. Saint-Étienne                  14/42
-   5. Reims                          17/42
+   1. Montpellier                    30/100 (30%)
+   2. Nancy                          30/100 (30%)
+   3. Annecy FC                      31/100 (31%)
+   4. Nantes                         31/100 (31%)
+   5. Guingamp                       34/100 (34%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Saint-Étienne                  11/42
-   2. Montpellier                    12/42
-   3. Nancy                          15/42
-   4. Laval                          16/50
-   5. Annecy FC                      17/50
-   6. Guingamp                       17/50
-   7. Reims                          17/42
+   1. Saint-Étienne                  25/100 (25%)
+   2. Grenoble                       28/100 (28%)
+   3. Annecy FC                      31/100 (31%)
+   4. Dijon                          31/100 (31%)
+   5. Guingamp                       31/100 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Montpellier                    9/42
-   2. Boulogne                       13/42
-   3. Nancy                          14/42
-   4. Reims                          14/42
-   5. Clermont Foot                  15/50
-   6. Laval                          15/50
-   7. Pau                            15/50
-   8. Red Star                       15/50
-   9. Saint-Étienne                  15/42
+   1. Sochaux                        23/100 (23%)
+   2. Laval                          28/100 (28%)
+   3. Montpellier                    28/100 (28%)
+   4. Clermont Foot                  29/100 (29%)
+   5. Boulogne                       22/74 (30%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Boulogne                       6/42
-   2. Montpellier                    6/42
-   3. Nancy                          9/42
-   4. Red Star                       12/50
-   5. Grenoble                       13/50
-   6. Reims                          13/42
+   1. Boulogne                       14/74 (19%)
+   2. Montpellier                    22/100 (22%)
+   3. Nancy                          23/100 (23%)
+   4. Laval                          24/100 (24%)
+   5. Nantes                         24/100 (24%)
+   6. Sochaux                        24/100 (24%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Montpellier                    6/42
-   2. Clermont Foot                  9/50
-   3. Laval                          11/50
-   4. Annecy FC                      12/50
-   5. Dunkerque                      12/50
-   6. Grenoble                       12/50
-   7. Reims                          12/42
-   8. Saint-Étienne                  12/42
+   1. Clermont Foot                  16/100 (16%)
+   2. Grenoble                       19/100 (19%)
+   3. Sochaux                        19/100 (19%)
+   4. Dunkerque                      22/100 (22%)
+   5. Dijon                          24/100 (24%)
+   6. Montpellier                    24/100 (24%)
+   7. Saint-Étienne                  24/100 (24%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Montpellier                    10/42
-   2. Boulogne                       15/42
-   3. Clermont Foot                  15/50
-   4. Reims                          15/42
-   5. Nancy                          17/42
+   1. Sochaux                        27/100 (27%)
+   2. Clermont Foot                  36/100 (36%)
+   3. Montpellier                    36/100 (36%)
+   4. Boulogne                       27/74 (36%)
+   5. Dunkerque                      37/100 (37%)
 
 ==================================================
 SPAGNA - LALIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Getafe                         10/50
-   2. Athletic Club                  16/50
-   3. Levante                        17/44
-   4. Barcelona                      18/50
-   5. Celta Vigo                     18/50
+   1. Getafe                         23/100 (23%)
+   2. Barcelona                      33/100 (33%)
+   3. Real Sociedad                  37/100 (37%)
+   4. Athletic Club                  38/100 (38%)
+   5. Atlético Madrid                39/100 (39%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Atlético Madrid                10/50
-   2. Real Madrid                    10/50
-   3. Barcelona                      11/50
-   4. Getafe                         11/50
-   5. Athletic Club                  12/50
-   6. Levante                        12/44
+   1. Atlético Madrid                25/100 (25%)
+   2. Real Madrid                    25/100 (25%)
+   3. Athletic Club                  27/100 (27%)
+   4. Espanyol                       28/100 (28%)
+   5. Barcelona                      29/100 (29%)
+   6. Getafe                         29/100 (29%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Getafe                         9/50
-   2. Rayo Vallecano                 12/50
-   3. Valencia                       14/50
-   4. Levante                        15/44
-   5. Athletic Club                  16/50
+   1. Getafe                         20/100 (20%)
+   2. Deportivo Alavés               27/100 (27%)
+   3. Rayo Vallecano                 28/100 (28%)
+   4. Málaga                         29/100 (29%)
+   5. Valencia                       29/100 (29%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Celta Vigo                     9/50
-   2. Getafe                         10/50
-   3. Athletic Club                  13/50
-   4. Levante                        13/44
-   5. Osasuna                        15/50
+   1. Getafe                         15/100 (15%)
+   2. Athletic Club                  28/100 (28%)
+   3. Deportivo A Coruña             28/100 (28%)
+   4. Deportivo Alavés               29/100 (29%)
+   5. Valencia                       30/100 (30%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Getafe                         5/50
-   2. Rayo Vallecano                 7/50
-   3. Valencia                       7/50
-   4. Athletic Club                  8/50
-   5. Atlético Madrid                8/50
+   1. Athletic Club                  14/100 (14%)
+   2. Espanyol                       15/100 (15%)
+   3. Rayo Vallecano                 16/100 (16%)
+   4. Getafe                         17/100 (17%)
+   5. Atlético Madrid                19/100 (19%)
+   6. Valencia                       19/100 (19%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Getafe                         15/50
-   2. Osasuna                        19/50
-   3. Rayo Vallecano                 19/50
-   4. Valencia                       19/50
-   5. Deportivo Alavés               20/50
-   6. Levante                        20/44
-   7. Real Betis                     20/50
+   1. Getafe                         30/100 (30%)
+   2. Deportivo Alavés               33/100 (33%)
+   3. Málaga                         36/100 (36%)
+   4. Valencia                       37/100 (37%)
+   5. Athletic Club                  38/100 (38%)
+   6. Espanyol                       38/100 (38%)
 
 ==================================================
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Burgos CF                      15/50
-   2. Cádiz                          15/50
-   3. Leganés                        16/50
-   4. Eibar                          17/50
-   5. Sporting Gijón                 17/50
+   1. Real Oviedo                    28/100 (28%)
+   2. Sabadell                       28/89 (31%)
+   3. Cádiz                          33/100 (33%)
+   4. Tenerife                       34/100 (34%)
+   5. Burgos CF                      35/100 (35%)
+   6. Eibar                          35/100 (35%)
+   7. Eldense                        35/100 (35%)
+   8. Leganés                        35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Eibar                          10/50
-   2. Leganés                        11/50
-   3. Burgos CF                      12/50
-   4. Real Valladolid                12/50
-   5. Almería                        13/50
+   1. Real Valladolid                21/100 (21%)
+   2. Eibar                          23/100 (23%)
+   3. Tenerife                       24/100 (24%)
+   4. Burgos CF                      25/100 (25%)
+   5. Sabadell                       23/89 (26%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Real Valladolid                11/50
-   2. Burgos CF                      15/50
-   3. Leganés                        15/50
-   4. Cádiz                          16/50
-   5. Eibar                          19/50
-   6. Granada                        19/50
-   7. Real Sociedad B                19/50
+   1. Tenerife                       22/100 (22%)
+   2. Sabadell                       23/89 (26%)
+   3. Leganés                        26/100 (26%)
+   4. Real Oviedo                    26/100 (26%)
+   5. Eibar                          28/100 (28%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Albacete                       12/50
-   2. Burgos CF                      12/50
-   3. FC Andorra                     14/50
-   4. Castellón                      15/50
-   5. Cádiz                          15/50
-   6. Granada                        15/50
-   7. Leganés                        15/50
-   8. Sporting Gijón                 15/50
+   1. FC Andorra                     25/100 (25%)
+   2. Real Oviedo                    25/100 (25%)
+   3. Burgos CF                      28/100 (28%)
+   4. Las Palmas                     28/100 (28%)
+   5. Tenerife                       28/100 (28%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Burgos CF                      7/50
-   2. Eibar                          8/50
-   3. Las Palmas                     8/50
-   4. Leganés                        8/50
-   5. Real Valladolid                8/50
+   1. Tenerife                       11/100 (11%)
+   2. AD Ceuta FC                    16/100 (16%)
+   3. Burgos CF                      16/100 (16%)
+   4. Mallorca                       16/100 (16%)
+   5. Sabadell                       15/89 (17%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Burgos CF                      17/50
-   2. Real Valladolid                18/50
-   3. Granada                        21/50
-   4. Leganés                        21/50
-   5. Real Sociedad B                21/50
+   1. Tenerife                       31/100 (31%)
+   2. Burgos CF                      32/100 (32%)
+   3. Sabadell                       32/89 (36%)
+   4. Eibar                          36/100 (36%)
+   5. Real Sociedad B                37/100 (37%)
 
 ==================================================
 BELGIO - FIRST DIVISION A
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Standard Liège                 13/50
-   2. RAAL La Louvière               15/44
-   3. Union St.Gilloise              15/50
-   4. Westerlo                       15/50
-   5. OH Leuven                      17/50
-   6. Royal Antwerp                  17/50
-   7. Sporting Charleroi             17/50
-   8. St.Truiden                     17/50
+   1. Standard Liège                 30/100 (30%)
+   2. Anderlecht                     31/100 (31%)
+   3. Kortrijk                       31/100 (31%)
+   4. SK Beveren                     31/100 (31%)
+   5. Union St.Gilloise              32/100 (32%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. RAAL La Louvière               13/44
-   2. Westerlo                       13/50
-   3. Union St.Gilloise              14/50
-   4. Zulte Waregem                  14/44
-   5. Royal Antwerp                  15/50
+   1. Anderlecht                     25/100 (25%)
+   2. SK Beveren                     28/100 (28%)
+   3. Union St.Gilloise              29/100 (29%)
+   4. Kortrijk                       30/100 (30%)
+   5. RAAL La Louvière               22/72 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Standard Liège                 14/50
-   2. Westerlo                       14/50
-   3. KV Mechelen                    15/50
-   4. OH Leuven                      15/50
-   5. Union St.Gilloise              15/50
+   1. OH Leuven                      25/100 (25%)
+   2. Standard Liège                 26/100 (26%)
+   3. Gent                           33/100 (33%)
+   4. Kortrijk                       33/100 (33%)
+   5. Royal Antwerp                  33/100 (33%)
+   6. Union St.Gilloise              33/100 (33%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Standard Liège                 10/50
-   2. Sporting Charleroi             12/50
-   3. Royal Antwerp                  13/50
-   4. Union St.Gilloise              14/50
-   5. Gent                           15/50
-   6. OH Leuven                      15/50
-   7. St.Truiden                     15/50
-   8. Westerlo                       15/50
+   1. Standard Liège                 25/100 (25%)
+   2. Royal Antwerp                  26/100 (26%)
+   3. Sporting Charleroi             26/100 (26%)
+   4. Cercle Brugge                  29/100 (29%)
+   5. OH Leuven                      29/100 (29%)
+   6. Union St.Gilloise              29/100 (29%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Union St.Gilloise              9/50
-   2. Gent                           10/50
-   3. RAAL La Louvière               10/44
-   4. Zulte Waregem                  10/44
-   5. OH Leuven                      11/50
+   1. OH Leuven                      17/100 (17%)
+   2. Sporting Charleroi             21/100 (21%)
+   3. Anderlecht                     22/100 (22%)
+   4. Union St.Gilloise              22/100 (22%)
+   5. RAAL La Louvière               16/72 (22%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. KV Mechelen                    18/50
-   2. Sporting Charleroi             19/50
-   3. Zulte Waregem                  19/44
-   4. OH Leuven                      20/50
-   5. RAAL La Louvière               20/44
-   6. Westerlo                       20/50
+   1. OH Leuven                      34/100 (34%)
+   2. Standard Liège                 38/100 (38%)
+   3. Sporting Charleroi             39/100 (39%)
+   4. Royal Antwerp                  44/100 (44%)
+   5. KV Mechelen                    45/100 (45%)
+   6. Westerlo                       45/100 (45%)
 
 ==================================================
 BELGIO - FIRST DIVISION B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Gent U23                       12/38
-   2. Francs Borains                 15/50
-   3. Beerschot                      18/43
-   4. K. Lierse SK                   18/50
-   5. Genk U23                       19/50
+   1. Sporting Hasselt               0/7 (0%)
+   2. Virton                         1/6 (17%)
+   3. Francs Borains                 28/96 (29%)
+   4. Gent U23                       12/38 (32%)
+   5. FCV Dender EH                  36/100 (36%)
+   6. Patro Eisden                   36/100 (36%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Francs Borains                 12/50
-   2. Beerschot                      13/43
-   3. Gent U23                       13/38
-   4. Club Brugge NXT                14/50
-   5. Eupen                          14/50
-   6. FC Liège                       14/50
-   7. K. Lierse SK                   14/50
+   1. FC Liège                       27/99 (27%)
+   2. Beerschot                      28/100 (28%)
+   3. Sporting Hasselt               2/7 (29%)
+   4. Eupen                          30/100 (30%)
+   5. Francs Borains                 30/96 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Francs Borains                 15/50
-   2. Gent U23                       15/38
-   3. RFC Seraing                    16/50
-   4. Eupen                          17/50
-   5. K. Lierse SK                   18/50
+   1. Virton                         1/6 (17%)
+   2. Sporting Hasselt               2/7 (29%)
+   3. Patro Eisden                   34/100 (34%)
+   4. KSC Lokeren                    24/70 (34%)
+   5. Eupen                          35/100 (35%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Gent U23                       13/38
-   2. Beerschot                      15/43
-   3. K. Lierse SK                   15/50
-   4. KSC Lokeren                    15/50
-   5. Patro Eisden                   15/50
+   1. Sporting Hasselt               1/7 (14%)
+   2. KSC Lokeren                    20/70 (29%)
+   3. Patro Eisden                   32/100 (32%)
+   4. RFC Seraing                    31/96 (32%)
+   5. Virton                         2/6 (33%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Beerschot                      9/43
-   2. K. Lierse SK                   9/50
-   3. Eupen                          11/50
-   4. FC Liège                       11/50
-   5. Francs Borains                 11/50
+   1. Virton                         1/6 (17%)
+   2. Beerschot                      22/100 (22%)
+   3. FC Liège                       22/99 (22%)
+   4. K. Lierse SK                   24/96 (25%)
+   5. Patro Eisden                   26/100 (26%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Gent U23                       19/38
-   2. Eupen                          20/50
-   3. K. Lierse SK                   20/50
-   4. RFC Seraing                    20/50
-   5. Francs Borains                 21/50
+   1. KSC Lokeren                    29/70 (41%)
+   2. Sporting Hasselt               3/7 (43%)
+   3. Patro Eisden                   44/100 (44%)
+   4. RFC Seraing                    43/96 (45%)
+   5. Eupen                          46/100 (46%)
 
 ==================================================
 OLANDA - EREDIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Excelsior                      16/42
-   2. Feyenoord                      18/50
-   3. Telstar                        18/42
-   4. FC Groningen                   20/50
-   5. Sparta Rotterdam               20/50
+   1. Feyenoord                      34/100 (34%)
+   2. Cambuur                        39/100 (39%)
+   3. FC Groningen                   39/100 (39%)
+   4. Fortuna Sittard                39/100 (39%)
+   5. ADO Den Haag                   40/100 (40%)
+   6. Sparta Rotterdam               40/100 (40%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. SC Heerenveen                  15/50
-   2. Sparta Rotterdam               16/50
-   3. PEC Zwolle                     17/50
-   4. FC Groningen                   18/50
-   5. FC Utrecht                     18/50
+   1. FC Groningen                   31/100 (31%)
+   2. SC Heerenveen                  34/100 (34%)
+   3. Cambuur                        35/100 (35%)
+   4. Telstar                        36/100 (36%)
+   5. Fortuna Sittard                37/100 (37%)
+   6. PSV Eindhoven                  37/100 (37%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Go Ahead Eagles                13/50
-   2. Sparta Rotterdam               14/50
-   3. Ajax                           15/50
-   4. Telstar                        15/42
-   5. FC Twente                      18/50
-   6. PEC Zwolle                     18/50
+   1. Go Ahead Eagles                29/100 (29%)
+   2. Sparta Rotterdam               32/100 (32%)
+   3. Ajax                           34/100 (34%)
+   4. PEC Zwolle                     34/100 (34%)
+   5. SC Heerenveen                  34/100 (34%)
+   6. Telstar                        34/100 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Excelsior                      15/42
-   2. FC Twente                      16/50
-   3. Fortuna Sittard                16/50
-   4. Telstar                        16/42
-   5. Feyenoord                      17/50
+   1. Willem II                      30/100 (30%)
+   2. Sparta Rotterdam               31/100 (31%)
+   3. Cambuur                        33/100 (33%)
+   4. Feyenoord                      35/100 (35%)
+   5. Fortuna Sittard                35/100 (35%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. FC Utrecht                     12/50
-   2. PEC Zwolle                     13/50
-   3. AZ Alkmaar                     14/50
-   4. FC Groningen                   14/50
-   5. FC Twente                      14/50
+   1. FC Groningen                   22/100 (22%)
+   2. Telstar                        26/100 (26%)
+   3. Willem II                      26/100 (26%)
+   4. Cambuur                        28/100 (28%)
+   5. FC Twente                      29/100 (29%)
+   6. PEC Zwolle                     29/100 (29%)
+   7. SC Heerenveen                  29/100 (29%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Go Ahead Eagles                19/50
-   2. Telstar                        19/42
-   3. Ajax                           20/50
-   4. FC Twente                      20/50
-   5. Excelsior                      23/42
-   6. PEC Zwolle                     23/50
-   7. Sparta Rotterdam               23/50
+   1. Go Ahead Eagles                42/100 (42%)
+   2. Ajax                           44/100 (44%)
+   3. PEC Zwolle                     44/100 (44%)
+   4. Sparta Rotterdam               44/100 (44%)
+   5. FC Utrecht                     45/100 (45%)
 
 ==================================================
 OLANDA - EERSTE DIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Jong AZ Alkmaar                14/50
-   2. FC Eindhoven                   17/50
-   3. Roda JC Kerkrade               17/50
-   4. MVV Maastricht                 18/50
-   5. Almere City FC                 19/48
+   1. FC Emmen                       32/100 (32%)
+   2. FC Eindhoven                   33/100 (33%)
+   3. VVV-Venlo                      34/100 (34%)
+   4. MVV Maastricht                 35/100 (35%)
+   5. Almere City FC                 36/100 (36%)
+   6. Heracles                       36/100 (36%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Jong Ajax                      13/50
-   2. VVV-Venlo                      13/50
-   3. FC Eindhoven                   14/50
-   4. Helmond Sport                  15/50
-   5. Almere City FC                 16/48
-   6. MVV Maastricht                 16/50
+   1. Jong Ajax                      23/100 (23%)
+   2. VVV-Venlo                      29/100 (29%)
+   3. Heracles                       31/100 (31%)
+   4. Helmond Sport                  32/100 (32%)
+   5. FC Eindhoven                   34/100 (34%)
+   6. FC Volendam                    34/100 (34%)
+   7. MVV Maastricht                 34/100 (34%)
+   8. TOP Oss                        34/100 (34%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Roda JC Kerkrade               15/50
-   2. MVV Maastricht                 18/50
-   3. FC Dordrecht                   20/50
-   4. FC Eindhoven                   21/50
-   5. FC Emmen                       21/50
-   6. Helmond Sport                  21/50
-   7. VVV-Venlo                      21/50
-   8. Vitesse                        21/50
+   1. FC Eindhoven                   33/100 (33%)
+   2. NAC Breda                      34/100 (34%)
+   3. Almere City FC                 35/100 (35%)
+   4. MVV Maastricht                 35/100 (35%)
+   5. FC Dordrecht                   36/100 (36%)
+   6. Roda JC Kerkrade               36/100 (36%)
+   7. TOP Oss                        36/100 (36%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Roda JC Kerkrade               12/50
-   2. Jong AZ Alkmaar                15/50
-   3. FC Dordrecht                   17/50
-   4. De Graafschap                  18/50
-   5. TOP Oss                        18/50
+   1. Roda JC Kerkrade               32/100 (32%)
+   2. Almere City FC                 35/100 (35%)
+   3. FC Den Bosch                   35/100 (35%)
+   4. FC Emmen                       35/100 (35%)
+   5. TOP Oss                        35/100 (35%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Helmond Sport                  11/50
-   2. Jong Ajax                      12/50
-   3. Jong PSV                       13/50
-   4. FC Den Bosch                   14/50
-   5. FC Eindhoven                   14/50
-   6. MVV Maastricht                 14/50
+   1. Helmond Sport                  20/100 (20%)
+   2. Jong Ajax                      20/100 (20%)
+   3. FC Volendam                    26/100 (26%)
+   4. TOP Oss                        26/100 (26%)
+   5. Almere City FC                 27/100 (27%)
+   6. Heracles                       27/100 (27%)
+   7. VVV-Venlo                      27/100 (27%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Roda JC Kerkrade               19/50
-   2. Helmond Sport                  24/50
-   3. MVV Maastricht                 25/50
-   4. RKC Waalwijk                   25/48
-   5. FC Dordrecht                   26/50
-   6. Jong Ajax                      26/50
+   1. NAC Breda                      42/100 (42%)
+   2. Roda JC Kerkrade               46/100 (46%)
+   3. Almere City FC                 50/100 (50%)
+   4. VVV-Venlo                      50/100 (50%)
+   5. FC Dordrecht                   51/100 (51%)
+   6. Helmond Sport                  51/100 (51%)
+   7. Jong Ajax                      51/100 (51%)
+   8. TOP Oss                        51/100 (51%)
 
 ==================================================
 SVIZZERA - SUPER LEAGUE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Basel                          18/50
-   2. St. Gallen                     19/50
-   3. Luzern                         20/50
-   4. Thun                           20/48
-   5. Grasshopper                    21/50
-   6. Lausanne                       21/50
-   7. Sion                           21/50
+   1. Lausanne                       38/100 (38%)
+   2. Thun                           38/100 (38%)
+   3. Basel                          40/100 (40%)
+   4. Lugano                         41/100 (41%)
+   5. FC Zürich                      43/100 (43%)
+   6. Grasshopper                    43/100 (43%)
+   7. Sion                           43/100 (43%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Thun                           17/48
-   2. Sion                           18/50
-   3. Basel                          19/50
-   4. Grasshopper                    20/50
-   5. FC Zürich                      21/50
-   6. Lausanne                       21/50
-   7. Lugano                         21/50
-   8. Servette                       21/50
+   1. FC Vaduz                       29/100 (29%)
+   2. Thun                           32/100 (32%)
+   3. Sion                           35/100 (35%)
+   4. Young Boys                     35/100 (35%)
+   5. FC Zürich                      36/100 (36%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Sion                           15/50
-   2. Servette                       18/50
-   3. Lugano                         19/50
-   4. Grasshopper                    21/50
-   5. Lausanne                       22/50
+   1. Sion                           30/100 (30%)
+   2. Grasshopper                    34/100 (34%)
+   3. Lausanne                       36/100 (36%)
+   4. Servette                       38/100 (38%)
+   5. Lugano                         40/100 (40%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Lugano                         17/50
-   2. St. Gallen                     17/50
-   3. Grasshopper                    18/50
-   4. Sion                           19/50
-   5. Thun                           19/48
+   1. Lugano                         32/100 (32%)
+   2. St. Gallen                     32/100 (32%)
+   3. Grasshopper                    34/100 (34%)
+   4. Basel                          36/100 (36%)
+   5. Lausanne                       36/100 (36%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Lugano                         12/50
-   2. Grasshopper                    14/50
-   3. Servette                       14/50
-   4. Sion                           15/50
-   5. Basel                          16/50
+   1. FC Vaduz                       22/100 (22%)
+   2. Grasshopper                    24/100 (24%)
+   3. Lugano                         24/100 (24%)
+   4. Servette                       25/100 (25%)
+   5. Sion                           26/100 (26%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Sion                           22/50
-   2. Servette                       23/50
-   3. Lugano                         25/50
-   4. Grasshopper                    26/50
-   5. Lausanne                       28/50
+   1. Grasshopper                    44/100 (44%)
+   2. Sion                           45/100 (45%)
+   3. Servette                       46/100 (46%)
+   4. Lausanne                       48/100 (48%)
+   5. Lugano                         48/100 (48%)
 
 ==================================================
 SVIZZERA - CHALLENGE LEAGUE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Wil                            15/50
-   2. FC Stade Lausanne-Ouchy        16/50
-   3. Etoile Carouge                 17/50
-   4. FC Rapperswil-Jona             17/46
-   5. Xamax                          18/50
-   6. Yverdon                        18/46
+   1. FC Rapperswil-Jona             17/46 (37%)
+   2. FC Stade Lausanne-Ouchy        38/100 (38%)
+   3. Wil                            38/100 (38%)
+   4. Stade Nyonnais                 39/100 (39%)
+   5. Winterthur                     39/100 (39%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. FC Rapperswil-Jona             13/46
-   2. FC Stade Lausanne-Ouchy        18/50
-   3. Yverdon                        18/46
-   4. Etoile Carouge                 19/50
-   5. Wil                            19/50
+   1. FC Rapperswil-Jona             13/46 (28%)
+   2. Kriens                         3/10 (30%)
+   3. Yverdon                        31/100 (31%)
+   4. Etoile Carouge                 27/82 (33%)
+   5. Stade Nyonnais                 33/100 (33%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. FC Stade Lausanne-Ouchy        14/50
-   2. Etoile Carouge                 18/50
-   3. Stade Nyonnais                 18/50
-   4. Wil                            18/50
-   5. Yverdon                        20/46
+   1. Kriens                         2/10 (20%)
+   2. FC Stade Lausanne-Ouchy        32/100 (32%)
+   3. Wil                            34/100 (34%)
+   4. Etoile Carouge                 31/82 (38%)
+   5. Stade Nyonnais                 38/100 (38%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Etoile Carouge                 15/50
-   2. FC Rapperswil-Jona             15/46
-   3. Wil                            15/50
-   4. FC Stade Lausanne-Ouchy        17/50
-   5. Stade Nyonnais                 17/50
+   1. FC Rapperswil-Jona             15/46 (33%)
+   2. FC Stade Lausanne-Ouchy        35/100 (35%)
+   3. Stade Nyonnais                 35/100 (35%)
+   4. Aarau                          36/100 (36%)
+   5. Etoile Carouge                 30/82 (37%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Stade Nyonnais                 13/50
-   2. FC Stade Lausanne-Ouchy        14/50
-   3. FC Rapperswil-Jona             15/46
-   4. Wil                            15/50
-   5. Etoile Carouge                 17/50
+   1. Kriens                         1/10 (10%)
+   2. Stade Nyonnais                 27/100 (27%)
+   3. Yverdon                        27/100 (27%)
+   4. FC Stade Lausanne-Ouchy        28/100 (28%)
+   5. Winterthur                     29/100 (29%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Stade Nyonnais                 22/50
-   2. Wil                            22/50
-   3. Etoile Carouge                 24/50
-   4. FC Stade Lausanne-Ouchy        25/50
-   5. Yverdon                        25/46
+   1. Kriens                         3/10 (30%)
+   2. Wil                            46/100 (46%)
+   3. Etoile Carouge                 40/82 (49%)
+   4. FC Stade Lausanne-Ouchy        49/100 (49%)
+   5. Yverdon                        51/100 (51%)
 
 ==================================================
 AUSTRIA - BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Altach                         17/50
-   2. Hartberg                       17/50
-   3. LASK                           17/50
-   4. Austria Wien                   18/50
-   5. Rapid Wien                     19/50
-   6. Ried                           19/43
-   7. Sturm Graz                     19/50
-   8. WSG Tirol                      19/50
+   1. Austria Lustenau               30/98 (31%)
+   2. LASK                           32/100 (32%)
+   3. Ried                           33/100 (33%)
+   4. WSG Tirol                      33/100 (33%)
+   5. Wolfsberger AC                 35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Ried                           12/43
-   2. Rapid Wien                     14/50
-   3. Altach                         15/50
-   4. Austria Wien                   15/50
-   5. LASK                           16/50
+   1. Ried                           25/100 (25%)
+   2. Austria Wien                   28/100 (28%)
+   3. Austria Lustenau               29/98 (30%)
+   4. Rapid Wien                     30/100 (30%)
+   5. LASK                           33/100 (33%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Altach                         10/50
-   2. Grazer AK                      13/50
-   3. Hartberg                       15/50
-   4. Sturm Graz                     17/50
-   5. LASK                           19/50
-   6. Rapid Wien                     19/50
-   7. Ried                           19/43
-   8. WSG Tirol                      19/50
+   1. Austria Lustenau               21/98 (21%)
+   2. Altach                         23/100 (23%)
+   3. Rapid Wien                     30/100 (30%)
+   4. Ried                           34/100 (34%)
+   5. Sturm Graz                     34/100 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Sturm Graz                     10/50
-   2. Hartberg                       13/50
-   3. WSG Tirol                      15/50
-   4. Altach                         16/50
-   5. Ried                           16/43
+   1. Austria Lustenau               23/98 (23%)
+   2. Hartberg                       28/100 (28%)
+   3. Sturm Graz                     28/100 (28%)
+   4. WSG Tirol                      28/100 (28%)
+   5. Altach                         31/100 (31%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Ried                           7/43
-   2. Rapid Wien                     9/50
-   3. Altach                         10/50
-   4. Sturm Graz                     11/50
-   5. Grazer AK                      13/50
-   6. Wolfsberger AC                 13/50
+   1. Rapid Wien                     18/100 (18%)
+   2. Ried                           20/100 (20%)
+   3. Austria Lustenau               22/98 (22%)
+   4. Altach                         23/100 (23%)
+   5. Austria Wien                   25/100 (25%)
+   6. Salzburg                       25/100 (25%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Altach                         16/50
-   2. Hartberg                       16/50
-   3. Sturm Graz                     19/50
-   4. Grazer AK                      21/50
-   5. Ried                           21/43
+   1. Altach                         34/100 (34%)
+   2. Austria Lustenau               35/98 (36%)
+   3. Hartberg                       43/100 (43%)
+   4. Rapid Wien                     44/100 (44%)
+   5. Sturm Graz                     44/100 (44%)
 
 ==================================================
 AUSTRIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. FC Hertha Wels                 12/36
-   2. Floridsdorfer AC               14/50
-   3. Austria Wien II                15/36
-   4. First Vienna FC                16/50
-   5. Austria Salzburg               17/36
-   6. Rapid Wien II                  17/50
+   1. FC Wacker Innsbruck            2/8 (25%)
+   2. Voitsberg                      12/38 (32%)
+   3. First Vienna FC                32/96 (33%)
+   4. FC Hertha Wels                 12/36 (33%)
+   5. Floridsdorfer AC               33/96 (34%)
+   6. SKN St. Pölten                 33/96 (34%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Austria Wien II                10/36
-   2. First Vienna FC                10/50
-   3. Austria Salzburg               11/36
-   4. Kapfenberger SV                11/50
-   5. Floridsdorfer AC               12/50
-   6. SKN St. Pölten                 12/50
+   1. Floridsdorfer AC               24/96 (25%)
+   2. BW Linz                        26/100 (26%)
+   3. First Vienna FC                25/96 (26%)
+   4. SKN St. Pölten                 25/96 (26%)
+   5. Austria Wien II                10/36 (28%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Floridsdorfer AC               10/50
-   2. Austria Salzburg               14/36
-   3. FC Hertha Wels                 14/36
-   4. Austria Wien II                15/36
-   5. Admira Wacker                  16/50
-   6. First Vienna FC                16/50
+   1. FC Wacker Innsbruck            1/8 (12%)
+   2. Floridsdorfer AC               25/96 (26%)
+   3. Admira Wacker                  31/96 (32%)
+   4. BW Linz                        37/100 (37%)
+   5. First Vienna FC                37/96 (39%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. FC Hertha Wels                 6/36
-   2. Austria Wien II                11/36
-   3. Floridsdorfer AC               12/50
-   4. Austria Salzburg               16/36
-   5. First Vienna FC                16/50
-   6. Rapid Wien II                  16/50
+   1. FC Hertha Wels                 6/36 (17%)
+   2. Floridsdorfer AC               27/96 (28%)
+   3. Austria Wien II                11/36 (31%)
+   4. Admira Wacker                  30/96 (31%)
+   5. Voitsberg                      12/38 (32%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Austria Salzburg               8/36
-   2. Austria Wien II                8/36
-   3. First Vienna FC                9/50
-   4. Floridsdorfer AC               9/50
-   5. FC Hertha Wels                 10/36
-   6. Kapfenberger SV                10/50
+   1. Floridsdorfer AC               18/96 (19%)
+   2. BW Linz                        19/100 (19%)
+   3. Austria Salzburg               8/36 (22%)
+   4. Austria Wien II                8/36 (22%)
+   5. First Vienna FC                24/96 (25%)
+   6. FC Wacker Innsbruck            2/8 (25%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Austria Salzburg               16/36
-   2. FC Hertha Wels                 16/36
-   3. Austria Wien II                17/36
-   4. Floridsdorfer AC               17/50
-   5. SKU Amstetten                  20/50
+   1. Floridsdorfer AC               35/96 (36%)
+   2. FC Wacker Innsbruck            3/8 (38%)
+   3. Admira Wacker                  42/96 (44%)
+   4. Austria Salzburg               16/36 (44%)
+   5. FC Hertha Wels                 16/36 (44%)
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. FC Porto                       12/50
-   2. Nacional                       15/50
-   3. Santa Clara                    15/50
-   4. Vitória de Guimarães           16/50
-   5. Estrela da Amadora             17/50
+   1. Santa Clara                    27/100 (27%)
+   2. FC Porto                       29/100 (29%)
+   3. Vitória de Guimarães           34/100 (34%)
+   4. Casa Pia AC                    35/100 (35%)
+   5. Estrela da Amadora             35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Vitória de Guimarães           10/50
-   2. FC Porto                       13/50
-   3. Moreirense                     13/50
-   4. Arouca                         14/50
-   5. Casa Pia AC                    14/50
+   1. Moreirense                     24/100 (24%)
+   2. FC Porto                       26/100 (26%)
+   3. Santa Clara                    29/100 (29%)
+   4. Casa Pia AC                    30/100 (30%)
+   5. Gil Vicente                    30/100 (30%)
+   6. Nacional                       30/100 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Estrela da Amadora             11/50
-   2. Gil Vicente                    11/50
-   3. Rio Ave                        11/50
-   4. Santa Clara                    11/50
-   5. Famalicão                      13/50
+   1. Estrela da Amadora             21/100 (21%)
+   2. Rio Ave                        21/100 (21%)
+   3. Gil Vicente                    24/100 (24%)
+   4. Famalicão                      26/100 (26%)
+   5. Santa Clara                    26/100 (26%)
+   6. Vitória de Guimarães           26/100 (26%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Santa Clara                    11/50
-   2. Alverca                        12/41
-   3. Nacional                       13/50
-   4. Casa Pia AC                    16/50
-   5. FC Porto                       16/50
-   6. Gil Vicente                    16/50
-   7. Vitória de Guimarães           16/50
+   1. Santa Clara                    20/100 (20%)
+   2. Marítimo                       23/100 (23%)
+   3. Alverca                        30/100 (30%)
+   4. Famalicão                      30/100 (30%)
+   5. Casa Pia AC                    31/100 (31%)
+   6. Vitória de Guimarães           31/100 (31%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Vitória de Guimarães           7/50
-   2. Casa Pia AC                    9/50
-   3. Santa Clara                    10/50
-   4. Alverca                        12/41
-   5. Famalicão                      12/50
-   6. Gil Vicente                    12/50
-   7. Moreirense                     12/50
+   1. Gil Vicente                    18/100 (18%)
+   2. Moreirense                     19/100 (19%)
+   3. Santa Clara                    19/100 (19%)
+   4. Académico Viseu                20/100 (20%)
+   5. Casa Pia AC                    21/100 (21%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Santa Clara                    13/50
-   2. Alverca                        18/41
-   3. Estrela da Amadora             18/50
-   4. Gil Vicente                    18/50
-   5. Casa Pia AC                    19/50
-   6. Famalicão                      19/50
-   7. Nacional                       19/50
+   1. Santa Clara                    29/100 (29%)
+   2. Estrela da Amadora             35/100 (35%)
+   3. Rio Ave                        35/100 (35%)
+   4. Académico Viseu                37/100 (37%)
+   5. Famalicão                      37/100 (37%)
+   6. Vitória de Guimarães           37/100 (37%)
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Sporting CP B                  8/41
-   2. FC Porto B                     11/50
-   3. Farense                        13/41
-   4. Chaves                         14/50
-   5. Feirense                       14/50
-   6. Torreense                      14/50
+   1. Sporting CP B                  28/100 (28%)
+   2. Amarante FC                    21/71 (30%)
+   3. Torreense                      31/100 (31%)
+   4. Chaves                         32/100 (32%)
+   5. Farense                        32/100 (32%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Sporting CP B                  8/41
-   2. Farense                        9/41
-   3. Penafiel                       12/50
-   4. Chaves                         14/50
-   5. Torreense                      14/50
+   1. Penafiel                       27/100 (27%)
+   2. Sporting CP B                  27/100 (27%)
+   3. Feirense                       28/100 (28%)
+   4. Amarante FC                    21/71 (30%)
+   5. Torreense                      30/100 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Vizela                         11/50
-   2. Farense                        12/41
-   3. Felgueiras 1932                12/50
-   4. Chaves                         14/50
-   5. Sporting CP B                  14/41
-   6. Torreense                      14/50
+   1. Tondela                        23/100 (23%)
+   2. Felgueiras 1932                24/100 (24%)
+   3. AVS Futebol SAD                28/100 (28%)
+   4. Vizela                         28/100 (28%)
+   5. Amarante FC                    22/71 (31%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Sporting CP B                  9/41
-   2. Farense                        10/41
-   3. Vizela                         11/50
-   4. Benfica B                      12/50
-   5. FC Porto B                     12/50
-   6. Feirense                       12/50
-   7. Felgueiras 1932                12/50
-   8. Portimonense                   12/50
+   1. Amarante FC                    15/71 (21%)
+   2. Felgueiras 1932                22/100 (22%)
+   3. Farense                        23/100 (23%)
+   4. Leixões                        24/100 (24%)
+   5. União de Leiria                24/100 (24%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Farense                        6/41
-   2. Felgueiras 1932                9/50
-   3. Penafiel                       9/50
-   4. Sporting CP B                  9/41
-   5. Chaves                         10/50
+   1. Penafiel                       17/100 (17%)
+   2. Feirense                       18/100 (18%)
+   3. Felgueiras 1932                19/100 (19%)
+   4. Sporting CP B                  21/100 (21%)
+   5. Amarante FC                    15/71 (21%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Felgueiras 1932                15/50
-   2. Farense                        16/41
-   3. Chaves                         17/50
-   4. Vizela                         17/50
-   5. Sporting CP B                  18/41
+   1. Felgueiras 1932                31/100 (31%)
+   2. Tondela                        32/100 (32%)
+   3. Amarante FC                    24/71 (34%)
+   4. União de Leiria                37/100 (37%)
+   5. Académica                      38/99 (38%)
 
 ==================================================
 NORVEGIA - ELITESERIEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Tromsø                         14/50
-   2. Bodø/Glimt                     16/50
-   3. Hamarkameratene                20/50
-   4. Rosenborg                      20/50
-   5. Sandefjord                     20/50
+   1. Tromsø                         29/100 (29%)
+   2. Lillestrøm                     34/100 (34%)
+   3. Hamarkameratene                37/100 (37%)
+   4. Bodø/Glimt                     38/100 (38%)
+   5. KFUM                           38/100 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Sandefjord                     13/50
-   2. Molde                          14/50
-   3. Rosenborg                      14/50
-   4. Vålerenga                      15/50
-   5. Fredrikstad                    16/50
-   6. Kristiansund                   16/50
-   7. Tromsø                         16/50
+   1. Sandefjord                     27/100 (27%)
+   2. Tromsø                         27/100 (27%)
+   3. Lillestrøm                     28/100 (28%)
+   4. Brann                          31/100 (31%)
+   5. Fredrikstad                    31/100 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Rosenborg                      14/50
-   2. Fredrikstad                    16/50
-   3. KFUM                           18/50
-   4. Hamarkameratene                19/50
-   5. Tromsø                         20/50
+   1. Hamarkameratene                30/100 (30%)
+   2. Fredrikstad                    31/100 (31%)
+   3. KFUM                           37/100 (37%)
+   4. Kristiansund                   39/100 (39%)
+   5. Rosenborg                      39/100 (39%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Tromsø                         14/50
-   2. Fredrikstad                    16/50
-   3. KFUM                           17/50
-   4. Kristiansund                   19/50
-   5. Sandefjord                     19/50
+   1. KFUM                           28/100 (28%)
+   2. Fredrikstad                    34/100 (34%)
+   3. Tromsø                         34/100 (34%)
+   4. Kristiansund                   37/100 (37%)
+   5. Hamarkameratene                38/100 (38%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Fredrikstad                    7/50
-   2. Rosenborg                      9/50
-   3. Vålerenga                      10/50
-   4. Sandefjord                     11/50
-   5. KFUM                           13/50
-   6. Kristiansund                   13/50
-   7. Tromsø                         13/50
+   1. Fredrikstad                    21/100 (21%)
+   2. Rosenborg                      24/100 (24%)
+   3. Sandefjord                     24/100 (24%)
+   4. Tromsø                         24/100 (24%)
+   5. Kristiansund                   26/100 (26%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Fredrikstad                    21/50
-   2. KFUM                           22/50
-   3. Rosenborg                      24/50
-   4. Tromsø                         25/50
-   5. Kristiansund                   26/50
-   6. Sandefjord                     26/50
-   7. Vålerenga                      26/50
+   1. Fredrikstad                    43/100 (43%)
+   2. KFUM                           43/100 (43%)
+   3. Hamarkameratene                49/100 (49%)
+   4. Kristiansund                   49/100 (49%)
+   5. Aalesund                       52/100 (52%)
+   6. Tromsø                         52/100 (52%)
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Egersund                       20/50
-   2. Lyn                            20/50
-   3. Raufoss                        21/50
-   4. Odds Ballklubb                 22/50
-   5. Stabæk                         23/50
-   6. Åsane                          23/50
+   1. FK Haugesund                   34/100 (34%)
+   2. Sandnes Ulf                    36/100 (36%)
+   3. Strømsgodset                   37/100 (37%)
+   4. Bryne                          38/100 (38%)
+   5. Strømmen                       38/100 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Egersund                       14/50
-   2. Lyn                            16/50
-   3. Hødd                           17/50
-   4. Ranheim                        20/50
-   5. Raufoss                        20/50
-   6. Sogndal                        20/50
+   1. Bryne                          25/100 (25%)
+   2. FK Haugesund                   27/100 (27%)
+   3. Hødd                           29/100 (29%)
+   4. Strømsgodset                   32/100 (32%)
+   5. Egersund                       34/100 (34%)
+   6. Sandnes Ulf                    34/100 (34%)
+   7. Strømmen                       34/100 (34%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Egersund                       16/50
-   2. Stabæk                         19/50
-   3. Åsane                          20/50
-   4. Lyn                            22/50
-   5. Odds Ballklubb                 23/50
+   1. Sandnes Ulf                    36/100 (36%)
+   2. Bryne                          37/100 (37%)
+   3. Stabæk                         38/100 (38%)
+   4. Strømsgodset                   41/100 (41%)
+   5. Hødd                           42/100 (42%)
+   6. Åsane                          42/100 (42%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Lyn                            17/50
-   2. Odds Ballklubb                 19/50
-   3. Egersund                       20/50
-   4. Raufoss                        22/50
-   5. Sogndal                        22/50
+   1. Raufoss                        34/100 (34%)
+   2. Strømsgodset                   34/100 (34%)
+   3. Bryne                          35/100 (35%)
+   4. FK Haugesund                   35/100 (35%)
+   5. Lyn                            37/100 (37%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Hødd                           13/50
-   2. Egersund                       14/50
-   3. Ranheim                        17/50
-   4. Raufoss                        17/50
-   5. Lyn                            18/50
-   6. Odds Ballklubb                 18/50
-   7. Sogndal                        18/50
+   1. Bryne                          19/100 (19%)
+   2. Hødd                           22/100 (22%)
+   3. FK Haugesund                   29/100 (29%)
+   4. Raufoss                        29/100 (29%)
+   5. Sandnes Ulf                    29/100 (29%)
+   6. Strømsgodset                   29/100 (29%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Odds Ballklubb                 25/50
-   2. Egersund                       26/50
-   3. Åsane                          26/50
-   4. Stabæk                         27/50
-   5. Sogndal                        28/50
+   1. Bryne                          48/100 (48%)
+   2. Hødd                           51/100 (51%)
+   3. Odds Ballklubb                 51/100 (51%)
+   4. Sogndal                        53/100 (53%)
+   5. Strømsgodset                   53/100 (53%)
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Brøndby IF                     15/50
-   2. Randers FC                     16/50
-   3. FC København                   17/50
-   4. Nordsjælland                   18/50
-   5. OB                             20/42
+   1. AC Horsens                     32/100 (32%)
+   2. Randers FC                     39/100 (39%)
+   3. Brøndby IF                     40/100 (40%)
+   4. FC København                   40/100 (40%)
+   5. Sønderjyske                    40/100 (40%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Brøndby IF                     12/50
-   2. Nordsjælland                   14/50
-   3. Randers FC                     14/50
-   4. Viborg                         16/50
-   5. Sønderjyske                    17/50
+   1. Nordsjælland                   31/100 (31%)
+   2. Viborg                         32/100 (32%)
+   3. Brøndby IF                     34/100 (34%)
+   4. Lyngby                         36/100 (36%)
+   5. AC Horsens                     37/100 (37%)
+   6. FC København                   37/100 (37%)
+   7. Randers FC                     37/100 (37%)
+   8. Sønderjyske                    37/100 (37%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Nordsjælland                   18/50
-   2. Silkeborg                      18/50
-   3. Brøndby IF                     19/50
-   4. OB                             20/42
-   5. Randers FC                     20/50
+   1. Lyngby                         34/100 (34%)
+   2. Silkeborg                      34/100 (34%)
+   3. Brøndby IF                     36/100 (36%)
+   4. AC Horsens                     37/100 (37%)
+   5. Randers FC                     38/100 (38%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Randers FC                     15/50
-   2. Brøndby IF                     16/50
-   3. OB                             16/42
-   4. AGF                            18/50
-   5. Silkeborg                      18/50
+   1. AC Horsens                     26/100 (26%)
+   2. OB                             31/100 (31%)
+   3. Randers FC                     33/100 (33%)
+   4. AGF                            34/100 (34%)
+   5. Brøndby IF                     36/100 (36%)
+   6. Lyngby                         36/100 (36%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Brøndby IF                     12/50
-   2. Nordsjælland                   12/50
-   3. Sønderjyske                    14/50
-   4. Viborg                         14/50
-   5. FC Midtjylland                 15/50
-   6. OB                             15/42
+   1. Nordsjælland                   20/100 (20%)
+   2. Lyngby                         25/100 (25%)
+   3. AGF                            27/100 (27%)
+   4. Viborg                         27/100 (27%)
+   5. AC Horsens                     30/100 (30%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. OB                             23/42
-   2. Viborg                         23/50
-   3. Brøndby IF                     24/50
-   4. AGF                            25/50
-   5. FC Midtjylland                 25/50
-   6. Sønderjyske                    25/50
+   1. Lyngby                         41/100 (41%)
+   2. AC Horsens                     44/100 (44%)
+   3. AGF                            45/100 (45%)
+   4. Brøndby IF                     46/100 (46%)
+   5. Randers FC                     47/100 (47%)
 
 ==================================================
 DANIMARCA - 1. DIVISION
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Aarhus Fremad                  17/42
-   2. Hobro                          17/50
-   3. AaB                            20/42
-   4. Esbjerg fB                     23/50
-   5. HB Køge                        23/50
-   6. Kolding IF                     23/50
+   1. Fredericia                     33/100 (33%)
+   2. Aarhus Fremad                  34/100 (34%)
+   3. AB                             35/100 (35%)
+   4. Kolding IF                     36/100 (36%)
+   5. Hobro                          37/100 (37%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Aarhus Fremad                  13/42
-   2. HB Køge                        14/50
-   3. Esbjerg fB                     15/50
-   4. AaB                            17/42
-   5. Hillerød                       18/50
-   6. Hobro                          18/50
-   7. Kolding IF                     18/50
+   1. Vendsyssel FF                  28/100 (28%)
+   2. HB Køge                        29/100 (29%)
+   3. Aarhus Fremad                  30/100 (30%)
+   4. Esbjerg fB                     30/100 (30%)
+   5. Fredericia                     34/100 (34%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. AaB                            11/42
-   2. Aarhus Fremad                  14/42
-   3. Hobro                          15/50
-   4. HB Køge                        17/50
-   5. Kolding IF                     17/50
+   1. Aarhus Fremad                  32/100 (32%)
+   2. Fredericia                     33/100 (33%)
+   3. Hillerød                       33/100 (33%)
+   4. Kolding IF                     33/100 (33%)
+   5. AaB                            34/100 (34%)
+   6. Hvidovre                       34/100 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Hobro                          13/50
-   2. Aarhus Fremad                  16/42
-   3. Hvidovre                       16/50
-   4. Kolding IF                     17/50
-   5. AaB                            18/42
+   1. Hobro                          26/100 (26%)
+   2. Hvidovre                       29/100 (29%)
+   3. Kolding IF                     29/100 (29%)
+   4. Fredericia                     31/100 (31%)
+   5. Aarhus Fremad                  32/100 (32%)
+   6. Vejle Boldklub                 32/100 (32%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Esbjerg fB                     9/50
-   2. HB Køge                        10/50
-   3. Hillerød                       10/50
-   4. Kolding IF                     10/50
-   5. Aarhus Fremad                  11/42
+   1. HB Køge                        23/100 (23%)
+   2. Kolding IF                     24/100 (24%)
+   3. Aarhus Fremad                  25/100 (25%)
+   4. Vendsyssel FF                  25/100 (25%)
+   5. Esbjerg fB                     27/100 (27%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. AaB                            17/42
-   2. Aarhus Fremad                  17/42
-   3. Hobro                          20/50
-   4. HB Køge                        21/50
-   5. Hvidovre                       21/50
-   6. Kolding IF                     21/50
+   1. Hvidovre                       41/100 (41%)
+   2. Aarhus Fremad                  43/100 (43%)
+   3. Hobro                          43/100 (43%)
+   4. Kolding IF                     43/100 (43%)
+   5. Hillerød                       44/100 (44%)
+   6. Vejle Boldklub                 44/100 (44%)
 
 ==================================================
 SVEZIA - ALLSVENSKAN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. IFK Göteborg                   13/50
-   2. Degerfors                      14/50
-   3. Djurgården                     14/50
-   4. Halmstads BK                   14/50
-   5. Elfsborg                       17/50
-   6. Malmö FF                       17/50
-   7. Mjällby                        17/50
+   1. Djurgården                     26/100 (26%)
+   2. Halmstads BK                   31/100 (31%)
+   3. Västerås SK                    31/100 (31%)
+   4. Degerfors                      33/100 (33%)
+   5. IFK Göteborg                   33/100 (33%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. GAIS                           14/50
-   2. Halmstads BK                   15/50
-   3. Hammarby                       15/50
-   4. AIK                            18/50
-   5. Djurgården                     18/50
-   6. Elfsborg                       18/50
-   7. IFK Göteborg                   18/50
+   1. GAIS                           24/100 (24%)
+   2. Halmstads BK                   26/100 (26%)
+   3. Hammarby                       27/100 (27%)
+   4. Kalmar FF                      30/100 (30%)
+   5. Västerås SK                    30/100 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. GAIS                           12/50
-   2. Halmstads BK                   13/50
-   3. Degerfors                      16/50
-   4. Djurgården                     16/50
-   5. Häcken                         16/50
-   6. Mjällby                        16/50
+   1. GAIS                           29/100 (29%)
+   2. Halmstads BK                   29/100 (29%)
+   3. Hammarby                       31/100 (31%)
+   4. Djurgården                     32/100 (32%)
+   5. IFK Göteborg                   33/100 (33%)
+   6. Västerås SK                    33/100 (33%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Degerfors                      10/50
-   2. Halmstads BK                   11/50
-   3. Mjällby                        11/50
-   4. Djurgården                     12/50
-   5. IFK Göteborg                   13/50
+   1. Degerfors                      21/100 (21%)
+   2. Djurgården                     22/100 (22%)
+   3. IFK Göteborg                   25/100 (25%)
+   4. Mjällby                        25/100 (25%)
+   5. Halmstads BK                   30/100 (30%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. GAIS                           8/50
-   2. Halmstads BK                   10/50
-   3. Hammarby                       10/50
-   4. Mjällby                        12/50
-   5. Djurgården                     13/50
+   1. GAIS                           18/100 (18%)
+   2. Halmstads BK                   20/100 (20%)
+   3. Hammarby                       24/100 (24%)
+   4. AIK                            25/100 (25%)
+   5. Västerås SK                    25/100 (25%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. GAIS                           20/50
-   2. Halmstads BK                   21/50
-   3. Mjällby                        21/50
-   4. Häcken                         22/50
-   5. Djurgården                     23/50
-   6. Elfsborg                       23/50
+   1. IFK Göteborg                   43/100 (43%)
+   2. Djurgården                     44/100 (44%)
+   3. Halmstads BK                   44/100 (44%)
+   4. Degerfors                      45/100 (45%)
+   5. GAIS                           45/100 (45%)
 
 ==================================================
 SVEZIA - SUPERETTAN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. GIF Sundsvall                  17/50
-   2. IK Oddevold                    19/50
-   3. Landskrona BoIS                19/50
-   4. Helsingborg                    20/50
-   5. Östersunds FK                  20/50
+   1. GIF Sundsvall                  32/100 (32%)
+   2. Helsingborg                    35/100 (35%)
+   3. IFK Värnamo                    35/100 (35%)
+   4. Östers IF                      35/100 (35%)
+   5. IFK Norrköping                 38/100 (38%)
+   6. IK Brage                       38/100 (38%)
+   7. Landskrona BoIS                38/100 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. GIF Sundsvall                  14/50
-   2. Sandvikens IF                  15/50
-   3. Helsingborg                    17/50
-   4. Falkenbergs FF                 18/50
-   5. Östersunds FK                  18/50
+   1. Sandvikens IF                  25/85 (29%)
+   2. Örebro                         30/100 (30%)
+   3. GIF Sundsvall                  32/100 (32%)
+   4. Helsingborg                    32/100 (32%)
+   5. IFK Norrköping                 32/100 (32%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Östersunds FK                  12/50
-   2. Sandvikens IF                  17/50
-   3. GIF Sundsvall                  19/50
-   4. Helsingborg                    19/50
-   5. Landskrona BoIS                19/50
+   1. Norrby                         7/26 (27%)
+   2. Östersunds FK                  29/100 (29%)
+   3. IK Brage                       32/100 (32%)
+   4. GIF Sundsvall                  34/100 (34%)
+   5. Helsingborg                    35/100 (35%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Landskrona BoIS                14/50
-   2. Östersunds FK                  15/50
-   3. GIF Sundsvall                  16/50
-   4. IK Oddevold                    16/50
-   5. Helsingborg                    18/50
+   1. Nordic United FC               7/26 (27%)
+   2. IFK Värnamo                    27/100 (27%)
+   3. GIF Sundsvall                  30/100 (30%)
+   4. Östers IF                      30/100 (30%)
+   5. Helsingborg                    32/100 (32%)
+   6. Ljungskile                     8/25 (32%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Östersunds FK                  9/50
-   2. Sandvikens IF                  11/50
-   3. GIF Sundsvall                  12/50
-   4. Örebro                         12/50
-   5. Helsingborg                    14/50
-   6. Varbergs BoIS FC               14/50
+   1. Örebro                         18/100 (18%)
+   2. Östersunds FK                  18/100 (18%)
+   3. GIF Sundsvall                  24/100 (24%)
+   4. Sandvikens IF                  21/85 (25%)
+   5. IFK Norrköping                 26/100 (26%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Östersunds FK                  16/50
-   2. Helsingborg                    22/50
-   3. IK Oddevold                    22/50
-   4. Landskrona BoIS                23/50
-   5. Örebro                         23/50
+   1. Norrby                         7/26 (27%)
+   2. Östersunds FK                  33/100 (33%)
+   3. Ljungskile                     9/25 (36%)
+   4. Nordic United FC               11/26 (42%)
+   5. IK Brage                       43/100 (43%)
 
 ==================================================
 REP. CECA - 1. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Bohemians 1905                 13/50
-   2. Sigma Olomouc                  13/50
-   3. Baník Ostrava                  14/50
-   4. Slovan Liberec                 15/50
-   5. Hradec Králové                 16/50
-   6. Jablonec                       16/50
-   7. Teplice                        16/50
+   1. Baník Ostrava                  30/100 (30%)
+   2. Bohemians 1905                 31/100 (31%)
+   3. Hradec Králové                 32/100 (32%)
+   4. Jablonec                       32/100 (32%)
+   5. Slavia Prague                  32/100 (32%)
+   6. Viktoria Plzeň                 32/100 (32%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Sparta Prague                  10/50
-   2. Baník Ostrava                  11/50
-   3. Hradec Králové                 13/50
-   4. Slavia Prague                  13/50
-   5. FC Zlín                        14/45
-   6. Jablonec                       14/50
-   7. Slovan Liberec                 14/50
+   1. Slavia Prague                  24/100 (24%)
+   2. Jablonec                       26/100 (26%)
+   3. Baník Ostrava                  27/100 (27%)
+   4. Hradec Králové                 28/100 (28%)
+   5. Slovan Liberec                 29/100 (29%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Baník Ostrava                  13/50
-   2. Slovan Liberec                 13/50
-   3. Slovácko                       13/50
-   4. Bohemians 1905                 14/50
-   5. Teplice                        14/50
+   1. Bohemians 1905                 28/100 (28%)
+   2. Slovan Liberec                 29/100 (29%)
+   3. Hradec Králové                 30/100 (30%)
+   4. Slovácko                       30/100 (30%)
+   5. Teplice                        30/100 (30%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Bohemians 1905                 11/50
-   2. Slovan Liberec                 11/50
-   3. Baník Ostrava                  13/50
-   4. Teplice                        13/50
-   5. FC Zlín                        14/45
-   6. Hradec Králové                 14/50
-   7. Jablonec                       14/50
-   8. Pardubice                      14/50
+   1. Artis Brno                     24/100 (24%)
+   2. Bohemians 1905                 25/100 (25%)
+   3. Hradec Králové                 28/100 (28%)
+   4. Teplice                        28/100 (28%)
+   5. Pardubice                      29/100 (29%)
+   6. Slovan Liberec                 29/100 (29%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Jablonec                       9/50
-   2. Baník Ostrava                  10/50
-   3. Slovan Liberec                 10/50
-   4. FC Zlín                        11/45
-   5. Hradec Králové                 11/50
-   6. Slavia Prague                  11/50
-   7. Slovácko                       11/50
+   1. Jablonec                       18/100 (18%)
+   2. FC Zlín                        20/100 (20%)
+   3. Hradec Králové                 20/100 (20%)
+   4. Slovan Liberec                 21/100 (21%)
+   5. Teplice                        22/100 (22%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Bohemians 1905                 17/50
-   2. Slovan Liberec                 17/50
-   3. Slovácko                       18/50
-   4. Teplice                        18/50
-   5. Baník Ostrava                  19/50
+   1. Bohemians 1905                 33/100 (33%)
+   2. Teplice                        38/100 (38%)
+   3. Hradec Králové                 40/100 (40%)
+   4. Slovan Liberec                 40/100 (40%)
+   5. Slovácko                       40/100 (40%)
 
 ==================================================
 REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Hanácká Slavia Kromeriz        12/40
-   2. Příbram                        12/40
-   3. Baník Ostrava B                14/50
-   4. FC Silon Táborsko              19/50
-   5. Opava                          19/50
-   6. Ústí nad Labem                 19/40
+   1. Baník Ostrava B                18/69 (26%)
+   2. Karviná                        31/100 (31%)
+   3. Dukla Praha                    32/100 (32%)
+   4. Příbram                        24/70 (34%)
+   5. Hanácká Slavia Kromeriz        26/70 (37%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Hanácká Slavia Kromeriz        12/40
-   2. Ústí nad Labem                 12/40
-   3. Opava                          13/50
-   4. Příbram                        13/40
-   5. FC Vlašim                      14/50
-   6. Žižkov                         14/50
+   1. Příbram                        19/70 (27%)
+   2. FC Silon Táborsko              28/100 (28%)
+   3. Opava                          28/100 (28%)
+   4. Hanácká Slavia Kromeriz        21/70 (30%)
+   5. Ústí nad Labem                 12/40 (30%)
+   6. Třinec                         3/10 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Příbram                        11/40
-   2. Opava                          12/50
-   3. Baník Ostrava B                15/50
-   4. Vysočina Jihlava               15/50
-   5. Hanácká Slavia Kromeriz        16/40
+   1. Kladno                         2/10 (20%)
+   2. Opava                          30/100 (30%)
+   3. FC Vlašim                      32/100 (32%)
+   4. Příbram                        23/70 (33%)
+   5. Dukla Praha                    33/100 (33%)
+   6. Vysočina Jihlava               33/100 (33%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Příbram                        9/40
-   2. Hanácká Slavia Kromeriz        13/40
-   3. Baník Ostrava B                14/50
-   4. SK Prostějov                   15/50
-   5. FC Silon Táborsko              16/50
+   1. Dukla Praha                    27/100 (27%)
+   2. Příbram                        19/70 (27%)
+   3. Baník Ostrava B                19/69 (28%)
+   4. Česká Lípa                     3/10 (30%)
+   5. FC Silon Táborsko              32/100 (32%)
+   6. Karviná                        32/100 (32%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. FC Vlašim                      6/50
-   2. Vysočina Jihlava               9/50
-   3. Ústí nad Labem                 9/40
-   4. Hanácká Slavia Kromeriz        11/40
-   5. Opava                          11/50
+   1. Vysočina Jihlava               18/100 (18%)
+   2. Kladno                         2/10 (20%)
+   3. Třinec                         2/10 (20%)
+   4. Opava                          21/100 (21%)
+   5. FC Silon Táborsko              22/100 (22%)
+   6. FC Vlašim                      22/100 (22%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Příbram                        13/40
-   2. Opava                          16/50
-   3. FC Vlašim                      20/50
-   4. Hanácká Slavia Kromeriz        20/40
-   5. SK Prostějov                   20/50
+   1. Kladno                         3/10 (30%)
+   2. Příbram                        25/70 (36%)
+   3. FC Vlašim                      36/100 (36%)
+   4. Opava                          36/100 (36%)
+   5. Česká Lípa                     4/10 (40%)
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Spartak Trnava                 16/50
-   2. Trenčín                        17/50
-   3. Slovan Bratislava              18/50
-   4. Zeleziarne Podbrezová          18/50
-   5. Zemplín Michalovce             18/50
+   1. Spartak Trnava                 27/100 (27%)
+   2. Komárno                        32/100 (32%)
+   3. Trenčín                        34/100 (34%)
+   4. Dukla Banská Bystrica          35/100 (35%)
+   5. Skalica                        35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Trenčín                        12/50
-   2. DAC 1904 Dunajska Streda       13/50
-   3. Skalica                        13/50
-   4. Spartak Trnava                 16/50
-   5. Zemplín Michalovce             17/50
-   6. Žilina                         17/50
+   1. Skalica                        27/100 (27%)
+   2. Trenčín                        27/100 (27%)
+   3. DAC 1904 Dunajska Streda       28/100 (28%)
+   4. Zemplín Michalovce             29/100 (29%)
+   5. Spartak Trnava                 33/100 (33%)
+   6. Zeleziarne Podbrezová          33/100 (33%)
+   7. Žilina                         33/100 (33%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Ružomberok                     16/50
-   2. Skalica                        18/50
-   3. Spartak Trnava                 18/50
-   4. DAC 1904 Dunajska Streda       19/50
-   5. Komárno                        19/50
-   6. Trenčín                        19/50
+   1. Spartak Trnava                 32/100 (32%)
+   2. DAC 1904 Dunajska Streda       34/100 (34%)
+   3. Ružomberok                     34/100 (34%)
+   4. Trenčín                        35/100 (35%)
+   5. Dukla Banská Bystrica          36/100 (36%)
+   6. Skalica                        36/100 (36%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Komárno                        10/50
-   2. Skalica                        16/50
-   3. Zemplín Michalovce             16/50
-   4. Trenčín                        17/50
-   5. Ružomberok                     18/50
-   6. Slovan Bratislava              18/50
-   7. Spartak Trnava                 18/50
+   1. Komárno                        24/100 (24%)
+   2. Spartak Trnava                 27/100 (27%)
+   3. Skalica                        28/100 (28%)
+   4. Trenčín                        30/100 (30%)
+   5. Dukla Banská Bystrica          31/100 (31%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Skalica                        8/50
-   2. Ružomberok                     12/50
-   3. DAC 1904 Dunajska Streda       14/50
-   4. Trenčín                        14/50
-   5. Zemplín Michalovce             14/50
+   1. Skalica                        20/100 (20%)
+   2. Zemplín Michalovce             21/100 (21%)
+   3. Ružomberok                     23/100 (23%)
+   4. DAC 1904 Dunajska Streda       27/100 (27%)
+   5. FC Košice                      27/100 (27%)
+   6. Trenčín                        27/100 (27%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Skalica                        20/50
-   2. Komárno                        21/50
-   3. Ružomberok                     22/50
-   4. Trenčín                        25/50
-   5. Zemplín Michalovce             26/50
+   1. Ružomberok                     42/100 (42%)
+   2. Skalica                        42/100 (42%)
+   3. Trenčín                        45/100 (45%)
+   4. Dukla Banská Bystrica          46/100 (46%)
+   5. Komárno                        46/100 (46%)
+   6. Zemplín Michalovce             46/100 (46%)
 
 ==================================================
 SLOVACCHIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Inter Bratislava               17/42
-   2. FC Petržalka 1898              18/50
-   3. Žilina B                       19/50
-   4. MFK Zvolen                     20/50
-   5. FC STK 1914 Šamorín            21/50
+   1. Slovan Galanta                 3/12 (25%)
+   2. FC Petržalka 1898              33/98 (34%)
+   3. Humenné                        25/68 (37%)
+   4. Tatran Prešov                  37/99 (37%)
+   5. Zlaté Moravce                  38/99 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Inter Bratislava               13/42
-   2. FC Petržalka 1898              15/50
-   3. FK Pohronie                    15/50
-   4. Malženice                      16/50
-   5. Žilina B                       16/50
+   1. MFK Bytca                      2/12 (17%)
+   2. Tatran Prešov                  24/99 (24%)
+   3. Malženice                      26/97 (27%)
+   4. Humenné                        19/68 (28%)
+   5. Žilina B                       28/98 (29%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Inter Bratislava               12/42
-   2. FC Petržalka 1898              15/50
-   3. Liptovský Mikuláš              17/50
-   4. Baník Lehota pod Vtacnikom     18/42
-   5. Slovan Bratislava B            18/50
+   1. Inter Bratislava               12/42 (29%)
+   2. Humenné                        20/68 (29%)
+   3. FC Petržalka 1898              32/98 (33%)
+   4. Tatran Prešov                  33/99 (33%)
+   5. Zlaté Moravce                  34/99 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. FC STK 1914 Šamorín            13/50
-   2. FC Petržalka 1898              14/50
-   3. MFK Zvolen                     15/50
-   4. Žilina B                       16/50
-   5. Inter Bratislava               17/42
+   1. Slovan Galanta                 3/12 (25%)
+   2. FC Petržalka 1898              28/98 (29%)
+   3. Humenné                        21/68 (31%)
+   4. MFK Zvolen                     22/68 (32%)
+   5. FC STK 1914 Šamorín            35/98 (36%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. FC Petržalka 1898              8/50
-   2. Považská Bystrica              10/50
-   3. Inter Bratislava               11/42
-   4. FC STK 1914 Šamorín            12/50
-   5. FK Pohronie                    12/50
+   1. Humenné                        9/68 (13%)
+   2. Tatran Prešov                  20/99 (20%)
+   3. FC Petržalka 1898              20/98 (20%)
+   4. Malženice                      20/97 (21%)
+   5. Považská Bystrica              21/98 (21%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Baník Lehota pod Vtacnikom     18/42
-   2. Inter Bratislava               18/42
-   3. Slovan Bratislava B            21/50
-   4. FC Petržalka 1898              22/50
-   5. Liptovský Mikuláš              22/50
-   6. MFK Zvolen                     22/50
+   1. Humenné                        26/68 (38%)
+   2. Zlaté Moravce                  42/99 (42%)
+   3. Baník Lehota pod Vtacnikom     18/42 (43%)
+   4. Inter Bratislava               18/42 (43%)
+   5. Tatran Prešov                  43/99 (43%)
 
 ==================================================
 SCOZIA - PREMIERSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Aberdeen                       13/50
-   2. Celtic                         15/50
-   3. Falkirk                        15/46
-   4. Motherwell                     15/50
-   5. St. Mirren                     15/50
+   1. Celtic                         27/100 (27%)
+   2. Aberdeen                       34/100 (34%)
+   3. Falkirk                        35/100 (35%)
+   4. St. Mirren                     35/100 (35%)
+   5. Motherwell                     36/100 (36%)
+   6. St. Johnstone                  36/100 (36%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Aberdeen                       11/50
-   2. St. Mirren                     13/50
-   3. Heart of Midlothian            14/50
-   4. Kilmarnock                     15/50
-   5. Dundee FC                      16/50
+   1. Aberdeen                       25/100 (25%)
+   2. St. Mirren                     28/100 (28%)
+   3. Heart of Midlothian            30/100 (30%)
+   4. St. Johnstone                  31/100 (31%)
+   5. Celtic                         32/100 (32%)
+   6. Kilmarnock                     32/100 (32%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. St. Mirren                     8/50
-   2. Aberdeen                       12/50
-   3. Dundee United                  12/50
-   4. Motherwell                     13/50
-   5. Dundee FC                      17/50
-   6. Kilmarnock                     17/50
+   1. Dundee United                  26/100 (26%)
+   2. Aberdeen                       29/100 (29%)
+   3. Kilmarnock                     29/100 (29%)
+   4. St. Mirren                     29/100 (29%)
+   5. Falkirk                        36/100 (36%)
+   6. Heart of Midlothian            36/100 (36%)
+   7. Hibernian                      36/100 (36%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. St. Mirren                     10/50
-   2. Aberdeen                       13/50
-   3. Motherwell                     13/50
-   4. Falkirk                        14/46
-   5. Hibernian                      16/50
+   1. Dundee United                  31/100 (31%)
+   2. St. Johnstone                  31/100 (31%)
+   3. St. Mirren                     32/100 (32%)
+   4. Motherwell                     33/100 (33%)
+   5. Aberdeen                       34/100 (34%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Aberdeen                       8/50
-   2. St. Mirren                     11/50
-   3. Dundee United                  12/50
-   4. Heart of Midlothian            12/50
-   5. Dundee FC                      13/50
-   6. Motherwell                     13/50
+   1. Aberdeen                       22/100 (22%)
+   2. St. Johnstone                  23/100 (23%)
+   3. Heart of Midlothian            24/100 (24%)
+   4. Kilmarnock                     24/100 (24%)
+   5. Dundee United                  25/100 (25%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. St. Mirren                     13/50
-   2. Aberdeen                       17/50
-   3. Motherwell                     20/50
-   4. Dundee United                  21/50
-   5. Dundee FC                      23/50
-   6. Hibernian                      23/50
+   1. Aberdeen                       38/100 (38%)
+   2. Dundee United                  40/100 (40%)
+   3. St. Mirren                     41/100 (41%)
+   4. Kilmarnock                     44/100 (44%)
+   5. St. Johnstone                  48/100 (48%)
 
 ==================================================
 SCOZIA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Dunfermline Athletic           13/50
-   2. Raith Rovers                   13/50
-   3. Arbroath                       16/46
-   4. Queen's Park                   19/50
-   5. Greenock Morton                22/50
-   6. Partick Thistle                22/50
+   1. Raith Rovers                   23/100 (23%)
+   2. Dunfermline Athletic           29/100 (29%)
+   3. Stenhousemuir                  24/81 (30%)
+   4. Arbroath                       34/100 (34%)
+   5. Queen's Park                   35/100 (35%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Raith Rovers                   11/50
-   2. Dunfermline Athletic           12/50
-   3. Arbroath                       15/46
-   4. Partick Thistle                15/50
-   5. Queen's Park                   16/50
+   1. Raith Rovers                   22/100 (22%)
+   2. Dunfermline Athletic           25/100 (25%)
+   3. Stenhousemuir                  21/81 (26%)
+   4. Arbroath                       30/100 (30%)
+   5. Partick Thistle                30/100 (30%)
+   6. Queen's Park                   30/100 (30%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Dunfermline Athletic           7/50
-   2. Ayr United                     13/50
-   3. Raith Rovers                   14/50
-   4. Arbroath                       15/46
-   5. Partick Thistle                15/50
-   6. Queen's Park                   15/50
+   1. Dunfermline Athletic           20/100 (20%)
+   2. Inverness Caledonian Thistle   23/100 (23%)
+   3. Stenhousemuir                  19/81 (23%)
+   4. Raith Rovers                   27/100 (27%)
+   5. Partick Thistle                29/100 (29%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Dunfermline Athletic           11/50
-   2. Arbroath                       13/46
-   3. Ayr United                     13/50
-   4. Greenock Morton                13/50
-   5. Queen's Park                   13/50
-   6. Raith Rovers                   13/50
+   1. Inverness Caledonian Thistle   24/100 (24%)
+   2. Dunfermline Athletic           25/100 (25%)
+   3. Raith Rovers                   25/100 (25%)
+   4. Stenhousemuir                  21/81 (26%)
+   5. Queen's Park                   26/100 (26%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Raith Rovers                   7/50
-   2. Arbroath                       8/46
-   3. Partick Thistle                8/50
-   4. Ayr United                     9/50
-   5. Queen's Park                   9/50
+   1. Partick Thistle                14/100 (14%)
+   2. Inverness Caledonian Thistle   17/100 (17%)
+   3. Stenhousemuir                  15/81 (19%)
+   4. Raith Rovers                   19/100 (19%)
+   5. Arbroath                       21/100 (21%)
+   6. Ayr United                     21/100 (21%)
+   7. Dunfermline Athletic           21/100 (21%)
+   8. Greenock Morton                21/100 (21%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Dunfermline Athletic           12/50
-   2. Ayr United                     16/50
-   3. Partick Thistle                17/50
-   4. Queen's Park                   18/50
-   5. Raith Rovers                   20/50
+   1. Dunfermline Athletic           30/100 (30%)
+   2. Inverness Caledonian Thistle   31/100 (31%)
+   3. Stenhousemuir                  28/81 (35%)
+   4. Partick Thistle                36/100 (36%)
+   5. Ayr United                     39/100 (39%)
 
 ==================================================
 IRLANDA - PREMIER DIVISION
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. St. Patrick's Athletic         13/50
-   2. Sligo Rovers                   15/50
-   3. Bohemian FC                    19/50
-   4. Drogheda United                19/50
-   5. Shamrock Rovers                20/50
+   1. St. Patrick's Athletic         31/100 (31%)
+   2. Sligo Rovers                   34/100 (34%)
+   3. Bohemian FC                    36/100 (36%)
+   4. Shamrock Rovers                37/100 (37%)
+   5. Waterford FC                   38/100 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. St. Patrick's Athletic         11/50
-   2. Shamrock Rovers                15/50
-   3. Sligo Rovers                   17/50
-   4. Bohemian FC                    19/50
-   5. Drogheda United                19/50
-   6. Waterford FC                   19/50
+   1. St. Patrick's Athletic         24/100 (24%)
+   2. Sligo Rovers                   28/100 (28%)
+   3. Waterford FC                   33/100 (33%)
+   4. Drogheda United                34/100 (34%)
+   5. Shamrock Rovers                34/100 (34%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. St. Patrick's Athletic         8/50
-   2. Derry City                     15/50
-   3. Sligo Rovers                   16/50
-   4. Waterford FC                   17/50
-   5. Drogheda United                18/50
-   6. Galway United FC               18/50
+   1. St. Patrick's Athletic         27/100 (27%)
+   2. Galway United FC               29/100 (29%)
+   3. Derry City                     31/100 (31%)
+   4. Drogheda United                32/100 (32%)
+   5. Sligo Rovers                   32/100 (32%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. St. Patrick's Athletic         11/50
-   2. Galway United FC               13/50
-   3. Sligo Rovers                   13/50
-   4. Drogheda United                14/50
-   5. Shelbourne                     15/50
+   1. Galway United FC               22/100 (22%)
+   2. Bohemian FC                    26/100 (26%)
+   3. Shelbourne                     26/100 (26%)
+   4. Dundalk                        29/100 (29%)
+   5. Derry City                     31/100 (31%)
+   6. Shamrock Rovers                31/100 (31%)
+   7. St. Patrick's Athletic         31/100 (31%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. St. Patrick's Athletic         6/50
-   2. Galway United FC               11/50
-   3. Shamrock Rovers                11/50
-   4. Waterford FC                   11/50
-   5. Derry City                     13/50
-   6. Drogheda United                13/50
-   7. Sligo Rovers                   13/50
+   1. St. Patrick's Athletic         18/100 (18%)
+   2. Galway United FC               20/100 (20%)
+   3. Derry City                     22/100 (22%)
+   4. Drogheda United                22/100 (22%)
+   5. Sligo Rovers                   22/100 (22%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. St. Patrick's Athletic         13/50
-   2. Derry City                     16/50
-   3. Drogheda United                19/50
-   4. Waterford FC                   19/50
-   5. Galway United FC               20/50
-   6. Sligo Rovers                   20/50
+   1. Galway United FC               32/100 (32%)
+   2. Derry City                     35/100 (35%)
+   3. Shelbourne                     36/100 (36%)
+   4. St. Patrick's Athletic         37/100 (37%)
+   5. Drogheda United                38/100 (38%)
 
 ==================================================
 IRLANDA - FIRST DIVISION
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Treaty United                  18/50
-   2. Cobh Ramblers                  19/50
-   3. Wexford FC                     19/50
-   4. Athlone Town                   23/50
-   5. Finn Harps                     23/50
-   6. UCD                            23/50
+   1. Cobh Ramblers                  35/100 (35%)
+   2. Wexford FC                     36/100 (36%)
+   3. Treaty United                  40/100 (40%)
+   4. UCD                            40/100 (40%)
+   5. Finn Harps                     41/100 (41%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Treaty United                  13/50
-   2. UCD                            13/50
-   3. Athlone Town                   14/50
-   4. Bray Wanderers                 14/50
-   5. Wexford FC                     14/50
+   1. Bray Wanderers                 27/100 (27%)
+   2. Kerry FC                       29/100 (29%)
+   3. Cork City                      31/100 (31%)
+   4. Treaty United                  31/100 (31%)
+   5. Longford Town                  32/100 (32%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Treaty United                  13/50
-   2. Kerry FC                       14/50
-   3. Wexford FC                     17/50
-   4. Cobh Ramblers                  18/50
-   5. Athlone Town                   19/50
-   6. Finn Harps                     19/50
+   1. Treaty United                  27/100 (27%)
+   2. Kerry FC                       28/100 (28%)
+   3. Finn Harps                     30/100 (30%)
+   4. UCD                            32/100 (32%)
+   5. Wexford FC                     34/100 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Cobh Ramblers                  18/50
-   2. Treaty United                  18/50
-   3. Kerry FC                       19/50
-   4. Wexford FC                     19/50
-   5. Longford Town                  20/50
+   1. UCD                            30/100 (30%)
+   2. Cobh Ramblers                  33/100 (33%)
+   3. Finn Harps                     33/100 (33%)
+   4. Treaty United                  34/100 (34%)
+   5. Wexford FC                     34/100 (34%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Kerry FC                       9/50
-   2. Bray Wanderers                 11/50
-   3. Longford Town                  11/50
-   4. Treaty United                  12/50
-   5. Athlone Town                   13/50
-   6. Finn Harps                     13/50
+   1. Cork City                      17/100 (17%)
+   2. Kerry FC                       17/100 (17%)
+   3. Longford Town                  21/100 (21%)
+   4. Finn Harps                     23/100 (23%)
+   5. Treaty United                  23/100 (23%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Kerry FC                       20/50
-   2. Treaty United                  20/50
-   3. Wexford FC                     21/50
-   4. Athlone Town                   23/50
-   5. Longford Town                  23/50
+   1. Finn Harps                     38/100 (38%)
+   2. Kerry FC                       38/100 (38%)
+   3. Treaty United                  39/100 (39%)
+   4. UCD                            41/100 (41%)
+   5. Athlone Town                   42/100 (42%)
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. AC Oulu                        17/50
-   2. HJK                            18/50
-   3. FF Jaro                        19/50
-   4. FC Inter Turku                 20/50
-   5. VPS                            20/50
+   1. HJK                            38/100 (38%)
+   2. TPS                            39/100 (39%)
+   3. FF Jaro                        40/100 (40%)
+   4. VPS                            40/100 (40%)
+   5. FC Inter Turku                 41/100 (41%)
+   6. KuPS                           41/100 (41%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. AC Oulu                        11/50
-   2. FC Inter Turku                 15/50
-   3. VPS                            15/50
-   4. IFK Mariehamn                  17/50
-   5. Ilves                          18/50
-   6. KuPS                           18/50
+   1. IFK Mariehamn                  27/100 (27%)
+   2. AC Oulu                        29/100 (29%)
+   3. FC Inter Turku                 29/100 (29%)
+   4. Ilves                          29/100 (29%)
+   5. VPS                            31/100 (31%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. IFK Mariehamn                  14/50
-   2. KuPS                           16/50
-   3. FC Inter Turku                 17/50
-   4. HJK                            19/50
-   5. IF Gnistan                     19/50
+   1. FC Lahti                       31/100 (31%)
+   2. KuPS                           34/100 (34%)
+   3. IFK Mariehamn                  35/100 (35%)
+   4. FC Inter Turku                 36/100 (36%)
+   5. Ilves                          37/100 (37%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. KuPS                           13/50
-   2. IF Gnistan                     15/50
-   3. AC Oulu                        16/50
-   4. FC Inter Turku                 16/50
-   5. VPS                            16/50
+   1. KuPS                           31/100 (31%)
+   2. VPS                            35/100 (35%)
+   3. HJK                            37/100 (37%)
+   4. IF Gnistan                     37/100 (37%)
+   5. TPS                            37/100 (37%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. VPS                            9/50
-   2. IFK Mariehamn                  10/50
-   3. AC Oulu                        11/50
-   4. FC Inter Turku                 11/50
-   5. KuPS                           11/50
+   1. IFK Mariehamn                  19/100 (19%)
+   2. FC Inter Turku                 21/100 (21%)
+   3. VPS                            21/100 (21%)
+   4. AC Oulu                        22/100 (22%)
+   5. FC Lahti                       24/100 (24%)
+   6. FF Jaro                        24/100 (24%)
+   7. KuPS                           24/100 (24%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. FC Inter Turku                 19/50
-   2. IFK Mariehamn                  22/50
-   3. KuPS                           22/50
-   4. AC Oulu                        23/50
-   5. VPS                            23/50
+   1. FC Lahti                       41/100 (41%)
+   2. FC Inter Turku                 45/100 (45%)
+   3. KuPS                           45/100 (45%)
+   4. IF Gnistan                     48/100 (48%)
+   5. IFK Mariehamn                  49/100 (49%)
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. EIF                            18/50
-   2. PK-35                          18/50
-   3. JäPS                           19/50
-   4. JIPPO                          23/50
-   5. SJK Akatemia                   23/50
+   1. FC KTP                         36/100 (36%)
+   2. EIF                            38/100 (38%)
+   3. JIPPO                          38/100 (38%)
+   4. JäPS                           38/100 (38%)
+   5. PK-35                          38/100 (38%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. EIF                            13/50
-   2. JäPS                           14/50
-   3. SJK Akatemia                   16/50
-   4. JIPPO                          17/50
-   5. Klubi 04                       19/50
-   6. PK-35                          19/50
+   1. FC KTP                         29/100 (29%)
+   2. JIPPO                          30/100 (30%)
+   3. MP                             31/100 (31%)
+   4. EIF                            32/100 (32%)
+   5. Klubi 04                       33/100 (33%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. JIPPO                          14/50
-   2. JäPS                           15/50
-   3. EIF                            17/50
-   4. Klubi 04                       17/50
-   5. PK-35                          17/50
+   1. PK-35                          32/100 (32%)
+   2. Klubi 04                       33/100 (33%)
+   3. JIPPO                          34/100 (34%)
+   4. MP                             36/100 (36%)
+   5. EIF                            38/100 (38%)
+   6. SJK Akatemia                   38/100 (38%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. PK-35                          11/50
-   2. JIPPO                          14/50
-   3. JäPS                           16/50
-   4. Klubi 04                       18/50
-   5. EIF                            19/50
-   6. SJK Akatemia                   19/50
+   1. PK-35                          28/100 (28%)
+   2. JIPPO                          30/100 (30%)
+   3. JäPS                           34/100 (34%)
+   4. Klubi 04                       35/100 (35%)
+   5. EIF                            36/100 (36%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. JIPPO                          8/50
-   2. EIF                            10/50
-   3. JäPS                           10/50
-   4. SJK Akatemia                   11/50
-   5. Klubi 04                       13/50
+   1. JIPPO                          20/100 (20%)
+   2. EIF                            26/100 (26%)
+   3. MP                             26/100 (26%)
+   4. PK-35                          26/100 (26%)
+   5. Klubi 04                       28/100 (28%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. JIPPO                          18/50
-   2. Klubi 04                       21/50
-   3. JäPS                           22/50
-   4. EIF                            23/50
-   5. SJK Akatemia                   24/50
+   1. JIPPO                          44/100 (44%)
+   2. PK-35                          44/100 (44%)
+   3. Klubi 04                       47/100 (47%)
+   4. MP                             47/100 (47%)
+   5. SJK Akatemia                   49/100 (49%)
 
 ==================================================
 POLONIA - EKSTRAKLASA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Wisła Płock                    15/43
-   2. Piast Gliwice                  17/50
-   3. Raków Częstochowa              17/50
-   4. Motor Lublin                   19/50
-   5. Widzew Łódź                    20/50
-   6. Zagłębie Lubin                 20/50
+   1. Piast Gliwice                  33/100 (33%)
+   2. Zagłębie Lubin                 35/100 (35%)
+   3. Raków Częstochowa              37/100 (37%)
+   4. Wieczysta Kraków               31/81 (38%)
+   5. GKS Katowice                   39/100 (39%)
+   6. Górnik Zabrze                  39/100 (39%)
+   7. Lech Poznań                    39/100 (39%)
+   8. Widzew Łódź                    39/100 (39%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Górnik Zabrze                  12/50
-   2. Cracovia                       13/50
-   3. GKS Katowice                   14/50
-   4. Widzew Łódź                    14/50
-   5. Wisła Płock                    14/43
-   6. Zagłębie Lubin                 14/50
+   1. Górnik Zabrze                  27/100 (27%)
+   2. Pogoń Szczecin                 27/100 (27%)
+   3. GKS Katowice                   29/100 (29%)
+   4. Widzew Łódź                    31/100 (31%)
+   5. Lech Poznań                    33/100 (33%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Wisła Płock                    11/43
-   2. Legia Warszawa                 15/50
-   3. Korona Kielce                  16/50
-   4. Motor Lublin                   17/50
-   5. Pogoń Szczecin                 18/50
+   1. Korona Kielce                  28/100 (28%)
+   2. Legia Warszawa                 31/100 (31%)
+   3. Piast Gliwice                  31/100 (31%)
+   4. Pogoń Szczecin                 31/100 (31%)
+   5. Motor Lublin                   34/100 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Wisła Płock                    10/43
-   2. Korona Kielce                  11/50
-   3. Raków Częstochowa              14/50
-   4. Motor Lublin                   15/50
-   5. Piast Gliwice                  15/50
+   1. Korona Kielce                  25/100 (25%)
+   2. Piast Gliwice                  27/100 (27%)
+   3. Raków Częstochowa              27/100 (27%)
+   4. Zagłębie Lubin                 29/100 (29%)
+   5. Motor Lublin                   31/100 (31%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Górnik Zabrze                  6/50
-   2. Korona Kielce                  8/50
-   3. Wisła Płock                    8/43
-   4. Cracovia                       10/50
-   5. Legia Warszawa                 10/50
-   6. Radomiak Radom                 10/50
-   7. Widzew Łódź                    10/50
+   1. Korona Kielce                  16/100 (16%)
+   2. Górnik Zabrze                  17/100 (17%)
+   3. Pogoń Szczecin                 22/100 (22%)
+   4. Raków Częstochowa              22/100 (22%)
+   5. Legia Warszawa                 23/100 (23%)
+   6. Piast Gliwice                  23/100 (23%)
+   7. Widzew Łódź                    23/100 (23%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Wisła Płock                    16/43
-   2. Legia Warszawa                 18/50
-   3. Korona Kielce                  19/50
-   4. Motor Lublin                   21/50
-   5. Pogoń Szczecin                 21/50
-   6. Zagłębie Lubin                 21/50
+   1. Korona Kielce                  35/100 (35%)
+   2. Legia Warszawa                 37/100 (37%)
+   3. Piast Gliwice                  38/100 (38%)
+   4. Zagłębie Lubin                 40/100 (40%)
+   5. Motor Lublin                   41/100 (41%)
 
 ==================================================
 POLONIA - I LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-   1. Pogoń Siedlce                  17/50
-   2. Puszcza Niepołomice            19/43
-   3. Chrobry Głogów                 20/50
-   4. Polonia Warszawa               20/50
-   5. Odra Opole                     21/50
-   6. Stal Mielec                    21/44
+   1. Odra Opole                     36/100 (36%)
+   2. Pogoń Siedlce                  38/100 (38%)
+   3. Polonia Warszawa               39/100 (39%)
+   4. Chrobry Głogów                 40/100 (40%)
+   5. Warta Poznań                   40/100 (40%)
 
 SOTTOFREQUENZA X2 + GOAL
-   1. Odra Opole                     12/50
-   2. Miedź Legnica                  15/50
-   3. Polonia Bytom                  16/44
-   4. Puszcza Niepołomice            17/43
-   5. Chrobry Głogów                 18/50
-   6. Pogoń Grodzisk Mazowiecki      18/44
-   7. Pogoń Siedlce                  18/50
+   1. Arka Gdynia                    26/100 (26%)
+   2. Odra Opole                     28/100 (28%)
+   3. Warta Poznań                   28/100 (28%)
+   4. Lechia Gdańsk                  32/100 (32%)
+   5. Polonia Bytom                  32/100 (32%)
+   6. TS Podbeskidzie Bielsko-Biała  32/100 (32%)
 
 SOTTOFREQUENZA 12 + GOAL
-   1. Odra Opole                     13/50
-   2. Puszcza Niepołomice            14/43
-   3. Pogoń Siedlce                  15/50
-   4. Pogoń Grodzisk Mazowiecki      16/44
-   5. Ruch Chorzów                   16/50
+   1. Odra Opole                     26/100 (26%)
+   2. Ruch Chorzów                   29/100 (29%)
+   3. Arka Gdynia                    30/100 (30%)
+   4. Puszcza Niepołomice            30/100 (30%)
+   5. Warta Poznań                   34/100 (34%)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-   1. Pogoń Siedlce                  12/50
-   2. Polonia Warszawa               13/50
-   3. Puszcza Niepołomice            13/43
-   4. Chrobry Głogów                 15/50
-   5. Odra Opole                     15/50
+   1. Pogoń Siedlce                  26/100 (26%)
+   2. Polonia Warszawa               29/100 (29%)
+   3. Chrobry Głogów                 30/100 (30%)
+   4. Puszcza Niepołomice            30/100 (30%)
+   5. Odra Opole                     32/100 (32%)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-   1. Odra Opole                     3/50
-   2. Miedź Legnica                  10/50
-   3. Pogoń Siedlce                  10/50
-   4. Polonia Bytom                  10/44
-   5. Chrobry Głogów                 12/50
-   6. Puszcza Niepołomice            12/43
+   1. Odra Opole                     16/100 (16%)
+   2. Warta Poznań                   19/100 (19%)
+   3. Arka Gdynia                    22/100 (22%)
+   4. Polonia Bytom                  22/100 (22%)
+   5. Puszcza Niepołomice            22/100 (22%)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Odra Opole                     16/50
-   2. Pogoń Siedlce                  18/50
-   3. Puszcza Niepołomice            19/43
-   4. Ruch Chorzów                   20/50
-   5. Chrobry Głogów                 21/50
-   6. Polonia Bytom                  21/44
+   1. Puszcza Niepołomice            36/100 (36%)
+   2. Odra Opole                     38/100 (38%)
+   3. Ruch Chorzów                   39/100 (39%)
+   4. Warta Poznań                   42/100 (42%)
+   5. Pogoń Siedlce                  44/100 (44%)
+   6. TS Podbeskidzie Bielsko-Biała  44/100 (44%)
 
