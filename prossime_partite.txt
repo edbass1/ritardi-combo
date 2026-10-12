@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) CON SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 12:30 (ora italiana)
+Aggiornato: 12/10/2026 14:20 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
 ==================================================
 12/10/2026
 ==================================================
-14:00  Real Valladolid vs Albacete   [SPAGNA - LALIGA 2]
-      Albacete: 1X + OVER 2,5 (7) 🟢 86% 🔴 Albacete
 17:00  VPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
       VPS: 1X + GOAL (9); X2 + GOAL (6) 🔴 VPS; 12 + GOAL (6); X2 + OVER 2,5 (6) 🔴 VPS
       IF Gnistan: 1X + OVER 2,5 (6) 🟢 83% 🔴 VPS 🔴 IF Gnistan
@@ -114,3 +112,33 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       Kerry FC: 1X + GOAL (6) 🟢 50%
 20:45  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]
       St. Patrick's Athletic: 1X + GOAL (6) 🟢 83% 🔴 St. Patrick's Athletic; 1X + OVER 2,5 (9) 🟢 89% 🔴 St. Patrick's Athletic
+
+==================================================
+17/10/2026
+==================================================
+13:00  FC Lahti vs TPS   [FINLANDIA - VEIKKAUSLIIGA]
+      TPS: 12 + GOAL (6); 1X + OVER 2,5 (8) 🟢 50%
+13:00  FF Jaro vs IFK Mariehamn   [FINLANDIA - VEIKKAUSLIIGA]
+      FF Jaro: 12 + GOAL (7) 🟢 71% 🔴 IFK Mariehamn; 1X + OVER 2,5 (6) 🟢 67%; X2 + OVER 2,5 (7) 🟢 71% 🔴 IFK Mariehamn; 12 + OVER 2,5 (6) 🟢 67% 🔴 IFK Mariehamn
+13:00  Kaiserslautern vs Bochum   [GERMANIA - 2. BUNDESLIGA]
+      Kaiserslautern: 1X + GOAL (16) 🟢 56% 🔴 Kaiserslautern
+13:00  Ljungskile vs IK Brage   [SVEZIA - SUPERETTAN]
+      IK Brage: X2 + OVER 2,5 (6) 🟢 83%
+13:30  Everton vs Chelsea   [INGHILTERRA - PREMIER LEAGUE]
+      Everton: 12 + GOAL (7) 🟢 57% 🔴 Everton; 12 + OVER 2,5 (7) 🟢 57% 🔴 Everton
+13:30  Middlesbrough vs Cardiff City   [INGHILTERRA - CHAMPIONSHIP]
+      Cardiff City: X2 + OVER 2,5 (6) 🟢 83%
+13:30  Peterborough United vs Burton Albion   [INGHILTERRA - LEAGUE ONE]
+      Peterborough United: 1X + OVER 2,5 (6) 🟢 67%
+13:30  Watford vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
+      Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57% 🔴 Watford
+14:00  Metz vs Sochaux   [FRANCIA - LIGUE 2]
+      Sochaux: 12 + GOAL (8+) 🟢 50%; 1X + OVER 2,5 (8+) 🟢 50%; X2 + OVER 2,5 (7); 12 + OVER 2,5 (7)
+14:00  Nantes vs Dunkerque   [FRANCIA - LIGUE 2]
+      Dunkerque: X2 + OVER 2,5 (6) 🟢 67%
+14:00  Ingolstadt vs RW Essen   [GERMANIA - 3. LIGA]
+      Ingolstadt: 1X + GOAL (6) 🟢 83% 🔴 Ingolstadt
+14:00  Jahn Regensburg vs Wehen Wiesbaden   [GERMANIA - 3. LIGA]
+      Wehen Wiesbaden: 1X + OVER 2,5 (6) 🟢 67% 🔴 Jahn Regensburg
+14:00  Real Sociedad B vs Almería   [SPAGNA - LALIGA 2]
+      Almería: X2 + GOAL (9) 🟢 67%; X2 + OVER 2,5 (9) 🟢 67%
