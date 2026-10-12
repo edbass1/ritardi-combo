@@ -2,10 +2,10 @@
 <title>Ritardi Combo</title><style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;padding:1rem;background:#000;color:#e8e8e8;max-width:1100px;margin:auto}h1{color:#00ff88;text-shadow:0 0 12px #00ff8866;font-size:clamp(1.4rem,5vw,2.2rem)}h2{color:#10e07a;border-left:4px solid #00ff88;padding-left:.6rem;margin-top:2rem}b{color:#00ff88}pre{background:#0b0f0c;color:#d9ffe9;padding:1rem;overflow-x:auto;border:1px solid #00ff8855;border-radius:10px;box-shadow:0 0 18px #00ff8822;font-size:clamp(.72rem,2.6vw,.92rem);line-height:1.45;white-space:pre}nav{display:flex;flex-wrap:wrap;gap:.5rem;position:sticky;top:0;background:#000d;padding:.5rem 0;backdrop-filter:blur(6px)}nav a{color:#00ff88;border:1px solid #00ff88;border-radius:999px;padding:.35rem .8rem;text-decoration:none;font-size:.85rem}nav a:hover{background:#00ff88;color:#000}h3.day{color:#00ff88;margin:1.4rem 0 .5rem;border-bottom:1px solid #00ff8855}.fx{background:#0b0f0c;border:1px solid #00ff8844;border-radius:10px;padding:.6rem .8rem;margin:.5rem 0}.fxh{font-weight:600;color:#fff}.time{color:#00ff88;margin-right:.4rem}.lg{color:#8a9;font-weight:400;font-size:.85em;margin-left:.4rem}.tagrow{margin-top:.35rem;line-height:1.5}.tag{display:inline-block;padding:.05rem .5rem;border-radius:6px;font-size:.78em;font-weight:700;color:#000}.tag.goal{background:#00e676}.tag.over{background:#ffa726}.leg{color:#aaa}#zoom{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}#zoom button{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}#zoom button:active{background:#00ff88;color:#000}</style></head><body>
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){document.querySelectorAll('pre').forEach(function(p){p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'});var f=document.querySelector('.fxlist');if(f)f.style.fontSize=(Z*100)+'%'}function z(d){Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}document.addEventListener('DOMContentLoaded',ap);</script>
-<h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>12/10/2026 17:35</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
+<h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>12/10/2026 20:11</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
 <nav><a href="#goal">Sezione 1: + GOAL</a><a href="#over">Sezione 2: + OVER 2,5</a><a href="#prossime">Prossime partite (5 giorni)</a><a href="#sotto">Sottofrequenze</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="ritardi_over.txt">ritardi_over.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a></nav>
 <h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2><pre>SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 12/10/2026 17:35 (ora italiana)
+Aggiornato: 12/10/2026 20:11 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N&lt;100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -604,11 +604,8 @@ SOTTOFREQUENZA 1X + GOAL
    1. Real Oviedo                    28/100
    2. Sabadell                       28/89
    3. Cádiz                          33/100
-   4. Tenerife                       34/100
-   5. Burgos CF                      35/100
-   6. Eibar                          35/100
-   7. Eldense                        35/100
-   8. Leganés                        35/100
+   4. Burgos CF                      34/100
+   5. Tenerife                       34/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. Real Valladolid                21/100
@@ -627,8 +624,8 @@ SOTTOFREQUENZA 12 + GOAL
 SOTTOFREQUENZA 1X + OVER 2,5
    1. FC Andorra                     25/100
    2. Real Oviedo                    25/100
-   3. Sabadell                       27/89
-   4. Burgos CF                      28/100
+   3. Burgos CF                      27/100
+   4. Sabadell                       27/89
    5. Las Palmas                     28/100
    6. Tenerife                       28/100
 
@@ -640,8 +637,8 @@ SOTTOFREQUENZA X2 + OVER 2,5
    5. Mallorca                       16/100
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Tenerife                       31/100
-   2. Burgos CF                      32/100
+   1. Burgos CF                      31/100
+   2. Tenerife                       31/100
    3. Sabadell                       32/89
    4. Eibar                          36/100
    5. Real Sociedad B                37/100
@@ -1573,7 +1570,7 @@ SLOVACCHIA - 2. LIGA
 SOTTOFREQUENZA 1X + GOAL
    1. FC Petržalka 1898              33/98
    2. Tatran Prešov                  37/99
-   3. Zlaté Moravce                  38/99
+   3. Zlaté Moravce                  38/100
    4. Žilina B                       38/98
    5. FC STK 1914 Šamorín            40/98
 
@@ -1581,40 +1578,38 @@ SOTTOFREQUENZA X2 + GOAL
    1. Tatran Prešov                  24/99
    2. Malženice                      26/97
    3. Žilina B                       28/98
-   4. FK Pohronie                    28/96
-   5. FC Petržalka 1898              29/98
+   4. FC Petržalka 1898              29/98
+   5. FK Pohronie                    29/97
 
 SOTTOFREQUENZA 12 + GOAL
    1. FC Petržalka 1898              32/98
    2. Tatran Prešov                  33/99
-   3. Zlaté Moravce                  34/99
-   4. FK Pohronie                    36/96
+   3. Zlaté Moravce                  35/100
+   4. FK Pohronie                    37/97
    5. Liptovský Mikuláš              40/97
 
 SOTTOFREQUENZA 1X + OVER 2,5
    1. FC Petržalka 1898              28/98
    2. FC STK 1914 Šamorín            35/98
-   3. Zlaté Moravce                  36/99
+   3. Zlaté Moravce                  36/100
    4. Tatran Prešov                  37/99
    5. Považská Bystrica              39/98
-   6. Malženice                      39/97
-   7. FK Pohronie                    39/96
+   6. FK Pohronie                    39/97
+   7. Malženice                      39/97
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. Tatran Prešov                  20/99
    2. FC Petržalka 1898              20/98
    3. Malženice                      20/97
    4. Považská Bystrica              21/98
-   5. Zlaté Moravce                  24/99
-   6. Slovan Bratislava B            24/98
+   5. Slovan Bratislava B            24/98
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Zlaté Moravce                  42/99
+   1. Zlaté Moravce                  43/100
    2. Tatran Prešov                  43/99
    3. FC Petržalka 1898              44/98
    4. Liptovský Mikuláš              47/97
    5. Slovan Bratislava B            49/98
-   6. FK Pohronie                    49/96
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1815,14 +1810,15 @@ SOTTOFREQUENZA 1X + GOAL
    2. TPS                            39/100
    3. FF Jaro                        40/100
    4. VPS                            40/100
-   5. FC Inter Turku                 41/100
-   6. KuPS                           41/100
+   5. AC Oulu                        41/100
+   6. FC Inter Turku                 41/100
+   7. KuPS                           41/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. IFK Mariehamn                  27/100
-   2. AC Oulu                        29/100
-   3. FC Inter Turku                 29/100
-   4. Ilves                          29/100
+   2. FC Inter Turku                 29/100
+   3. Ilves                          29/100
+   4. AC Oulu                        30/100
    5. VPS                            31/100
 
 SOTTOFREQUENZA 12 + GOAL
@@ -1835,15 +1831,16 @@ SOTTOFREQUENZA 12 + GOAL
 SOTTOFREQUENZA 1X + OVER 2,5
    1. KuPS                           31/100
    2. VPS                            35/100
-   3. HJK                            37/100
-   4. IF Gnistan                     37/100
-   5. TPS                            37/100
+   3. AC Oulu                        37/100
+   4. HJK                            37/100
+   5. IF Gnistan                     37/100
+   6. TPS                            37/100
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. IFK Mariehamn                  19/100
    2. FC Inter Turku                 21/100
    3. VPS                            21/100
-   4. AC Oulu                        22/100
+   4. AC Oulu                        23/100
    5. FC Lahti                       24/100
    6. FF Jaro                        24/100
    7. KuPS                           24/100
@@ -1852,7 +1849,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
    1. FC Lahti                       41/100
    2. FC Inter Turku                 45/100
    3. KuPS                           45/100
-   4. IF Gnistan                     48/100
+   4. IF Gnistan                     47/100
    5. IFK Mariehamn                  49/100
 
 ==================================================
@@ -1911,7 +1908,8 @@ SOTTOFREQUENZA 1X + GOAL
    4. GKS Katowice                   39/100
    5. Górnik Zabrze                  39/100
    6. Lech Poznań                    39/100
-   7. Widzew Łódź                    39/100
+   7. Motor Lublin                   39/100
+   8. Widzew Łódź                    39/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. Górnik Zabrze                  27/100
@@ -1925,14 +1923,16 @@ SOTTOFREQUENZA 12 + GOAL
    2. Legia Warszawa                 31/100
    3. Piast Gliwice                  31/100
    4. Pogoń Szczecin                 31/100
-   5. Motor Lublin                   34/100
+   5. Motor Lublin                   35/100
+   6. Wisła Płock                    35/100
+   7. Zagłębie Lubin                 35/100
 
 SOTTOFREQUENZA 1X + OVER 2,5
    1. Korona Kielce                  25/100
    2. Piast Gliwice                  27/100
    3. Raków Częstochowa              27/100
    4. Zagłębie Lubin                 29/100
-   5. Motor Lublin                   31/100
+   5. Motor Lublin                   30/100
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. Korona Kielce                  16/100
@@ -1948,7 +1948,9 @@ SOTTOFREQUENZA 12 + OVER 2,5
    2. Legia Warszawa                 37/100
    3. Piast Gliwice                  38/100
    4. Zagłębie Lubin                 40/100
-   5. Motor Lublin                   41/100
+   5. Cracovia                       42/100
+   6. Motor Lublin                   42/100
+   7. Pogoń Szczecin                 42/100
 
 ==================================================
 POLONIA - I LIGA
@@ -1964,9 +1966,8 @@ SOTTOFREQUENZA X2 + GOAL
    1. Arka Gdynia                    26/100
    2. Odra Opole                     28/100
    3. Warta Poznań                   28/100
-   4. Lechia Gdańsk                  32/100
-   5. Polonia Bytom                  32/100
-   6. TS Podbeskidzie Bielsko-Biała  32/100
+   4. Polonia Bytom                  32/100
+   5. TS Podbeskidzie Bielsko-Biała  32/100
 
 SOTTOFREQUENZA 12 + GOAL
    1. Odra Opole                     26/100
@@ -1999,12 +2000,6 @@ SOTTOFREQUENZA 12 + OVER 2,5
 
 </pre>
 <h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; 6 (Goal) / &ge; 6 (Over 2,5) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> <span class="tag over">OVER 2,5</span> &middot; 🔴 = top 3 Sottofrequenza</p><div class="fxlist"><h3 class="day">12/10/2026</h3>
-<div class="fx"><div class="fxh"><span class="time">18:00</span> AC Oulu vs HJK <span class="lg">FINLANDIA - VEIKKAUSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>AC Oulu</b>: 1X + GOAL (9) 🔴 HJK</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>AC Oulu</b>: 1X + OVER 2,5 (11) 🔴 HJK</div></div>
-<div class="fx"><div class="fxh"><span class="time">18:00</span> Radomiak Radom vs Motor Lublin <span class="lg">POLONIA - EKSTRAKLASA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Radomiak Radom</b>: X2 + GOAL (6) 🟢 67%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Radomiak Radom</b>: X2 + OVER 2,5 (6) 🟢 67%</div></div>
-<div class="fx"><div class="fxh"><span class="time">18:30</span> Real Oviedo vs Eibar <span class="lg">SPAGNA - LALIGA 2</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Real Oviedo</b>: X2 + GOAL (8+) 🟢 50% 🔴 Eibar</div></div>
-<div class="fx"><div class="fxh"><span class="time">19:00</span> Benfica B vs Felgueiras 1932 <span class="lg">PORTOGALLO - LIGA PORTUGAL 2</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Benfica B</b>: 1X + OVER 2,5 (10) 🟢 70% 🔴 Felgueiras 1932</div></div>
-<div class="fx"><div class="fxh"><span class="time">19:00</span> Elfsborg vs Halmstads BK <span class="lg">SVEZIA - ALLSVENSKAN</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Halmstads BK</b>: X2 + OVER 2,5 (11) 🟢 82% 🔴 Halmstads BK</div></div>
-<div class="fx"><div class="fxh"><span class="time">19:00</span> Malmö FF vs Kalmar FF <span class="lg">SVEZIA - ALLSVENSKAN</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Malmö FF</b>: X2 + GOAL (6) 🟢 50%</div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Kalmar FF</b>: 1X + GOAL (6); X2 + GOAL (7); 12 + GOAL (6)</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Kalmar FF</b>: 1X + OVER 2,5 (6)</div></div>
 <div class="fx"><div class="fxh"><span class="time">21:00</span> Levante vs Sevilla <span class="lg">SPAGNA - LALIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Sevilla</b>: 1X + OVER 2,5 (6) 🟢 67%</div></div>
 <div class="fx"><div class="fxh"><span class="time">21:00</span> Tenerife vs Girona <span class="lg">SPAGNA - LALIGA 2</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Tenerife</b>: X2 + OVER 2,5 (7) 🟢 71% 🔴 Tenerife</div></div>
 <h3 class="day">13/10/2026</h3>
@@ -2023,8 +2018,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
 <h3 class="day">15/10/2026</h3>
 <div class="fx"><div class="fxh"><span class="time">18:30</span> Pogoń Siedlce vs Puszcza Niepołomice <span class="lg">POLONIA - I LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Pogoń Siedlce</b>: X2 + GOAL (6)</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Pogoń Siedlce</b>: X2 + OVER 2,5 (6) 🔴 Puszcza Niepołomice</div></div>
 <h3 class="day">16/10/2026</h3>
-<div class="fx"><div class="fxh"><span class="time">15:00</span> Baník Ostrava B vs Slavia Prague B <span class="lg">REP. CECA - FNL</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Baník Ostrava B</b>: 1X + OVER 2,5 (8) 🟢 75%</div></div>
-<div class="fx"><div class="fxh"><span class="time">17:00</span> FK Pohronie vs Malženice <span class="lg">SLOVACCHIA - 2. LIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Malženice</b>: 1X + OVER 2,5 (6) 🟢 67%</div></div>
+<div class="fx"><div class="fxh"><span class="time">17:00</span> FK Pohronie vs Malženice <span class="lg">SLOVACCHIA - 2. LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>FK Pohronie</b>: 1X + GOAL (6) 🟢 83%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>FK Pohronie</b>: 1X + OVER 2,5 (6) 🟢 83%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Malženice</b>: 1X + OVER 2,5 (6) 🟢 67%</div></div>
 <div class="fx"><div class="fxh"><span class="time">17:30</span> Karviná vs Dukla Praha <span class="lg">REP. CECA - FNL</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Karviná</b>: X2 + GOAL (6) 🟢 83% 🔴 Dukla Praha</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Karviná</b>: X2 + OVER 2,5 (6) 🟢 83%</div></div>
 <div class="fx"><div class="fxh"><span class="time">18:00</span> Warta Poznań vs Skierniewice <span class="lg">POLONIA - I LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Warta Poznań</b>: X2 + GOAL (7) 🟢 71% 🔴 Warta Poznań</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Warta Poznań</b>: X2 + OVER 2,5 (7) 🟢 71% 🔴 Warta Poznań</div></div>
 <div class="fx"><div class="fxh"><span class="time">18:30</span> Austria Wien II vs FC Hertha Wels <span class="lg">AUSTRIA - 2. LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Austria Wien II</b>: X2 + GOAL (8) 🟢 75%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Austria Wien II</b>: X2 + OVER 2,5 (7) 🟢 71%</div></div>
@@ -2057,9 +2051,9 @@ SOTTOFREQUENZA 12 + OVER 2,5
 <div class="fx"><div class="fxh"><span class="time">14:00</span> Ingolstadt vs RW Essen <span class="lg">GERMANIA - 3. LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Ingolstadt</b>: 1X + GOAL (6) 🟢 83%</div></div>
 <div class="fx"><div class="fxh"><span class="time">14:00</span> Jahn Regensburg vs Wehen Wiesbaden <span class="lg">GERMANIA - 3. LIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Wehen Wiesbaden</b>: 1X + OVER 2,5 (6) 🟢 67%</div></div>
 <div class="fx"><div class="fxh"><span class="time">14:00</span> Real Sociedad B vs Almería <span class="lg">SPAGNA - LALIGA 2</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Almería</b>: X2 + GOAL (9) 🟢 67%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Almería</b>: X2 + OVER 2,5 (9) 🟢 67%</div></div>
-<div class="fx"><div class="fxh"><span class="time">14:30</span> Humenné vs Zlaté Moravce <span class="lg">SLOVACCHIA - 2. LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Zlaté Moravce</b>: 12 + GOAL (6) 🟢 50% 🔴 Zlaté Moravce</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Humenné</b>: X2 + OVER 2,5 (11) 🟢 55%</div></div>
+<div class="fx"><div class="fxh"><span class="time">14:30</span> Humenné vs Zlaté Moravce <span class="lg">SLOVACCHIA - 2. LIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Humenné</b>: X2 + OVER 2,5 (11) 🟢 55%</div></div>
 <div class="fx"><div class="fxh"><span class="time">15:00</span> EIF vs KäPa <span class="lg">FINLANDIA - YKKOSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>EIF</b>: 12 + GOAL (12) 🟢 50%</div></div>
-<div class="fx"><div class="fxh"><span class="time">15:00</span> HJK vs IF Gnistan <span class="lg">FINLANDIA - VEIKKAUSLIIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>IF Gnistan</b>: 1X + OVER 2,5 (6) 🟢 83% 🔴 HJK 🔴 IF Gnistan</div></div>
+<div class="fx"><div class="fxh"><span class="time">15:00</span> HJK vs IF Gnistan <span class="lg">FINLANDIA - VEIKKAUSLIIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>IF Gnistan</b>: 1X + OVER 2,5 (7) 🟢 71% 🔴 HJK 🔴 IF Gnistan</div></div>
 <div class="fx"><div class="fxh"><span class="time">15:00</span> JIPPO vs Haka <span class="lg">FINLANDIA - YKKOSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>JIPPO</b>: X2 + GOAL (6) 🟢 67% 🔴 JIPPO</div></div>
 <div class="fx"><div class="fxh"><span class="time">15:00</span> MP vs JäPS <span class="lg">FINLANDIA - YKKOSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>MP</b>: 12 + GOAL (6) 🟢 83%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>MP</b>: 1X + OVER 2,5 (6) 🟢 83% 🔴 JäPS</div></div>
 <div class="fx"><div class="fxh"><span class="time">15:00</span> PK-35 vs SJK Akatemia <span class="lg">FINLANDIA - YKKOSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>PK-35</b>: 1X + GOAL (7) 🟢 71% 🔴 PK-35</div></div>
@@ -2094,10 +2088,16 @@ SOTTOFREQUENZA 12 + OVER 2,5
 <div class="fx"><div class="fxh"><span class="time">16:00</span> Stenhousemuir vs Raith Rovers <span class="lg">SCOZIA - CHAMPIONSHIP</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Stenhousemuir</b>: X2 + GOAL (8) 🟢 50% 🔴 Raith Rovers</div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Raith Rovers</b>: 1X + GOAL (9) 🟢 78% 🔴 Raith Rovers</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Stenhousemuir</b>: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Raith Rovers</div></div>
 <div class="fx"><div class="fxh"><span class="time">16:15</span> Eibar vs Mallorca <span class="lg">SPAGNA - LALIGA 2</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Mallorca</b>: X2 + GOAL (9+) 🟢 56% 🔴 Eibar</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Mallorca</b>: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Mallorca</div></div>
 <div class="fx"><div class="fxh"><span class="time">16:30</span> FC Emmen vs Almere City FC <span class="lg">OLANDA - EERSTE DIVISIE</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Almere City FC</b>: X2 + GOAL (6) 🟢 50%</div></div>
-<div class="fx"><div class="fxh"><span class="time">17:00</span> FC Inter Turku vs AC Oulu <span class="lg">FINLANDIA - VEIKKAUSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>FC Inter Turku</b>: X2 + GOAL (7) 🔴 FC Inter Turku 🔴 AC Oulu</div><div class="tagrow"><span class="tag goal">GOAL</span> <b>AC Oulu</b>: 1X + GOAL (9)</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>FC Inter Turku</b>: X2 + OVER 2,5 (7) 🔴 FC Inter Turku</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>AC Oulu</b>: 1X + OVER 2,5 (11)</div></div>
-<div class="fx"><div class="fxh"><span class="time">17:30</span> BW Linz vs FC Liefering <span class="lg">AUSTRIA - 2. LIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>BW Linz</b>: X2 + OVER 2,5 (7) 🟢 86% 🔴 BW Linz</div></div></div>
+<div class="fx"><div class="fxh"><span class="time">17:00</span> FC Inter Turku vs AC Oulu <span class="lg">FINLANDIA - VEIKKAUSLIIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>FC Inter Turku</b>: X2 + GOAL (7) 🔴 FC Inter Turku</div><div class="tagrow"><span class="tag goal">GOAL</span> <b>AC Oulu</b>: 1X + GOAL (10)</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>FC Inter Turku</b>: X2 + OVER 2,5 (7) 🔴 FC Inter Turku</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>AC Oulu</b>: 1X + OVER 2,5 (12) 🔴 AC Oulu</div></div>
+<div class="fx"><div class="fxh"><span class="time">17:30</span> BW Linz vs FC Liefering <span class="lg">AUSTRIA - 2. LIGA</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>BW Linz</b>: X2 + OVER 2,5 (7) 🟢 86% 🔴 BW Linz</div></div>
+<div class="fx"><div class="fxh"><span class="time">18:00</span> Viking vs Fredrikstad <span class="lg">NORVEGIA - ELITESERIEN</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Viking</b>: X2 + OVER 2,5 (7) 🟢 100% 🔴 Fredrikstad</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Fredrikstad</b>: 1X + OVER 2,5 (8) 🟢 62% 🔴 Fredrikstad</div></div>
+<div class="fx"><div class="fxh"><span class="time">18:00</span> Sigma Olomouc vs Slovan Liberec <span class="lg">REP. CECA - 1. LIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Slovan Liberec</b>: 1X + GOAL (6) 🟢 67%</div></div>
+<div class="fx"><div class="fxh"><span class="time">18:30</span> Bayern München vs RB Leipzig <span class="lg">GERMANIA - BUNDESLIGA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>RB Leipzig</b>: X2 + GOAL (9) 🟢 100% 🔴 Bayern München 🔴 RB Leipzig</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>RB Leipzig</b>: X2 + OVER 2,5 (9) 🟢 100%</div></div>
+<div class="fx"><div class="fxh"><span class="time">20:00</span> Red Star vs Saint-Étienne <span class="lg">FRANCIA - LIGUE 2</span></div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Red Star</b>: 1X + OVER 2,5 (10) 🟢 70%</div></div>
+<div class="fx"><div class="fxh"><span class="time">20:00</span> Telstar vs Feyenoord <span class="lg">OLANDA - EREDIVISIE</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Telstar</b>: 12 + GOAL (6) 🟢 50% 🔴 Telstar</div></div>
+<div class="fx"><div class="fxh"><span class="time">20:15</span> Cracovia vs Legia Warszawa <span class="lg">POLONIA - EKSTRAKLASA</span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b>Cracovia</b>: X2 + GOAL (10) 🟢 70%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Cracovia</b>: X2 + OVER 2,5 (11) 🟢 73%</div><div class="tagrow"><span class="tag over">OVER 2,5</span> <b>Legia Warszawa</b>: 1X + OVER 2,5 (6) 🟢 100%</div></div></div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 12/10/2026 17:35 (ora italiana)
+Aggiornato: 12/10/2026 20:11 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. &#x27;+&#x27; = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -2586,29 +2586,29 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
+Stagione 2026/2027 (97 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. FC Andorra                        7
    2. Girona                            5  🟢 80%
    3. Albacete                          4  🟢 100%
-   4. Leganés                           3  🟢 100%
-   5. Cádiz                             2  🟢 50%  🔴
-   6. Granada                           2  🟢 100%
+   4. Granada                           3  🟢 67%
+   5. Leganés                           3  🟢 100%
+   6. Cádiz                             2  🟢 50%  🔴
    7. Sabadell                          2  🟢 50%  🔴
    8. AD Ceuta FC                       1  🟢 100%
    9. Almería                           1  🟢 100%
-  10. Castellón                         1
+  10. Burgos CF                         1
 
 RITARDI X2 + GOAL
    1. Almería                           9  🟢 67%
    2. Mallorca                         9+  🟢 56%
    3. Leganés                           8  🟢 62%
    4. Real Oviedo                      8+  🟢 50%
-   5. Córdoba                           3  🟢 100%
-   6. Eldense                           3  🟢 67%
-   7. Sporting Gijón                    3  🟢 67%
-   8. Burgos CF                         2  🟢 50%  🔴
+   5. Burgos CF                         3  🔴
+   6. Córdoba                           3  🟢 100%
+   7. Eldense                           3  🟢 67%
+   8. Sporting Gijón                    3  🟢 67%
    9. Celta Fortuna                     2  🟢 100%
   10. Cádiz                             2  🟢 50%
 
@@ -2621,8 +2621,8 @@ RITARDI 12 + GOAL
    6. Real Valladolid                   2  🟢 100%
    7. Albacete                          1  🟢 100%
    8. Almería                           1  🟢 100%
-   9. Sporting Gijón                    1
-  10. AD Ceuta FC                       0
+   9. Burgos CF                         1
+  10. Granada                           1
 
 ==================================================
 BELGIO - FIRST DIVISION A
@@ -3306,29 +3306,29 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (79 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Ústí nad Labem                    3  🟢 100%
    2. Žižkov                            3  🟢 67%
-   3. Baník Ostrava B                   2  🟢 100%
-   4. Třinec                            2  🟢 50%
-   5. FC Silon Táborsko                 1  🔴
-   6. FC Vlašim                         1  🟢 100%
-   7. Hanácká Slavia Kromeriz           1  🟢 100%
-   8. Karviná                           1  🔴
-   9. Kladno                            1
-  10. Opava                             1  🟢 100%
+   3. Třinec                            2  🟢 50%
+   4. FC Silon Táborsko                 1  🔴
+   5. FC Vlašim                         1  🟢 100%
+   6. Hanácká Slavia Kromeriz           1  🟢 100%
+   7. Karviná                           1  🔴
+   8. Kladno                            1
+   9. Opava                             1  🟢 100%
+  10. Příbram                           1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Karviná                           6  🟢 83%
    2. FC Vlašim                         5  🟢 100%
    3. Třinec                            4  🟢 75%
    4. Slavia Prague B                   3  🟢 67%
-   5. FC Silon Táborsko                 2  🟢 50%  🔴
-   6. Baník Ostrava B                   1  🟢 100%
-   7. Kladno                            1
-   8. Dukla Praha                       0  🔴
+   5. Baník Ostrava B                   2  🟢 100%
+   6. FC Silon Táborsko                 2  🟢 50%  🔴
+   7. Dukla Praha                       1  🟢 100%  🔴
+   8. Kladno                            1
    9. Hanácká Slavia Kromeriz           0
   10. Opava                             0  🔴
 
@@ -3336,13 +3336,13 @@ RITARDI 12 + GOAL
    1. Kladno                            5  🟢 80%
    2. SK Prostějov                      4  🟢 75%
    3. Třinec                            2  🟢 50%
-   4. Baník Ostrava B                   1  🟢 100%
-   5. Dukla Praha                       1  🟢 100%  🔴
-   6. FC Silon Táborsko                 1
-   7. FC Vlašim                         1  🟢 100%  🔴
-   8. Karviná                           1
-   9. Slavia Prague B                   1  🟢 100%
-  10. Vysočina Jihlava                  1  🟢 100%  🔴
+   4. FC Silon Táborsko                 1
+   5. FC Vlašim                         1  🟢 100%  🔴
+   6. Karviná                           1
+   7. Slavia Prague B                   1  🟢 100%
+   8. Vysočina Jihlava                  1  🟢 100%  🔴
+   9. Baník Ostrava B                   0
+  10. Dukla Praha                       0  🔴
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -3386,10 +3386,10 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (95 partite giocate) + 2025/2026
+Stagione 2026/2027 (96 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. FK Pohronie                       5  🟢 80%
+   1. FK Pohronie                       6  🟢 83%
    2. Liptovský Mikuláš                 5  🟢 80%
    3. Slovan Galanta                    3  🟢 100%
    4. Žilina B                          3  🟢 67%
@@ -3398,31 +3398,31 @@ RITARDI 1X + GOAL
    7. Baník Lehota pod Vtacnikom        1
    8. Inter Bratislava                  1  🟢 100%
    9. Malženice                         1  🟢 100%
-  10. FC Petržalka 1898                 0  🔴
+  10. Zlaté Moravce                     1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
-   1. FK Pohronie                       4  🟢 75%
-   2. Humenné                           3  🟢 67%
-   3. MFK Zvolen                        3  🟢 67%
-   4. Baník Lehota pod Vtacnikom        2  🟢 50%
-   5. Liptovský Mikuláš                 2  🟢 100%
-   6. Slovan Bratislava B               2  🟢 100%
-   7. MFK Bytca                         1  🟢 100%
-   8. FC Petržalka 1898                 0
-   9. FC STK 1914 Šamorín               0
+   1. Humenné                           3  🟢 67%
+   2. MFK Zvolen                        3  🟢 67%
+   3. Baník Lehota pod Vtacnikom        2  🟢 50%
+   4. Liptovský Mikuláš                 2  🟢 100%
+   5. Slovan Bratislava B               2  🟢 100%
+   6. MFK Bytca                         1  🟢 100%
+   7. FC Petržalka 1898                 0
+   8. FC STK 1914 Šamorín               0
+   9. FK Pohronie                       0
   10. Inter Bratislava                  0
 
 RITARDI 12 + GOAL
    1. FC Petržalka 1898                 8  🟢 62%  🔴
-   2. Zlaté Moravce                     6  🟢 50%  🔴
-   3. FK Pohronie                       4  🟢 75%
-   4. Slovan Bratislava B               3  🟢 100%
-   5. FC STK 1914 Šamorín               2  🟢 100%
-   6. Liptovský Mikuláš                 2  🟢 100%
-   7. MFK Zvolen                        2  🟢 50%
-   8. Baník Lehota pod Vtacnikom        1
-   9. Považská Bystrica                 1  🟢 100%
-  10. Tatran Prešov                     1  🟢 100%  🔴
+   2. Slovan Bratislava B               3  🟢 100%
+   3. FC STK 1914 Šamorín               2  🟢 100%
+   4. Liptovský Mikuláš                 2  🟢 100%
+   5. MFK Zvolen                        2  🟢 50%
+   6. Baník Lehota pod Vtacnikom        1
+   7. Považská Bystrica                 1  🟢 100%
+   8. Tatran Prešov                     1  🟢 100%  🔴
+   9. FK Pohronie                       0
+  10. Humenné                           0
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -3586,43 +3586,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (157 partite giocate) + 2025
+Stagione 2026 (159 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
-   1. AC Oulu                           9
-   2. VPS                               9  🔴
+   1. AC Oulu                          10
+   2. VPS                              10  🔴
    3. FC Inter Turku                    4
    4. KuPS                              4
    5. TPS                               4  🔴
-   6. FC Lahti                          1
-   7. FF Jaro                           1  🔴
-   8. HJK                               1  🟢 100%  🔴
-   9. IF Gnistan                        1
+   6. HJK                               2  🟢 100%  🔴
+   7. IF Gnistan                        2
+   8. FC Lahti                          1
+   9. FF Jaro                           1  🔴
   10. SJK                               1
 
 RITARDI X2 + GOAL
    1. FC Inter Turku                    7  🔴
-   2. VPS                               6
+   2. VPS                               7
    3. KuPS                              4
    4. TPS                               4
-   5. AC Oulu                           2  🔴
+   5. IF Gnistan                        2
    6. SJK                               2  🟢 50%
    7. FC Lahti                          1
    8. FF Jaro                           1
-   9. HJK                               1  🟢 100%
-  10. IF Gnistan                        1
+   9. AC Oulu                           0
+  10. HJK                               0
 
 RITARDI 12 + GOAL
    1. FF Jaro                           7  🟢 71%
-   2. KuPS                              6  🔴
-   3. TPS                               6
-   4. VPS                               6
+   2. VPS                               7
+   3. KuPS                              6  🔴
+   4. TPS                               6
    5. FC Inter Turku                    4
-   6. HJK                               3  🟢 67%
-   7. AC Oulu                           2
-   8. FC Lahti                          2  🟢 50%  🔴
-   9. IF Gnistan                        2  🟢 50%
-  10. Ilves                             2  🟢 100%
+   6. IF Gnistan                        3
+   7. FC Lahti                          2  🟢 50%  🔴
+   8. Ilves                             2  🟢 100%
+   9. IFK Mariehamn                     1  🟢 100%  🔴
+  10. SJK                               1
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
@@ -3666,58 +3666,58 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (86 partite giocate) + 2025/2026
+Stagione 2026/2027 (87 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Górnik Zabrze                     3  🟢 67%
    2. Jagiellonia Białystok             3  🟢 100%
    3. Pogoń Szczecin                    3  🟢 100%
    4. Legia Warszawa                    2  🟢 100%
-   5. Wisła Płock                       2  🟢 100%
-   6. GKS Katowice                      1  🟢 100%
-   7. Korona Kielce                     1  🟢 100%
-   8. Lech Poznań                       1  🟢 100%
-   9. Motor Lublin                      1
-  10. Raków Częstochowa                 1  🟢 100%  🔴
+   5. Motor Lublin                      2  🟢 50%
+   6. Wisła Płock                       2  🟢 100%
+   7. GKS Katowice                      1  🟢 100%
+   8. Korona Kielce                     1  🟢 100%
+   9. Lech Poznań                       1  🟢 100%
+  10. Radomiak Radom                    1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Cracovia                         10  🟢 70%
-   2. Radomiak Radom                    6  🟢 67%
-   3. Korona Kielce                     3  🟢 100%
-   4. Wisła Kraków                      3  🟢 100%
-   5. Wisła Płock                       3  🟢 100%
-   6. Motor Lublin                      2  🟢 50%
-   7. Zagłębie Lubin                    2  🟢 100%
-   8. Legia Warszawa                    1  🟢 100%
-   9. Piast Gliwice                     1  🟢 100%
-  10. Pogoń Szczecin                    1  🟢 100%  🔴
+   2. Korona Kielce                     3  🟢 100%
+   3. Wisła Kraków                      3  🟢 100%
+   4. Wisła Płock                       3  🟢 100%
+   5. Zagłębie Lubin                    2  🟢 100%
+   6. Legia Warszawa                    1  🟢 100%
+   7. Piast Gliwice                     1  🟢 100%
+   8. Pogoń Szczecin                    1  🟢 100%  🔴
+   9. Widzew Łódź                       1  🟢 100%
+  10. Wieczysta Kraków                  1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Wieczysta Kraków                  5  🟢 100%
    2. Wisła Płock                       2  🟢 100%
    3. Korona Kielce                     1  🟢 100%  🔴
    4. Legia Warszawa                    1  🟢 100%  🔴
-   5. Motor Lublin                      1
-   6. Pogoń Szczecin                    1  🟢 100%  🔴
-   7. Wisła Kraków                      1  🟢 100%
-   8. Cracovia                          0
-   9. GKS Katowice                      0
-  10. Górnik Zabrze                     0
+   5. Pogoń Szczecin                    1  🟢 100%  🔴
+   6. Wisła Kraków                      1  🟢 100%
+   7. Cracovia                          0
+   8. GKS Katowice                      0
+   9. Górnik Zabrze                     0
+  10. Jagiellonia Białystok             0
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Chrobry Głogów                    3  🟢 67%
    2. Odra Opole                        3  🔴
-   3. ŁKS Łódź                          3  🟢 100%
-   4. Miedź Legnica                     2  🟢 50%
-   5. Pogoń Grodzisk Mazowiecki         2  🟢 100%
-   6. Polonia Bytom                     2
-   7. Polonia Warszawa                  2  🟢 100%  🔴
-   8. Ruch Chorzów                      2  🟢 50%
-   9. Stal Rzeszów                      2  🟢 50%
+   3. Stal Rzeszów                      3  🟢 67%
+   4. ŁKS Łódź                          3  🟢 100%
+   5. Miedź Legnica                     2  🟢 50%
+   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%
+   7. Polonia Bytom                     2
+   8. Polonia Warszawa                  2  🟢 100%  🔴
+   9. Ruch Chorzów                      2  🟢 50%
   10. Arka Gdynia                       1  🟢 100%
 
 RITARDI X2 + GOAL
@@ -3725,12 +3725,12 @@ RITARDI X2 + GOAL
    2. Pogoń Siedlce                     6
    3. Pogoń Grodzisk Mazowiecki         4  🟢 75%
    4. Chrobry Głogów                    3  🟢 67%
-   5. Lechia Gdańsk                     3  🟢 100%
-   6. Odra Opole                        3  🔴
-   7. Polonia Bytom                     2
-   8. Puszcza Niepołomice               2  🟢 50%
-   9. Ruch Chorzów                      2  🟢 50%
-  10. Stal Mielec                       2  🟢 100%
+   5. Odra Opole                        3  🔴
+   6. Polonia Bytom                     2
+   7. Puszcza Niepołomice               2  🟢 50%
+   8. Ruch Chorzów                      2  🟢 50%
+   9. Stal Mielec                       2  🟢 100%
+  10. ŁKS Łódź                          2  🟢 100%
 
 RITARDI 12 + GOAL
    1. TS Podbeskidzie Bielsko-Biała   10+  🟢 80%
@@ -3746,7 +3746,7 @@ RITARDI 12 + GOAL
 
 </pre>
 <h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>RITARDI DOPPIA CHANCE + OVER 2,5
-Aggiornato: 12/10/2026 17:35 (ora italiana)
+Aggiornato: 12/10/2026 20:11 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. &#x27;+&#x27; = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -4235,19 +4235,19 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
+Stagione 2026/2027 (97 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. FC Andorra                        7  🔴
    2. Girona                            5  🟢 80%
    3. Castellón                         3  🟢 67%
-   4. Sabadell                          3  🟢 67%  🔴
-   5. AD Ceuta FC                       2  🟢 100%
-   6. Granada                           2  🟢 100%
-   7. Cádiz                             1
-   8. Eibar                             1  🟢 100%
-   9. Sporting Gijón                    1
-  10. Albacete                          0
+   4. Granada                           3  🟢 67%
+   5. Sabadell                          3  🟢 67%
+   6. AD Ceuta FC                       2  🟢 100%
+   7. Burgos CF                         1  🔴
+   8. Cádiz                             1
+   9. Eibar                             1  🟢 100%
+  10. Sporting Gijón                    1
 
 RITARDI X2 + OVER 2,5
    1. Leganés                          12  🟢 58%
@@ -4256,22 +4256,22 @@ RITARDI X2 + OVER 2,5
    4. Tenerife                          7  🟢 71%  🔴
    5. Castellón                         4  🟢 75%
    6. Celta Fortuna                     4  🟢 100%
-   7. Cádiz                             3  🟢 67%
-   8. Córdoba                           3  🟢 100%
-   9. Eldense                           3  🟢 67%
-  10. Real Oviedo                       3  🟢 100%
+   7. Burgos CF                         3  🔴
+   8. Cádiz                             3  🟢 67%
+   9. Córdoba                           3  🟢 100%
+  10. Eldense                           3  🟢 67%
 
 RITARDI 12 + OVER 2,5
    1. Castellón                         3  🟢 67%
    2. FC Andorra                        2
    3. Girona                            2  🟢 50%
-   4. Cádiz                             1
-   5. Sporting Gijón                    1
-   6. AD Ceuta FC                       0
-   7. Albacete                          0
-   8. Almería                           0
-   9. Burgos CF                         0  🔴
-  10. Celta Fortuna                     0
+   4. Burgos CF                         1  🔴
+   5. Cádiz                             1
+   6. Granada                           1
+   7. Sporting Gijón                    1
+   8. AD Ceuta FC                       0
+   9. Albacete                          0
+  10. Almería                           0
 
 ==================================================
 BELGIO - FIRST DIVISION A
@@ -4955,43 +4955,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (79 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. Baník Ostrava B                   8  🟢 75%
-   2. Ústí nad Labem                    5  🟢 80%
-   3. FC Silon Táborsko                 1  🔴
-   4. FC Vlašim                         1  🟢 100%
-   5. Hanácká Slavia Kromeriz           1  🟢 100%
-   6. Karviná                           1  🔴
-   7. Kladno                            1
-   8. Opava                             1  🟢 100%
-   9. Příbram                           1  🟢 100%
-  10. Slavia Prague B                   1  🟢 100%
+   1. Ústí nad Labem                    5  🟢 80%
+   2. FC Silon Táborsko                 1  🔴
+   3. FC Vlašim                         1  🟢 100%
+   4. Hanácká Slavia Kromeriz           1  🟢 100%
+   5. Karviná                           1  🔴
+   6. Kladno                            1
+   7. Opava                             1  🟢 100%
+   8. Příbram                           1  🟢 100%
+   9. Slavia Prague B                   1  🟢 100%
+  10. Třinec                            1
 
 RITARDI X2 + OVER 2,5
    1. Karviná                           6  🟢 83%
    2. FC Vlašim                         5  🟢 100%  🔴
    3. Slavia Prague B                   4  🟢 75%
    4. Třinec                            4  🟢 75%
-   5. FC Silon Táborsko                 2  🟢 50%  🔴
-   6. Baník Ostrava B                   1  🟢 100%
-   7. Kladno                            1
-   8. Dukla Praha                       0
+   5. Baník Ostrava B                   2  🟢 100%
+   6. FC Silon Táborsko                 2  🟢 50%  🔴
+   7. Dukla Praha                       1  🟢 100%
+   8. Kladno                            1
    9. Hanácká Slavia Kromeriz           0
   10. Opava                             0  🔴
 
 RITARDI 12 + OVER 2,5
    1. Kladno                            4  🟢 75%
    2. SK Prostějov                      4  🟢 75%
-   3. Baník Ostrava B                   1  🟢 100%
-   4. Dukla Praha                       1  🟢 100%  🔴
-   5. FC Silon Táborsko                 1
-   6. FC Vlašim                         1  🟢 100%  🔴
-   7. Karviná                           1
-   8. Slavia Prague B                   1  🟢 100%
-   9. Třinec                            1
-  10. Vysočina Jihlava                  1  🟢 100%
+   3. FC Silon Táborsko                 1
+   4. FC Vlašim                         1  🟢 100%  🔴
+   5. Karviná                           1
+   6. Slavia Prague B                   1  🟢 100%
+   7. Třinec                            1
+   8. Vysočina Jihlava                  1  🟢 100%
+   9. Baník Ostrava B                   0
+  10. Dukla Praha                       0  🔴
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -5035,11 +5035,11 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (95 partite giocate) + 2025/2026
+Stagione 2026/2027 (96 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. Malženice                         6  🟢 67%
-   2. FK Pohronie                       5  🟢 80%
+   1. FK Pohronie                       6  🟢 83%
+   2. Malženice                         6  🟢 67%
    3. Liptovský Mikuláš                 5  🟢 80%
    4. FC Petržalka 1898                 4  🟢 75%  🔴
    5. Slovan Galanta                    3  🟢 100%
@@ -5057,21 +5057,21 @@ RITARDI X2 + OVER 2,5
    5. Baník Lehota pod Vtacnikom        2  🟢 50%
    6. Liptovský Mikuláš                 2  🟢 100%
    7. Slovan Bratislava B               2  🟢 100%
-   8. FK Pohronie                       1  🟢 100%
-   9. MFK Bytca                         1  🟢 100%
+   8. MFK Bytca                         1  🟢 100%
+   9. FK Pohronie                       0
   10. Inter Bratislava                  0
 
 RITARDI 12 + OVER 2,5
    1. FC Petržalka 1898                 4  🟢 75%  🔴
    2. Slovan Bratislava B               3  🟢 100%
-   3. Zlaté Moravce                     3  🟢 67%  🔴
-   4. FC STK 1914 Šamorín               2  🟢 100%
-   5. Liptovský Mikuláš                 2  🟢 100%
-   6. MFK Zvolen                        2  🟢 50%
-   7. Baník Lehota pod Vtacnikom        1
-   8. FK Pohronie                       1  🟢 100%
-   9. Považská Bystrica                 1  🟢 100%
-  10. Tatran Prešov                     1  🟢 100%  🔴
+   3. FC STK 1914 Šamorín               2  🟢 100%
+   4. Liptovský Mikuláš                 2  🟢 100%
+   5. MFK Zvolen                        2  🟢 50%
+   6. Baník Lehota pod Vtacnikom        1
+   7. Považská Bystrica                 1  🟢 100%
+   8. Tatran Prešov                     1  🟢 100%  🔴
+   9. FK Pohronie                       0
+  10. Humenné                           0
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -5235,43 +5235,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (157 partite giocate) + 2025
+Stagione 2026 (159 partite giocate) + 2025
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. AC Oulu                          11
+   1. AC Oulu                          12  🔴
    2. KuPS                             10  🟢 50%  🔴
    3. TPS                               8  🟢 50%  🔴
-   4. FF Jaro                           6  🟢 67%
-   5. IF Gnistan                        6  🟢 83%  🔴
+   4. IF Gnistan                        7  🟢 71%  🔴
+   5. FF Jaro                           6  🟢 67%
    6. FC Inter Turku                    4
    7. FC Lahti                          2  🟢 50%
    8. Ilves                             2  🟢 100%
-   9. IFK Mariehamn                     1  🟢 100%
-  10. SJK                               1
+   9. HJK                               1  🟢 100%  🔴
+  10. IFK Mariehamn                     1  🟢 100%
 
 RITARDI X2 + OVER 2,5
    1. FC Inter Turku                    7  🔴
    2. FF Jaro                           7  🟢 71%
-   3. KuPS                              6
-   4. VPS                               6  🔴
+   3. VPS                               7  🔴
+   4. KuPS                              6
    5. FC Lahti                          5  🟢 60%
    6. IFK Mariehamn                     5  🟢 80%  🔴
    7. SJK                               5
-   8. HJK                               4  🟢 75%
-   9. AC Oulu                           2
-  10. IF Gnistan                        2  🟢 50%
+   8. IF Gnistan                        3
+   9. Ilves                             1  🟢 100%
+  10. TPS                               1
 
 RITARDI 12 + OVER 2,5
    1. FF Jaro                           6  🟢 67%
    2. KuPS                              6  🔴
    3. FC Inter Turku                    4  🔴
-   4. AC Oulu                           2
+   4. IF Gnistan                        3
    5. FC Lahti                          2  🟢 50%  🔴
-   6. IF Gnistan                        2  🟢 50%
-   7. IFK Mariehamn                     1  🟢 100%
-   8. Ilves                             1  🟢 100%
-   9. SJK                               1
-  10. TPS                               1
+   6. IFK Mariehamn                     1  🟢 100%
+   7. Ilves                             1  🟢 100%
+   8. SJK                               1
+   9. TPS                               1
+  10. VPS                               1
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
@@ -5315,71 +5315,71 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (86 partite giocate) + 2025/2026
+Stagione 2026/2027 (87 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Legia Warszawa                    6  🟢 100%
    2. Pogoń Szczecin                    5  🟢 80%
    3. Górnik Zabrze                     3  🟢 67%
    4. Jagiellonia Białystok             3  🟢 100%
-   5. GKS Katowice                      1  🟢 100%
-   6. Korona Kielce                     1  🟢 100%  🔴
-   7. Lech Poznań                       1  🟢 100%
-   8. Motor Lublin                      1
-   9. Raków Częstochowa                 1  🟢 100%  🔴
-  10. Wisła Kraków                      1  🟢 100%
+   5. Motor Lublin                      2  🟢 50%
+   6. GKS Katowice                      1  🟢 100%
+   7. Korona Kielce                     1  🟢 100%  🔴
+   8. Lech Poznań                       1  🟢 100%
+   9. Radomiak Radom                    1  🟢 100%
+  10. Raków Częstochowa                 1  🟢 100%  🔴
 
 RITARDI X2 + OVER 2,5
    1. Cracovia                         11  🟢 73%
    2. Wisła Płock                       8  🟢 88%
-   3. Radomiak Radom                    6  🟢 67%
-   4. Wisła Kraków                      5  🟢 100%
-   5. Korona Kielce                     3  🟢 100%  🔴
-   6. Motor Lublin                      2  🟢 50%
-   7. Zagłębie Lubin                    2  🟢 100%
-   8. Legia Warszawa                    1  🟢 100%
-   9. Piast Gliwice                     1  🟢 100%
-  10. Pogoń Szczecin                    1  🟢 100%  🔴
+   3. Wisła Kraków                      5  🟢 100%
+   4. Korona Kielce                     3  🟢 100%  🔴
+   5. Zagłębie Lubin                    2  🟢 100%
+   6. Legia Warszawa                    1  🟢 100%
+   7. Piast Gliwice                     1  🟢 100%
+   8. Pogoń Szczecin                    1  🟢 100%  🔴
+   9. Widzew Łódź                       1  🟢 100%
+  10. Wieczysta Kraków                  1  🟢 100%
 
 RITARDI 12 + OVER 2,5
    1. Korona Kielce                     1  🟢 100%  🔴
    2. Legia Warszawa                    1  🟢 100%  🔴
-   3. Motor Lublin                      1
-   4. Pogoń Szczecin                    1  🟢 100%
-   5. Wisła Kraków                      1  🟢 100%
-   6. Cracovia                          0
-   7. GKS Katowice                      0
-   8. Górnik Zabrze                     0
-   9. Jagiellonia Białystok             0
-  10. Lech Poznań                       0
+   3. Pogoń Szczecin                    1  🟢 100%
+   4. Wisła Kraków                      1  🟢 100%
+   5. Cracovia                          0
+   6. GKS Katowice                      0
+   7. Górnik Zabrze                     0
+   8. Jagiellonia Białystok             0
+   9. Lech Poznań                       0
+  10. Motor Lublin                      0
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Chrobry Głogów                   10  🟢 70%  🔴
    2. Odra Opole                        6
    3. ŁKS Łódź                          5  🟢 80%
-   4. Miedź Legnica                     2  🟢 50%
-   5. Pogoń Grodzisk Mazowiecki         2  🟢 100%
-   6. Polonia Bytom                     2
-   7. Polonia Warszawa                  2  🟢 100%  🔴
-   8. Ruch Chorzów                      2  🟢 50%
-   9. Stal Rzeszów                      2  🟢 50%
+   4. Stal Rzeszów                      3  🟢 67%
+   5. Miedź Legnica                     2  🟢 50%
+   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%
+   7. Polonia Bytom                     2
+   8. Polonia Warszawa                  2  🟢 100%  🔴
+   9. Ruch Chorzów                      2  🟢 50%
   10. TS Podbeskidzie Bielsko-Biała     2  🟢 50%
 
 RITARDI X2 + OVER 2,5
    1. Odra Opole                       10  🔴
    2. Warta Poznań                      7  🟢 71%  🔴
    3. Pogoń Siedlce                     6
-   4. Lechia Gdańsk                     3  🟢 100%
-   5. Polonia Bytom                     2  🔴
-   6. Puszcza Niepołomice               2  🟢 50%  🔴
-   7. Ruch Chorzów                      2  🟢 50%
-   8. Stal Mielec                       2  🟢 100%
-   9. TS Podbeskidzie Bielsko-Biała     2  🟢 50%
-  10. ŁKS Łódź                          2  🟢 100%
+   4. Polonia Bytom                     2  🔴
+   5. Puszcza Niepołomice               2  🟢 50%  🔴
+   6. Ruch Chorzów                      2  🟢 50%
+   7. Stal Mielec                       2  🟢 100%
+   8. TS Podbeskidzie Bielsko-Biała     2  🟢 50%
+   9. ŁKS Łódź                          2  🟢 100%
+  10. Miedź Legnica                     1
 
 RITARDI 12 + OVER 2,5
    1. TS Podbeskidzie Bielsko-Biała   10+  🟢 80%

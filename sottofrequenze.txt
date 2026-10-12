@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 12/10/2026 17:35 (ora italiana)
+Aggiornato: 12/10/2026 20:11 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -598,11 +598,8 @@ SOTTOFREQUENZA 1X + GOAL
    1. Real Oviedo                    28/100
    2. Sabadell                       28/89
    3. Cádiz                          33/100
-   4. Tenerife                       34/100
-   5. Burgos CF                      35/100
-   6. Eibar                          35/100
-   7. Eldense                        35/100
-   8. Leganés                        35/100
+   4. Burgos CF                      34/100
+   5. Tenerife                       34/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. Real Valladolid                21/100
@@ -621,8 +618,8 @@ SOTTOFREQUENZA 12 + GOAL
 SOTTOFREQUENZA 1X + OVER 2,5
    1. FC Andorra                     25/100
    2. Real Oviedo                    25/100
-   3. Sabadell                       27/89
-   4. Burgos CF                      28/100
+   3. Burgos CF                      27/100
+   4. Sabadell                       27/89
    5. Las Palmas                     28/100
    6. Tenerife                       28/100
 
@@ -634,8 +631,8 @@ SOTTOFREQUENZA X2 + OVER 2,5
    5. Mallorca                       16/100
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Tenerife                       31/100
-   2. Burgos CF                      32/100
+   1. Burgos CF                      31/100
+   2. Tenerife                       31/100
    3. Sabadell                       32/89
    4. Eibar                          36/100
    5. Real Sociedad B                37/100
@@ -1567,7 +1564,7 @@ SLOVACCHIA - 2. LIGA
 SOTTOFREQUENZA 1X + GOAL
    1. FC Petržalka 1898              33/98
    2. Tatran Prešov                  37/99
-   3. Zlaté Moravce                  38/99
+   3. Zlaté Moravce                  38/100
    4. Žilina B                       38/98
    5. FC STK 1914 Šamorín            40/98
 
@@ -1575,40 +1572,38 @@ SOTTOFREQUENZA X2 + GOAL
    1. Tatran Prešov                  24/99
    2. Malženice                      26/97
    3. Žilina B                       28/98
-   4. FK Pohronie                    28/96
-   5. FC Petržalka 1898              29/98
+   4. FC Petržalka 1898              29/98
+   5. FK Pohronie                    29/97
 
 SOTTOFREQUENZA 12 + GOAL
    1. FC Petržalka 1898              32/98
    2. Tatran Prešov                  33/99
-   3. Zlaté Moravce                  34/99
-   4. FK Pohronie                    36/96
+   3. Zlaté Moravce                  35/100
+   4. FK Pohronie                    37/97
    5. Liptovský Mikuláš              40/97
 
 SOTTOFREQUENZA 1X + OVER 2,5
    1. FC Petržalka 1898              28/98
    2. FC STK 1914 Šamorín            35/98
-   3. Zlaté Moravce                  36/99
+   3. Zlaté Moravce                  36/100
    4. Tatran Prešov                  37/99
    5. Považská Bystrica              39/98
-   6. Malženice                      39/97
-   7. FK Pohronie                    39/96
+   6. FK Pohronie                    39/97
+   7. Malženice                      39/97
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. Tatran Prešov                  20/99
    2. FC Petržalka 1898              20/98
    3. Malženice                      20/97
    4. Považská Bystrica              21/98
-   5. Zlaté Moravce                  24/99
-   6. Slovan Bratislava B            24/98
+   5. Slovan Bratislava B            24/98
 
 SOTTOFREQUENZA 12 + OVER 2,5
-   1. Zlaté Moravce                  42/99
+   1. Zlaté Moravce                  43/100
    2. Tatran Prešov                  43/99
    3. FC Petržalka 1898              44/98
    4. Liptovský Mikuláš              47/97
    5. Slovan Bratislava B            49/98
-   6. FK Pohronie                    49/96
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1809,14 +1804,15 @@ SOTTOFREQUENZA 1X + GOAL
    2. TPS                            39/100
    3. FF Jaro                        40/100
    4. VPS                            40/100
-   5. FC Inter Turku                 41/100
-   6. KuPS                           41/100
+   5. AC Oulu                        41/100
+   6. FC Inter Turku                 41/100
+   7. KuPS                           41/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. IFK Mariehamn                  27/100
-   2. AC Oulu                        29/100
-   3. FC Inter Turku                 29/100
-   4. Ilves                          29/100
+   2. FC Inter Turku                 29/100
+   3. Ilves                          29/100
+   4. AC Oulu                        30/100
    5. VPS                            31/100
 
 SOTTOFREQUENZA 12 + GOAL
@@ -1829,15 +1825,16 @@ SOTTOFREQUENZA 12 + GOAL
 SOTTOFREQUENZA 1X + OVER 2,5
    1. KuPS                           31/100
    2. VPS                            35/100
-   3. HJK                            37/100
-   4. IF Gnistan                     37/100
-   5. TPS                            37/100
+   3. AC Oulu                        37/100
+   4. HJK                            37/100
+   5. IF Gnistan                     37/100
+   6. TPS                            37/100
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. IFK Mariehamn                  19/100
    2. FC Inter Turku                 21/100
    3. VPS                            21/100
-   4. AC Oulu                        22/100
+   4. AC Oulu                        23/100
    5. FC Lahti                       24/100
    6. FF Jaro                        24/100
    7. KuPS                           24/100
@@ -1846,7 +1843,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
    1. FC Lahti                       41/100
    2. FC Inter Turku                 45/100
    3. KuPS                           45/100
-   4. IF Gnistan                     48/100
+   4. IF Gnistan                     47/100
    5. IFK Mariehamn                  49/100
 
 ==================================================
@@ -1905,7 +1902,8 @@ SOTTOFREQUENZA 1X + GOAL
    4. GKS Katowice                   39/100
    5. Górnik Zabrze                  39/100
    6. Lech Poznań                    39/100
-   7. Widzew Łódź                    39/100
+   7. Motor Lublin                   39/100
+   8. Widzew Łódź                    39/100
 
 SOTTOFREQUENZA X2 + GOAL
    1. Górnik Zabrze                  27/100
@@ -1919,14 +1917,16 @@ SOTTOFREQUENZA 12 + GOAL
    2. Legia Warszawa                 31/100
    3. Piast Gliwice                  31/100
    4. Pogoń Szczecin                 31/100
-   5. Motor Lublin                   34/100
+   5. Motor Lublin                   35/100
+   6. Wisła Płock                    35/100
+   7. Zagłębie Lubin                 35/100
 
 SOTTOFREQUENZA 1X + OVER 2,5
    1. Korona Kielce                  25/100
    2. Piast Gliwice                  27/100
    3. Raków Częstochowa              27/100
    4. Zagłębie Lubin                 29/100
-   5. Motor Lublin                   31/100
+   5. Motor Lublin                   30/100
 
 SOTTOFREQUENZA X2 + OVER 2,5
    1. Korona Kielce                  16/100
@@ -1942,7 +1942,9 @@ SOTTOFREQUENZA 12 + OVER 2,5
    2. Legia Warszawa                 37/100
    3. Piast Gliwice                  38/100
    4. Zagłębie Lubin                 40/100
-   5. Motor Lublin                   41/100
+   5. Cracovia                       42/100
+   6. Motor Lublin                   42/100
+   7. Pogoń Szczecin                 42/100
 
 ==================================================
 POLONIA - I LIGA
@@ -1958,9 +1960,8 @@ SOTTOFREQUENZA X2 + GOAL
    1. Arka Gdynia                    26/100
    2. Odra Opole                     28/100
    3. Warta Poznań                   28/100
-   4. Lechia Gdańsk                  32/100
-   5. Polonia Bytom                  32/100
-   6. TS Podbeskidzie Bielsko-Biała  32/100
+   4. Polonia Bytom                  32/100
+   5. TS Podbeskidzie Bielsko-Biała  32/100
 
 SOTTOFREQUENZA 12 + GOAL
    1. Odra Opole                     26/100

@@ -1,20 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 17:35 (ora italiana)
+Aggiornato: 12/10/2026 20:11 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
-
-==================================================
-12/10/2026
-==================================================
-18:00  AC Oulu vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu: 1X + GOAL (9) 🔴 HJK
-18:00  Radomiak Radom vs Motor Lublin   [POLONIA - EKSTRAKLASA]
-      Radomiak Radom: X2 + GOAL (6) 🟢 67%
-18:30  Real Oviedo vs Eibar   [SPAGNA - LALIGA 2]
-      Real Oviedo: X2 + GOAL (8+) 🟢 50% 🔴 Eibar
-19:00  Malmö FF vs Kalmar FF   [SVEZIA - ALLSVENSKAN]
-      Malmö FF: X2 + GOAL (6) 🟢 50%
-      Kalmar FF: 1X + GOAL (6); X2 + GOAL (7); 12 + GOAL (6)
 
 ==================================================
 13/10/2026
@@ -45,6 +32,8 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 ==================================================
 16/10/2026
 ==================================================
+17:00  FK Pohronie vs Malženice   [SLOVACCHIA - 2. LIGA]
+      FK Pohronie: 1X + GOAL (6) 🟢 83%
 17:30  Karviná vs Dukla Praha   [REP. CECA - FNL]
       Karviná: X2 + GOAL (6) 🟢 83% 🔴 Dukla Praha
 18:00  Warta Poznań vs Skierniewice   [POLONIA - I LIGA]
@@ -89,8 +78,6 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Ingolstadt: 1X + GOAL (6) 🟢 83%
 14:00  Real Sociedad B vs Almería   [SPAGNA - LALIGA 2]
       Almería: X2 + GOAL (9) 🟢 67%
-14:30  Humenné vs Zlaté Moravce   [SLOVACCHIA - 2. LIGA]
-      Zlaté Moravce: 12 + GOAL (6) 🟢 50% 🔴 Zlaté Moravce
 15:00  EIF vs KäPa   [FINLANDIA - YKKOSLIIGA]
       EIF: 12 + GOAL (12) 🟢 50%
 15:00  JIPPO vs Haka   [FINLANDIA - YKKOSLIIGA]
@@ -141,5 +128,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 16:30  FC Emmen vs Almere City FC   [OLANDA - EERSTE DIVISIE]
       Almere City FC: X2 + GOAL (6) 🟢 50%
 17:00  FC Inter Turku vs AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]
-      FC Inter Turku: X2 + GOAL (7) 🔴 FC Inter Turku 🔴 AC Oulu
-      AC Oulu: 1X + GOAL (9)
+      FC Inter Turku: X2 + GOAL (7) 🔴 FC Inter Turku
+      AC Oulu: 1X + GOAL (10)
+18:00  Sigma Olomouc vs Slovan Liberec   [REP. CECA - 1. LIGA]
+      Slovan Liberec: 1X + GOAL (6) 🟢 67%
+18:30  Bayern München vs RB Leipzig   [GERMANIA - BUNDESLIGA]
+      RB Leipzig: X2 + GOAL (9) 🟢 100% 🔴 Bayern München 🔴 RB Leipzig
+20:00  Telstar vs Feyenoord   [OLANDA - EREDIVISIE]
+      Telstar: 12 + GOAL (6) 🟢 50% 🔴 Telstar
+20:15  Cracovia vs Legia Warszawa   [POLONIA - EKSTRAKLASA]
+      Cracovia: X2 + GOAL (10) 🟢 70%
