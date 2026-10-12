@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) CON SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 12:27 (ora italiana)
+Aggiornato: 12/10/2026 12:30 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
