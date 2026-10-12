@@ -1,16 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 15:55 (ora italiana)
+Aggiornato: 12/10/2026 17:35 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
 ==================================================
 12/10/2026
 ==================================================
-17:00  VPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS: X2 + OVER 2,5 (6) 🔴 VPS
-      IF Gnistan: 1X + OVER 2,5 (6) 🟢 83% 🔴 VPS 🔴 IF Gnistan
-17:00  Dukla Praha vs Baník Ostrava B   [REP. CECA - FNL]
-      Baník Ostrava B: 1X + OVER 2,5 (8) 🟢 75% 🔴 Dukla Praha
 18:00  AC Oulu vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
       AC Oulu: 1X + OVER 2,5 (11) 🔴 HJK
 18:00  Radomiak Radom vs Motor Lublin   [POLONIA - EKSTRAKLASA]
@@ -143,3 +138,51 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 15:30  Polonia Bytom vs Chrobry Głogów   [POLONIA - I LIGA]
       Polonia Bytom: 12 + OVER 2,5 (6) 🟢 50%
       Chrobry Głogów: 1X + OVER 2,5 (10) 🟢 70% 🔴 Chrobry Głogów
+16:00  Accrington Stanley vs Gillingham   [INGHILTERRA - LEAGUE TWO]
+      Accrington Stanley: X2 + OVER 2,5 (6) 🟢 67%
+16:00  Bradford City vs Stevenage   [INGHILTERRA - LEAGUE ONE]
+      Bradford City: 1X + OVER 2,5 (14) 🟢 50% 🔴 Stevenage
+16:00  Colchester United vs Exeter City   [INGHILTERRA - LEAGUE TWO]
+      Exeter City: 1X + OVER 2,5 (7) 🔴 Colchester United; X2 + OVER 2,5 (10+) 🔴 Colchester United; 12 + OVER 2,5 (7) 🔴 Colchester United
+16:00  Crewe Alexandra vs Rochdale   [INGHILTERRA - LEAGUE TWO]
+      Crewe Alexandra: X2 + OVER 2,5 (6) 🟢 83%
+      Rochdale: 1X + OVER 2,5 (6) 🟢 67% 🔴 Crewe Alexandra
+16:00  Grimsby Town vs Northampton Town   [INGHILTERRA - LEAGUE TWO]
+      Northampton Town: 1X + OVER 2,5 (8+) 🟢 50%; X2 + OVER 2,5 (8+) 🟢 50% 🔴 Northampton Town; 12 + OVER 2,5 (8+) 🟢 50%
+16:00  Leicester City vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
+      Leicester City: 1X + OVER 2,5 (8+) 🟢 88%
+16:00  Leyton Orient vs Blackpool   [INGHILTERRA - LEAGUE ONE]
+      Leyton Orient: 1X + OVER 2,5 (9) 🟢 78%
+16:00  Newport County vs York City   [INGHILTERRA - LEAGUE TWO]
+      Newport County: X2 + OVER 2,5 (7)
+      York City: X2 + OVER 2,5 (9+) 🟢 100%
+16:00  Oldham Athletic vs Cheltenham Town   [INGHILTERRA - LEAGUE TWO]
+      Oldham Athletic: 1X + OVER 2,5 (6) 🟢 83%
+16:00  Port Vale vs Chesterfield   [INGHILTERRA - LEAGUE TWO]
+      Port Vale: X2 + OVER 2,5 (8+) 🟢 50% 🔴 Port Vale
+16:00  Sheffield Wednesday vs AFC Wimbledon   [INGHILTERRA - LEAGUE ONE]
+      AFC Wimbledon: X2 + OVER 2,5 (9) 🟢 56%
+16:00  Southampton vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
+      Southampton: X2 + OVER 2,5 (9) 🟢 89%
+16:00  Swindon Town vs Walsall   [INGHILTERRA - LEAGUE TWO]
+      Swindon Town: X2 + OVER 2,5 (10) 🟢 60%
+      Walsall: 12 + OVER 2,5 (6) 🟢 67%
+16:00  Tranmere Rovers vs Barnet   [INGHILTERRA - LEAGUE TWO]
+      Tranmere Rovers: X2 + OVER 2,5 (6) 🟢 83%
+16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
+      West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion 🔴 Blackburn Rovers
+16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]
+      Dunfermline Athletic: 1X + OVER 2,5 (11) 🟢 64% 🔴 Dunfermline Athletic; X2 + OVER 2,5 (11) 🟢 64%; 12 + OVER 2,5 (13) 🟢 69% 🔴 Dunfermline Athletic
+16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
+      Queen's Park: X2 + OVER 2,5 (7) 🟢 86%
+16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]
+      St. Johnstone: X2 + OVER 2,5 (8+) 🟢 62% 🔴 St. Johnstone
+16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]
+      Stenhousemuir: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Raith Rovers
+16:15  Eibar vs Mallorca   [SPAGNA - LALIGA 2]
+      Mallorca: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Mallorca
+17:00  FC Inter Turku vs AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]
+      FC Inter Turku: X2 + OVER 2,5 (7) 🔴 FC Inter Turku
+      AC Oulu: 1X + OVER 2,5 (11)
+17:30  BW Linz vs FC Liefering   [AUSTRIA - 2. LIGA]
+      BW Linz: X2 + OVER 2,5 (7) 🟢 86% 🔴 BW Linz

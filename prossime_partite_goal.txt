@@ -1,15 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 15:55 (ora italiana)
+Aggiornato: 12/10/2026 17:35 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
 ==================================================
 12/10/2026
 ==================================================
-17:00  VPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS: 1X + GOAL (9) 🔴 VPS; X2 + GOAL (6); 12 + GOAL (6)
-17:00  Zlaté Moravce vs FK Pohronie   [SLOVACCHIA - 2. LIGA]
-      Zlaté Moravce: 12 + GOAL (6) 🟢 50% 🔴 Zlaté Moravce
 18:00  AC Oulu vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
       AC Oulu: 1X + GOAL (9) 🔴 HJK
 18:00  Radomiak Radom vs Motor Lublin   [POLONIA - EKSTRAKLASA]
@@ -112,3 +108,38 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 15:30  Polonia Bytom vs Chrobry Głogów   [POLONIA - I LIGA]
       Polonia Bytom: 12 + GOAL (6) 🟢 50%
       Chrobry Głogów: 12 + GOAL (7) 🟢 71%
+16:00  Accrington Stanley vs Gillingham   [INGHILTERRA - LEAGUE TWO]
+      Gillingham: 1X + GOAL (6) 🟢 83%
+16:00  Brentford vs Liverpool   [INGHILTERRA - PREMIER LEAGUE]
+      Brentford: 12 + GOAL (10) 🟢 100%
+      Liverpool: 12 + GOAL (7) 🟢 71%
+16:00  Colchester United vs Exeter City   [INGHILTERRA - LEAGUE TWO]
+      Exeter City: 1X + GOAL (6) 🔴 Exeter City; X2 + GOAL (6); 12 + GOAL (7) 🔴 Colchester United
+16:00  Grimsby Town vs Northampton Town   [INGHILTERRA - LEAGUE TWO]
+      Northampton Town: 12 + GOAL (8+) 🟢 50%
+16:00  Port Vale vs Chesterfield   [INGHILTERRA - LEAGUE TWO]
+      Port Vale: X2 + GOAL (6) 🔴 Port Vale
+16:00  Swindon Town vs Walsall   [INGHILTERRA - LEAGUE TWO]
+      Walsall: 12 + GOAL (6) 🟢 67%
+16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
+      West Bromwich Albion: 12 + GOAL (6) 🔴 Blackburn Rovers
+16:00  Wigan Athletic vs Reading   [INGHILTERRA - LEAGUE ONE]
+      Wigan Athletic: X2 + GOAL (13) 🔴 Wigan Athletic
+16:00  Aberdeen vs St. Mirren   [SCOZIA - PREMIERSHIP]
+      Aberdeen: 12 + GOAL (7) 🟢 57% 🔴 Aberdeen 🔴 St. Mirren
+16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]
+      Dunfermline Athletic: 12 + GOAL (14) 🟢 71% 🔴 Dunfermline Athletic
+16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
+      Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
+16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]
+      Dundee United: 12 + GOAL (13) 🟢 85% 🔴 Dundee United
+16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]
+      Stenhousemuir: X2 + GOAL (8) 🟢 50% 🔴 Raith Rovers
+      Raith Rovers: 1X + GOAL (9) 🟢 78% 🔴 Raith Rovers
+16:15  Eibar vs Mallorca   [SPAGNA - LALIGA 2]
+      Mallorca: X2 + GOAL (9+) 🟢 56% 🔴 Eibar
+16:30  FC Emmen vs Almere City FC   [OLANDA - EERSTE DIVISIE]
+      Almere City FC: X2 + GOAL (6) 🟢 50%
+17:00  FC Inter Turku vs AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]
+      FC Inter Turku: X2 + GOAL (7) 🔴 FC Inter Turku 🔴 AC Oulu
+      AC Oulu: 1X + GOAL (9)

@@ -1,261 +1,265 @@
-PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 15:55 (ora italiana)
-Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
+PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
+Aggiornato: 12/10/2026 17:35 (ora italiana)
+Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
 ==================================================
 12/10/2026
 ==================================================
-17:00  VPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS: 1X + GOAL (9) 🔴 VPS; X2 + GOAL (6); 12 + GOAL (6)
-17:00  Zlaté Moravce vs FK Pohronie   [SLOVACCHIA - 2. LIGA]
-      Zlaté Moravce: 12 + GOAL (6) 🟢 50% 🔴 Zlaté Moravce
 18:00  AC Oulu vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu: 1X + GOAL (9) 🔴 HJK
+      [GOAL] AC Oulu: 1X + GOAL (9) 🔴 HJK
+      [OVER 2,5] AC Oulu: 1X + OVER 2,5 (11) 🔴 HJK
 18:00  Radomiak Radom vs Motor Lublin   [POLONIA - EKSTRAKLASA]
-      Radomiak Radom: X2 + GOAL (6) 🟢 67%
+      [GOAL] Radomiak Radom: X2 + GOAL (6) 🟢 67%
+      [OVER 2,5] Radomiak Radom: X2 + OVER 2,5 (6) 🟢 67%
 18:30  Real Oviedo vs Eibar   [SPAGNA - LALIGA 2]
-      Real Oviedo: X2 + GOAL (8+) 🟢 50% 🔴 Eibar
+      [GOAL] Real Oviedo: X2 + GOAL (8+) 🟢 50% 🔴 Eibar
+19:00  Benfica B vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
+      [OVER 2,5] Benfica B: 1X + OVER 2,5 (10) 🟢 70% 🔴 Felgueiras 1932
+19:00  Elfsborg vs Halmstads BK   [SVEZIA - ALLSVENSKAN]
+      [OVER 2,5] Halmstads BK: X2 + OVER 2,5 (11) 🟢 82% 🔴 Halmstads BK
 19:00  Malmö FF vs Kalmar FF   [SVEZIA - ALLSVENSKAN]
-      Malmö FF: X2 + GOAL (6) 🟢 50%
-      Kalmar FF: 1X + GOAL (6); X2 + GOAL (7); 12 + GOAL (6)
+      [GOAL] Malmö FF: X2 + GOAL (6) 🟢 50%
+      [GOAL] Kalmar FF: 1X + GOAL (6); X2 + GOAL (7); 12 + GOAL (6)
+      [OVER 2,5] Kalmar FF: 1X + OVER 2,5 (6)
+21:00  Levante vs Sevilla   [SPAGNA - LALIGA]
+      [OVER 2,5] Sevilla: 1X + OVER 2,5 (6) 🟢 67%
+21:00  Tenerife vs Girona   [SPAGNA - LALIGA 2]
+      [OVER 2,5] Tenerife: X2 + OVER 2,5 (7) 🟢 71% 🔴 Tenerife
 
 ==================================================
 13/10/2026
 ==================================================
 19:00  IFK Norrköping vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
-      GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 IFK Norrköping 🔴 GIF Sundsvall
-20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
-      West Bromwich Albion: 12 + GOAL (6)
-20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
-
-==================================================
-14/10/2026
-==================================================
-19:00  Waldhof Mannheim vs Ingolstadt   [GERMANIA - 3. LIGA]
-      Ingolstadt: 1X + GOAL (6) 🟢 83%
-19:00  Bryne vs Raufoss   [NORVEGIA - OBOS-LIGAEN]
-      Bryne: X2 + GOAL (10) 🟢 80% 🔴 Bryne
-19:00  Moss vs Egersund   [NORVEGIA - OBOS-LIGAEN]
-      Moss: 1X + GOAL (6) 🟢 100%
-
-==================================================
-15/10/2026
-==================================================
-18:30  Pogoń Siedlce vs Puszcza Niepołomice   [POLONIA - I LIGA]
-      Pogoń Siedlce: X2 + GOAL (6)
-
-==================================================
-16/10/2026
-==================================================
-17:30  Karviná vs Dukla Praha   [REP. CECA - FNL]
-      Karviná: X2 + GOAL (6) 🟢 83% 🔴 Dukla Praha
-18:00  Warta Poznań vs Skierniewice   [POLONIA - I LIGA]
-      Warta Poznań: X2 + GOAL (7) 🟢 71% 🔴 Warta Poznań
-18:30  Austria Wien II vs FC Hertha Wels   [AUSTRIA - 2. LIGA]
-      Austria Wien II: X2 + GOAL (8) 🟢 75%
-18:30  Holstein Kiel vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
-      Holstein Kiel: 12 + GOAL (7) 🟢 71%
-19:00  Brommapojkarna vs Djurgården   [SVEZIA - ALLSVENSKAN]
-      Djurgården: 1X + GOAL (18) 🟢 72% 🔴 Djurgården
-19:30  Rapid Wien vs Hartberg   [AUSTRIA - BUNDESLIGA]
-      Rapid Wien: X2 + GOAL (6) 🟢 100%
-20:00  Annecy FC vs Nancy   [FRANCIA - LIGUE 2]
-      Nancy: 1X + GOAL (8) 🔴 Annecy FC 🔴 Nancy
-20:00  FC Den Bosch vs TOP Oss   [OLANDA - EERSTE DIVISIE]
-      TOP Oss: X2 + GOAL (9) 🟢 78%
-20:30  Ruch Chorzów vs Odra Opole   [POLONIA - I LIGA]
-      Odra Opole: 12 + GOAL (6) 🔴 Ruch Chorzów 🔴 Odra Opole
-20:30  Ayr United vs Partick Thistle   [SCOZIA - CHAMPIONSHIP]
-      Partick Thistle: 1X + GOAL (6)
-20:30  Leganés vs Córdoba   [SPAGNA - LALIGA 2]
-      Leganés: X2 + GOAL (8) 🟢 62%
-20:45  Kerry FC vs Cork City   [IRLANDA - FIRST DIVISION]
-      Kerry FC: 1X + GOAL (6) 🟢 50%
-20:45  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]
-      St. Patrick's Athletic: 1X + GOAL (6) 🟢 83% 🔴 St. Patrick's Athletic
-
-==================================================
-17/10/2026
-==================================================
-13:00  FC Lahti vs TPS   [FINLANDIA - VEIKKAUSLIIGA]
-      TPS: 12 + GOAL (6) 🔴 FC Lahti
-13:00  FF Jaro vs IFK Mariehamn   [FINLANDIA - VEIKKAUSLIIGA]
-      FF Jaro: 12 + GOAL (7) 🟢 71% 🔴 IFK Mariehamn
-13:00  Kaiserslautern vs Bochum   [GERMANIA - 2. BUNDESLIGA]
-      Kaiserslautern: 1X + GOAL (16) 🟢 56%
-13:30  Everton vs Chelsea   [INGHILTERRA - PREMIER LEAGUE]
-      Everton: 12 + GOAL (7) 🟢 57% 🔴 Everton
-14:00  Metz vs Sochaux   [FRANCIA - LIGUE 2]
-      Sochaux: 12 + GOAL (8+) 🟢 50% 🔴 Sochaux
-14:00  Ingolstadt vs RW Essen   [GERMANIA - 3. LIGA]
-      Ingolstadt: 1X + GOAL (6) 🟢 83%
-14:00  Real Sociedad B vs Almería   [SPAGNA - LALIGA 2]
-      Almería: X2 + GOAL (9) 🟢 67%
-14:30  Humenné vs Zlaté Moravce   [SLOVACCHIA - 2. LIGA]
-      Zlaté Moravce: 12 + GOAL (6) 🟢 50% 🔴 Zlaté Moravce
-15:00  EIF vs KäPa   [FINLANDIA - YKKOSLIIGA]
-      EIF: 12 + GOAL (12) 🟢 50%
-15:00  JIPPO vs Haka   [FINLANDIA - YKKOSLIIGA]
-      JIPPO: X2 + GOAL (6) 🟢 67% 🔴 JIPPO
-15:00  MP vs JäPS   [FINLANDIA - YKKOSLIIGA]
-      MP: 12 + GOAL (6) 🟢 83%
-15:00  PK-35 vs SJK Akatemia   [FINLANDIA - YKKOSLIIGA]
-      PK-35: 1X + GOAL (7) 🟢 71% 🔴 PK-35
-15:00  Sandvikens IF vs Östersunds FK   [SVEZIA - SUPERETTAN]
-      Östersunds FK: 12 + GOAL (16) 🟢 62% 🔴 Östersunds FK
-15:30  SW Bregenz vs SKU Amstetten   [AUSTRIA - 2. LIGA]
-      SW Bregenz: X2 + GOAL (9) 🟢 78%
-15:30  Schalke 04 vs Mainz 05   [GERMANIA - BUNDESLIGA]
-      Mainz 05: 1X + GOAL (9) 🟢 89% 🔴 Schalke 04
-15:30  Polonia Bytom vs Chrobry Głogów   [POLONIA - I LIGA]
-      Polonia Bytom: 12 + GOAL (6) 🟢 50%
-      Chrobry Głogów: 12 + GOAL (7) 🟢 71%
-
-
-PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 12/10/2026 15:55 (ora italiana)
-Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
-
-
-==================================================
-12/10/2026
-==================================================
-17:00  VPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS: X2 + OVER 2,5 (6) 🔴 VPS
-      IF Gnistan: 1X + OVER 2,5 (6) 🟢 83% 🔴 VPS 🔴 IF Gnistan
-17:00  Dukla Praha vs Baník Ostrava B   [REP. CECA - FNL]
-      Baník Ostrava B: 1X + OVER 2,5 (8) 🟢 75% 🔴 Dukla Praha
-18:00  AC Oulu vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu: 1X + OVER 2,5 (11) 🔴 HJK
-18:00  Radomiak Radom vs Motor Lublin   [POLONIA - EKSTRAKLASA]
-      Radomiak Radom: X2 + OVER 2,5 (6) 🟢 67%
-19:00  Benfica B vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
-      Benfica B: 1X + OVER 2,5 (10) 🟢 70% 🔴 Felgueiras 1932
-19:00  Elfsborg vs Halmstads BK   [SVEZIA - ALLSVENSKAN]
-      Halmstads BK: X2 + OVER 2,5 (11) 🟢 82% 🔴 Halmstads BK
-19:00  Malmö FF vs Kalmar FF   [SVEZIA - ALLSVENSKAN]
-      Kalmar FF: 1X + OVER 2,5 (6)
-21:00  Levante vs Sevilla   [SPAGNA - LALIGA]
-      Sevilla: 1X + OVER 2,5 (6) 🟢 67%
-21:00  Tenerife vs Girona   [SPAGNA - LALIGA 2]
-      Tenerife: X2 + OVER 2,5 (7) 🟢 71% 🔴 Tenerife
-
-==================================================
-13/10/2026
-==================================================
+      [GOAL] GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 IFK Norrköping 🔴 GIF Sundsvall
 20:45  Burnley vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
-      Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57%
+      [OVER 2,5] Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57%
 20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
-      Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City 🔴 Watford
+      [OVER 2,5] Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City 🔴 Watford
 20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
-      West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion
+      [GOAL] West Bromwich Albion: 12 + GOAL (6)
+      [OVER 2,5] West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion
 20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park: X2 + OVER 2,5 (7) 🟢 86% 🔴 Inverness Caledonian Thistle
+      [GOAL] Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
+      [OVER 2,5] Queen's Park: X2 + OVER 2,5 (7) 🟢 86% 🔴 Inverness Caledonian Thistle
 
 ==================================================
 14/10/2026
 ==================================================
 18:00  Bohemians 1905 vs Mladá Boleslav   [REP. CECA - 1. LIGA]
-      Mladá Boleslav: X2 + OVER 2,5 (7) 🟢 100%
+      [OVER 2,5] Mladá Boleslav: X2 + OVER 2,5 (7) 🟢 100%
+19:00  Waldhof Mannheim vs Ingolstadt   [GERMANIA - 3. LIGA]
+      [GOAL] Ingolstadt: 1X + GOAL (6) 🟢 83%
 19:00  Wehen Wiesbaden vs Alemannia Aachen   [GERMANIA - 3. LIGA]
-      Wehen Wiesbaden: 1X + OVER 2,5 (6) 🟢 67%
+      [OVER 2,5] Wehen Wiesbaden: 1X + OVER 2,5 (6) 🟢 67%
+19:00  Bryne vs Raufoss   [NORVEGIA - OBOS-LIGAEN]
+      [GOAL] Bryne: X2 + GOAL (10) 🟢 80% 🔴 Bryne
 19:00  Moss vs Egersund   [NORVEGIA - OBOS-LIGAEN]
-      Moss: 1X + OVER 2,5 (6) 🟢 100%
+      [GOAL] Moss: 1X + GOAL (6) 🟢 100%
+      [OVER 2,5] Moss: 1X + OVER 2,5 (6) 🟢 100%
 20:45  Norwich City vs Southampton   [INGHILTERRA - CHAMPIONSHIP]
-      Southampton: X2 + OVER 2,5 (9) 🟢 89%
+      [OVER 2,5] Southampton: X2 + OVER 2,5 (9) 🟢 89%
 
 ==================================================
 15/10/2026
 ==================================================
 18:30  Pogoń Siedlce vs Puszcza Niepołomice   [POLONIA - I LIGA]
-      Pogoń Siedlce: X2 + OVER 2,5 (6) 🔴 Puszcza Niepołomice
+      [GOAL] Pogoń Siedlce: X2 + GOAL (6)
+      [OVER 2,5] Pogoń Siedlce: X2 + OVER 2,5 (6) 🔴 Puszcza Niepołomice
 
 ==================================================
 16/10/2026
 ==================================================
 15:00  Baník Ostrava B vs Slavia Prague B   [REP. CECA - FNL]
-      Baník Ostrava B: 1X + OVER 2,5 (8) 🟢 75%
+      [OVER 2,5] Baník Ostrava B: 1X + OVER 2,5 (8) 🟢 75%
 17:00  FK Pohronie vs Malženice   [SLOVACCHIA - 2. LIGA]
-      Malženice: 1X + OVER 2,5 (6) 🟢 67%
+      [OVER 2,5] Malženice: 1X + OVER 2,5 (6) 🟢 67%
 17:30  Karviná vs Dukla Praha   [REP. CECA - FNL]
-      Karviná: X2 + OVER 2,5 (6) 🟢 83%
+      [GOAL] Karviná: X2 + GOAL (6) 🟢 83% 🔴 Dukla Praha
+      [OVER 2,5] Karviná: X2 + OVER 2,5 (6) 🟢 83%
 18:00  Warta Poznań vs Skierniewice   [POLONIA - I LIGA]
-      Warta Poznań: X2 + OVER 2,5 (7) 🟢 71% 🔴 Warta Poznań
+      [GOAL] Warta Poznań: X2 + GOAL (7) 🟢 71% 🔴 Warta Poznań
+      [OVER 2,5] Warta Poznań: X2 + OVER 2,5 (7) 🟢 71% 🔴 Warta Poznań
 18:30  Austria Wien II vs FC Hertha Wels   [AUSTRIA - 2. LIGA]
-      Austria Wien II: X2 + OVER 2,5 (7) 🟢 71%
+      [GOAL] Austria Wien II: X2 + GOAL (8) 🟢 75%
+      [OVER 2,5] Austria Wien II: X2 + OVER 2,5 (7) 🟢 71%
 18:30  Holstein Kiel vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
-      Holstein Kiel: 12 + OVER 2,5 (7) 🟢 71%
+      [GOAL] Holstein Kiel: 12 + GOAL (7) 🟢 71%
+      [OVER 2,5] Holstein Kiel: 12 + OVER 2,5 (7) 🟢 71%
 19:00  HB Køge vs AB   [DANIMARCA - 1. DIVISION]
-      AB: X2 + OVER 2,5 (6) 🟢 83% 🔴 HB Køge
+      [OVER 2,5] AB: X2 + OVER 2,5 (6) 🟢 83% 🔴 HB Køge
+19:00  Brommapojkarna vs Djurgården   [SVEZIA - ALLSVENSKAN]
+      [GOAL] Djurgården: 1X + GOAL (18) 🟢 72% 🔴 Djurgården
+19:30  Rapid Wien vs Hartberg   [AUSTRIA - BUNDESLIGA]
+      [GOAL] Rapid Wien: X2 + GOAL (6) 🟢 100%
 20:00  Annecy FC vs Nancy   [FRANCIA - LIGUE 2]
-      Nancy: 1X + OVER 2,5 (8) 🔴 Nancy
+      [GOAL] Nancy: 1X + GOAL (8) 🔴 Annecy FC 🔴 Nancy
+      [OVER 2,5] Nancy: 1X + OVER 2,5 (8) 🔴 Nancy
 20:00  Grenoble vs Boulogne   [FRANCIA - LIGUE 2]
-      Boulogne: 1X + OVER 2,5 (8) 🟢 50%
+      [OVER 2,5] Boulogne: 1X + OVER 2,5 (8) 🟢 50%
 20:00  Laval vs Clermont Foot   [FRANCIA - LIGUE 2]
-      Clermont Foot: 1X + OVER 2,5 (6) 🟢 67% 🔴 Laval
+      [OVER 2,5] Clermont Foot: 1X + OVER 2,5 (6) 🟢 67% 🔴 Laval
 20:00  FC Den Bosch vs TOP Oss   [OLANDA - EERSTE DIVISIE]
-      FC Den Bosch: X2 + OVER 2,5 (6) 🟢 67% 🔴 TOP Oss
-      TOP Oss: X2 + OVER 2,5 (9) 🟢 78% 🔴 TOP Oss
+      [GOAL] TOP Oss: X2 + GOAL (9) 🟢 78%
+      [OVER 2,5] FC Den Bosch: X2 + OVER 2,5 (6) 🟢 67% 🔴 TOP Oss
+      [OVER 2,5] TOP Oss: X2 + OVER 2,5 (9) 🟢 78% 🔴 TOP Oss
 20:30  Eintracht Frankfurt vs 1. FC Köln   [GERMANIA - BUNDESLIGA]
-      1. FC Köln: X2 + OVER 2,5 (6) 🟢 100% 🔴 1. FC Köln
+      [OVER 2,5] 1. FC Köln: X2 + OVER 2,5 (6) 🟢 100% 🔴 1. FC Köln
 20:30  Ruch Chorzów vs Odra Opole   [POLONIA - I LIGA]
-      Odra Opole: 1X + OVER 2,5 (6); X2 + OVER 2,5 (10) 🔴 Odra Opole; 12 + OVER 2,5 (6) 🔴 Ruch Chorzów 🔴 Odra Opole
+      [GOAL] Odra Opole: 12 + GOAL (6) 🔴 Ruch Chorzów 🔴 Odra Opole
+      [OVER 2,5] Odra Opole: 1X + OVER 2,5 (6); X2 + OVER 2,5 (10) 🔴 Odra Opole; 12 + OVER 2,5 (6) 🔴 Ruch Chorzów 🔴 Odra Opole
 20:30  Ayr United vs Partick Thistle   [SCOZIA - CHAMPIONSHIP]
-      Ayr United: 1X + OVER 2,5 (11) 🟢 73%
+      [GOAL] Partick Thistle: 1X + GOAL (6)
+      [OVER 2,5] Ayr United: 1X + OVER 2,5 (11) 🟢 73%
 20:30  Leganés vs Córdoba   [SPAGNA - LALIGA 2]
-      Leganés: X2 + OVER 2,5 (12) 🟢 58%
+      [GOAL] Leganés: X2 + GOAL (8) 🟢 62%
+      [OVER 2,5] Leganés: X2 + OVER 2,5 (12) 🟢 58%
 20:45  Galway United FC vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]
-      Galway United FC: 1X + OVER 2,5 (9) 🟢 67% 🔴 Galway United FC
+      [OVER 2,5] Galway United FC: 1X + OVER 2,5 (9) 🟢 67% 🔴 Galway United FC
+20:45  Kerry FC vs Cork City   [IRLANDA - FIRST DIVISION]
+      [GOAL] Kerry FC: 1X + GOAL (6) 🟢 50%
 20:45  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]
-      St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89% 🔴 Shelbourne
+      [GOAL] St. Patrick's Athletic: 1X + GOAL (6) 🟢 83% 🔴 St. Patrick's Athletic
+      [OVER 2,5] St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89% 🔴 Shelbourne
 
 ==================================================
 17/10/2026
 ==================================================
 13:00  FC Lahti vs TPS   [FINLANDIA - VEIKKAUSLIIGA]
-      TPS: 1X + OVER 2,5 (8) 🟢 50% 🔴 TPS
+      [GOAL] TPS: 12 + GOAL (6) 🔴 FC Lahti
+      [OVER 2,5] TPS: 1X + OVER 2,5 (8) 🟢 50% 🔴 TPS
 13:00  FF Jaro vs IFK Mariehamn   [FINLANDIA - VEIKKAUSLIIGA]
-      FF Jaro: 1X + OVER 2,5 (6) 🟢 67%; X2 + OVER 2,5 (7) 🟢 71% 🔴 IFK Mariehamn; 12 + OVER 2,5 (6) 🟢 67%
+      [GOAL] FF Jaro: 12 + GOAL (7) 🟢 71% 🔴 IFK Mariehamn
+      [OVER 2,5] FF Jaro: 1X + OVER 2,5 (6) 🟢 67%; X2 + OVER 2,5 (7) 🟢 71% 🔴 IFK Mariehamn; 12 + OVER 2,5 (6) 🟢 67%
+13:00  Kaiserslautern vs Bochum   [GERMANIA - 2. BUNDESLIGA]
+      [GOAL] Kaiserslautern: 1X + GOAL (16) 🟢 56%
 13:00  Ljungskile vs IK Brage   [SVEZIA - SUPERETTAN]
-      IK Brage: X2 + OVER 2,5 (6) 🟢 83%
+      [OVER 2,5] IK Brage: X2 + OVER 2,5 (6) 🟢 83%
 13:30  Everton vs Chelsea   [INGHILTERRA - PREMIER LEAGUE]
-      Everton: 12 + OVER 2,5 (7) 🟢 57% 🔴 Everton
+      [GOAL] Everton: 12 + GOAL (7) 🟢 57% 🔴 Everton
+      [OVER 2,5] Everton: 12 + OVER 2,5 (7) 🟢 57% 🔴 Everton
 13:30  Middlesbrough vs Cardiff City   [INGHILTERRA - CHAMPIONSHIP]
-      Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City
+      [OVER 2,5] Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City
 13:30  Peterborough United vs Burton Albion   [INGHILTERRA - LEAGUE ONE]
-      Peterborough United: 1X + OVER 2,5 (6) 🟢 67%
+      [OVER 2,5] Peterborough United: 1X + OVER 2,5 (6) 🟢 67%
 13:30  Watford vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
-      Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57% 🔴 Watford
+      [OVER 2,5] Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57% 🔴 Watford
 14:00  Metz vs Sochaux   [FRANCIA - LIGUE 2]
-      Sochaux: 1X + OVER 2,5 (8+) 🟢 50% 🔴 Sochaux; X2 + OVER 2,5 (7) 🔴 Sochaux; 12 + OVER 2,5 (7) 🔴 Sochaux
+      [GOAL] Sochaux: 12 + GOAL (8+) 🟢 50% 🔴 Sochaux
+      [OVER 2,5] Sochaux: 1X + OVER 2,5 (8+) 🟢 50% 🔴 Sochaux; X2 + OVER 2,5 (7) 🔴 Sochaux; 12 + OVER 2,5 (7) 🔴 Sochaux
 14:00  Nantes vs Dunkerque   [FRANCIA - LIGUE 2]
-      Dunkerque: X2 + OVER 2,5 (6) 🟢 67%
+      [OVER 2,5] Dunkerque: X2 + OVER 2,5 (6) 🟢 67%
+14:00  Ingolstadt vs RW Essen   [GERMANIA - 3. LIGA]
+      [GOAL] Ingolstadt: 1X + GOAL (6) 🟢 83%
 14:00  Jahn Regensburg vs Wehen Wiesbaden   [GERMANIA - 3. LIGA]
-      Wehen Wiesbaden: 1X + OVER 2,5 (6) 🟢 67%
+      [OVER 2,5] Wehen Wiesbaden: 1X + OVER 2,5 (6) 🟢 67%
 14:00  Real Sociedad B vs Almería   [SPAGNA - LALIGA 2]
-      Almería: X2 + OVER 2,5 (9) 🟢 67%
+      [GOAL] Almería: X2 + GOAL (9) 🟢 67%
+      [OVER 2,5] Almería: X2 + OVER 2,5 (9) 🟢 67%
 14:30  Humenné vs Zlaté Moravce   [SLOVACCHIA - 2. LIGA]
-      Humenné: X2 + OVER 2,5 (11) 🟢 55%
+      [GOAL] Zlaté Moravce: 12 + GOAL (6) 🟢 50% 🔴 Zlaté Moravce
+      [OVER 2,5] Humenné: X2 + OVER 2,5 (11) 🟢 55%
+15:00  EIF vs KäPa   [FINLANDIA - YKKOSLIIGA]
+      [GOAL] EIF: 12 + GOAL (12) 🟢 50%
 15:00  HJK vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      IF Gnistan: 1X + OVER 2,5 (6) 🟢 83% 🔴 HJK 🔴 IF Gnistan
+      [OVER 2,5] IF Gnistan: 1X + OVER 2,5 (6) 🟢 83% 🔴 HJK 🔴 IF Gnistan
+15:00  JIPPO vs Haka   [FINLANDIA - YKKOSLIIGA]
+      [GOAL] JIPPO: X2 + GOAL (6) 🟢 67% 🔴 JIPPO
 15:00  MP vs JäPS   [FINLANDIA - YKKOSLIIGA]
-      MP: 1X + OVER 2,5 (6) 🟢 83% 🔴 JäPS
+      [GOAL] MP: 12 + GOAL (6) 🟢 83%
+      [OVER 2,5] MP: 1X + OVER 2,5 (6) 🟢 83% 🔴 JäPS
+15:00  PK-35 vs SJK Akatemia   [FINLANDIA - YKKOSLIIGA]
+      [GOAL] PK-35: 1X + GOAL (7) 🟢 71% 🔴 PK-35
 15:00  Carrarese vs Modena   [ITALIA - SERIE B]
-      Carrarese: 1X + OVER 2,5 (6) 🟢 50%
+      [OVER 2,5] Carrarese: 1X + OVER 2,5 (6) 🟢 50%
 15:00  Padova vs Virtus Entella   [ITALIA - SERIE B]
-      Padova: X2 + OVER 2,5 (6) 🟢 67% 🔴 Padova 🔴 Virtus Entella
+      [OVER 2,5] Padova: X2 + OVER 2,5 (6) 🟢 67% 🔴 Padova 🔴 Virtus Entella
 15:00  Mladá Boleslav vs Teplice   [REP. CECA - 1. LIGA]
-      Mladá Boleslav: X2 + OVER 2,5 (7) 🟢 100%
-      Teplice: 1X + OVER 2,5 (6) 🟢 100% 🔴 Teplice
+      [OVER 2,5] Mladá Boleslav: X2 + OVER 2,5 (7) 🟢 100%
+      [OVER 2,5] Teplice: 1X + OVER 2,5 (6) 🟢 100% 🔴 Teplice
 15:00  Sandvikens IF vs Östersunds FK   [SVEZIA - SUPERETTAN]
-      Sandvikens IF: X2 + OVER 2,5 (7) 🟢 86% 🔴 Sandvikens IF 🔴 Östersunds FK
-      Östersunds FK: 1X + OVER 2,5 (10); X2 + OVER 2,5 (10) 🔴 Sandvikens IF 🔴 Östersunds FK; 12 + OVER 2,5 (16) 🟢 62% 🔴 Sandvikens IF 🔴 Östersunds FK
+      [GOAL] Östersunds FK: 12 + GOAL (16) 🟢 62% 🔴 Östersunds FK
+      [OVER 2,5] Sandvikens IF: X2 + OVER 2,5 (7) 🟢 86% 🔴 Sandvikens IF 🔴 Östersunds FK
+      [OVER 2,5] Östersunds FK: 1X + OVER 2,5 (10); X2 + OVER 2,5 (10) 🔴 Sandvikens IF 🔴 Östersunds FK; 12 + OVER 2,5 (16) 🟢 62% 🔴 Sandvikens IF 🔴 Östersunds FK
 15:30  SW Bregenz vs SKU Amstetten   [AUSTRIA - 2. LIGA]
-      SW Bregenz: X2 + OVER 2,5 (9) 🟢 78%
+      [GOAL] SW Bregenz: X2 + GOAL (9) 🟢 78%
+      [OVER 2,5] SW Bregenz: X2 + OVER 2,5 (9) 🟢 78%
 15:30  Schalke 04 vs Mainz 05   [GERMANIA - BUNDESLIGA]
-      Mainz 05: 1X + OVER 2,5 (12) 🟢 83% 🔴 Mainz 05
+      [GOAL] Mainz 05: 1X + GOAL (9) 🟢 89% 🔴 Schalke 04
+      [OVER 2,5] Mainz 05: 1X + OVER 2,5 (12) 🟢 83% 🔴 Mainz 05
 15:30  Polonia Bytom vs Chrobry Głogów   [POLONIA - I LIGA]
-      Polonia Bytom: 12 + OVER 2,5 (6) 🟢 50%
-      Chrobry Głogów: 1X + OVER 2,5 (10) 🟢 70% 🔴 Chrobry Głogów
+      [GOAL] Polonia Bytom: 12 + GOAL (6) 🟢 50%
+      [GOAL] Chrobry Głogów: 12 + GOAL (7) 🟢 71%
+      [OVER 2,5] Polonia Bytom: 12 + OVER 2,5 (6) 🟢 50%
+      [OVER 2,5] Chrobry Głogów: 1X + OVER 2,5 (10) 🟢 70% 🔴 Chrobry Głogów
+16:00  Accrington Stanley vs Gillingham   [INGHILTERRA - LEAGUE TWO]
+      [GOAL] Gillingham: 1X + GOAL (6) 🟢 83%
+      [OVER 2,5] Accrington Stanley: X2 + OVER 2,5 (6) 🟢 67%
+16:00  Bradford City vs Stevenage   [INGHILTERRA - LEAGUE ONE]
+      [OVER 2,5] Bradford City: 1X + OVER 2,5 (14) 🟢 50% 🔴 Stevenage
+16:00  Brentford vs Liverpool   [INGHILTERRA - PREMIER LEAGUE]
+      [GOAL] Brentford: 12 + GOAL (10) 🟢 100%
+      [GOAL] Liverpool: 12 + GOAL (7) 🟢 71%
+16:00  Colchester United vs Exeter City   [INGHILTERRA - LEAGUE TWO]
+      [GOAL] Exeter City: 1X + GOAL (6) 🔴 Exeter City; X2 + GOAL (6); 12 + GOAL (7) 🔴 Colchester United
+      [OVER 2,5] Exeter City: 1X + OVER 2,5 (7) 🔴 Colchester United; X2 + OVER 2,5 (10+) 🔴 Colchester United; 12 + OVER 2,5 (7) 🔴 Colchester United
+16:00  Crewe Alexandra vs Rochdale   [INGHILTERRA - LEAGUE TWO]
+      [OVER 2,5] Crewe Alexandra: X2 + OVER 2,5 (6) 🟢 83%
+      [OVER 2,5] Rochdale: 1X + OVER 2,5 (6) 🟢 67% 🔴 Crewe Alexandra
+16:00  Grimsby Town vs Northampton Town   [INGHILTERRA - LEAGUE TWO]
+      [GOAL] Northampton Town: 12 + GOAL (8+) 🟢 50%
+      [OVER 2,5] Northampton Town: 1X + OVER 2,5 (8+) 🟢 50%; X2 + OVER 2,5 (8+) 🟢 50% 🔴 Northampton Town; 12 + OVER 2,5 (8+) 🟢 50%
+16:00  Leicester City vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
+      [OVER 2,5] Leicester City: 1X + OVER 2,5 (8+) 🟢 88%
+16:00  Leyton Orient vs Blackpool   [INGHILTERRA - LEAGUE ONE]
+      [OVER 2,5] Leyton Orient: 1X + OVER 2,5 (9) 🟢 78%
+16:00  Newport County vs York City   [INGHILTERRA - LEAGUE TWO]
+      [OVER 2,5] Newport County: X2 + OVER 2,5 (7)
+      [OVER 2,5] York City: X2 + OVER 2,5 (9+) 🟢 100%
+16:00  Oldham Athletic vs Cheltenham Town   [INGHILTERRA - LEAGUE TWO]
+      [OVER 2,5] Oldham Athletic: 1X + OVER 2,5 (6) 🟢 83%
+16:00  Port Vale vs Chesterfield   [INGHILTERRA - LEAGUE TWO]
+      [GOAL] Port Vale: X2 + GOAL (6) 🔴 Port Vale
+      [OVER 2,5] Port Vale: X2 + OVER 2,5 (8+) 🟢 50% 🔴 Port Vale
+16:00  Sheffield Wednesday vs AFC Wimbledon   [INGHILTERRA - LEAGUE ONE]
+      [OVER 2,5] AFC Wimbledon: X2 + OVER 2,5 (9) 🟢 56%
+16:00  Southampton vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
+      [OVER 2,5] Southampton: X2 + OVER 2,5 (9) 🟢 89%
+16:00  Swindon Town vs Walsall   [INGHILTERRA - LEAGUE TWO]
+      [GOAL] Walsall: 12 + GOAL (6) 🟢 67%
+      [OVER 2,5] Swindon Town: X2 + OVER 2,5 (10) 🟢 60%
+      [OVER 2,5] Walsall: 12 + OVER 2,5 (6) 🟢 67%
+16:00  Tranmere Rovers vs Barnet   [INGHILTERRA - LEAGUE TWO]
+      [OVER 2,5] Tranmere Rovers: X2 + OVER 2,5 (6) 🟢 83%
+16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
+      [GOAL] West Bromwich Albion: 12 + GOAL (6) 🔴 Blackburn Rovers
+      [OVER 2,5] West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion 🔴 Blackburn Rovers
+16:00  Wigan Athletic vs Reading   [INGHILTERRA - LEAGUE ONE]
+      [GOAL] Wigan Athletic: X2 + GOAL (13) 🔴 Wigan Athletic
+16:00  Aberdeen vs St. Mirren   [SCOZIA - PREMIERSHIP]
+      [GOAL] Aberdeen: 12 + GOAL (7) 🟢 57% 🔴 Aberdeen 🔴 St. Mirren
+16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]
+      [GOAL] Dunfermline Athletic: 12 + GOAL (14) 🟢 71% 🔴 Dunfermline Athletic
+      [OVER 2,5] Dunfermline Athletic: 1X + OVER 2,5 (11) 🟢 64% 🔴 Dunfermline Athletic; X2 + OVER 2,5 (11) 🟢 64%; 12 + OVER 2,5 (13) 🟢 69% 🔴 Dunfermline Athletic
+16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
+      [GOAL] Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
+      [OVER 2,5] Queen's Park: X2 + OVER 2,5 (7) 🟢 86%
+16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]
+      [GOAL] Dundee United: 12 + GOAL (13) 🟢 85% 🔴 Dundee United
+      [OVER 2,5] St. Johnstone: X2 + OVER 2,5 (8+) 🟢 62% 🔴 St. Johnstone
+16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]
+      [GOAL] Stenhousemuir: X2 + GOAL (8) 🟢 50% 🔴 Raith Rovers
+      [GOAL] Raith Rovers: 1X + GOAL (9) 🟢 78% 🔴 Raith Rovers
+      [OVER 2,5] Stenhousemuir: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Raith Rovers
+16:15  Eibar vs Mallorca   [SPAGNA - LALIGA 2]
+      [GOAL] Mallorca: X2 + GOAL (9+) 🟢 56% 🔴 Eibar
+      [OVER 2,5] Mallorca: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Mallorca
+16:30  FC Emmen vs Almere City FC   [OLANDA - EERSTE DIVISIE]
+      [GOAL] Almere City FC: X2 + GOAL (6) 🟢 50%
+17:00  FC Inter Turku vs AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]
+      [GOAL] FC Inter Turku: X2 + GOAL (7) 🔴 FC Inter Turku 🔴 AC Oulu
+      [GOAL] AC Oulu: 1X + GOAL (9)
+      [OVER 2,5] FC Inter Turku: X2 + OVER 2,5 (7) 🔴 FC Inter Turku
+      [OVER 2,5] AC Oulu: 1X + OVER 2,5 (11)
+17:30  BW Linz vs FC Liefering   [AUSTRIA - 2. LIGA]
+      [OVER 2,5] BW Linz: X2 + OVER 2,5 (7) 🟢 86% 🔴 BW Linz
