@@ -17,6 +17,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add ritardi_goal.txt ritardi_over.txt prossime_partite.txt prossime_partite_goal.txt prossime_partite_over.txt sottofrequenze.txt index.html
+          git add ritardi_goal.txt ritardi_over.txt prossime_partite.txt prossime_partite_goal.txt prossime_partite_over.txt sottofrequenze.txt tips_del_giorno.txt index.html
           git commit -m "Aggiornamento ritardi $(date -u +%FT%TZ)" || echo "nessuna modifica"
           git push
