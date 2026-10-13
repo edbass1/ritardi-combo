@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 18:40 (ora italiana)
+Aggiornato: 13/10/2026 20:17 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -235,3 +235,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 18:30  Girona vs FC Andorra   [SPAGNA - LALIGA 2]
       Girona: 1X + OVER 2,5 (6) 🟢 83% 🔴 FC Andorra
       FC Andorra: 1X + OVER 2,5 (7) 🔴 FC Andorra
+19:15  Tromsø vs KFUM   [NORVEGIA - ELITESERIEN]
+      Tromsø: X2 + OVER 2,5 (6) 🟢 83% 🔴 Tromsø
+20:00  NEC Nijmegen vs Fortuna Sittard   [OLANDA - EREDIVISIE]
+      Fortuna Sittard: 1X + OVER 2,5 (6) 🟢 83%

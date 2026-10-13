@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 18:40 (ora italiana)
+Aggiornato: 13/10/2026 20:17 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
 ==================================================
 13/10/2026
 ==================================================
-19:00  IFK Norrköping vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
-      [GOAL] GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 IFK Norrköping 🔴 GIF Sundsvall
 20:45  Burnley vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
       [OVER 2,5] Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57%
 20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
@@ -346,3 +344,9 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [GOAL] FC Andorra: 1X + GOAL (7)
       [OVER 2,5] Girona: 1X + OVER 2,5 (6) 🟢 83% 🔴 FC Andorra
       [OVER 2,5] FC Andorra: 1X + OVER 2,5 (7) 🔴 FC Andorra
+19:15  Tromsø vs KFUM   [NORVEGIA - ELITESERIEN]
+      [OVER 2,5] Tromsø: X2 + OVER 2,5 (6) 🟢 83% 🔴 Tromsø
+19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]
+      [GOAL] Arezzo: 1X + GOAL (6+) 🟢 67% 🔴 Arezzo
+20:00  NEC Nijmegen vs Fortuna Sittard   [OLANDA - EREDIVISIE]
+      [OVER 2,5] Fortuna Sittard: 1X + OVER 2,5 (6) 🟢 83%

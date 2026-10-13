@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 18:40 (ora italiana)
+Aggiornato: 13/10/2026 20:17 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
 ==================================================
 13/10/2026
 ==================================================
-19:00  IFK Norrköping vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
-      GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 IFK Norrköping 🔴 GIF Sundsvall
 20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
       West Bromwich Albion: 12 + GOAL (6)
 20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
@@ -191,3 +189,5 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       FC København: X2 + GOAL (8) 🟢 88%
 18:30  Girona vs FC Andorra   [SPAGNA - LALIGA 2]
       FC Andorra: 1X + GOAL (7)
+19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]
+      Arezzo: 1X + GOAL (6+) 🟢 67% 🔴 Arezzo

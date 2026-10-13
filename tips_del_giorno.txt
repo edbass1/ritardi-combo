@@ -1,19 +1,15 @@
 TIPS DEL GIORNO - 13/10/2026
-Aggiornato: 13/10/2026 18:40 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 13/10/2026 20:17 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 19:00  IFK Norrköping vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
-    X2 + GOAL  -  punteggio 71.0  (R+30 C+10 F+3 G+0 A+3 E+0 S+25)
-    GIF Sundsvall non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre GIF Sundsvall è in sottofrequenza (32/100), deve recuperare; anche IFK Norrköping è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
+ 1. 20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
     12 + OVER 2,5  -  punteggio 67.1  (R+30 C+10 F+7 G+0 A+5 E+0 S+15)
     West Bromwich Albion non fa 12 + OVER 2,5 da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre West Bromwich Albion è in sottofrequenza (37/100), deve recuperare.
 
- 3. 20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
+ 2. 20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
     X2 + OVER 2,5  -  punteggio 58.4  (R+20 C+0 F+3.4 G+6.6 A+3.4 E+0 S+25)
     Cardiff City non fa X2 + OVER 2,5 da 6 partite (ritardo massimo del campionato 9, mediano 1). Inoltre Cardiff City è in sottofrequenza (19/100), deve recuperare; anche Watford è in sottofrequenza su questa combo (19/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 4. 20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
+ 3. 20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
     X2 + GOAL  -  punteggio 52.2  (R+26.2 C+5 F+0.4 G+7.2 A-1.6 E+0 S+15)
     Queen's Park non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 0), tra i 3 ritardi più lunghi del campionato. Inoltre Queen's Park è in sottofrequenza (30/100), deve recuperare; nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
