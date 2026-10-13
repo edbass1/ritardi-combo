@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 08:16 (ora italiana)
+Aggiornato: 13/10/2026 14:17 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -140,3 +140,24 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Cracovia: X2 + GOAL (10) 🟢 70%
 20:45  Troyes vs Lens   [FRANCIA - LIGUE 1]
       Troyes: 1X + GOAL (6+) 🟢 83% 🔴 Troyes 🔴 Lens
+
+==================================================
+18/10/2026
+==================================================
+10:30  FC Petržalka 1898 vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
+      FC Petržalka 1898: 12 + GOAL (8) 🟢 62% 🔴 FC Petržalka 1898
+12:15  RKC Waalwijk vs FC Volendam   [OLANDA - EERSTE DIVISIE]
+      FC Volendam: X2 + GOAL (10+) 🟢 80%
+13:00  Slovácko vs FC Zbrojovka Brno   [REP. CECA - 1. LIGA]
+      FC Zbrojovka Brno: X2 + GOAL (8) 🟢 62%
+13:30  Karlsruher SC vs Darmstadt   [GERMANIA - 2. BUNDESLIGA]
+      Darmstadt: X2 + GOAL (6) 🟢 67%
+14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]
+      KuPS: 12 + GOAL (6) 🔴 KuPS
+      VPS: 1X + GOAL (10) 🔴 VPS; X2 + GOAL (7); 12 + GOAL (7) 🔴 KuPS
+14:00  AD Ceuta FC vs Real Oviedo   [SPAGNA - LALIGA 2]
+      Real Oviedo: X2 + GOAL (9+) 🟢 56%
+14:00  Sirius vs Elfsborg   [SVEZIA - ALLSVENSKAN]
+      Sirius: 1X + GOAL (6) 🟢 50%
+14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]
+      Västerås SK: 1X + GOAL (15) 🟢 67% 🔴 Västerås SK

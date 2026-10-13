@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 08:16 (ora italiana)
+Aggiornato: 13/10/2026 14:17 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -181,3 +181,30 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Troyes: 1X + OVER 2,5 (6+) 🟢 83%
 20:45  Sligo Rovers vs Dundalk   [IRLANDA - PREMIER DIVISION]
       Dundalk: 1X + OVER 2,5 (6) 🟢 100%
+
+==================================================
+18/10/2026
+==================================================
+10:30  FC Petržalka 1898 vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
+      FC Petržalka 1898: X2 + OVER 2,5 (9) 🟢 67% 🔴 FC Petržalka 1898
+12:15  RKC Waalwijk vs FC Volendam   [OLANDA - EERSTE DIVISIE]
+      RKC Waalwijk: X2 + OVER 2,5 (6) 🟢 100% 🔴 FC Volendam
+      FC Volendam: X2 + OVER 2,5 (10+) 🟢 80% 🔴 FC Volendam
+13:00  Hvidovre vs Hillerød   [DANIMARCA - 1. DIVISION]
+      Hillerød: X2 + OVER 2,5 (8) 🟢 75%
+13:00  Slovácko vs FC Zbrojovka Brno   [REP. CECA - 1. LIGA]
+      FC Zbrojovka Brno: X2 + OVER 2,5 (10+) 🟢 70%
+13:00  Nordic United FC vs Norrby   [SVEZIA - SUPERETTAN]
+      Nordic United FC: 1X + OVER 2,5 (9) 🟢 89%
+13:30  Karlsruher SC vs Darmstadt   [GERMANIA - 2. BUNDESLIGA]
+      Darmstadt: X2 + OVER 2,5 (6) 🟢 67%
+14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]
+      KuPS: 1X + OVER 2,5 (10) 🟢 50% 🔴 KuPS 🔴 VPS; X2 + OVER 2,5 (6) 🔴 VPS; 12 + OVER 2,5 (6) 🔴 KuPS
+      VPS: X2 + OVER 2,5 (7) 🔴 VPS
+14:00  Osasuna vs Racing Santander   [SPAGNA - LALIGA]
+      Osasuna: X2 + OVER 2,5 (6) 🟢 83%
+14:00  Sirius vs Elfsborg   [SVEZIA - ALLSVENSKAN]
+      Sirius: 1X + OVER 2,5 (6) 🟢 50%
+14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]
+      Västerås SK: 1X + OVER 2,5 (6) 🟢 50% 🔴 Mjällby
+      Mjällby: 1X + OVER 2,5 (6) 🟢 100% 🔴 Mjällby

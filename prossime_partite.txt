@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 08:16 (ora italiana)
+Aggiornato: 13/10/2026 14:17 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -259,3 +259,40 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [OVER 2,5] Troyes: 1X + OVER 2,5 (6+) 🟢 83%
 20:45  Sligo Rovers vs Dundalk   [IRLANDA - PREMIER DIVISION]
       [OVER 2,5] Dundalk: 1X + OVER 2,5 (6) 🟢 100%
+
+==================================================
+18/10/2026
+==================================================
+10:30  FC Petržalka 1898 vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
+      [GOAL] FC Petržalka 1898: 12 + GOAL (8) 🟢 62% 🔴 FC Petržalka 1898
+      [OVER 2,5] FC Petržalka 1898: X2 + OVER 2,5 (9) 🟢 67% 🔴 FC Petržalka 1898
+12:15  RKC Waalwijk vs FC Volendam   [OLANDA - EERSTE DIVISIE]
+      [GOAL] FC Volendam: X2 + GOAL (10+) 🟢 80%
+      [OVER 2,5] RKC Waalwijk: X2 + OVER 2,5 (6) 🟢 100% 🔴 FC Volendam
+      [OVER 2,5] FC Volendam: X2 + OVER 2,5 (10+) 🟢 80% 🔴 FC Volendam
+13:00  Hvidovre vs Hillerød   [DANIMARCA - 1. DIVISION]
+      [OVER 2,5] Hillerød: X2 + OVER 2,5 (8) 🟢 75%
+13:00  Slovácko vs FC Zbrojovka Brno   [REP. CECA - 1. LIGA]
+      [GOAL] FC Zbrojovka Brno: X2 + GOAL (8) 🟢 62%
+      [OVER 2,5] FC Zbrojovka Brno: X2 + OVER 2,5 (10+) 🟢 70%
+13:00  Nordic United FC vs Norrby   [SVEZIA - SUPERETTAN]
+      [OVER 2,5] Nordic United FC: 1X + OVER 2,5 (9) 🟢 89%
+13:30  Karlsruher SC vs Darmstadt   [GERMANIA - 2. BUNDESLIGA]
+      [GOAL] Darmstadt: X2 + GOAL (6) 🟢 67%
+      [OVER 2,5] Darmstadt: X2 + OVER 2,5 (6) 🟢 67%
+14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]
+      [GOAL] KuPS: 12 + GOAL (6) 🔴 KuPS
+      [GOAL] VPS: 1X + GOAL (10) 🔴 VPS; X2 + GOAL (7); 12 + GOAL (7) 🔴 KuPS
+      [OVER 2,5] KuPS: 1X + OVER 2,5 (10) 🟢 50% 🔴 KuPS 🔴 VPS; X2 + OVER 2,5 (6) 🔴 VPS; 12 + OVER 2,5 (6) 🔴 KuPS
+      [OVER 2,5] VPS: X2 + OVER 2,5 (7) 🔴 VPS
+14:00  AD Ceuta FC vs Real Oviedo   [SPAGNA - LALIGA 2]
+      [GOAL] Real Oviedo: X2 + GOAL (9+) 🟢 56%
+14:00  Osasuna vs Racing Santander   [SPAGNA - LALIGA]
+      [OVER 2,5] Osasuna: X2 + OVER 2,5 (6) 🟢 83%
+14:00  Sirius vs Elfsborg   [SVEZIA - ALLSVENSKAN]
+      [GOAL] Sirius: 1X + GOAL (6) 🟢 50%
+      [OVER 2,5] Sirius: 1X + OVER 2,5 (6) 🟢 50%
+14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]
+      [GOAL] Västerås SK: 1X + GOAL (15) 🟢 67% 🔴 Västerås SK
+      [OVER 2,5] Västerås SK: 1X + OVER 2,5 (6) 🟢 50% 🔴 Mjällby
+      [OVER 2,5] Mjällby: 1X + OVER 2,5 (6) 🟢 100% 🔴 Mjällby
