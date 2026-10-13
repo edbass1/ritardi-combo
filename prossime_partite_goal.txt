@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 17:29 (ora italiana)
+Aggiornato: 13/10/2026 18:36 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -185,3 +185,9 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Bryne: X2 + GOAL (10) 🟢 80% 🔴 Bryne
 17:00  Pogoń Siedlce vs Stal Rzeszów   [POLONIA - I LIGA]
       Pogoń Siedlce: X2 + GOAL (6)
+17:30  Nottingham Forest vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
+      Arsenal: X2 + GOAL (6) 🟢 83% 🔴 Arsenal
+18:00  FC København vs AGF   [DANIMARCA - SUPERLIGAEN]
+      FC København: X2 + GOAL (8) 🟢 88%
+18:30  Girona vs FC Andorra   [SPAGNA - LALIGA 2]
+      FC Andorra: 1X + GOAL (7)
