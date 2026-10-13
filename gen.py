@@ -34,6 +34,8 @@ COMBOS = {
           ("12 + OVER 2,5", lambda h,a: h!=a and h+a>=3)],
 }
 TOP = 10
+SALTATI_MIN = 6      # ritardo minimo spezzato per la sezione Saltati
+SALTATI_GIORNI = 7
 SOTTO_N = 100     # partite considerate per le sottofrequenze
 SOTTO_MIN = 85    # minimo partite per entrare nelle sottofrequenze
 SOTTO_STAGIONI = 4
@@ -126,7 +128,8 @@ def compute(lid, POOL):
         if len(rows) > 5:
             cut = rate(rows[4]); rows = [r for r in rows if rate(r) <= cut]
         sotto.append((name, rows))
-    res, allr = {}, {}
+    res, allr, salt = {}, {}, []
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=SALTATI_GIORNI)
     for key, combos in COMBOS.items():
         res[key] = []
         for name, f in combos:
@@ -142,11 +145,19 @@ def compute(lid, POOL):
                     if m[3]+m[4] >= 2 or (m[3] > 0 and m[4] > 0): g += 1
                 full = n == len(seq)
                 pct = round(100*g/n) if n else 0
+                run = 0
+                for m in seq:
+                    if f(m[3], m[4]):
+                        if run >= SALTATI_MIN:
+                            mt = datetime.datetime.fromisoformat(m[0].replace("Z", "+00:00"))
+                            if mt >= cutoff: salt.append((mt, m[1], m[2], m[3], m[4], tname, key, name, run))
+                        run = 0
+                    else: run += 1
                 rows.append((n, tname, full, pct))
             rows.sort(key=lambda r: (-r[0], r[1]))
             res[key].append((name, rows[:TOP]))
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
-    return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams)
+    return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams), salt
 
 TIPS_MAX = 10
 TIPS_MIN_SCORE = 35
@@ -365,6 +376,24 @@ def main():
     sections["tips_html"] = "\n".join(TH)
     sections["tips_rules"] = "".join(f"<li>{html.escape(x)}</li>" for x in TIPS_RULES)
     open("tips_del_giorno.txt", "w").write(sections["tips"])
+    LAB2 = {"goal": "GOAL", "over": "OVER 2,5"}
+    sal = []
+    for c, l, r, err in data:
+        if not r: continue
+        teams = r[5]
+        for mt, h, a, gh, ga, tn, key, nm, run in r[10]:
+            sal.append((mt, c, l, teams.get(h, h), teams.get(a, a), gh, ga, tn, key, nm, run))
+    sal.sort(key=lambda x: (-x[0].timestamp(), x[1], x[7]))
+    ST = [f"SALTATI - RITARDI >= {SALTATI_MIN} SPEZZATI NEGLI ULTIMI {SALTATI_GIORNI} GIORNI", f"Aggiornato: {now} (ora italiana). Dal più recente. Fonte: FotMob", ""]
+    SH = []
+    for mt, c, l, hn, an, gh, ga, tn, key, nm, run in sal:
+        lt = mt.astimezone(ROME)
+        ST.append(f"{lt:%d/%m %H:%M}  [{LAB2[key]}] {tn}: {nm} uscita, era a {run}  -  {hn} {gh}-{ga} {an}   [{c} - {l}]")
+        SH.append(f'<div class="fx"><div class="fxh"><span class="time">{lt:%d/%m %H:%M}</span> {html.escape(hn)} <b>{gh}-{ga}</b> {html.escape(an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span></div><div class="tagrow"><span class="tag {key}">{LAB2[key]}</span> <b>{html.escape(tn)}</b>: {html.escape(nm)} uscita, <b>era a {run}</b></div></div>')
+    if not sal: ST.append("Nessun ritardo spezzato negli ultimi giorni."); SH.append("<p>Nessun ritardo spezzato negli ultimi giorni.</p>")
+    sections["saltati"] = "\n".join(ST) + "\n"
+    sections["saltati_html"] = "\n".join(SH)
+    open("saltati.txt", "w").write(sections["saltati"])
     S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime {SOTTO_N} partite di campionato)", f"Aggiornato: {now} (ora italiana)",
          "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob", ""]
     for c, l, r, err in data:
@@ -392,13 +421,13 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){{document.querySelectorAll('pre').forEach(function(p){{p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'}});document.querySelectorAll('.fxlist').forEach(function(f){{f.style.fontSize=(Z*100)+'%'}})}}function z(d){{Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>{now}</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
 <nav class="main"><a class="big tipsb" href="#tips"><span class="ic">🎯</span><span><b>TIPS DEL GIORNO</b><small>Le migliori occasioni di oggi, con punteggio</small></span></a><a class="big nextb" href="#prossime"><span class="ic">📅</span><span><b>PROSSIME PARTITE</b><small>Prossimi 5 giorni · squadre in ritardo</small></span></a></nav>
-<nav class="sec"><a href="#goal">Ritardi + GOAL</a><a href="#over">Ritardi + OVER 2,5</a><a href="#sotto">Sottofrequenze</a></nav>
-<nav class="files">File txt: <a href="tips_del_giorno.txt">tips</a><a href="prossime_partite.txt">prossime partite</a><a href="ritardi_goal.txt">ritardi goal</a><a href="ritardi_over.txt">ritardi over</a><a href="sottofrequenze.txt">sottofrequenze</a></nav>
+<nav class="sec"><a href="#goal">Ritardi + GOAL</a><a href="#over">Ritardi + OVER 2,5</a><a href="#sotto">Sottofrequenze</a><a href="#saltati">Saltati</a></nav>
+<nav class="files">File txt: <a href="tips_del_giorno.txt">tips</a><a href="prossime_partite.txt">prossime partite</a><a href="ritardi_goal.txt">ritardi goal</a><a href="ritardi_over.txt">ritardi over</a><a href="sottofrequenze.txt">sottofrequenze</a><a href="saltati.txt">saltati</a></nav>
 <h2 id="tips">TIPS DEL GIORNO</h2><div class="fxlist">{sections['tips_html']}</div><details class="rules"><summary>Come viene calcolato il punteggio</summary><ul>{sections['tips_rules']}</ul></details>
 <h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2><pre>{html.escape(sections['sotto'])}</pre>
 <h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) / &ge; {SOGLIA_OVER} (Over 2,5) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> <span class="tag over">OVER 2,5</span> &middot; 🔴 = top 3 Sottofrequenza</p><div class="fxlist">{sections['prossime_html']}</div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>{html.escape(sections['goal'])}</pre>
-<h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre><div id="pop"></div><script>var POP={sections['popjson']};(function(){{var pop=document.getElementById('pop'),cur=null;function esc(x){{return String(x).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]}})}}
+<h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre><h2 id="saltati">Saltati (ritardi &ge; {SALTATI_MIN} spezzati, ultimi {SALTATI_GIORNI} giorni)</h2><div class="fxlist">{sections['saltati_html']}</div><div id="pop"></div><script>var POP={sections['popjson']};(function(){{var pop=document.getElementById('pop'),cur=null;function esc(x){{return String(x).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]}})}}
 function show(el){{var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){{var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){{return x.some(function(r){{return r[1]==A||r[1]==B}})}});if(!tb.length){{h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}}else{{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){{var N=x.length;h+='<div>'+x.filter(function(r){{return r[1]==A||r[1]==B}}).map(function(r){{return '<b style="color:#00ff88">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:#00ff88;cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){{return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}}).join('')+'</table></details>'}})}}}}else if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+'</table>'}}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}}
 function hide(){{pop.style.display='none';cur=null}}
