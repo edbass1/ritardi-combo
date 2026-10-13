@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 14:17 (ora italiana)
+Aggiornato: 13/10/2026 17:15 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -208,3 +208,25 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]
       Västerås SK: 1X + OVER 2,5 (6) 🟢 50% 🔴 Mjällby
       Mjällby: 1X + OVER 2,5 (6) 🟢 100% 🔴 Mjällby
+14:30  ŁKS Łódź vs TS Podbeskidzie Bielsko-Biała   [POLONIA - I LIGA]
+      TS Podbeskidzie Bielsko-Biała: 12 + OVER 2,5 (10+) 🟢 80%
+15:00  AFC Bournemouth vs Sunderland   [INGHILTERRA - PREMIER LEAGUE]
+      Sunderland: X2 + OVER 2,5 (7) 🟢 86% 🔴 Sunderland
+15:00  Leeds United vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
+      Leeds United: X2 + OVER 2,5 (10) 🟢 70% 🔴 Leeds United
+15:00  Juve Stabia vs Südtirol   [ITALIA - SERIE B]
+      Juve Stabia: 1X + OVER 2,5 (6) 🟢 83%
+      Südtirol: 1X + OVER 2,5 (11) 🟢 55%
+15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]
+      IFK Värnamo: 1X + OVER 2,5 (13) 🟢 77% 🔴 GIF Sundsvall 🔴 IFK Värnamo
+16:15  Celta Vigo vs Deportivo Alavés   [SPAGNA - LALIGA]
+      Celta Vigo: X2 + OVER 2,5 (6) 🟢 67%
+16:30  Halmstads BK vs Hammarby   [SVEZIA - ALLSVENSKAN]
+      Halmstads BK: X2 + OVER 2,5 (12) 🟢 83% 🔴 Halmstads BK 🔴 Hammarby
+      Hammarby: X2 + OVER 2,5 (6) 🟢 67% 🔴 Halmstads BK 🔴 Hammarby
+17:00  Sturm Graz vs Grazer AK   [AUSTRIA - BUNDESLIGA]
+      Sturm Graz: X2 + OVER 2,5 (9) 🟢 89%
+17:00  Lyn vs Moss   [NORVEGIA - OBOS-LIGAEN]
+      Moss: 1X + OVER 2,5 (6) 🟢 100%
+17:00  Pogoń Siedlce vs Stal Rzeszów   [POLONIA - I LIGA]
+      Pogoń Siedlce: X2 + OVER 2,5 (6)

@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 14:17 (ora italiana)
+Aggiornato: 13/10/2026 17:15 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
 
@@ -161,3 +161,27 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Sirius: 1X + GOAL (6) 🟢 50%
 14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]
       Västerås SK: 1X + GOAL (15) 🟢 67% 🔴 Västerås SK
+14:30  Salzburg vs Altach   [AUSTRIA - BUNDESLIGA]
+      Altach: 1X + GOAL (6) 🟢 83%
+14:30  ŁKS Łódź vs TS Podbeskidzie Bielsko-Biała   [POLONIA - I LIGA]
+      TS Podbeskidzie Bielsko-Biała: 12 + GOAL (10+) 🟢 80%
+15:00  Angers vs Marseille   [FRANCIA - LIGUE 1]
+      Marseille: 1X + GOAL (6) 🟢 83% 🔴 Angers
+15:00  Baník Ostrava vs Sparta Prague   [REP. CECA - 1. LIGA]
+      Sparta Prague: X2 + GOAL (25) 🟢 88% 🔴 Baník Ostrava
+15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]
+      GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 GIF Sundsvall
+16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]
+      Brøndby IF: X2 + GOAL (9) 🟢 78% 🔴 Brøndby IF
+16:15  Celta Vigo vs Deportivo Alavés   [SPAGNA - LALIGA]
+      Celta Vigo: 12 + GOAL (6) 🟢 67% 🔴 Deportivo Alavés
+16:30  Malmö FF vs Häcken   [SVEZIA - ALLSVENSKAN]
+      Malmö FF: X2 + GOAL (7)
+16:30  Örgryte vs GAIS   [SVEZIA - ALLSVENSKAN]
+      GAIS: 1X + GOAL (8) 🟢 62%; X2 + GOAL (8) 🟢 62% 🔴 GAIS; 12 + GOAL (13) 🟢 69% 🔴 GAIS
+17:00  Lyn vs Moss   [NORVEGIA - OBOS-LIGAEN]
+      Moss: 1X + GOAL (6) 🟢 100%
+17:00  Ranheim vs Bryne   [NORVEGIA - OBOS-LIGAEN]
+      Bryne: X2 + GOAL (10) 🟢 80% 🔴 Bryne
+17:00  Pogoń Siedlce vs Stal Rzeszów   [POLONIA - I LIGA]
+      Pogoń Siedlce: X2 + GOAL (6)
