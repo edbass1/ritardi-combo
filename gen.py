@@ -115,7 +115,7 @@ def compute(lid, POOL):
     if prev:
         try: _, prev_m, prev_teams = matches(lid, prev)
         except Exception: pass
-    sotto = []; freq = {}
+    sotto = []; freq = {}; sinfo = {}
     for name, f in COMBOS["goal"] + COMBOS["over"]:
         rows = []
         for tid, tname in teams.items():
@@ -125,6 +125,7 @@ def compute(lid, POOL):
         rows = [r for r in rows if r[1] >= SOTTO_MIN]
         rate = lambda r: r[0]
         rows.sort(key=lambda r: (r[0], -r[1], r[2]))
+        sinfo[name] = (len(rows), list(rows[-1]) if rows else None)
         if len(rows) > 5:
             cut = rate(rows[4]); rows = [r for r in rows if rate(r) <= cut]
         sotto.append((name, rows))
@@ -157,7 +158,7 @@ def compute(lid, POOL):
             rows.sort(key=lambda r: (-r[0], r[1]))
             res[key].append((name, rows[:TOP]))
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
-    return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams), salt
+    return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams), salt, sinfo
 
 TIPS_MAX = 10
 TIPS_MIN_SCORE = 35
@@ -328,7 +329,7 @@ def main():
         if not r: continue
         up, teams, allr = r[4], r[5], r[6]; red = red_sets(r[7])
         POP[LI] = {"lg": f"{c} - {l}", "rit": {name: [[t, v, full, pct] for v, t, full, pct in rows] for k in r[3] for name, rows in r[3][k]},
-                   "sotto": {name: [[t, k2, n] for k2, n, t in rows] for name, rows in r[7]}, "tab": r[9]}
+                   "sotto": {name: [[t, k2, n] for k2, n, t in rows] for name, rows in r[7]}, "tab": r[9], "stot": {k: [v[0], [v[1][2], v[1][0], v[1][1]] if v[1] else None] for k, v in r[11].items()}}
         for t, h, a in up:
             tags = []  # (key, team, [part strings])
             for KEY in ("goal", "over"):
@@ -401,8 +402,12 @@ def main():
         if not r: S += ["  dati non disponibili", ""]; continue
         for name, rows in r[7]:
             S.append(f"SOTTOFREQUENZA {name}")
+            N, last = r[11].get(name, (len(rows), None))
             for i, (k, n, t) in enumerate(rows, 1):
-                S.append(f"  {i:>2}. {t:<30} {k}/{n}")
+                S.append(f"  {f'{i}/{N}':>6} {t:<30} {k}/{n}")
+            if last and N > len(rows):
+                S.append(f"     ...")
+                S.append(f"  {f'{N}/{N}':>6} {last[2]:<30} {last[0]}/{last[1]}  (la fa più spesso)")
             S.append("")
     sections["sotto"] = "\n".join(S) + "\n"
     open("sottofrequenze.txt","w").write(sections["sotto"])
@@ -428,7 +433,7 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 <h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) / &ge; {SOGLIA_OVER} (Over 2,5) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> <span class="tag over">OVER 2,5</span> &middot; 🔴 = top 3 Sottofrequenza</p><div class="fxlist">{sections['prossime_html']}</div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>{html.escape(sections['goal'])}</pre>
 <h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre><h2 id="saltati">Saltati (ritardi &ge; {SALTATI_MIN} spezzati, ultimi {SALTATI_GIORNI} giorni)</h2><div class="fxlist">{sections['saltati_html']}</div><div id="pop"></div><script>var POP={sections['popjson']};(function(){{var pop=document.getElementById('pop'),cur=null;function esc(x){{return String(x).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]}})}}
-function show(el){{var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){{var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){{return x.some(function(r){{return r[1]==A||r[1]==B}})}});if(!tb.length){{h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}}else{{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){{var N=x.length;h+='<div>'+x.filter(function(r){{return r[1]==A||r[1]==B}}).map(function(r){{return '<b style="color:#00ff88">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:#00ff88;cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){{return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}}).join('')+'</table></details>'}})}}}}else if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+'</table>'}}
+function show(el){{var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){{var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){{return x.some(function(r){{return r[1]==A||r[1]==B}})}});if(!tb.length){{h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}}else{{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){{var N=x.length;h+='<div>'+x.filter(function(r){{return r[1]==A||r[1]==B}}).map(function(r){{return '<b style="color:#00ff88">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:#00ff88;cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){{return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}}).join('')+'</table></details>'}})}}}}else if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];var st=(d.stot||{{}})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:#8a9">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}}
 function hide(){{pop.style.display='none';cur=null}}
 document.addEventListener('click',function(e){{var el=e.target.closest('.pp,.pr,.pt');if(el){{if(cur===el)hide();else show(el);e.stopPropagation();return}}if(!pop.contains(e.target))hide()}});
