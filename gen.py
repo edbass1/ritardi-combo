@@ -187,7 +187,7 @@ def build_tips(data, today):
                 top3 = v >= srt[min(2, len(srt)-1)]
                 s2 = 10 if v >= srt[0] else (5 if top3 else 0)   # posizione nel campionato
                 s3 = max(-15, min(15, (pL - pT) * 100))         # recupero: squadra sotto media = positivo
-                s4 = min(10, (pct - 50) / 5) if pct >= 50 else 0  # 🟢 partite del ritardo con gol
+                s4 = min(8, (pct - 50) / 5) if pct >= 50 else 0  # 🟢 partite del ritardo con gol
                 s5 = max(-10, min(10, (pL - pO) * 100))         # recupero: avversaria sotto media = positivo
                 s6 = 10 if O[2] >= TIPS_MIN_DELAY else 0        # entrambe in ritardo sulla stessa combo
                 rT, rO = tn in red.get(nm, ()), on in red.get(nm, ())
@@ -221,7 +221,7 @@ TIPS_RULES = [
  "R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).",
  "C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.",
  "F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.",
- "G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +10).",
+ "G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del 🔴).",
  "A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.",
  "E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.",
  "S  🔴 Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è top 3 sottofrequenza, +10 se lo è l'avversaria (cumulabili).",
