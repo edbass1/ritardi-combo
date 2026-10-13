@@ -181,29 +181,33 @@ def build_tips(data, today):
                 if v < TIPS_MIN_DELAY or n < TIPS_MIN_N: continue
                 pT = k / n; pO = ko / no if no >= TIPS_MIN_N else pL
                 exp_gap = 1 / pT if pT > 0 else 99
-                s1 = min(40, 10 * v * pT)                       # ritardo rispetto alla frequenza della squadra
                 srt = sorted(lmax[nm], reverse=True)
-                s2 = 10 if v >= srt[0] else (5 if v >= srt[min(2, len(srt)-1)] else 0)  # posizione nel campionato
-                s3 = max(-15, min(15, (pT - pL) * 100))         # frequenza storica squadra vs media campionato
+                mx = max(srt[0], 1); med = srt[len(srt)//2]
+                s1 = 30 * v / mx                                 # ritardo rispetto al ritardo massimo del campionato
+                top3 = v >= srt[min(2, len(srt)-1)]
+                s2 = 10 if v >= srt[0] else (5 if top3 else 0)   # posizione nel campionato
+                s3 = max(-15, min(15, (pL - pT) * 100))         # recupero: squadra sotto media = positivo
                 s4 = min(10, (pct - 50) / 5) if pct >= 50 else 0  # 🟢 partite del ritardo con gol
-                s5 = max(-10, min(10, (pO - pL) * 100))         # frequenza storica avversaria
+                s5 = max(-10, min(10, (pL - pO) * 100))         # recupero: avversaria sotto media = positivo
                 s6 = 10 if O[2] >= TIPS_MIN_DELAY else 0        # entrambe in ritardo sulla stessa combo
-                s7 = (-15 if tn in red.get(nm, ()) else 0) + (-10 if on in red.get(nm, ()) else 0)  # 🔴
+                rT, rO = tn in red.get(nm, ()), on in red.get(nm, ())
+                s7 = (15 if rT else 0) + (10 if rO else 0)       # 🔴 sottofrequenza = deve recuperare
                 sc = s1 + s2 + s3 + s4 + s5 + s6 + s7
-                if s1 < 15 or sc < TIPS_MIN_SCORE: continue   # serve un motivo evidente: ritardo >= 1,5x l'intervallo medio
-                why = [f"{tn} non fa {nm} da {v} partite, mentre storicamente la fa {k}/{n} volte (in media ogni {exp_gap:.1f} partite)"]
-                if s2 == 10: why[0] += f", ed è il ritardo più lungo del campionato"
-                elif s2: why[0] += f", tra i 3 ritardi più lunghi del campionato"
+                if not (top3 or rT or rO or pct >= 60 or s6) or sc < TIPS_MIN_SCORE: continue
+                why = [f"{tn} non fa {nm} da {v} partite (ritardo massimo del campionato {srt[0]}, mediano {med})"]
+                if s2 == 10: why[0] += ", ed è il ritardo più lungo del campionato"
+                elif s2: why[0] += ", tra i 3 ritardi più lunghi del campionato"
                 why[0] += "."
                 ex = []
+                if rT: ex.append(f"{tn} è in sottofrequenza ({k}/{n}), deve recuperare")
+                if rO: ex.append(f"anche {on} è in sottofrequenza su questa combo ({ko}/{no}), deve recuperare")
                 if s6: ex.append(f"anche {on} è in ritardo sulla stessa combo ({O[2]})")
                 if pct >= 50: ex.append(f"nel ritardo il {pct}% delle partite ha avuto almeno 2 gol o entrambe a segno")
-                if s5 >= 3: ex.append(f"{on} la fa spesso ({ko}/{no})")
-                if ex: why.append(("Inoltre " + ", ".join(ex) + ".").replace("Inoltre anche", "Inoltre anche"))
+                if s3 >= 5 and not rT: ex.append(f"{tn} la fa meno della media ({round(100*pT)}% vs {round(100*pL)}%), margine di recupero")
+                if ex: why.append("Inoltre " + "; ".join(ex) + ".")
                 neg = []
-                if s3 <= -5: neg.append(f"{tn} la fa meno della media del campionato ({round(100*pT)}% vs {round(100*pL)}%)")
-                if s5 <= -5: neg.append(f"{on} la fa poco ({ko}/{no})")
-                if s7: neg.append("c'è un 🔴 di sottofrequenza")
+                if s3 <= -5: neg.append(f"{tn} la fa già più della media ({round(100*pT)}% vs {round(100*pL)}%)")
+                if s5 <= -5: neg.append(f"{on} la fa già spesso ({ko}/{no})")
                 if neg: why.append("Attenzione: " + "; ".join(neg) + ".")
                 cand = (round(sc, 1), lt, c, l, hn, an, nm, " ".join(why), [round(x, 1) for x in (s1, s2, s3, s4, s5, s6, s7)], LI)
                 if not best or cand[0] > best[0]: best = cand
@@ -212,15 +216,16 @@ def build_tips(data, today):
     return cands[:TIPS_MAX]
 
 TIPS_RULES = [
- "Per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.",
- "R  Ritardo vs frequenza: 10 x ritardo x frequenza storica della squadra (ultime 100), max 40. Deve valere almeno 15 (ritardo >= 1,5 volte l'intervallo medio).",
- "C  Classifica campionato: +10 se è il ritardo più lungo del campionato su quella combo, +5 se tra i primi 3.",
- "F  Frequenza squadra vs media campionato: +/- 1 punto per ogni punto % sopra/sotto la media (max +/-15). Una squadra che la fa raramente è un fattore negativo.",
+ "Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.",
+ "Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure 🔴 (squadra o avversaria), oppure 🟢 >= 60%, oppure entrambe in ritardo.",
+ "R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).",
+ "C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.",
+ "F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.",
  "G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +10).",
- "A  Avversaria: +/- 1 punto per ogni punto % di frequenza sopra/sotto la media (max +/-10).",
+ "A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.",
  "E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.",
- "S  🔴 Sottofrequenza: -15 se la squadra in ritardo è top 3 sottofrequenza, -10 se lo è l'avversaria.",
- "Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Nessun intervento manuale: tutto calcolato da gen.py.",
+ "S  🔴 Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è top 3 sottofrequenza, +10 se lo è l'avversaria (cumulabili).",
+ "Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.",
 ]
 
 def tables(d, teams):
