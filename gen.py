@@ -288,7 +288,7 @@ def dbadges(r, lg, names):
         ev = r[12].get(nm, []); short = nm.replace(" ", "").replace("OVER2,5", "OVER2,5")
         if ev:
             msg = f"Negli ultimi {DANGER_GIORNI} giorni in {lg} {"è saltato 1 ritardo" if len(ev)==1 else f"sono saltati {len(ev)} ritardi"} top {DANGER_TOP} di {nm}: " + ", ".join(f"era a {x}" for x in ev)
-            H.append(f'<span class="dz bad" data-msg="{html.escape(msg, quote=True)}">DANGEROUS {html.escape(short)}</span>'); T.append(f"[DANGEROUS {short}]")
+            H.append(f'<span class="dz bad" data-msg="{html.escape(msg, quote=True)}">ALT {html.escape(short)}</span>'); T.append(f"[ALT {short}]")
         else:
             H.append(f'<span class="dz ok">{html.escape(short)}</span>'); T.append(f"[OK {short}]")
     return " ".join(H), " ".join(T)
@@ -347,7 +347,7 @@ def main():
               if info: fx.append((t, c, l, teams[h], teams[a], info))
       fx.sort(key=lambda x: (x[0], x[1], x[3]))
       P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - {TIT} - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
       day = None
       for t, c, l, hn, an, info in fx:
           lt = t.astimezone(ROME)
@@ -378,7 +378,7 @@ def main():
             if tags: cf.append((t, c, l, teams[h], teams[a], tags, LI))
     cf.sort(key=lambda x: (x[0], x[1], x[3]))
     P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-         f"Soglie: combo Goal ritardo >= {SOGLIA_GOAL}, combo Over 2,5 ritardo >= {SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+         f"Soglie: combo Goal ritardo >= {SOGLIA_GOAL}, combo Over 2,5 ritardo >= {SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
     H = []; day = None
     for t, c, l, hn, an, tags, LIX in cf:
         lt = t.astimezone(ROME); d0 = lt.strftime("%d/%m/%Y")
