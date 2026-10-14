@@ -1,19 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 20:17 (ora italiana)
+Aggiornato: 14/10/2026 02:23 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
-
-==================================================
-13/10/2026
-==================================================
-20:45  Burnley vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
-      Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57%
-20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
-      Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City 🔴 Watford
-20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
-      West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion
-20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park: X2 + OVER 2,5 (7) 🟢 86% 🔴 Inverness Caledonian Thistle
 
 ==================================================
 14/10/2026
@@ -83,15 +71,15 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 13:30  Everton vs Chelsea   [INGHILTERRA - PREMIER LEAGUE]
       Everton: 12 + OVER 2,5 (7) 🟢 57% 🔴 Everton
 13:30  Middlesbrough vs Cardiff City   [INGHILTERRA - CHAMPIONSHIP]
-      Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City
+      Cardiff City: X2 + OVER 2,5 (7) 🟢 86%
 13:30  Peterborough United vs Burton Albion   [INGHILTERRA - LEAGUE ONE]
       Peterborough United: 1X + OVER 2,5 (6) 🟢 67%
-13:30  Watford vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
-      Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57% 🔴 Watford
 14:00  Metz vs Sochaux   [FRANCIA - LIGUE 2]
       Sochaux: 1X + OVER 2,5 (8+) 🟢 50% 🔴 Sochaux; X2 + OVER 2,5 (7) 🔴 Sochaux; 12 + OVER 2,5 (7) 🔴 Sochaux
 14:00  Nantes vs Dunkerque   [FRANCIA - LIGUE 2]
       Dunkerque: X2 + OVER 2,5 (6) 🟢 67%
+14:00  Alemannia Aachen vs Hansa Rostock   [GERMANIA - 3. LIGA]
+      Hansa Rostock: X2 + OVER 2,5 (6) 🟢 100%
 14:00  Jahn Regensburg vs Wehen Wiesbaden   [GERMANIA - 3. LIGA]
       Wehen Wiesbaden: 1X + OVER 2,5 (6) 🟢 67%
 14:00  Real Sociedad B vs Almería   [SPAGNA - LALIGA 2]
@@ -151,11 +139,11 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 16:00  Tranmere Rovers vs Barnet   [INGHILTERRA - LEAGUE TWO]
       Tranmere Rovers: X2 + OVER 2,5 (6) 🟢 83%
 16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
-      West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion 🔴 Blackburn Rovers
+      West Bromwich Albion: 1X + OVER 2,5 (7) 🔴 Blackburn Rovers
 16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]
       Dunfermline Athletic: 1X + OVER 2,5 (11) 🟢 64% 🔴 Dunfermline Athletic; X2 + OVER 2,5 (11) 🟢 64%; 12 + OVER 2,5 (13) 🟢 69% 🔴 Dunfermline Athletic
 16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park: X2 + OVER 2,5 (7) 🟢 86%
+      Queen's Park: X2 + OVER 2,5 (8) 🟢 88%
 16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]
       St. Johnstone: X2 + OVER 2,5 (8+) 🟢 62% 🔴 St. Johnstone
 16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]
@@ -218,7 +206,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Juve Stabia: 1X + OVER 2,5 (6) 🟢 83%
       Südtirol: 1X + OVER 2,5 (11) 🟢 55%
 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]
-      IFK Värnamo: 1X + OVER 2,5 (13) 🟢 77% 🔴 GIF Sundsvall 🔴 IFK Värnamo
+      IFK Värnamo: 1X + OVER 2,5 (13) 🟢 77% 🔴 IFK Värnamo
 16:15  Celta Vigo vs Deportivo Alavés   [SPAGNA - LALIGA]
       Celta Vigo: X2 + OVER 2,5 (6) 🟢 67%
 16:30  Halmstads BK vs Hammarby   [SVEZIA - ALLSVENSKAN]
@@ -239,3 +227,8 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Tromsø: X2 + OVER 2,5 (6) 🟢 83% 🔴 Tromsø
 20:00  NEC Nijmegen vs Fortuna Sittard   [OLANDA - EREDIVISIE]
       Fortuna Sittard: 1X + OVER 2,5 (6) 🟢 83%
+20:45  Lyon vs Nice   [FRANCIA - LIGUE 1]
+      Lyon: X2 + OVER 2,5 (6) 🟢 83%
+      Nice: X2 + OVER 2,5 (13) 🟢 69%
+20:45  Juventus vs Lazio   [ITALIA - SERIE A]
+      Juventus: X2 + OVER 2,5 (6) 🟢 83%

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 13/10/2026 20:17 (ora italiana)
+Aggiornato: 14/10/2026 02:23 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -190,20 +190,18 @@ INGHILTERRA - CHAMPIONSHIP
 SOTTOFREQUENZA 1X + GOAL
     1/24 Sheffield United               28/100
     2/24 Swansea City                   32/100
-    3/24 Blackburn Rovers               34/100
+    3/24 Blackburn Rovers               33/100
     4/24 Millwall                       34/100
     5/24 Wolverhampton Wanderers        34/100
      ...
-   24/24 Preston North End              49/100  (la fa più spesso)
+   24/24 Cardiff City                   50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 Lincoln City                   26/100
-    2/24 Stoke City                     28/100
-    3/24 West Bromwich Albion           29/100
+    2/24 Stoke City                     29/100
+    3/24 Blackburn Rovers               30/100
     4/24 Millwall                       30/100
-    5/24 Blackburn Rovers               31/100
-    6/24 Sheffield United               31/100
-    7/24 Watford                        31/100
+    5/24 West Bromwich Albion           30/100
      ...
    24/24 Queens Park Rangers            40/100  (la fa più spesso)
 
@@ -213,39 +211,38 @@ SOTTOFREQUENZA 12 + GOAL
     3/24 Blackburn Rovers               29/100
     4/24 Charlton Athletic              30/100
     5/24 Lincoln City                   31/100
-    6/24 West Bromwich Albion           31/100
      ...
    24/24 Southampton                    48/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/24 Derby County                   25/100
-    2/24 Burnley                        27/100
-    3/24 Millwall                       27/100
-    4/24 Sheffield United               28/100
-    5/24 Blackburn Rovers               29/100
-    6/24 Stoke City                     29/100
+    2/24 Millwall                       26/100
+    3/24 Blackburn Rovers               28/100
+    4/24 Burnley                        28/100
+    5/24 Sheffield United               28/100
+    6/24 Stoke City                     28/100
      ...
    24/24 West Ham United                41/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-    1/24 West Bromwich Albion           12/100
+    1/24 West Bromwich Albion           13/100
     2/24 Lincoln City                   17/100
-    3/24 Birmingham City                19/100
-    4/24 Cardiff City                   19/100
-    5/24 Millwall                       19/100
-    6/24 Stoke City                     19/100
+    3/24 Birmingham City                18/100
+    4/24 Blackburn Rovers               19/100
+    5/24 Cardiff City                   19/100
+    6/24 Millwall                       19/100
     7/24 Watford                        19/100
      ...
    24/24 Wolverhampton Wanderers        31/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-    1/24 Millwall                       36/100
+    1/24 Millwall                       35/100
     2/24 Blackburn Rovers               37/100
-    3/24 West Bromwich Albion           37/100
-    4/24 Wrexham                        39/100
-    5/24 Bristol City                   40/100
-    6/24 Burnley                        40/100
-    7/24 Stoke City                     40/100
+    3/24 West Bromwich Albion           38/100
+    4/24 Bristol City                   39/100
+    5/24 Burnley                        40/100
+    6/24 Stoke City                     40/100
+    7/24 Wrexham                        40/100
      ...
    24/24 Southampton                    59/100  (la fa più spesso)
 
@@ -497,15 +494,16 @@ GERMANIA - 3. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/19 Viktoria Köln 1904             30/100
-    2/19 Hoffenheim II                  36/100
-    3/19 Hansa Rostock                  37/100
+    2/19 Hansa Rostock                  36/100
+    3/19 Hoffenheim II                  37/100
     4/19 Jahn Regensburg                37/100
-    5/19 Würzburger Kickers             37/100
+    5/19 Meppen                         38/100
+    6/19 Würzburger Kickers             38/100
      ...
-   19/19 VfB Stuttgart II               50/100  (la fa più spesso)
+   19/19 VfB Stuttgart II               51/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/19 MSV Duisburg                   25/100
+    1/19 MSV Duisburg                   26/100
     2/19 Meppen                         27/100
     3/19 Jahn Regensburg                29/100
     4/19 Fortuna Köln                   32/100
@@ -517,11 +515,11 @@ SOTTOFREQUENZA X2 + GOAL
    19/19 Ingolstadt                     45/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/19 Würzburger Kickers             25/100
+    1/19 Würzburger Kickers             24/100
     2/19 Jahn Regensburg                30/100
     3/19 Fortuna Köln                   34/100
-    4/19 Hansa Rostock                  35/100
-    5/19 Meppen                         36/100
+    4/19 Hansa Rostock                  34/100
+    5/19 Meppen                         35/100
      ...
    19/19 TSV Havelse                    50/100  (la fa più spesso)
 
@@ -529,15 +527,15 @@ SOTTOFREQUENZA 1X + OVER 2,5
     1/19 Viktoria Köln 1904             27/100
     2/19 Saarbrücken                    29/100
     3/19 Fortuna Düsseldorf             33/100
-    4/19 Jahn Regensburg                34/100
-    5/19 Würzburger Kickers             34/100
+    4/19 Hansa Rostock                  34/100
+    5/19 Jahn Regensburg                34/100
      ...
-   19/19 VfB Stuttgart II               43/100  (la fa più spesso)
+   19/19 VfB Stuttgart II               44/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-    1/19 Saarbrücken                    20/100
-    2/19 MSV Duisburg                   22/100
-    3/19 Jahn Regensburg                23/100
+    1/19 Saarbrücken                    21/100
+    2/19 Jahn Regensburg                23/100
+    3/19 MSV Duisburg                   23/100
     4/19 Fortuna Köln                   24/100
     5/19 Waldhof Mannheim               25/100
     6/19 Würzburger Kickers             25/100
@@ -545,11 +543,12 @@ SOTTOFREQUENZA X2 + OVER 2,5
    19/19 Ingolstadt                     37/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-    1/19 Saarbrücken                    41/100
+    1/19 Saarbrücken                    42/100
     2/19 Fortuna Köln                   44/100
     3/19 Jahn Regensburg                45/100
     4/19 Preussen Münster               46/100
     5/19 Waldhof Mannheim               46/100
+    6/19 Würzburger Kickers             46/100
      ...
    19/19 TSV Havelse                    62/100  (la fa più spesso)
 
@@ -1714,7 +1713,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
 SVEZIA - SUPERETTAN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 GIF Sundsvall                  32/100
+    1/12 GIF Sundsvall                  31/100
     2/12 IK Oddevold                    34/86
     3/12 Helsingborg                    35/100
     4/12 IFK Värnamo                    35/100
@@ -1725,7 +1724,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Sandvikens IF                  25/85
     2/12 Örebro                         30/100
-    3/12 GIF Sundsvall                  32/100
+    3/12 GIF Sundsvall                  31/100
     4/12 Helsingborg                    32/100
     5/12 IFK Norrköping                 32/100
      ...
@@ -1743,8 +1742,8 @@ SOTTOFREQUENZA 12 + GOAL
 SOTTOFREQUENZA 1X + OVER 2,5
     1/12 IFK Värnamo                    27/100
     2/12 IK Oddevold                    29/86
-    3/12 GIF Sundsvall                  30/100
-    4/12 Östers IF                      30/100
+    3/12 Östers IF                      30/100
+    4/12 GIF Sundsvall                  31/100
     5/12 Helsingborg                    32/100
      ...
    12/12 Örebro                         46/100  (la fa più spesso)
@@ -2075,8 +2074,7 @@ SOTTOFREQUENZA 1X + GOAL
      2/9 Dunfermline Athletic           29/100
      3/9 Arbroath                       34/100
      4/9 Queen's Park                   35/100
-     5/9 Inverness Caledonian Thistle   37/100
-     6/9 Livingston                     37/100
+     5/9 Livingston                     37/100
      ...
      9/9 Partick Thistle                45/100  (la fa più spesso)
 
@@ -2091,7 +2089,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
      1/9 Dunfermline Athletic           20/100
-     2/9 Inverness Caledonian Thistle   23/100
+     2/9 Inverness Caledonian Thistle   24/100
      3/9 Raith Rovers                   27/100
      4/9 Partick Thistle                29/100
      5/9 Ayr United                     32/100
@@ -2101,8 +2099,8 @@ SOTTOFREQUENZA 12 + GOAL
      9/9 Arbroath                       34/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-     1/9 Inverness Caledonian Thistle   24/100
-     2/9 Dunfermline Athletic           25/100
+     1/9 Dunfermline Athletic           25/100
+     2/9 Inverness Caledonian Thistle   25/100
      3/9 Raith Rovers                   25/100
      4/9 Queen's Park                   26/100
      5/9 Ayr United                     28/100
@@ -2122,7 +2120,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
 
 SOTTOFREQUENZA 12 + OVER 2,5
      1/9 Dunfermline Athletic           30/100
-     2/9 Inverness Caledonian Thistle   31/100
+     2/9 Inverness Caledonian Thistle   32/100
      3/9 Partick Thistle                36/100
      4/9 Ayr United                     39/100
      5/9 Raith Rovers                   40/100

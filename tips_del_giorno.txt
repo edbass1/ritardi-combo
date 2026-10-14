@@ -1,17 +1,21 @@
-TIPS DEL GIORNO - 13/10/2026
-Aggiornato: 13/10/2026 20:17 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 14/10/2026
+Aggiornato: 14/10/2026 02:23 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
-    12 + OVER 2,5  -  punteggio 67.1  (R+30 C+10 F+7 G+0 A+5 E+0 S+15)
-    West Bromwich Albion non fa 12 + OVER 2,5 da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre West Bromwich Albion è in sottofrequenza (37/100), deve recuperare.
+ 1. 19:00  Bryne vs Raufoss   [NORVEGIA - OBOS-LIGAEN]
+    X2 + GOAL  -  punteggio 67.8  (R+30 C+10 F+10.9 G+6 A-4.1 E+0 S+15)
+    Bryne non fa X2 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Bryne è in sottofrequenza (25/100), deve recuperare; nel ritardo il 80% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 2. 20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
-    X2 + OVER 2,5  -  punteggio 58.4  (R+20 C+0 F+3.4 G+6.6 A+3.4 E+0 S+25)
-    Cardiff City non fa X2 + OVER 2,5 da 6 partite (ritardo massimo del campionato 9, mediano 1). Inoltre Cardiff City è in sottofrequenza (19/100), deve recuperare; anche Watford è in sottofrequenza su questa combo (19/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+ 2. 19:00  Wehen Wiesbaden vs Alemannia Aachen   [GERMANIA - 3. LIGA]
+    1X + OVER 2,5  -  punteggio 42.5  (R+30 C+10 F-0.9 G+3.4 A+0.1 E+0 S+0)
+    Wehen Wiesbaden non fa 1X + OVER 2,5 da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 3. 20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-    X2 + GOAL  -  punteggio 52.2  (R+26.2 C+5 F+0.4 G+7.2 A-1.6 E+0 S+15)
-    Queen's Park non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 0), tra i 3 ritardi più lunghi del campionato. Inoltre Queen's Park è in sottofrequenza (30/100), deve recuperare; nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
+ 3. 19:00  Moss vs Egersund   [NORVEGIA - OBOS-LIGAEN]
+    1X + GOAL  -  punteggio 41.6  (R+30 C+10 F-2.2 G+8 A-4.2 E+0 S+0)
+    Moss non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 20:45  Norwich City vs Southampton   [INGHILTERRA - CHAMPIONSHIP]
+    X2 + OVER 2,5  -  punteggio 40.9  (R+30 C+10 F-6.5 G+7.8 A-0.5 E+0 S+0)
+    Southampton non fa X2 + OVER 2,5 da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 89% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Southampton la fa già più della media (29% vs 23%).
 
 
 REGOLE DEL PUNTEGGIO

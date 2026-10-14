@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + OVER 2,5
-Aggiornato: 13/10/2026 20:17 (ora italiana)
+Aggiornato: 14/10/2026 02:23 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -128,43 +128,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (107 partite giocate) + 2025/2026
+Stagione 2026/2027 (115 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. West Bromwich Albion              6
-   2. Bolton Wanderers                  4  🟢 75%
-   3. Derby County                      4  🟢 75%  🔴
-   4. Bristol City                      3
-   5. Watford                           3  🟢 67%
-   6. Wolverhampton Wanderers           3
-   7. Burnley                           2  🟢 100%  🔴
-   8. Birmingham City                   1
-   9. Charlton Athletic                 1  🟢 100%
-  10. Middlesbrough                     1
+   1. West Bromwich Albion              7
+   2. Bolton Wanderers                  5  🟢 80%
+   3. Bristol City                      4
+   4. Derby County                      4  🟢 75%  🔴
+   5. Wolverhampton Wanderers           4
+   6. Middlesbrough                     2  🟢 50%
+   7. Millwall                          2  🔴
+   8. Stoke City                        2  🟢 100%  🔴
+   9. Wrexham                           2  🟢 100%
+  10. Blackburn Rovers                  1  🔴
 
 RITARDI X2 + OVER 2,5
    1. Southampton                       9  🟢 89%
-   2. West Bromwich Albion              8  🟢 50%  🔴
-   3. Charlton Athletic                 7  🟢 57%
-   4. Cardiff City                      6  🟢 83%  🔴
-   5. Wrexham                           5  🟢 80%
-   6. Bristol City                      4  🟢 50%
-   7. Sheffield United                  3  🟢 67%
-   8. Wolverhampton Wanderers           3
-   9. Derby County                      2  🟢 100%
-  10. Birmingham City                   1  🔴
+   2. Cardiff City                      7  🟢 86%
+   3. Bristol City                      5
+   4. Sheffield United                  3  🟢 67%
+   5. Birmingham City                   2  🟢 50%  🔴
+   6. Blackburn Rovers                  2  🟢 50%
+   7. Derby County                      2  🟢 100%
+   8. Millwall                          2
+   9. Preston North End                 2  🟢 50%
+  10. Swansea City                      2  🟢 50%
 
 RITARDI 12 + OVER 2,5
-   1. West Bromwich Albion              6  🔴
-   2. Portsmouth                        5  🟢 60%
-   3. Queens Park Rangers               5  🟢 60%
-   4. Wolverhampton Wanderers           4
-   5. Bristol City                      3
-   6. Middlesbrough                     3  🟢 67%
-   7. Millwall                          3  🟢 67%  🔴
-   8. Preston North End                 3
-   9. Birmingham City                   2  🟢 50%
-  10. Derby County                      2  🟢 100%
+   1. Portsmouth                        5  🟢 60%
+   2. Queens Park Rangers               5  🟢 60%
+   3. Bristol City                      4
+   4. Millwall                          4  🟢 50%  🔴
+   5. Charlton Athletic                 2  🟢 100%
+   6. Derby County                      2  🟢 100%
+   7. West Ham United                   2  🟢 100%
+   8. Blackburn Rovers                  1  🔴
+   9. Burnley                           1  🟢 100%
+  10. Southampton                       1
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -328,43 +328,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 GERMANIA - 3. LIGA
-Stagione 2026/2027 (80 partite giocate) + 2025/2026
+Stagione 2026/2027 (85 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Wehen Wiesbaden                   6  🟢 67%
    2. Waldhof Mannheim                  5  🟢 60%
-   3. Alemannia Aachen                  3
-   4. Fortuna Köln                      3  🟢 67%
-   5. Meppen                            3  🟢 67%
-   6. Hansa Rostock                     2  🟢 100%
-   7. Ingolstadt                        1  🟢 100%
-   8. Saarbrücken                       1  🔴
-   9. Sonnenhof Großaspach              1  🟢 100%
-  10. VfB Stuttgart II                  1  🟢 100%
+   3. Fortuna Köln                      4  🟢 75%
+   4. Meppen                            4  🟢 75%
+   5. Alemannia Aachen                  3
+   6. Hansa Rostock                     3  🟢 100%
+   7. Saarbrücken                       2  🟢 50%  🔴
+   8. Ingolstadt                        1  🟢 100%
+   9. MSV Duisburg                      1  🟢 100%
+  10. RW Essen                          1  🟢 100%
 
 RITARDI X2 + OVER 2,5
-   1. Hansa Rostock                     5  🟢 100%
-   2. Würzburger Kickers                4  🟢 75%
-   3. Hoffenheim II                     2  🟢 50%
-   4. Meppen                            2  🟢 50%
-   5. Saarbrücken                       2  🟢 50%  🔴
-   6. Fortuna Köln                      1
-   7. Jahn Regensburg                   1  🟢 100%  🔴
-   8. MSV Duisburg                      1  🟢 100%  🔴
-   9. TSV Havelse                       1  🟢 100%
-  10. VfB Stuttgart II                  1  🟢 100%
+   1. Hansa Rostock                     6  🟢 100%
+   2. Hoffenheim II                     3  🟢 67%
+   3. Meppen                            3  🟢 67%
+   4. Fortuna Köln                      2  🟢 50%
+   5. VfB Stuttgart II                  2  🟢 100%
+   6. Jahn Regensburg                   1  🟢 100%  🔴
+   7. RW Essen                          1  🟢 100%
+   8. Alemannia Aachen                  0
+   9. Fortuna Düsseldorf                0
+  10. Ingolstadt                        0
 
 RITARDI 12 + OVER 2,5
-   1. Preussen Münster                  3  🟢 100%
-   2. Fortuna Düsseldorf                2  🟢 50%
-   3. Hansa Rostock                     2  🟢 100%
-   4. Meppen                            2  🟢 50%
-   5. RW Essen                          2  🟢 100%
-   6. VfB Stuttgart II                  2  🟢 100%
-   7. Fortuna Köln                      1  🔴
+   1. Hansa Rostock                     3  🟢 100%
+   2. Meppen                            3  🟢 67%
+   3. Preussen Münster                  3  🟢 100%
+   4. RW Essen                          3  🟢 100%
+   5. Fortuna Düsseldorf                2  🟢 50%
+   6. Fortuna Köln                      2  🟢 50%  🔴
+   7. Würzburger Kickers                2  🟢 100%
    8. SC Verl                           1  🟢 100%
-   9. Saarbrücken                       1  🔴
-  10. Würzburger Kickers                1  🟢 100%
+   9. TSV Havelse                       1  🟢 100%
+  10. Alemannia Aachen                  0
 
 ==================================================
 FRANCIA - LIGUE 1
@@ -1128,7 +1128,7 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (206 partite giocate) + 2025
+Stagione 2026 (207 partite giocate) + 2025
 ==================================================
 RITARDI 1X + OVER 2,5
    1. IFK Värnamo                      13  🟢 77%  🔴
@@ -1137,22 +1137,22 @@ RITARDI 1X + OVER 2,5
    4. Helsingborg                       6  🟢 67%
    5. IK Oddevold                       4  🟢 50%
    6. Falkenbergs FF                    3  🟢 67%
-   7. IFK Norrköping                    3  🟢 67%
-   8. Norrby                            3  🟢 67%
-   9. Östers IF                         3  🟢 100%  🔴
-  10. IK Brage                          1  🟢 100%
+   7. Norrby                            3  🟢 67%
+   8. Östers IF                         3  🟢 100%  🔴
+   9. IK Brage                          1  🟢 100%
+  10. Ljungskile                        1  🟢 100%
 
 RITARDI X2 + OVER 2,5
    1. Östersunds FK                    10  🔴
    2. Sandvikens IF                     7  🟢 86%  🔴
    3. IK Brage                          6  🟢 83%
    4. Ljungskile                        4  🟢 100%
-   5. Helsingborg                       3
-   6. Örebro                            3  🟢 100%  🔴
-   7. GIF Sundsvall                     2  🟢 100%  🔴
+   5. GIF Sundsvall                     3  🟢 100%  🔴
+   6. Helsingborg                       3
+   7. Örebro                            3  🟢 100%  🔴
    8. Norrby                            2  🟢 50%
    9. Varbergs BoIS FC                  2  🟢 100%
-  10. IK Oddevold                       1  🟢 100%
+  10. IFK Norrköping                    1  🟢 100%
 
 RITARDI 12 + OVER 2,5
    1. Östersunds FK                    16  🟢 62%  🔴
@@ -1368,7 +1368,7 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 SCOZIA - CHAMPIONSHIP
-Stagione 2026/2027 (47 partite giocate) + 2025/2026
+Stagione 2026/2027 (48 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Ayr United                       11  🟢 73%
@@ -1377,16 +1377,16 @@ RITARDI 1X + OVER 2,5
    4. Stenhousemuir                     5
    5. Raith Rovers                      4  🟢 75%  🔴
    6. Livingston                        3  🟢 100%
-   7. Inverness Caledonian Thistle      2  🟢 100%  🔴
-   8. Arbroath                          1  🟢 100%
-   9. Partick Thistle                   1  🟢 100%
-  10. Queen's Park                      1  🟢 100%
+   7. Arbroath                          1  🟢 100%
+   8. Partick Thistle                   1  🟢 100%
+   9. Inverness Caledonian Thistle      0  🔴
+  10. Queen's Park                      0
 
 RITARDI X2 + OVER 2,5
    1. Dunfermline Athletic             11  🟢 64%
    2. Stenhousemuir                    9+  🟢 56%
-   3. Queen's Park                      7  🟢 86%
-   4. Inverness Caledonian Thistle      2  🟢 100%  🔴
+   3. Queen's Park                      8  🟢 88%
+   4. Inverness Caledonian Thistle      3  🟢 100%  🔴
    5. Ayr United                        1  🟢 100%
    6. Raith Rovers                      1  🟢 100%  🔴
    7. Arbroath                          0
@@ -1397,14 +1397,14 @@ RITARDI X2 + OVER 2,5
 RITARDI 12 + OVER 2,5
    1. Dunfermline Athletic             13  🟢 69%  🔴
    2. Stenhousemuir                     5
-   3. Inverness Caledonian Thistle      3  🟢 100%  🔴
-   4. Ayr United                        1  🟢 100%
-   5. Queen's Park                      1  🟢 100%
-   6. Raith Rovers                      1  🟢 100%
-   7. Arbroath                          0
-   8. Greenock Morton                   0
-   9. Livingston                        0
-  10. Partick Thistle                   0  🔴
+   3. Ayr United                        1  🟢 100%
+   4. Raith Rovers                      1  🟢 100%
+   5. Arbroath                          0
+   6. Greenock Morton                   0
+   7. Inverness Caledonian Thistle      0  🔴
+   8. Livingston                        0
+   9. Partick Thistle                   0  🔴
+  10. Queen's Park                      0
 
 ==================================================
 IRLANDA - PREMIER DIVISION

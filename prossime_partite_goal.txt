@@ -1,15 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 20:17 (ora italiana)
+Aggiornato: 14/10/2026 02:23 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
-
-==================================================
-13/10/2026
-==================================================
-20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
-      West Bromwich Albion: 12 + GOAL (6)
-20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
 
 ==================================================
 14/10/2026
@@ -104,10 +96,10 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Northampton Town: 12 + GOAL (8+) 🟢 50%
 16:00  Port Vale vs Chesterfield   [INGHILTERRA - LEAGUE TWO]
       Port Vale: X2 + GOAL (6) 🔴 Port Vale
+16:00  Southampton vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
+      Bolton Wanderers: 1X + GOAL (6) 🟢 83%
 16:00  Swindon Town vs Walsall   [INGHILTERRA - LEAGUE TWO]
       Walsall: 12 + GOAL (6) 🟢 67%
-16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
-      West Bromwich Albion: 12 + GOAL (6) 🔴 Blackburn Rovers
 16:00  Wigan Athletic vs Reading   [INGHILTERRA - LEAGUE ONE]
       Wigan Athletic: X2 + GOAL (13) 🔴 Wigan Athletic
 16:00  Aberdeen vs St. Mirren   [SCOZIA - PREMIERSHIP]
@@ -115,7 +107,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]
       Dunfermline Athletic: 12 + GOAL (14) 🟢 71% 🔴 Dunfermline Athletic
 16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
+      Queen's Park: X2 + GOAL (8) 🟢 88% 🔴 Queen's Park
 16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]
       Dundee United: 12 + GOAL (13) 🟢 85% 🔴 Dundee United
 16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]
@@ -168,7 +160,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 15:00  Baník Ostrava vs Sparta Prague   [REP. CECA - 1. LIGA]
       Sparta Prague: X2 + GOAL (25) 🟢 88% 🔴 Baník Ostrava
 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]
-      GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 GIF Sundsvall
+      GIF Sundsvall: X2 + GOAL (7) 🟢 57% 🔴 GIF Sundsvall
 16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]
       Brøndby IF: X2 + GOAL (9) 🟢 78% 🔴 Brøndby IF
 16:15  Celta Vigo vs Deportivo Alavés   [SPAGNA - LALIGA]

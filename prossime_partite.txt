@@ -1,21 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 13/10/2026 20:17 (ora italiana)
+Aggiornato: 14/10/2026 02:23 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob
 
-
-==================================================
-13/10/2026
-==================================================
-20:45  Burnley vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
-      [OVER 2,5] Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57%
-20:45  Cardiff City vs Watford   [INGHILTERRA - CHAMPIONSHIP]
-      [OVER 2,5] Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City 🔴 Watford
-20:45  Wrexham vs West Bromwich Albion   [INGHILTERRA - CHAMPIONSHIP]
-      [GOAL] West Bromwich Albion: 12 + GOAL (6)
-      [OVER 2,5] West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion
-20:45  Queen's Park vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      [GOAL] Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
-      [OVER 2,5] Queen's Park: X2 + OVER 2,5 (7) 🟢 86% 🔴 Inverness Caledonian Thistle
 
 ==================================================
 14/10/2026
@@ -113,16 +99,16 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [GOAL] Everton: 12 + GOAL (7) 🟢 57% 🔴 Everton
       [OVER 2,5] Everton: 12 + OVER 2,5 (7) 🟢 57% 🔴 Everton
 13:30  Middlesbrough vs Cardiff City   [INGHILTERRA - CHAMPIONSHIP]
-      [OVER 2,5] Cardiff City: X2 + OVER 2,5 (6) 🟢 83% 🔴 Cardiff City
+      [OVER 2,5] Cardiff City: X2 + OVER 2,5 (7) 🟢 86%
 13:30  Peterborough United vs Burton Albion   [INGHILTERRA - LEAGUE ONE]
       [OVER 2,5] Peterborough United: 1X + OVER 2,5 (6) 🟢 67%
-13:30  Watford vs Charlton Athletic   [INGHILTERRA - CHAMPIONSHIP]
-      [OVER 2,5] Charlton Athletic: X2 + OVER 2,5 (7) 🟢 57% 🔴 Watford
 14:00  Metz vs Sochaux   [FRANCIA - LIGUE 2]
       [GOAL] Sochaux: 12 + GOAL (8+) 🟢 50% 🔴 Sochaux
       [OVER 2,5] Sochaux: 1X + OVER 2,5 (8+) 🟢 50% 🔴 Sochaux; X2 + OVER 2,5 (7) 🔴 Sochaux; 12 + OVER 2,5 (7) 🔴 Sochaux
 14:00  Nantes vs Dunkerque   [FRANCIA - LIGUE 2]
       [OVER 2,5] Dunkerque: X2 + OVER 2,5 (6) 🟢 67%
+14:00  Alemannia Aachen vs Hansa Rostock   [GERMANIA - 3. LIGA]
+      [OVER 2,5] Hansa Rostock: X2 + OVER 2,5 (6) 🟢 100%
 14:00  Ingolstadt vs RW Essen   [GERMANIA - 3. LIGA]
       [GOAL] Ingolstadt: 1X + GOAL (6) 🟢 83%
 14:00  Jahn Regensburg vs Wehen Wiesbaden   [GERMANIA - 3. LIGA]
@@ -197,6 +183,7 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
 16:00  Sheffield Wednesday vs AFC Wimbledon   [INGHILTERRA - LEAGUE ONE]
       [OVER 2,5] AFC Wimbledon: X2 + OVER 2,5 (9) 🟢 56%
 16:00  Southampton vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
+      [GOAL] Bolton Wanderers: 1X + GOAL (6) 🟢 83%
       [OVER 2,5] Southampton: X2 + OVER 2,5 (9) 🟢 89%
 16:00  Swindon Town vs Walsall   [INGHILTERRA - LEAGUE TWO]
       [GOAL] Walsall: 12 + GOAL (6) 🟢 67%
@@ -205,8 +192,7 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
 16:00  Tranmere Rovers vs Barnet   [INGHILTERRA - LEAGUE TWO]
       [OVER 2,5] Tranmere Rovers: X2 + OVER 2,5 (6) 🟢 83%
 16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
-      [GOAL] West Bromwich Albion: 12 + GOAL (6) 🔴 Blackburn Rovers
-      [OVER 2,5] West Bromwich Albion: 1X + OVER 2,5 (6); X2 + OVER 2,5 (8) 🟢 50% 🔴 West Bromwich Albion; 12 + OVER 2,5 (6) 🔴 West Bromwich Albion 🔴 Blackburn Rovers
+      [OVER 2,5] West Bromwich Albion: 1X + OVER 2,5 (7) 🔴 Blackburn Rovers
 16:00  Wigan Athletic vs Reading   [INGHILTERRA - LEAGUE ONE]
       [GOAL] Wigan Athletic: X2 + GOAL (13) 🔴 Wigan Athletic
 16:00  Aberdeen vs St. Mirren   [SCOZIA - PREMIERSHIP]
@@ -215,8 +201,8 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [GOAL] Dunfermline Athletic: 12 + GOAL (14) 🟢 71% 🔴 Dunfermline Athletic
       [OVER 2,5] Dunfermline Athletic: 1X + OVER 2,5 (11) 🟢 64% 🔴 Dunfermline Athletic; X2 + OVER 2,5 (11) 🟢 64%; 12 + OVER 2,5 (13) 🟢 69% 🔴 Dunfermline Athletic
 16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      [GOAL] Queen's Park: X2 + GOAL (7) 🟢 86% 🔴 Queen's Park
-      [OVER 2,5] Queen's Park: X2 + OVER 2,5 (7) 🟢 86%
+      [GOAL] Queen's Park: X2 + GOAL (8) 🟢 88% 🔴 Queen's Park
+      [OVER 2,5] Queen's Park: X2 + OVER 2,5 (8) 🟢 88%
 16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]
       [GOAL] Dundee United: 12 + GOAL (13) 🟢 85% 🔴 Dundee United
       [OVER 2,5] St. Johnstone: X2 + OVER 2,5 (8+) 🟢 62% 🔴 St. Johnstone
@@ -311,8 +297,8 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
 15:00  Baník Ostrava vs Sparta Prague   [REP. CECA - 1. LIGA]
       [GOAL] Sparta Prague: X2 + GOAL (25) 🟢 88% 🔴 Baník Ostrava
 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]
-      [GOAL] GIF Sundsvall: X2 + GOAL (6) 🟢 50% 🔴 GIF Sundsvall
-      [OVER 2,5] IFK Värnamo: 1X + OVER 2,5 (13) 🟢 77% 🔴 GIF Sundsvall 🔴 IFK Värnamo
+      [GOAL] GIF Sundsvall: X2 + GOAL (7) 🟢 57% 🔴 GIF Sundsvall
+      [OVER 2,5] IFK Värnamo: 1X + OVER 2,5 (13) 🟢 77% 🔴 IFK Värnamo
 16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]
       [GOAL] Brøndby IF: X2 + GOAL (9) 🟢 78% 🔴 Brøndby IF
 16:15  Celta Vigo vs Deportivo Alavés   [SPAGNA - LALIGA]
@@ -350,3 +336,8 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [GOAL] Arezzo: 1X + GOAL (6+) 🟢 67% 🔴 Arezzo
 20:00  NEC Nijmegen vs Fortuna Sittard   [OLANDA - EREDIVISIE]
       [OVER 2,5] Fortuna Sittard: 1X + OVER 2,5 (6) 🟢 83%
+20:45  Lyon vs Nice   [FRANCIA - LIGUE 1]
+      [OVER 2,5] Lyon: X2 + OVER 2,5 (6) 🟢 83%
+      [OVER 2,5] Nice: X2 + OVER 2,5 (13) 🟢 69%
+20:45  Juventus vs Lazio   [ITALIA - SERIE A]
+      [OVER 2,5] Juventus: X2 + OVER 2,5 (6) 🟢 83%
