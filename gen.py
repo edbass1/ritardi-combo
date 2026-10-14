@@ -36,6 +36,8 @@ COMBOS = {
 TOP = 10
 SALTATI_MIN = 6      # ritardo minimo spezzato per la sezione Saltati
 SALTATI_GIORNI = 7
+DANGER_GIORNI = 10   # badge DANGEROUS: giorni considerati
+DANGER_TOP = 5       # badge DANGEROUS: ritardo nella top N del campionato
 SOTTO_N = 100     # partite considerate per le sottofrequenze
 SOTTO_MIN = 85    # minimo partite per entrare nelle sottofrequenze
 SOTTO_STAGIONI = 4
@@ -129,16 +131,17 @@ def compute(lid, POOL):
         if len(rows) > 5:
             cut = rate(rows[4]); rows = [r for r in rows if rate(r) <= cut]
         sotto.append((name, rows))
-    res, allr, salt = {}, {}, []
+    res, allr, salt, danger = {}, {}, [], {}
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=SALTATI_GIORNI)
     for key, combos in COMBOS.items():
         res[key] = []
         for name, f in combos:
-            rows = []
+            rows = []; seqs = {}
             for tid, tname in teams.items():
                 seq = [m for m in cur if tid in (m[1], m[2])]
                 if tid in prev_teams:
                     seq = [m for m in prev_m if tid in (m[1], m[2])] + seq
+                seqs[tid] = seq
                 n = 0; g = 0
                 for m in reversed(seq):
                     if f(m[3], m[4]): break
@@ -157,8 +160,25 @@ def compute(lid, POOL):
                 rows.append((n, tname, full, pct))
             rows.sort(key=lambda r: (-r[0], r[1]))
             res[key].append((name, rows[:TOP]))
+            def d_at(tid, t0):
+                n0 = 0
+                for m in reversed([m for m in seqs[tid] if m[0] < t0]):
+                    if f(m[3], m[4]): break
+                    n0 += 1
+                return n0
+            dcut = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=DANGER_GIORNI)).strftime("%Y-%m-%dT%H:%M")
+            ev = []
+            for m in cur:
+                if m[0][:16] < dcut or not f(m[3], m[4]): continue
+                vals = sorted((d_at(t2, m[0]) for t2 in seqs), reverse=True)
+                cutv = vals[min(DANGER_TOP, len(vals)) - 1] if vals else 0
+                for tid in (m[1], m[2]):
+                    if tid in seqs:
+                        b0 = d_at(tid, m[0])
+                        if b0 > 0 and b0 >= cutv: ev.append((m[0], b0))
+            danger[name] = [b0 for _, b0 in sorted(ev, reverse=True)]
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
-    return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams), salt, sinfo
+    return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams), salt, sinfo, danger
 
 TIPS_MAX = 10
 TIPS_MIN_SCORE = 35
@@ -260,6 +280,18 @@ def red_sets(sotto):
         out[name] = {t for k, n, t in rows if round(k / n, 4) <= cut}
     return out
 
+def dbadges(r, lg, names):
+    """Badge DANGEROUS/OK per ogni combo in ritardo nella partita."""
+    H, T = [], []
+    for nm in dict.fromkeys(names):
+        ev = r[12].get(nm, []); short = nm.replace(" ", "").replace("OVER2,5", "OVER2,5")
+        if ev:
+            msg = f"Negli ultimi {DANGER_GIORNI} giorni in {lg} sono saltati {len(ev)} ritardi top {DANGER_TOP} di {nm}: " + ", ".join(f"era a {x}" for x in ev)
+            H.append(f'<span class="dz bad" data-msg="{html.escape(msg, quote=True)}">DANGEROUS {html.escape(short)}</span>'); T.append(f"[DANGEROUS {short}]")
+        else:
+            H.append(f'<span class="dz ok">{html.escape(short)}</span>'); T.append(f"[OK {short}]")
+    return " ".join(H), " ".join(T)
+
 def tspan(li, a, b, t):
     E = lambda x: html.escape(str(x), quote=True)
     return f'<span class="pt" data-k="{li}" data-a="{E(a)}" data-b="{E(b)}">{E(t)}</span>'
@@ -314,7 +346,7 @@ def main():
               if info: fx.append((t, c, l, teams[h], teams[a], info))
       fx.sort(key=lambda x: (x[0], x[1], x[3]))
       P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - {TIT} - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob", ""]
+           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
       day = None
       for t, c, l, hn, an, info in fx:
           lt = t.astimezone(ROME)
@@ -345,18 +377,20 @@ def main():
             if tags: cf.append((t, c, l, teams[h], teams[a], tags, LI))
     cf.sort(key=lambda x: (x[0], x[1], x[3]))
     P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-         f"Soglie: combo Goal ritardo >= {SOGLIA_GOAL}, combo Over 2,5 ritardo >= {SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. Fonte: FotMob", ""]
+         f"Soglie: combo Goal ritardo >= {SOGLIA_GOAL}, combo Over 2,5 ritardo >= {SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
     H = []; day = None
     for t, c, l, hn, an, tags, LIX in cf:
         lt = t.astimezone(ROME); d0 = lt.strftime("%d/%m/%Y")
         if d0 != day:
             P += ["", "="*50, d0, "="*50]; H.append(f'<h3 class="day">{d0}</h3>'); day = d0
-        P.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]")
+        nms = [p.split(" (")[0] for _, _, ps, _ in tags for p in ps]
+        dh, dt = dbadges(data[LIX][2], f"{c} - {l}", nms)
+        P.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}")
         hb = []
         for KEY, tn, parts, hparts in tags:
             P.append(f"      [{LAB[KEY]}] {tn}: " + "; ".join(parts))
             hb.append(f'<div class="tagrow"><span class="tag {KEY}">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>: ' + "; ".join(hparts) + "</div>")
-        H.append(f'<div class="fx"><div class="fxh"><span class="time">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span></div>' + "".join(hb) + "</div>")
+        H.append(f'<div class="fx"><div class="fxh"><span class="time">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} <a class="b365" href="https://www.bet365.it/" target="_blank" rel="noopener">bet365</a></div>' + "".join(hb) + "</div>")
     if not cf:
         P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia."); H.append("<p>Nessuna partita nei prossimi giorni con ritardi sopra soglia.</p>")
     sections["prossime"] = "\n".join(P) + "\n"
@@ -368,8 +402,9 @@ def main():
     TH = []
     for i, (sc, lt, c, l, hn, an, nm, why, comp, LIX) in enumerate(tips, 1):
         det = " ".join(f"{a}{b:+g}" for a, b in zip("RCFGAES", comp))
-        TT += [f"{i:>2}. {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]", f"    {nm}  -  punteggio {sc}  ({det})", f"    {why}", ""]
-        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span></div><div class="tipc"><span class="tag {"goal" if "GOAL" in nm else "over"}">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
+        dh, dt = dbadges(data[LIX][2], f"{c} - {l}", [nm])
+        TT += [f"{i:>2}. {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}", f"    {nm}  -  punteggio {sc}  ({det})", f"    {why}", ""]
+        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} <a class="b365" href="https://www.bet365.it/" target="_blank" rel="noopener">bet365</a></div><div class="tipc"><span class="tag {"goal" if "GOAL" in nm else "over"}">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
     if not tips:
         TT.append("Nessuna tip convincente oggi."); TH.append("<p>Nessuna tip convincente oggi.</p>")
     TT += ["", "REGOLE DEL PUNTEGGIO"] + ["  " + x for x in TIPS_RULES]
@@ -425,7 +460,7 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 #hamb{{display:none;position:fixed;left:10px;top:10px;z-index:130;width:44px;height:44px;border-radius:10px;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.4rem;cursor:pointer}}
 @media (min-width:901px){{body{{margin-left:max(210px,calc((100vw - 1100px)/2))}}}}
 @media (max-width:900px){{#hamb{{display:block}}#side{{transform:translateX(-105%);transition:transform .2s;width:220px;padding-top:4rem}}#side.open{{transform:none}}h1{{margin-top:3.6rem}}}}
-#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
+.dz{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;color:#000;margin-left:.3rem;vertical-align:middle}}.dz.bad{{background:#ff5c5c;cursor:pointer}}.dz.ok{{background:#2e9e5b}}#side a.sbig,#side a.sbig:link,#side a.sbig:visited,#side a.sbig:hover,#side a.sbig:active,#side a.sbig:focus,#side a.sbig *{{color:#000 !important}}.b365,.b365:link,.b365:visited{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;background:#ffdf1b;color:#000 !important;text-decoration:none;margin-left:.3rem;vertical-align:middle}}.b365:hover{{background:#fff176}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){{document.querySelectorAll('pre').forEach(function(p){{p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'}});document.querySelectorAll('.fxlist').forEach(function(f){{f.style.fontSize=(Z*100)+'%'}})}}function z(d){{Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>{now}</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
@@ -441,11 +476,11 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 <h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) / &ge; {SOGLIA_OVER} (Over 2,5) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> <span class="tag over">OVER 2,5</span> &middot; 🔴 = top 3 Sottofrequenza</p><div class="fxlist">{sections['prossime_html']}</div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>{html.escape(sections['goal'])}</pre>
 <h2 id="over">Sezione 2 - 1X+Over 2,5, X2+Over 2,5, 12+Over 2,5</h2><pre>{html.escape(sections['over'])}</pre><h2 id="saltati">Saltati (ritardi &ge; {SALTATI_MIN} spezzati, ultimi {SALTATI_GIORNI} giorni)</h2><div class="fxlist">{sections['saltati_html']}</div><button id="totop" aria-label="Torna su" title="Torna su" onclick="window.scrollTo({{top:0,behavior:'smooth'}})">↑</button><script>window.addEventListener("scroll",function(){{document.getElementById("totop").classList.toggle("on",window.scrollY>400)}},{{passive:true}});</script><div id="pop"></div><script>var POP={sections['popjson']};(function(){{var pop=document.getElementById('pop'),cur=null;function esc(x){{return String(x).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]}})}}
-function show(el){{var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){{var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){{return x.some(function(r){{return r[1]==A||r[1]==B}})}});if(!tb.length){{h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}}else{{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){{var N=x.length;h+='<div>'+x.filter(function(r){{return r[1]==A||r[1]==B}}).map(function(r){{return '<b style="color:#00ff88">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:#00ff88;cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){{return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}}).join('')+'</table></details>'}})}}}}else if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];var st=(d.stot||{{}})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:#8a9">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}}
+function show(el){{if(el.classList.contains('dz')){{pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}}var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){{var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){{return x.some(function(r){{return r[1]==A||r[1]==B}})}});if(!tb.length){{h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}}else{{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){{var N=x.length;h+='<div>'+x.filter(function(r){{return r[1]==A||r[1]==B}}).map(function(r){{return '<b style="color:#00ff88">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:#00ff88;cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){{return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}}).join('')+'</table></details>'}})}}}}else if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];var st=(d.stot||{{}})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:#8a9">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}}
 function hide(){{pop.style.display='none';cur=null}}
-document.addEventListener('click',function(e){{var el=e.target.closest('.pp,.pr,.pt');if(el){{if(cur===el)hide();else show(el);e.stopPropagation();return}}if(!pop.contains(e.target))hide()}});
-if(window.matchMedia('(hover:hover)').matches){{document.addEventListener('mouseover',function(e){{var el=e.target.closest('.pp,.pr,.pt');if(el&&el!==cur)show(el)}})}}
+document.addEventListener('click',function(e){{var el=e.target.closest('.pp,.pr,.pt,.dz.bad');if(el){{if(cur===el)hide();else show(el);e.stopPropagation();return}}if(!pop.contains(e.target))hide()}});
+if(window.matchMedia('(hover:hover)').matches){{document.addEventListener('mouseover',function(e){{var el=e.target.closest('.pp,.pr,.pt,.dz.bad');if(el&&el!==cur)show(el)}})}}
 document.addEventListener('keydown',function(e){{if(e.key==='Escape')hide()}})}})();</script></body></html>"""
     open("index.html","w").write(page)
 
