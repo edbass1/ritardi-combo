@@ -38,6 +38,7 @@ SALTATI_MIN = 6      # ritardo minimo spezzato per la sezione Saltati
 SALTATI_GIORNI = 7
 DANGER_GIORNI = 10   # badge DANGEROUS: giorni considerati
 DANGER_TOP = 5       # badge DANGEROUS: ritardo nella top N del campionato
+DANGER_MIN = 6       # badge DANGEROUS: ritardo minimo al momento della rottura
 SOTTO_N = 100     # partite considerate per le sottofrequenze
 SOTTO_MIN = 85    # minimo partite per entrare nelle sottofrequenze
 SOTTO_STAGIONI = 4
@@ -175,7 +176,7 @@ def compute(lid, POOL):
                 for tid in (m[1], m[2]):
                     if tid in seqs:
                         b0 = d_at(tid, m[0])
-                        if b0 > 0 and b0 >= cutv: ev.append((m[0], b0))
+                        if b0 >= DANGER_MIN and b0 >= cutv: ev.append((m[0], b0))
             danger[name] = [b0 for _, b0 in sorted(ev, reverse=True)]
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
     return cur_season, prev, len(cur), res, d['_upcoming'], teams, allr, sotto, freq, tables(d, teams), salt, sinfo, danger
@@ -346,7 +347,7 @@ def main():
               if info: fx.append((t, c, l, teams[h], teams[a], info))
       fx.sort(key=lambda x: (x[0], x[1], x[3]))
       P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - {TIT} - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
       day = None
       for t, c, l, hn, an, info in fx:
           lt = t.astimezone(ROME)
@@ -377,7 +378,7 @@ def main():
             if tags: cf.append((t, c, l, teams[h], teams[a], tags, LI))
     cf.sort(key=lambda x: (x[0], x[1], x[3]))
     P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-         f"Soglie: combo Goal ritardo >= {SOGLIA_GOAL}, combo Over 2,5 ritardo >= {SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+         f"Soglie: combo Goal ritardo >= {SOGLIA_GOAL}, combo Over 2,5 ritardo >= {SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [DANGEROUS combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
     H = []; day = None
     for t, c, l, hn, an, tags, LIX in cf:
         lt = t.astimezone(ROME); d0 = lt.strftime("%d/%m/%Y")
