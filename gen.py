@@ -287,7 +287,7 @@ def dbadges(r, lg, names):
     for nm in dict.fromkeys(names):
         ev = r[12].get(nm, []); short = nm.replace(" ", "").replace("OVER2,5", "OVER2,5")
         if ev:
-            msg = f"Negli ultimi {DANGER_GIORNI} giorni in {lg} sono saltati {len(ev)} ritardi top {DANGER_TOP} di {nm}: " + ", ".join(f"era a {x}" for x in ev)
+            msg = f"Negli ultimi {DANGER_GIORNI} giorni in {lg} {"è saltato 1 ritardo" if len(ev)==1 else f"sono saltati {len(ev)} ritardi"} top {DANGER_TOP} di {nm}: " + ", ".join(f"era a {x}" for x in ev)
             H.append(f'<span class="dz bad" data-msg="{html.escape(msg, quote=True)}">DANGEROUS {html.escape(short)}</span>'); T.append(f"[DANGEROUS {short}]")
         else:
             H.append(f'<span class="dz ok">{html.escape(short)}</span>'); T.append(f"[OK {short}]")
