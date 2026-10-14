@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 14/10/2026 14:27 (ora italiana)
+Aggiornato: 14/10/2026 20:25 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -968,7 +968,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
-Stagione 2026 (199 partite giocate) + 2025
+Stagione 2026 (200 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Moss                              6  🟢 100%
@@ -984,27 +984,27 @@ RITARDI 1X + GOAL
 
 RITARDI X2 + GOAL
    1. Bryne                            10  🟢 80%  🔴
-   2. Egersund                          3  🟢 100%
-   3. Kongsvinger                       3  🟢 100%
-   4. Åsane                             3  🟢 67%
+   2. Åsane                             4  🟢 75%
+   3. Egersund                          3  🟢 100%
+   4. Kongsvinger                       3  🟢 100%
    5. Ranheim                           2  🟢 100%
    6. Sogndal                           2  🟢 100%
    7. Hødd                              1  🟢 100%  🔴
    8. Odds Ballklubb                    1  🟢 100%
-   9. FK Haugesund                      0  🔴
-  10. Lyn                               0
+   9. Strømmen                          1  🟢 100%
+  10. FK Haugesund                      0  🔴
 
 RITARDI 12 + GOAL
    1. FK Haugesund                      2  🟢 100%
    2. Sandnes Ulf                       2  🟢 100%  🔴
    3. Stabæk                            2  🟢 100%  🔴
-   4. Strømmen                          2  🟢 100%
-   5. Bryne                             0  🔴
-   6. Egersund                          0
-   7. Hødd                              0
-   8. Kongsvinger                       0
-   9. Lyn                               0
-  10. Moss                              0
+   4. Bryne                             0  🔴
+   5. Egersund                          0
+   6. Hødd                              0
+   7. Kongsvinger                       0
+   8. Lyn                               0
+   9. Moss                              0
+  10. Odds Ballklubb                    0
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
@@ -1168,26 +1168,26 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (79 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Slovan Liberec                    6  🟢 67%
-   2. Hradec Králové                    4  🟢 75%  🔴
-   3. Mladá Boleslav                    4  🟢 100%
+   2. Mladá Boleslav                    5  🟢 80%
+   3. Hradec Králové                    4  🟢 75%  🔴
    4. Sparta Prague                     3  🟢 100%
    5. Artis Brno                        2  🟢 50%
-   6. FC Zbrojovka Brno                 2  🟢 50%
-   7. Baník Ostrava                     1  🔴
-   8. Bohemians 1905                    1  🔴
+   6. Bohemians 1905                    2  🔴
+   7. FC Zbrojovka Brno                 2  🟢 50%
+   8. Baník Ostrava                     1  🔴
    9. FC Zlín                           1
   10. Jablonec                          1  🔴
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    25  🟢 88%
    2. FC Zbrojovka Brno                 8  🟢 62%
-   3. Mladá Boleslav                    5  🟢 100%
-   4. Slavia Prague                     5  🟢 80%  🔴
-   5. Bohemians 1905                    4  🟢 75%
+   3. Mladá Boleslav                    6  🟢 83%
+   4. Bohemians 1905                    5  🟢 60%
+   5. Slavia Prague                     5  🟢 80%  🔴
    6. Slovan Liberec                    3  🟢 67%
    7. Pardubice                         2  🟢 100%
    8. Viktoria Plzeň                    2  🟢 100%
@@ -1195,16 +1195,16 @@ RITARDI X2 + GOAL
   10. FC Zlín                           1
 
 RITARDI 12 + GOAL
-   1. Slovácko                          5  🟢 80%  🔴
-   2. Jablonec                          4  🟢 75%
-   3. Mladá Boleslav                    4  🟢 100%
+   1. Mladá Boleslav                    5  🟢 80%
+   2. Slovácko                          5  🟢 80%  🔴
+   3. Jablonec                          4  🟢 75%
    4. Slovan Liberec                    3  🟢 67%  🔴
    5. Sparta Prague                     3  🟢 100%
    6. Teplice                           3  🟢 100%  🔴
    7. Baník Ostrava                     2  🟢 50%
-   8. FC Zbrojovka Brno                 2  🟢 50%
-   9. FC Zlín                           2  🟢 50%
-  10. Sigma Olomouc                     2  🟢 100%
+   8. Bohemians 1905                    2  🔴
+   9. FC Zbrojovka Brno                 2  🟢 50%
+  10. FC Zlín                           2  🟢 50%
 
 ==================================================
 REP. CECA - FNL
