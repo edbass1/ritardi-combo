@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 15/10/2026 08:26 (ora italiana)
+Aggiornato: 15/10/2026 14:26 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -61,7 +61,7 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [OVER 2,5] Galway United FC: 1X + OVER 2,5 (9) 🟢 67% 🔴 Galway United FC
 20:45  Kerry FC vs Cork City   [IRLANDA - FIRST DIVISION]  [OK 1X+GOAL]
       [GOAL] Kerry FC: 1X + GOAL (6) 🟢 50%
-20:45  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL] [ALT 1X+OVER2,5]
+21:00  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL] [ALT 1X+OVER2,5]
       [GOAL] St. Patrick's Athletic: 1X + GOAL (6) 🟢 83% 🔴 St. Patrick's Athletic
       [OVER 2,5] St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89% 🔴 Shelbourne
 
@@ -354,15 +354,15 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [OVER 2,5] Tenerife: X2 + OVER 2,5 (8) 🟢 75% 🔴 Tenerife
 20:45  Rodez vs Montpellier   [FRANCIA - LIGUE 2]  [ALT X2+OVER2,5]
       [OVER 2,5] Montpellier: X2 + OVER 2,5 (9) 🟢 56%
-20:45  Derry City vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL] [ALT 1X+OVER2,5]
-      [GOAL] St. Patrick's Athletic: 1X + GOAL (6) 🟢 83% 🔴 St. Patrick's Athletic
-      [OVER 2,5] St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89%
 20:45  Waterford FC vs Galway United FC   [IRLANDA - PREMIER DIVISION]  [ALT 1X+OVER2,5]
       [OVER 2,5] Galway United FC: 1X + OVER 2,5 (9) 🟢 67% 🔴 Galway United FC
 20:45  Parma vs Torino   [ITALIA - SERIE A]  [OK X2+OVER2,5]
       [OVER 2,5] Parma: X2 + OVER 2,5 (8) 🟢 62% 🔴 Torino
 21:00  Tottenham Hotspur vs Coventry City   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
       [GOAL] Coventry City: X2 + GOAL (6+) 🟢 50% 🔴 Coventry City
+21:00  Derry City vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL] [ALT 1X+OVER2,5]
+      [GOAL] St. Patrick's Athletic: 1X + GOAL (6) 🟢 83% 🔴 St. Patrick's Athletic
+      [OVER 2,5] St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89%
 21:00  Getafe vs Rayo Vallecano   [SPAGNA - LALIGA]  [OK 12+GOAL] [ALT X2+OVER2,5]
       [GOAL] Getafe: 12 + GOAL (10) 🔴 Getafe 🔴 Rayo Vallecano
       [OVER 2,5] Getafe: X2 + OVER 2,5 (17) 🔴 Rayo Vallecano
