@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 14/10/2026 20:25 (ora italiana)
+Aggiornato: 15/10/2026 02:22 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -188,7 +188,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/24 Sheffield United               28/100
+    1/24 Sheffield United               29/100
     2/24 Swansea City                   32/100
     3/24 Blackburn Rovers               33/100
     4/24 Millwall                       34/100
@@ -197,30 +197,29 @@ SOTTOFREQUENZA 1X + GOAL
    24/24 Cardiff City                   50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Lincoln City                   26/100
+    1/24 Lincoln City                   25/100
     2/24 Stoke City                     29/100
     3/24 Blackburn Rovers               30/100
     4/24 Millwall                       30/100
     5/24 West Bromwich Albion           30/100
      ...
-   24/24 Queens Park Rangers            40/100  (la fa più spesso)
+   24/24 Preston North End              40/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/24 Millwall                       26/100
     2/24 Bristol City                   28/100
     3/24 Blackburn Rovers               29/100
     4/24 Charlton Athletic              30/100
-    5/24 Lincoln City                   31/100
+    5/24 Lincoln City                   30/100
      ...
-   24/24 Southampton                    48/100  (la fa più spesso)
+   24/24 Southampton                    47/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-    1/24 Derby County                   25/100
+    1/24 Derby County                   26/100
     2/24 Millwall                       26/100
     3/24 Blackburn Rovers               28/100
     4/24 Burnley                        28/100
-    5/24 Sheffield United               28/100
-    6/24 Stoke City                     28/100
+    5/24 Stoke City                     28/100
      ...
    24/24 West Ham United                41/100  (la fa più spesso)
 
@@ -244,7 +243,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     6/24 Stoke City                     40/100
     7/24 Wrexham                        40/100
      ...
-   24/24 Southampton                    59/100  (la fa più spesso)
+   24/24 Southampton                    58/100  (la fa più spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
@@ -493,7 +492,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
 GERMANIA - 3. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/19 Viktoria Köln 1904             30/100
+    1/19 Viktoria Köln 1904             31/100
     2/19 Hansa Rostock                  36/100
     3/19 Hoffenheim II                  37/100
     4/19 Jahn Regensburg                37/100
@@ -507,10 +506,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/19 Meppen                         27/100
     3/19 Jahn Regensburg                29/100
     4/19 Fortuna Köln                   32/100
-    5/19 Hansa Rostock                  34/100
-    6/19 Viktoria Köln 1904             34/100
-    7/19 Waldhof Mannheim               34/100
-    8/19 Wehen Wiesbaden                34/100
+    5/19 Waldhof Mannheim               33/100
      ...
    19/19 Ingolstadt                     45/100  (la fa più spesso)
 
@@ -524,11 +520,12 @@ SOTTOFREQUENZA 12 + GOAL
    19/19 TSV Havelse                    50/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-    1/19 Viktoria Köln 1904             27/100
+    1/19 Viktoria Köln 1904             28/100
     2/19 Saarbrücken                    29/100
     3/19 Fortuna Düsseldorf             33/100
     4/19 Hansa Rostock                  34/100
     5/19 Jahn Regensburg                34/100
+    6/19 Preussen Münster               34/100
      ...
    19/19 VfB Stuttgart II               44/100  (la fa più spesso)
 
@@ -540,15 +537,14 @@ SOTTOFREQUENZA X2 + OVER 2,5
     5/19 Waldhof Mannheim               25/100
     6/19 Würzburger Kickers             25/100
      ...
-   19/19 Ingolstadt                     37/100  (la fa più spesso)
+   19/19 Ingolstadt                     38/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
     1/19 Saarbrücken                    42/100
     2/19 Fortuna Köln                   44/100
     3/19 Jahn Regensburg                45/100
-    4/19 Preussen Münster               46/100
-    5/19 Waldhof Mannheim               46/100
-    6/19 Würzburger Kickers             46/100
+    4/19 Waldhof Mannheim               46/100
+    5/19 Würzburger Kickers             46/100
      ...
    19/19 TSV Havelse                    62/100  (la fa più spesso)
 
@@ -1473,60 +1469,64 @@ SOTTOFREQUENZA 12 + OVER 2,5
 NORVEGIA - OBOS-LIGAEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/16 FK Haugesund                   34/100
-    2/16 Sandnes Ulf                    36/100
-    3/16 Strømsgodset                   37/100
-    4/16 Bryne                          38/100
-    5/16 Strømmen                       38/100
+    1/16 FK Haugesund                   33/100
+    2/16 Sandnes Ulf                    37/100
+    3/16 Strømmen                       38/100
+    4/16 Strømsgodset                   38/100
+    5/16 Bryne                          39/100
+    6/16 Raufoss                        39/100
      ...
-   16/16 Kongsvinger                    50/100  (la fa più spesso)
+   16/16 Kongsvinger                    51/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/16 Bryne                          25/100
+    1/16 Bryne                          26/100
     2/16 FK Haugesund                   27/100
     3/16 Hødd                           29/100
     4/16 Strømsgodset                   32/100
-    5/16 Egersund                       34/100
-    6/16 Sandnes Ulf                    34/100
-    7/16 Strømmen                       34/100
+    5/16 Sandnes Ulf                    33/100
      ...
-   16/16 Kongsvinger                    48/100  (la fa più spesso)
+   16/16 Kongsvinger                    47/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/16 Sandnes Ulf                    36/100
     2/16 Bryne                          37/100
-    3/16 Stabæk                         38/100
-    4/16 Strømsgodset                   41/100
-    5/16 Hødd                           42/100
-    6/16 Åsane                          42/100
+    3/16 Stabæk                         39/100
+    4/16 Hødd                           41/100
+    5/16 FK Haugesund                   42/100
+    6/16 Odds Ballklubb                 42/100
+    7/16 Sogndal                        42/100
+    8/16 Strømsgodset                   42/100
+    9/16 Åsane                          42/100
      ...
    16/16 Ranheim                        52/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-    1/16 Raufoss                        34/100
-    2/16 Strømsgodset                   34/100
-    3/16 Bryne                          35/100
-    4/16 FK Haugesund                   35/100
+    1/16 Raufoss                        33/100
+    2/16 Bryne                          35/100
+    3/16 FK Haugesund                   35/100
+    4/16 Strømsgodset                   35/100
     5/16 Lyn                            37/100
      ...
    16/16 Moss                           47/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
     1/16 Bryne                          19/100
-    2/16 Hødd                           22/100
-    3/16 FK Haugesund                   29/100
-    4/16 Raufoss                        29/100
-    5/16 Sandnes Ulf                    29/100
+    2/16 Hødd                           21/100
+    3/16 Sandnes Ulf                    28/100
+    4/16 FK Haugesund                   29/100
+    5/16 Raufoss                        29/100
     6/16 Strømsgodset                   29/100
      ...
-   16/16 Kongsvinger                    39/100  (la fa più spesso)
+   16/16 Kongsvinger                    38/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
     1/16 Bryne                          48/100
-    2/16 Hødd                           51/100
-    3/16 Odds Ballklubb                 51/100
-    4/16 Sogndal                        53/100
-    5/16 Strømsgodset                   53/100
+    2/16 Hødd                           50/100
+    3/16 Odds Ballklubb                 50/100
+    4/16 Sogndal                        52/100
+    5/16 Sandnes Ulf                    54/100
+    6/16 Strømsgodset                   54/100
+    7/16 Åsane                          54/100
      ...
    16/16 Ranheim                        66/100  (la fa più spesso)
 
