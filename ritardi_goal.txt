@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 15/10/2026 14:26 (ora italiana)
+Aggiornato: 15/10/2026 20:24 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -1608,7 +1608,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Chrobry Głogów                    3  🟢 67%
@@ -1617,22 +1617,22 @@ RITARDI 1X + GOAL
    4. ŁKS Łódź                          3  🟢 100%
    5. Miedź Legnica                     2  🟢 50%
    6. Pogoń Grodzisk Mazowiecki         2  🟢 100%
-   7. Polonia Bytom                     2
-   8. Polonia Warszawa                  2  🟢 100%  🔴
-   9. Ruch Chorzów                      2  🟢 50%
-  10. Arka Gdynia                       1  🟢 100%
+   7. Pogoń Siedlce                     2  🟢 50%  🔴
+   8. Polonia Bytom                     2
+   9. Polonia Warszawa                  2  🟢 100%  🔴
+  10. Puszcza Niepołomice               2  🟢 50%
 
 RITARDI X2 + GOAL
    1. Warta Poznań                      7  🟢 71%  🔴
-   2. Pogoń Siedlce                     6
-   3. Pogoń Grodzisk Mazowiecki         4  🟢 75%
-   4. Chrobry Głogów                    3  🟢 67%
-   5. Odra Opole                        3  🔴
-   6. Polonia Bytom                     2
-   7. Puszcza Niepołomice               2  🟢 50%
-   8. Ruch Chorzów                      2  🟢 50%
-   9. Stal Mielec                       2  🟢 100%
-  10. ŁKS Łódź                          2  🟢 100%
+   2. Pogoń Grodzisk Mazowiecki         4  🟢 75%
+   3. Chrobry Głogów                    3  🟢 67%
+   4. Odra Opole                        3  🔴
+   5. Polonia Bytom                     2
+   6. Ruch Chorzów                      2  🟢 50%
+   7. Stal Mielec                       2  🟢 100%
+   8. ŁKS Łódź                          2  🟢 100%
+   9. Miedź Legnica                     1
+  10. TS Podbeskidzie Bielsko-Biała     1
 
 RITARDI 12 + GOAL
    1. TS Podbeskidzie Bielsko-Biała   10+  🟢 80%

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 15/10/2026 14:26 (ora italiana)
+Aggiornato: 15/10/2026 20:24 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -2433,7 +2433,7 @@ POLONIA - I LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/16 Odra Opole                     36/100
-    2/16 Pogoń Siedlce                  38/100
+    2/16 Pogoń Siedlce                  37/100
     3/16 Polonia Warszawa               39/100
     4/16 Chrobry Głogów                 40/100
     5/16 Warta Poznań                   40/100
@@ -2453,13 +2453,13 @@ SOTTOFREQUENZA 12 + GOAL
     1/16 Odra Opole                     26/100
     2/16 Ruch Chorzów                   29/100
     3/16 Arka Gdynia                    30/100
-    4/16 Puszcza Niepołomice            30/100
+    4/16 Puszcza Niepołomice            31/100
     5/16 Warta Poznań                   34/100
      ...
    16/16 Lechia Gdańsk                  49/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-    1/16 Pogoń Siedlce                  26/100
+    1/16 Pogoń Siedlce                  25/100
     2/16 Polonia Warszawa               29/100
     3/16 Chrobry Głogów                 30/100
     4/16 Puszcza Niepołomice            30/100
@@ -2472,12 +2472,14 @@ SOTTOFREQUENZA X2 + OVER 2,5
     2/16 Warta Poznań                   19/100
     3/16 Arka Gdynia                    22/100
     4/16 Polonia Bytom                  22/100
-    5/16 Puszcza Niepołomice            22/100
+    5/16 Chrobry Głogów                 23/100
+    6/16 Puszcza Niepołomice            23/100
+    7/16 Ruch Chorzów                   23/100
      ...
    16/16 Termalica Nieciecza            36/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-    1/16 Puszcza Niepołomice            36/100
+    1/16 Puszcza Niepołomice            37/100
     2/16 Odra Opole                     38/100
     3/16 Ruch Chorzów                   39/100
     4/16 Warta Poznań                   42/100
