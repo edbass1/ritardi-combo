@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 16/10/2026 14:26 (ora italiana)
+Aggiornato: 16/10/2026 20:22 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -459,7 +459,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/18 VfL Osnabrück                  33/100
     5/18 Hannover 96                    35/100
      ...
-   18/18 Hertha BSC                     46/100  (la fa più spesso)
+   18/18 Energie Cottbus                46/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/18 VfL Osnabrück                  25/100
@@ -1832,19 +1832,19 @@ SOTTOFREQUENZA 1X + GOAL
      1/8 Karviná                        31/100
      2/8 Dukla Praha                    32/100
      3/8 FC Silon Táborsko              38/100
-     4/8 Opava                          40/100
+     4/8 Opava                          39/100
      5/8 Žižkov                         44/100
      ...
-     8/8 FC Vlašim                      54/100  (la fa più spesso)
+     8/8 FC Vlašim                      53/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
      1/8 FC Silon Táborsko              28/100
-     2/8 Opava                          28/100
+     2/8 Opava                          29/100
      3/8 Dukla Praha                    31/100
      4/8 Žižkov                         31/100
-     5/8 Vysočina Jihlava               33/100
+     5/8 Vysočina Jihlava               34/100
      ...
-     8/8 FC Vlašim                      40/100  (la fa più spesso)
+     8/8 FC Vlašim                      39/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
      1/8 Opava                          30/100
@@ -1856,33 +1856,31 @@ SOTTOFREQUENZA 12 + GOAL
      8/8 Karviná                        46/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-     1/8 Dukla Praha                    27/100
+     1/8 Dukla Praha                    28/100
      2/8 FC Silon Táborsko              32/100
-     3/8 Karviná                        32/100
+     3/8 Karviná                        33/100
      4/8 FC Vlašim                      38/100
-     5/8 Opava                          39/100
-     6/8 SK Prostějov                   39/100
+     5/8 Opava                          38/100
      ...
      8/8 Žižkov                         41/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-     1/8 Vysočina Jihlava               18/100
-     2/8 Opava                          21/100
-     3/8 FC Silon Táborsko              22/100
-     4/8 FC Vlašim                      22/100
+     1/8 Vysočina Jihlava               19/100
+     2/8 FC Silon Táborsko              22/100
+     3/8 FC Vlašim                      22/100
+     4/8 Opava                          22/100
      5/8 Dukla Praha                    24/100
-     6/8 SK Prostějov                   24/100
      ...
      8/8 Karviná                        39/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
      1/8 FC Vlašim                      36/100
      2/8 Opava                          36/100
-     3/8 Dukla Praha                    41/100
+     3/8 Dukla Praha                    42/100
      4/8 FC Silon Táborsko              42/100
      5/8 Vysočina Jihlava               43/100
      ...
-     8/8 Karviná                        59/100  (la fa più spesso)
+     8/8 Karviná                        60/100  (la fa più spesso)
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -1960,10 +1958,10 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 Tatran Prešov                  24/99
-    2/10 Malženice                      26/97
+    2/10 Malženice                      26/98
     3/10 Žilina B                       28/98
     4/10 FC Petržalka 1898              29/98
-    5/10 FK Pohronie                    29/97
+    5/10 FK Pohronie                    29/98
      ...
    10/10 Považská Bystrica              38/98  (la fa più spesso)
 
@@ -1971,8 +1969,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/10 FC Petržalka 1898              32/98
     2/10 Tatran Prešov                  33/99
     3/10 Zlaté Moravce                  35/100
-    4/10 FK Pohronie                    37/97
-    5/10 Liptovský Mikuláš              40/97
+    4/10 FK Pohronie                    37/98
+    5/10 Liptovský Mikuláš              40/98
      ...
    10/10 Žilina B                       46/98  (la fa più spesso)
 
@@ -1981,26 +1979,26 @@ SOTTOFREQUENZA 1X + OVER 2,5
     2/10 FC STK 1914 Šamorín            35/98
     3/10 Zlaté Moravce                  36/100
     4/10 Tatran Prešov                  37/99
-    5/10 Považská Bystrica              39/98
-    6/10 FK Pohronie                    39/97
-    7/10 Malženice                      39/97
+    5/10 FK Pohronie                    39/98
+    6/10 Malženice                      39/98
+    7/10 Považská Bystrica              39/98
      ...
-   10/10 Liptovský Mikuláš              43/97  (la fa più spesso)
+   10/10 Liptovský Mikuláš              43/98  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
     1/10 Tatran Prešov                  20/99
     2/10 FC Petržalka 1898              20/98
-    3/10 Malženice                      20/97
+    3/10 Malženice                      20/98
     4/10 Považská Bystrica              21/98
     5/10 Slovan Bratislava B            24/98
      ...
-   10/10 FK Pohronie                    27/97  (la fa più spesso)
+   10/10 FK Pohronie                    27/98  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
     1/10 Zlaté Moravce                  43/100
     2/10 Tatran Prešov                  43/99
     3/10 FC Petržalka 1898              44/98
-    4/10 Liptovský Mikuláš              47/97
+    4/10 Liptovský Mikuláš              47/98
     5/10 Slovan Bratislava B            49/98
      ...
    10/10 Žilina B                       56/98  (la fa più spesso)
@@ -2399,8 +2397,8 @@ SOTTOFREQUENZA 12 + GOAL
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/17 Korona Kielce                  25/100
-    2/17 Piast Gliwice                  27/100
-    3/17 Raków Częstochowa              27/100
+    2/17 Raków Częstochowa              26/100
+    3/17 Piast Gliwice                  27/100
     4/17 Zagłębie Lubin                 29/100
     5/17 Motor Lublin                   30/100
      ...
@@ -2410,9 +2408,9 @@ SOTTOFREQUENZA X2 + OVER 2,5
     1/17 Korona Kielce                  16/100
     2/17 Górnik Zabrze                  17/100
     3/17 Pogoń Szczecin                 22/100
-    4/17 Raków Częstochowa              22/100
-    5/17 Legia Warszawa                 23/100
-    6/17 Piast Gliwice                  23/100
+    4/17 Legia Warszawa                 23/100
+    5/17 Piast Gliwice                  23/100
+    6/17 Raków Częstochowa              23/100
     7/17 Widzew Łódź                    23/100
      ...
    17/17 Jagiellonia Białystok          33/100  (la fa più spesso)
@@ -2435,15 +2433,15 @@ SOTTOFREQUENZA 1X + GOAL
     1/16 Odra Opole                     36/100
     2/16 Pogoń Siedlce                  37/100
     3/16 Polonia Warszawa               39/100
-    4/16 Chrobry Głogów                 40/100
-    5/16 Warta Poznań                   40/100
+    4/16 Warta Poznań                   39/100
+    5/16 Chrobry Głogów                 40/100
      ...
    16/16 Termalica Nieciecza            50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 Arka Gdynia                    26/100
-    2/16 Odra Opole                     28/100
-    3/16 Warta Poznań                   28/100
+    2/16 Warta Poznań                   27/100
+    3/16 Odra Opole                     28/100
     4/16 Polonia Bytom                  32/100
     5/16 TS Podbeskidzie Bielsko-Biała  32/100
      ...

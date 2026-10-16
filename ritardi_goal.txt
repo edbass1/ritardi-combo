@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 16/10/2026 14:26 (ora italiana)
+Aggiornato: 16/10/2026 20:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -288,19 +288,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 GERMANIA - 2. BUNDESLIGA
-Stagione 2026/2027 (63 partite giocate) + 2025/2026
+Stagione 2026/2027 (64 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Kaiserslautern                   16  🟢 56%
    2. Karlsruher SC                     3  🟢 67%
    3. Eintracht Braunschweig            2  🔴
-   4. Arminia Bielefeld                 1
-   5. Bochum                            1
-   6. FC Heidenheim                     1
-   7. Hannover 96                       1  🟢 100%
-   8. Holstein Kiel                     1
-   9. Magdeburg                         1  🟢 100%  🔴
-  10. St. Pauli                         1  🟢 100%
+   4. Holstein Kiel                     2
+   5. Arminia Bielefeld                 1
+   6. Bochum                            1
+   7. FC Heidenheim                     1
+   8. Hannover 96                       1  🟢 100%
+   9. Hertha BSC                        1
+  10. Magdeburg                         1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
    1. Darmstadt                         6  🟢 67%
@@ -309,13 +309,13 @@ RITARDI X2 + GOAL
    4. Karlsruher SC                     3  🟢 67%
    5. Bochum                            2  🟢 50%
    6. Eintracht Braunschweig            2
-   7. Arminia Bielefeld                 1
-   8. Energie Cottbus                   1  🟢 100%  🔴
-   9. FC Heidenheim                     1
-  10. Greuther Fürth                    1  🟢 100%
+   7. Hertha BSC                        2  🟢 50%
+   8. Holstein Kiel                     2
+   9. Arminia Bielefeld                 1
+  10. Energie Cottbus                   1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
-   1. Holstein Kiel                     7  🟢 71%
+   1. Holstein Kiel                     8  🟢 62%
    2. FC Heidenheim                     4
    3. Kaiserslautern                    4  🟢 50%
    4. Karlsruher SC                     4  🟢 75%
@@ -1208,43 +1208,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (80 partite giocate) + 2025/2026
+Stagione 2026/2027 (86 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Ústí nad Labem                    3  🟢 100%
+   1. Třinec                            3  🟢 67%
    2. Žižkov                            3  🟢 67%
-   3. Třinec                            2  🟢 50%
-   4. FC Silon Táborsko                 1  🔴
-   5. FC Vlašim                         1  🟢 100%
-   6. Hanácká Slavia Kromeriz           1  🟢 100%
-   7. Karviná                           1  🔴
-   8. Kladno                            1
-   9. Opava                             1  🟢 100%
-  10. Příbram                           1  🟢 100%
+   3. FC Vlašim                         2  🟢 50%
+   4. Hanácká Slavia Kromeriz           2  🟢 50%
+   5. Karviná                           2  🟢 50%  🔴
+   6. Opava                             2  🟢 100%
+   7. Příbram                           2  🟢 100%
+   8. Dukla Praha                       1  🟢 100%  🔴
+   9. FC Silon Táborsko                 1  🔴
+  10. Kladno                            1
 
 RITARDI X2 + GOAL
-   1. Karviná                           6  🟢 83%
-   2. FC Vlašim                         5  🟢 100%
-   3. Třinec                            4  🟢 75%
-   4. Slavia Prague B                   3  🟢 67%
-   5. Baník Ostrava B                   2  🟢 100%
+   1. Karviná                           7  🟢 86%
+   2. FC Vlašim                         6  🟢 83%
+   3. Slavia Prague B                   4  🟢 75%
+   4. Baník Ostrava B                   3  🟢 100%
+   5. Dukla Praha                       2  🟢 100%  🔴
    6. FC Silon Táborsko                 2  🟢 50%  🔴
-   7. Dukla Praha                       1  🟢 100%  🔴
+   7. Hanácká Slavia Kromeriz           1
    8. Kladno                            1
-   9. Hanácká Slavia Kromeriz           0
-  10. Opava                             0  🔴
+   9. Opava                             0  🔴
+  10. Příbram                           0
 
 RITARDI 12 + GOAL
    1. Kladno                            5  🟢 80%
-   2. SK Prostějov                      4  🟢 75%
-   3. Třinec                            2  🟢 50%
-   4. FC Silon Táborsko                 1
-   5. FC Vlašim                         1  🟢 100%  🔴
-   6. Karviná                           1
-   7. Slavia Prague B                   1  🟢 100%
-   8. Vysočina Jihlava                  1  🟢 100%  🔴
+   2. SK Prostějov                      5  🟢 80%
+   3. FC Vlašim                         2  🟢 50%  🔴
+   4. Karviná                           2  🟢 50%
+   5. Dukla Praha                       1  🟢 100%  🔴
+   6. FC Silon Táborsko                 1
+   7. Hanácká Slavia Kromeriz           1
+   8. Ústí nad Labem                    1  🟢 100%
    9. Baník Ostrava B                   0
-  10. Dukla Praha                       0  🔴
+  10. Opava                             0  🔴
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -1288,43 +1288,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
+Stagione 2026/2027 (98 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. FK Pohronie                       6  🟢 83%
-   2. Liptovský Mikuláš                 5  🟢 80%
+   1. FK Pohronie                       7  🟢 71%
+   2. Liptovský Mikuláš                 6  🟢 67%
    3. Slovan Galanta                    3  🟢 100%
    4. Žilina B                          3  🟢 67%
-   5. MFK Zvolen                        2  🟢 50%
-   6. Slovan Bratislava B               2  🟢 100%
-   7. Baník Lehota pod Vtacnikom        1
-   8. Inter Bratislava                  1  🟢 100%
-   9. Malženice                         1  🟢 100%
+   5. Baník Lehota pod Vtacnikom        2
+   6. MFK Zvolen                        2  🟢 50%
+   7. Malženice                         2  🟢 50%
+   8. Slovan Bratislava B               2  🟢 100%
+   9. Inter Bratislava                  1  🟢 100%
   10. Zlaté Moravce                     1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
-   1. Humenné                           3  🟢 67%
-   2. MFK Zvolen                        3  🟢 67%
-   3. Baník Lehota pod Vtacnikom        2  🟢 50%
-   4. Liptovský Mikuláš                 2  🟢 100%
+   1. Baník Lehota pod Vtacnikom        3
+   2. Humenné                           3  🟢 67%
+   3. Liptovský Mikuláš                 3  🟢 67%
+   4. MFK Zvolen                        3  🟢 67%
    5. Slovan Bratislava B               2  🟢 100%
-   6. MFK Bytca                         1  🟢 100%
-   7. FC Petržalka 1898                 0
-   8. FC STK 1914 Šamorín               0
-   9. FK Pohronie                       0
-  10. Inter Bratislava                  0
+   6. FK Pohronie                       1
+   7. MFK Bytca                         1  🟢 100%
+   8. Malženice                         1  🔴
+   9. FC Petržalka 1898                 0
+  10. FC STK 1914 Šamorín               0
 
 RITARDI 12 + GOAL
    1. FC Petržalka 1898                 8  🟢 62%  🔴
-   2. Slovan Bratislava B               3  🟢 100%
-   3. FC STK 1914 Šamorín               2  🟢 100%
-   4. Liptovský Mikuláš                 2  🟢 100%
-   5. MFK Zvolen                        2  🟢 50%
-   6. Baník Lehota pod Vtacnikom        1
-   7. Považská Bystrica                 1  🟢 100%
-   8. Tatran Prešov                     1  🟢 100%  🔴
-   9. FK Pohronie                       0
-  10. Humenné                           0
+   2. Liptovský Mikuláš                 3  🟢 67%
+   3. Slovan Bratislava B               3  🟢 100%
+   4. Baník Lehota pod Vtacnikom        2
+   5. FC STK 1914 Šamorín               2  🟢 100%
+   6. MFK Zvolen                        2  🟢 50%
+   7. FK Pohronie                       1
+   8. Malženice                         1
+   9. Považská Bystrica                 1  🟢 100%
+  10. Tatran Prešov                     1  🟢 100%  🔴
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1568,7 +1568,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Górnik Zabrze                     3  🟢 67%
@@ -1576,23 +1576,23 @@ RITARDI 1X + GOAL
    3. Pogoń Szczecin                    3  🟢 100%
    4. Legia Warszawa                    2  🟢 100%
    5. Motor Lublin                      2  🟢 50%
-   6. Wisła Płock                       2  🟢 100%
-   7. Korona Kielce                     1  🟢 100%
-   8. Lech Poznań                       1  🟢 100%
-   9. Radomiak Radom                    1  🟢 100%
-  10. Raków Częstochowa                 1  🟢 100%  🔴
+   6. Raków Częstochowa                 2  🟢 100%  🔴
+   7. Wisła Płock                       2  🟢 100%
+   8. Korona Kielce                     1  🟢 100%
+   9. Lech Poznań                       1  🟢 100%
+  10. Radomiak Radom                    1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Cracovia                         10  🟢 70%
    2. Korona Kielce                     3  🟢 100%
    3. Wisła Kraków                      3  🟢 100%
    4. Wisła Płock                       3  🟢 100%
-   5. Wieczysta Kraków                  2  🟢 100%
-   6. Zagłębie Lubin                    2  🟢 100%
-   7. GKS Katowice                      1  🟢 100%  🔴
-   8. Legia Warszawa                    1  🟢 100%
-   9. Piast Gliwice                     1  🟢 100%
-  10. Pogoń Szczecin                    1  🟢 100%  🔴
+   5. Zagłębie Lubin                    2  🟢 100%
+   6. GKS Katowice                      1  🟢 100%  🔴
+   7. Legia Warszawa                    1  🟢 100%
+   8. Piast Gliwice                     1  🟢 100%
+   9. Pogoń Szczecin                    1  🟢 100%  🔴
+  10. Widzew Łódź                       1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Wisła Płock                       2  🟢 100%
@@ -1608,7 +1608,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Chrobry Głogów                    3  🟢 67%
@@ -1623,7 +1623,7 @@ RITARDI 1X + GOAL
   10. Puszcza Niepołomice               2  🟢 50%
 
 RITARDI X2 + GOAL
-   1. Warta Poznań                      7  🟢 71%  🔴
+   1. Warta Poznań                      8  🟢 62%  🔴
    2. Pogoń Grodzisk Mazowiecki         4  🟢 75%
    3. Chrobry Głogów                    3  🟢 67%
    4. Odra Opole                        3  🔴
@@ -1632,7 +1632,7 @@ RITARDI X2 + GOAL
    7. Stal Mielec                       2  🟢 100%
    8. ŁKS Łódź                          2  🟢 100%
    9. Miedź Legnica                     1
-  10. TS Podbeskidzie Bielsko-Biała     1
+  10. Skierniewice                      1
 
 RITARDI 12 + GOAL
    1. TS Podbeskidzie Bielsko-Biała   10+  🟢 80%
@@ -1640,8 +1640,8 @@ RITARDI 12 + GOAL
    3. Odra Opole                        6  🔴
    4. Polonia Bytom                     6  🟢 50%
    5. Ruch Chorzów                      3  🟢 67%  🔴
-   6. Pogoń Grodzisk Mazowiecki         2  🟢 100%
-   7. Skierniewice                      2  🟢 100%
+   6. Skierniewice                      3  🟢 67%
+   7. Pogoń Grodzisk Mazowiecki         2  🟢 100%
    8. Termalica Nieciecza               2  🟢 50%
    9. ŁKS Łódź                          2  🟢 100%
   10. Miedź Legnica                     1
