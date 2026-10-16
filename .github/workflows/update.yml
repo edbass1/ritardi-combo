@@ -1,7 +1,7 @@
 name: Aggiorna ritardi
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -9,12 +9,27 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Controlla fascia oraria italiana
+        id: fascia
+        run: |
+          HOUR=$(TZ=Europe/Rome date +%H)
+          if [ "$HOUR" -ge 12 ] || [ "$HOUR" -le 1 ]; then
+            echo "esegui=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "esegui=false" >> "$GITHUB_OUTPUT"
+            echo "Fuori fascia: sono le ore $HOUR in Italia. Nessun aggiornamento."
+          fi
       - uses: actions/checkout@v4
+        if: steps.fascia.outputs.esegui == 'true'
       - uses: actions/setup-python@v5
+        if: steps.fascia.outputs.esegui == 'true'
         with:
           python-version: '3.12'
       - run: python3 gen.py
-      - run: |
+        if: steps.fascia.outputs.esegui == 'true'
+      - name: Salva aggiornamenti
+        if: steps.fascia.outputs.esegui == 'true'
+        run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add ritardi_goal.txt ritardi_over.txt prossime_partite.txt prossime_partite_goal.txt prossime_partite_over.txt sottofrequenze.txt tips_del_giorno.txt saltati.txt index.html
