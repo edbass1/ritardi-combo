@@ -1,23 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + OVER 2,5 - SQUADRE IN RITARDO
-Aggiornato: 16/10/2026 20:22 (ora italiana)
+Aggiornato: 17/10/2026 00:50 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
-
-==================================================
-16/10/2026
-==================================================
-20:30  Eintracht Frankfurt vs 1. FC Köln   [GERMANIA - BUNDESLIGA]
-      1. FC Köln: X2 + OVER 2,5 (6) 🟢 100% 🔴 1. FC Köln
-20:30  Ruch Chorzów vs Odra Opole   [POLONIA - I LIGA]
-      Odra Opole: 1X + OVER 2,5 (6); X2 + OVER 2,5 (10) 🔴 Odra Opole; 12 + OVER 2,5 (6) 🔴 Ruch Chorzów 🔴 Odra Opole
-20:30  Ayr United vs Partick Thistle   [SCOZIA - CHAMPIONSHIP]
-      Ayr United: 1X + OVER 2,5 (11) 🟢 73%
-20:30  Leganés vs Córdoba   [SPAGNA - LALIGA 2]
-      Leganés: X2 + OVER 2,5 (12) 🟢 58%
-20:45  Galway United FC vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]
-      Galway United FC: 1X + OVER 2,5 (9) 🟢 67% 🔴 Galway United FC
-21:00  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]
-      St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89% 🔴 Shelbourne
 
 ==================================================
 17/10/2026
@@ -216,11 +200,11 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 20:45  Rodez vs Montpellier   [FRANCIA - LIGUE 2]
       Montpellier: X2 + OVER 2,5 (9) 🟢 56%
 20:45  Waterford FC vs Galway United FC   [IRLANDA - PREMIER DIVISION]
-      Galway United FC: 1X + OVER 2,5 (9) 🟢 67% 🔴 Galway United FC
+      Galway United FC: 1X + OVER 2,5 (10) 🟢 70% 🔴 Galway United FC
 20:45  Parma vs Torino   [ITALIA - SERIE A]
       Parma: X2 + OVER 2,5 (8) 🟢 62% 🔴 Torino
 21:00  Derry City vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]
-      St. Patrick's Athletic: 1X + OVER 2,5 (9) 🟢 89%
+      St. Patrick's Athletic: 1X + OVER 2,5 (10) 🟢 90%
 21:00  Getafe vs Rayo Vallecano   [SPAGNA - LALIGA]
       Getafe: X2 + OVER 2,5 (17) 🔴 Rayo Vallecano
       Rayo Vallecano: X2 + OVER 2,5 (7) 🟢 100% 🔴 Rayo Vallecano
@@ -260,3 +244,9 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Dunfermline Athletic: 1X + OVER 2,5 (11) 🟢 64% 🔴 Dunfermline Athletic; X2 + OVER 2,5 (11) 🟢 64% 🔴 Partick Thistle; 12 + OVER 2,5 (13) 🟢 69% 🔴 Dunfermline Athletic 🔴 Partick Thistle
 21:00  Gillingham vs Port Vale   [INGHILTERRA - LEAGUE TWO]
       Port Vale: X2 + OVER 2,5 (8+) 🟢 50% 🔴 Port Vale
+
+==================================================
+21/10/2026
+==================================================
+21:00  Reading vs Leyton Orient   [INGHILTERRA - LEAGUE ONE]
+      Leyton Orient: 1X + OVER 2,5 (9) 🟢 78%

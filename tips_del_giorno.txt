@@ -1,29 +1,45 @@
-TIPS DEL GIORNO - 16/10/2026
-Aggiornato: 16/10/2026 20:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 17/10/2026
+Aggiornato: 17/10/2026 00:50 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:30  Ruch Chorzów vs Odra Opole   [POLONIA - I LIGA]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 70.9  (R+18 C+5 F+13 G+0 A+10 E+0 S+25)
-    Odra Opole non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 10, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre Odra Opole è in sottofrequenza (26/100), deve recuperare; anche Ruch Chorzów è in sottofrequenza su questa combo (29/100), deve recuperare.
+ 1. 15:00  Sandvikens IF vs Östersunds FK   [SVEZIA - SUPERETTAN]  [ALT X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 87.4  (R+30 C+10 F+9.5 G+0 A+2.8 E+10 S+25)
+    Östersunds FK non fa X2 + OVER 2,5 da 10 partite (ritardo massimo del campionato 10, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Östersunds FK è in sottofrequenza (18/100), deve recuperare; anche Sandvikens IF è in sottofrequenza su questa combo (21/85), deve recuperare; anche Sandvikens IF è in ritardo sulla stessa combo (7).
 
- 2. 21:00  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 65.4  (R+30 C+10 F+7.4 G+6.6 A-3.6 E+0 S+15)
-    St. Patrick's Athletic non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre St. Patrick's Athletic è in sottofrequenza (31/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+ 2. 15:00  Padova vs Virtus Entella   [ITALIA - SERIE B]  [ALT X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 87.0  (R+30 C+10 F+8.6 G+3.4 A+10 E+0 S+25)
+    Padova non fa X2 + OVER 2,5 da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Padova è in sottofrequenza (15/100), deve recuperare; anche Virtus Entella è in sottofrequenza su questa combo (13/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 3. 20:45  Galway United FC vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]  [ALT 1X+OVER2,5]
-    1X + OVER 2,5  -  punteggio 64.4  (R+30 C+10 F+8 G+3.4 A-2 E+0 S+15)
-    Galway United FC non fa 1X + OVER 2,5 da 9 partite (ritardo massimo del campionato 9, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Galway United FC è in sottofrequenza (22/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+ 3. 20:45  Troyes vs Lens   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 83.6  (R+30 C+10 F+6.5 G+6.6 A+5.5 E+0 S+25)
+    Troyes non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Troyes è in sottofrequenza (31/100), deve recuperare; anche Lens è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 4. 20:30  Eintracht Frankfurt vs 1. FC Köln   [GERMANIA - BUNDESLIGA]  [ALT X2+OVER2,5]
-    X2 + OVER 2,5  -  punteggio 43.3  (R+20 C+5 F+5.3 G+8 A-10 E+0 S+15)
-    1. FC Köln non fa X2 + OVER 2,5 da 6 partite (ritardo massimo del campionato 9, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre 1. FC Köln è in sottofrequenza (27/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Eintracht Frankfurt la fa già spesso (43/100).
+ 4. 18:30  Bayern München vs RB Leipzig   [GERMANIA - BUNDESLIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 83.1  (R+30 C+10 F+5.1 G+8 A+5.1 E+0 S+25)
+    RB Leipzig non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre RB Leipzig è in sottofrequenza (33/100), deve recuperare; anche Bayern München è in sottofrequenza su questa combo (33/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 5. 20:30  Ayr United vs Partick Thistle   [SCOZIA - CHAMPIONSHIP]  [OK 1X+OVER2,5]
-    1X + OVER 2,5  -  punteggio 39.4  (R+30 C+10 F+1.4 G+4.6 A-6.6 E+0 S+0)
-    Ayr United non fa 1X + OVER 2,5 da 11 partite (ritardo massimo del campionato 11, mediano 3), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 73% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Partick Thistle la fa già spesso (36/100).
+ 5. 16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 78.1  (R+30 C+10 F+12.1 G+5.6 A+5.4 E+0 S+15)
+    Raith Rovers non fa 1X + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Raith Rovers è in sottofrequenza (23/100), deve recuperare; nel ritardo il 78% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 6. 20:30  Leganés vs Córdoba   [SPAGNA - LALIGA 2]  [ALT X2+OVER2,5]
-    X2 + OVER 2,5  -  punteggio 35.0  (R+30 C+10 F+3.2 G+1.6 A-9.8 E+0 S+0)
-    Leganés non fa X2 + OVER 2,5 da 12 partite (ritardo massimo del campionato 12, mediano 3), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 58% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Córdoba la fa già spesso (30/100).
+ 6. 15:30  Schalke 04 vs Mainz 05   [GERMANIA - BUNDESLIGA]  [OK 1X+OVER2,5]
+    1X + OVER 2,5  -  punteggio 77.6  (R+30 C+10 F+12 G+6.6 A+4 E+0 S+15)
+    Mainz 05 non fa 1X + OVER 2,5 da 12 partite (ritardo massimo del campionato 12, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Mainz 05 è in sottofrequenza (28/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 7. 16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 68.8  (R+30 C+10 F+8.9 G+7 A-2.1 E+0 S+15)
+    Dundee United non fa 12 + GOAL da 13 partite (ritardo massimo del campionato 13, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Dundee United è in sottofrequenza (26/100), deve recuperare; nel ritardo il 85% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 8. 13:00  FF Jaro vs IFK Mariehamn   [FINLANDIA - VEIKKAUSLIIGA]  [OK X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 64.7  (R+30 C+10 F+2.8 G+4.2 A+7.8 E+0 S+10)
+    FF Jaro non fa X2 + OVER 2,5 da 7 partite (ritardo massimo del campionato 7, mediano 5), ed è il ritardo più lungo del campionato. Inoltre anche IFK Mariehamn è in sottofrequenza su questa combo (19/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 9. 17:00  FC Inter Turku vs AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]  [OK X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 64.5  (R+30 C+10 F+5.8 G+0 A+3.8 E+0 S+15)
+    FC Inter Turku non fa X2 + OVER 2,5 da 7 partite (ritardo massimo del campionato 7, mediano 5), ed è il ritardo più lungo del campionato. Inoltre FC Inter Turku è in sottofrequenza (21/100), deve recuperare.
+
+10. 16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 64.3  (R+30 C+10 F+8.5 G+4.2 A-3.5 E+0 S+15)
+    Dunfermline Athletic non fa 12 + GOAL da 14 partite (ritardo massimo del campionato 14, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Dunfermline Athletic è in sottofrequenza (20/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
 
 REGOLE DEL PUNTEGGIO
