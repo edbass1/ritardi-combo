@@ -12,26 +12,15 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Controlla avvio immediato o fascia oraria italiana
+      - name: Controlla fascia oraria italiana
         id: fascia
         run: |
-          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+          HOUR=$(TZ=Europe/Rome date +%H)
+          if [ "$GITHUB_EVENT_NAME" = "push" ] || [ "$HOUR" -ge 12 ] || [ "$HOUR" -le 1 ]; then
             echo "esegui=true" >> "$GITHUB_OUTPUT"
-            echo "Avvio immediato dopo la modifica del workflow."
           else
-            NOW=$(TZ=Europe/Rome date '+%Y-%m-%d %H')
-            if [ "$NOW" < "2026-10-18 12" ]; then
-              echo "esegui=false" >> "$GITHUB_OUTPUT"
-              echo "La programmazione oraria inizierà domani alle 12:00, ora italiana."
-            else
-              HOUR=$(TZ=Europe/Rome date +%H)
-              if [ "$HOUR" -ge 12 ] || [ "$HOUR" -le 1 ]; then
-                echo "esegui=true" >> "$GITHUB_OUTPUT"
-              else
-                echo "esegui=false" >> "$GITHUB_OUTPUT"
-                echo "Fuori fascia: sono le ore $HOUR in Italia. Nessun aggiornamento."
-              fi
-            fi
+            echo "esegui=false" >> "$GITHUB_OUTPUT"
+            echo "Fuori fascia: sono le ore $HOUR in Italia. Nessun aggiornamento."
           fi
       - uses: actions/checkout@v4
         if: steps.fascia.outputs.esegui == 'true'
