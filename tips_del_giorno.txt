@@ -1,7 +1,46 @@
-TIPS DEL GIORNO - 15/10/2026
-Aggiornato: 15/10/2026 20:24 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 16/10/2026
+Aggiornato: 16/10/2026 02:21 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 20:00  Annecy FC vs Nancy   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 80.0  (R+30 C+10 F+8 G+0 A+7 E+0 S+25)
+    Nancy non fa 1X + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Nancy è in sottofrequenza (30/100), deve recuperare; anche Annecy FC è in sottofrequenza su questa combo (31/100), deve recuperare.
+
+ 2. 20:30  Ruch Chorzów vs Odra Opole   [POLONIA - I LIGA]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 71.0  (R+18 C+5 F+13 G+0 A+10 E+0 S+25)
+    Odra Opole non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 10, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre Odra Opole è in sottofrequenza (26/100), deve recuperare; anche Ruch Chorzów è in sottofrequenza su questa combo (29/100), deve recuperare.
+
+ 3. 20:00  FC Den Bosch vs TOP Oss   [OLANDA - EERSTE DIVISIE]  [ALT X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 66.6  (R+27 C+5 F+4.5 G+5.6 A-0.5 E+10 S+15)
+    TOP Oss non fa X2 + OVER 2,5 da 9 partite (ritardo massimo del campionato 10, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre TOP Oss è in sottofrequenza (26/100), deve recuperare; anche FC Den Bosch è in ritardo sulla stessa combo (6); nel ritardo il 78% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 21:00  St. Patrick's Athletic vs Shelbourne   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 65.4  (R+30 C+10 F+7.4 G+6.6 A-3.6 E+0 S+15)
+    St. Patrick's Athletic non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre St. Patrick's Athletic è in sottofrequenza (31/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 5. 20:45  Galway United FC vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]  [ALT 1X+OVER2,5]
+    1X + OVER 2,5  -  punteggio 64.4  (R+30 C+10 F+8 G+3.4 A-2 E+0 S+15)
+    Galway United FC non fa 1X + OVER 2,5 da 9 partite (ritardo massimo del campionato 9, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Galway United FC è in sottofrequenza (22/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 6. 19:00  Brommapojkarna vs Djurgården   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 61.8  (R+30 C+10 F+9.7 G+4.4 A-7.3 E+0 S+15)
+    Djurgården non fa 1X + GOAL da 18 partite (ritardo massimo del campionato 18, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Djurgården è in sottofrequenza (26/100), deve recuperare; nel ritardo il 72% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Brommapojkarna la fa già spesso (43/100).
+
+ 7. 18:00  Warta Poznań vs Skierniewice   [POLONIA - I LIGA]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 58.9  (R+30 C+10 F+7.9 G+4.2 A-8.2 E+0 S+15)
+    Warta Poznań non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Warta Poznań è in sottofrequenza (28/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Skierniewice la fa già spesso (19/43).
+
+ 8. 17:30  Karviná vs Dukla Praha   [REP. CECA - FNL]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 53.6  (R+30 C+10 F-4.5 G+6.6 A+1.5 E+0 S+10)
+    Karviná non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre anche Dukla Praha è in sottofrequenza su questa combo (31/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 9. 17:00  FK Pohronie vs Malženice   [SLOVACCHIA - 2. LIGA]  [OK 1X+OVER2,5]
+    1X + OVER 2,5  -  punteggio 52.6  (R+30 C+10 F-2 G+6.6 A-2 E+10 S+0)
+    FK Pohronie non fa 1X + OVER 2,5 da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Malženice è in ritardo sulla stessa combo (6); nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+10. 19:00  HB Køge vs AB   [DANIMARCA - 1. DIVISION]  [OK X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 50.1  (R+22.5 C+5 F+0.5 G+6.6 A+5.5 E+0 S+10)
+    AB non fa X2 + OVER 2,5 da 6 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche HB Køge è in sottofrequenza su questa combo (23/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
