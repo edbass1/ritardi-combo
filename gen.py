@@ -69,6 +69,7 @@ def country_pool(country):
         [lid for c, l, lid in LEAGUES if c == country] + EXTRA.get(country, [])
     ))
     league_info, missing, target_teams = {}, [], set()
+    ranked_lids = {lid for c, l, lid in LEAGUES if c == country}
     for lid in lids:
         try:
             d, current_matches, teams = matches(lid)
@@ -76,7 +77,8 @@ def country_pool(country):
             cs = d.get("details", {}).get("selectedSeason") or (ss[0] if ss else None)
             idx = ss.index(cs) if cs in ss else 0
             league_info[lid] = (ss[idx:idx + SOTTO_STAGIONI], current_matches, teams)
-            target_teams.update(teams.keys())
+            if lid in ranked_lids:
+                target_teams.update(teams.keys())
         except Exception:
             missing.append(str(lid))
     pool = {}
