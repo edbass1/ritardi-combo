@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 17/10/2026 22:14 (ora italiana)
+Aggiornato: 17/10/2026 23:16 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -9,7 +9,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/20 Lecce                          27/100
     2/20 Bologna                        31/100
     3/20 Udinese                        32/100
-    4/20 Roma                           34/100
+    4/20 Roma                           33/100
     5/20 Lazio                          36/100
      ...
    20/20 Sassuolo                       45/100  (la fa più spesso)
@@ -456,21 +456,21 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Darmstadt                      33/100
     3/18 St. Pauli                      33/100
     4/18 VfL Osnabrück                  33/100
-    5/18 Hannover 96                    35/100
+    5/18 Hannover 96                    34/100
      ...
    18/18 Hertha BSC                     45/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/18 VfL Osnabrück                  25/100
-    2/18 Magdeburg                      29/100
-    3/18 St. Pauli                      29/100
+    2/18 St. Pauli                      28/100
+    3/18 Magdeburg                      29/100
     4/18 Eintracht Braunschweig         30/100
     5/18 Wolfsburg                      31/100
      ...
    18/18 Karlsruher SC                  52/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-    1/18 St. Pauli                      23/100
+    1/18 St. Pauli                      22/100
     2/18 Arminia Bielefeld              24/100
     3/18 Bochum                         24/100
     4/18 Energie Cottbus                25/100
@@ -481,7 +481,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
 SOTTOFREQUENZA 12 + OVER 2,5
     1/18 St. Pauli                      40/100
     2/18 Arminia Bielefeld              42/100
-    3/18 Hannover 96                    44/100
+    3/18 Hannover 96                    43/100
     4/18 VfL Osnabrück                  44/100
     5/18 Bochum                         45/100
      ...
@@ -552,8 +552,8 @@ SOTTOFREQUENZA 12 + OVER 2,5
 FRANCIA - LIGUE 1
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Angers                         31/100
-    2/18 Troyes                         31/100
+    1/18 Troyes                         30/100
+    2/18 Angers                         31/100
     3/18 Lens                           32/100
     4/18 Toulouse                       32/100
     5/18 Le Mans                        35/100
@@ -564,11 +564,10 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Troyes                         22/100
     2/18 Auxerre                        27/100
-    3/18 Lens                           27/100
+    3/18 Lens                           28/100
     4/18 Lyon                           28/100
     5/18 Angers                         29/100
-    6/18 Lille                          29/100
-    7/18 Rennes                         29/100
+    6/18 Rennes                         29/100
      ...
    18/18 Paris Saint-Germain            43/100  (la fa più spesso)
 
@@ -577,8 +576,9 @@ SOTTOFREQUENZA 12 + GOAL
     2/18 Le Mans                        30/100
     3/18 Lille                          30/100
     4/18 Brest                          33/100
-    5/18 Lens                           33/100
-    6/18 Troyes                         33/100
+    5/18 Lens                           34/100
+    6/18 Lorient                        34/100
+    7/18 Troyes                         34/100
      ...
    18/18 Strasbourg                     51/100  (la fa più spesso)
 
@@ -694,8 +694,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/20 Getafe                         20/100
     2/20 Deportivo Alavés               27/100
     3/20 Rayo Vallecano                 28/100
-    4/20 Málaga                         29/100
-    5/20 Valencia                       29/100
+    4/20 Valencia                       28/100
+    5/20 Málaga                         29/100
      ...
    20/20 Barcelona                      50/100  (la fa più spesso)
 
@@ -704,7 +704,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
     2/20 Athletic Club                  28/100
     3/20 Deportivo A Coruña             28/100
     4/20 Deportivo Alavés               29/100
-    5/20 Valencia                       30/100
+    5/20 Valencia                       29/100
      ...
    20/20 Racing Santander               44/100  (la fa più spesso)
 
@@ -722,7 +722,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     1/20 Getafe                         30/100
     2/20 Deportivo Alavés               33/100
     3/20 Málaga                         36/100
-    4/20 Valencia                       37/100
+    4/20 Valencia                       36/100
     5/20 Athletic Club                  38/100
     6/20 Espanyol                       38/100
      ...
@@ -920,7 +920,6 @@ SOTTOFREQUENZA 1X + GOAL
     3/18 FC Groningen                   39/100
     4/18 Fortuna Sittard                39/100
     5/18 Excelsior                      40/100
-    6/18 Sparta Rotterdam               40/100
      ...
    18/18 PEC Zwolle                     48/100  (la fa più spesso)
 
@@ -945,7 +944,7 @@ SOTTOFREQUENZA 12 + GOAL
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/18 Willem II                      30/100
-    2/18 Sparta Rotterdam               31/100
+    2/18 Sparta Rotterdam               32/100
     3/18 Cambuur                        33/100
     4/18 Feyenoord                      35/100
     5/18 Fortuna Sittard                35/100
@@ -2001,7 +2000,7 @@ SOTTOFREQUENZA 1X + GOAL
     5/12 St. Johnstone                  36/100
     6/12 St. Mirren                     36/100
      ...
-   12/12 Rangers                        44/100  (la fa più spesso)
+   12/12 Rangers                        45/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Aberdeen                       25/100
@@ -2121,7 +2120,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 St. Patrick's Athletic         25/100
-    2/10 Sligo Rovers                   28/100
+    2/10 Sligo Rovers                   29/100
     3/10 Waterford FC                   33/100
     4/10 Drogheda United                34/100
     5/10 Shamrock Rovers                34/100
@@ -2132,8 +2131,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/10 St. Patrick's Athletic         28/100
     2/10 Galway United FC               29/100
     3/10 Derry City                     31/100
-    4/10 Drogheda United                32/100
-    5/10 Sligo Rovers                   32/100
+    4/10 Sligo Rovers                   31/100
+    5/10 Drogheda United                32/100
      ...
    10/10 Waterford FC                   38/100  (la fa più spesso)
 
@@ -2141,7 +2140,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
     1/10 Galway United FC               22/100
     2/10 Bohemian FC                    26/100
     3/10 Shelbourne                     26/100
-    4/10 Dundalk                        29/100
+    4/10 Dundalk                        28/100
     5/10 Derry City                     30/100
      ...
    10/10 Drogheda United                36/100  (la fa più spesso)
