@@ -1,36 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 17/10/2026 14:18 (ora italiana)
+Aggiornato: 17/10/2026 15:22 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 17/10/2026
 ==================================================
-14:30  Humenné vs Zlaté Moravce   [SLOVACCHIA - 2. LIGA]  [OK X2+OVER2,5]
-      [OVER 2,5] Humenné: X2 + OVER 2,5 (11) 🟢 55%
-15:00  EIF vs KäPa   [FINLANDIA - YKKOSLIIGA]  [OK 12+GOAL]
-      [GOAL] EIF: 12 + GOAL (12) 🟢 50%
-15:00  HJK vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [ALT 1X+OVER2,5]
-      [OVER 2,5] IF Gnistan: 1X + OVER 2,5 (7) 🟢 71% 🔴 HJK 🔴 IF Gnistan
-15:00  JIPPO vs Haka   [FINLANDIA - YKKOSLIIGA]  [OK X2+GOAL]
-      [GOAL] JIPPO: X2 + GOAL (6) 🟢 67% 🔴 JIPPO
-15:00  MP vs JäPS   [FINLANDIA - YKKOSLIIGA]  [OK 12+GOAL] [ALT 1X+OVER2,5]
-      [GOAL] MP: 12 + GOAL (6) 🟢 83%
-      [OVER 2,5] MP: 1X + OVER 2,5 (6) 🟢 83% 🔴 JäPS
-15:00  PK-35 vs SJK Akatemia   [FINLANDIA - YKKOSLIIGA]  [OK 1X+GOAL]
-      [GOAL] PK-35: 1X + GOAL (7) 🟢 71% 🔴 PK-35
-15:00  Carrarese vs Modena   [ITALIA - SERIE B]  [OK 1X+OVER2,5]
-      [OVER 2,5] Carrarese: 1X + OVER 2,5 (6) 🟢 50%
-15:00  Padova vs Virtus Entella   [ITALIA - SERIE B]  [ALT X2+OVER2,5]
-      [OVER 2,5] Padova: X2 + OVER 2,5 (6) 🟢 67% 🔴 Padova 🔴 Virtus Entella
-15:00  Mladá Boleslav vs Teplice   [REP. CECA - 1. LIGA]  [OK X2+GOAL] [OK X2+OVER2,5] [OK 1X+OVER2,5]
-      [GOAL] Mladá Boleslav: X2 + GOAL (6) 🟢 83%
-      [OVER 2,5] Mladá Boleslav: X2 + OVER 2,5 (8) 🟢 88%
-      [OVER 2,5] Teplice: 1X + OVER 2,5 (6) 🟢 100% 🔴 Teplice
-15:00  Sandvikens IF vs Östersunds FK   [SVEZIA - SUPERETTAN]  [OK 12+GOAL] [ALT X2+OVER2,5] [OK 1X+OVER2,5] [OK 12+OVER2,5]
-      [GOAL] Östersunds FK: 12 + GOAL (16) 🟢 62% 🔴 Östersunds FK
-      [OVER 2,5] Sandvikens IF: X2 + OVER 2,5 (7) 🟢 86% 🔴 Sandvikens IF 🔴 Östersunds FK
-      [OVER 2,5] Östersunds FK: 1X + OVER 2,5 (10); X2 + OVER 2,5 (10) 🔴 Sandvikens IF 🔴 Östersunds FK; 12 + OVER 2,5 (16) 🟢 62% 🔴 Sandvikens IF 🔴 Östersunds FK
 15:30  SW Bregenz vs SKU Amstetten   [AUSTRIA - 2. LIGA]  [ALT X2+GOAL] [ALT X2+OVER2,5]
       [GOAL] SW Bregenz: X2 + GOAL (9) 🟢 78%
       [OVER 2,5] SW Bregenz: X2 + OVER 2,5 (9) 🟢 78%
@@ -158,7 +133,7 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
 13:30  Karlsruher SC vs Darmstadt   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL] [OK X2+OVER2,5]
       [GOAL] Darmstadt: X2 + GOAL (6) 🟢 67%
       [OVER 2,5] Darmstadt: X2 + OVER 2,5 (6) 🟢 67%
-14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [OK 12+GOAL] [OK 1X+GOAL] [OK X2+GOAL] [ALT 1X+OVER2,5] [OK X2+OVER2,5] [OK 12+OVER2,5]
+14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [ALT 12+GOAL] [OK 1X+GOAL] [OK X2+GOAL] [ALT 1X+OVER2,5] [OK X2+OVER2,5] [OK 12+OVER2,5]
       [GOAL] KuPS: 12 + GOAL (6) 🔴 KuPS
       [GOAL] VPS: 1X + GOAL (10) 🔴 VPS; X2 + GOAL (7); 12 + GOAL (7) 🔴 KuPS
       [OVER 2,5] KuPS: 1X + OVER 2,5 (10) 🟢 50% 🔴 KuPS 🔴 VPS; X2 + OVER 2,5 (6) 🔴 VPS; 12 + OVER 2,5 (6) 🔴 KuPS

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 17/10/2026 14:18 (ora italiana)
+Aggiornato: 17/10/2026 15:22 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -449,7 +449,7 @@ SOTTOFREQUENZA X2 + GOAL
     5/18 Arminia Bielefeld              32/100
     6/18 Darmstadt                      32/100
      ...
-   18/18 Wolfsburg                      52/100  (la fa più spesso)
+   18/18 Wolfsburg                      51/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Arminia Bielefeld              33/100
@@ -464,7 +464,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
     1/18 VfL Osnabrück                  25/100
     2/18 Magdeburg                      29/100
     3/18 St. Pauli                      29/100
-    4/18 Eintracht Braunschweig         31/100
+    4/18 Eintracht Braunschweig         30/100
     5/18 Wolfsburg                      31/100
      ...
    18/18 Karlsruher SC                  52/100  (la fa più spesso)
@@ -472,11 +472,11 @@ SOTTOFREQUENZA 1X + OVER 2,5
 SOTTOFREQUENZA X2 + OVER 2,5
     1/18 St. Pauli                      23/100
     2/18 Arminia Bielefeld              24/100
-    3/18 Bochum                         25/100
+    3/18 Bochum                         24/100
     4/18 Energie Cottbus                25/100
     5/18 VfL Osnabrück                  25/100
      ...
-   18/18 Wolfsburg                      40/100  (la fa più spesso)
+   18/18 Wolfsburg                      39/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
     1/18 St. Pauli                      40/100
@@ -485,7 +485,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     4/18 VfL Osnabrück                  44/100
     5/18 Bochum                         45/100
      ...
-   18/18 Kaiserslautern                 61/100  (la fa più spesso)
+   18/18 Kaiserslautern                 60/100  (la fa più spesso)
 
 ==================================================
 GERMANIA - 3. LIGA
@@ -1641,8 +1641,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     2/12 Aarhus Fremad                  43/100
     3/12 Hobro                          43/100
     4/12 Kolding IF                     43/100
-    5/12 Hillerød                       44/100
-    6/12 Vejle Boldklub                 44/100
+    5/12 Vejle Boldklub                 43/100
      ...
    12/12 Esbjerg fB                     56/100  (la fa più spesso)
 
@@ -2243,21 +2242,23 @@ SOTTOFREQUENZA 1X + GOAL
     4/12 VPS                            40/100
     5/12 AC Oulu                        41/100
     6/12 FC Inter Turku                 41/100
-    7/12 KuPS                           41/100
+    7/12 Ilves                          41/100
+    8/12 KuPS                           41/100
      ...
    12/12 IF Gnistan                     47/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 IFK Mariehamn                  27/100
-    2/12 FC Inter Turku                 29/100
-    3/12 Ilves                          29/100
+    1/12 IFK Mariehamn                  28/100
+    2/12 Ilves                          28/100
+    3/12 FC Inter Turku                 29/100
     4/12 AC Oulu                        30/100
-    5/12 VPS                            31/100
+    5/12 FC Lahti                       31/100
+    6/12 VPS                            31/100
      ...
-   12/12 SJK                            44/100  (la fa più spesso)
+   12/12 SJK                            43/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 FC Lahti                       31/100
+    1/12 FC Lahti                       32/100
     2/12 KuPS                           34/100
     3/12 IFK Mariehamn                  35/100
     4/12 FC Inter Turku                 36/100
@@ -2280,14 +2281,12 @@ SOTTOFREQUENZA X2 + OVER 2,5
     2/12 FC Inter Turku                 21/100
     3/12 VPS                            21/100
     4/12 AC Oulu                        23/100
-    5/12 FC Lahti                       24/100
-    6/12 FF Jaro                        24/100
-    7/12 KuPS                           24/100
+    5/12 FC Lahti                       23/100
      ...
-   12/12 SJK                            38/100  (la fa più spesso)
+   12/12 SJK                            37/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-    1/12 FC Lahti                       41/100
+    1/12 FC Lahti                       42/100
     2/12 FC Inter Turku                 45/100
     3/12 KuPS                           45/100
     4/12 IF Gnistan                     47/100
