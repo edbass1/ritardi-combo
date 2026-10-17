@@ -1,7 +1,46 @@
-TIPS DEL GIORNO - 17/10/2026
-Aggiornato: 17/10/2026 23:16 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 18/10/2026
+Aggiornato: 18/10/2026 00:14 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 16:30  Halmstads BK vs Hammarby   [SVEZIA - ALLSVENSKAN]  [ALT X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 92.6  (R+30 C+10 F+7.5 G+6.6 A+3.5 E+10 S+25)
+    Halmstads BK non fa X2 + OVER 2,5 da 12 partite (ritardo massimo del campionato 12, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Halmstads BK è in sottofrequenza (20/100), deve recuperare; anche Hammarby è in sottofrequenza su questa combo (24/100), deve recuperare; anche Hammarby è in ritardo sulla stessa combo (6); nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 2. 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]  [OK 1X+OVER2,5]
+    1X + OVER 2,5  -  punteggio 86.4  (R+30 C+10 F+10 G+5.4 A+6 E+0 S+25)
+    IFK Värnamo non fa 1X + OVER 2,5 da 13 partite (ritardo massimo del campionato 13, mediano 1), ed è il ritardo più lungo del campionato. Inoltre IFK Värnamo è in sottofrequenza (27/100), deve recuperare; anche GIF Sundsvall è in sottofrequenza su questa combo (31/100), deve recuperare; nel ritardo il 77% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 3. 12:15  RKC Waalwijk vs FC Volendam   [OLANDA - EERSTE DIVISIE]  [ALT X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 71.8  (R+30 C+10 F+4.4 G+6 A-3.6 E+10 S+15)
+    FC Volendam non fa X2 + OVER 2,5 da 10 partite (ritardo massimo del campionato 10, mediano 2), ed è il ritardo più lungo del campionato. Inoltre FC Volendam è in sottofrequenza (26/100), deve recuperare; anche RKC Waalwijk è in ritardo sulla stessa combo (6); nel ritardo il 80% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 18:30  Girona vs FC Andorra   [SPAGNA - LALIGA 2]  [ALT 1X+OVER2,5]
+    1X + OVER 2,5  -  punteggio 69.0  (R+30 C+10 F+7.5 G+0 A-3.5 E+10 S+15)
+    FC Andorra non fa 1X + OVER 2,5 da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre FC Andorra è in sottofrequenza (25/100), deve recuperare; anche Girona è in ritardo sulla stessa combo (6).
+
+ 5. 19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 66.9  (R+30 C+10 F+10.7 G+3.4 A-2.2 E+0 S+15)
+    Arezzo non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Arezzo è in sottofrequenza (28/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 6. 17:30  Nottingham Forest vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 65.3  (R+30 C+10 F+4.4 G+6.6 A-0.6 E+0 S+15)
+    Arsenal non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Arsenal è in sottofrequenza (30/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 7. 15:00  Baník Ostrava vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 64.8  (R+30 C+10 F+2.1 G+7.6 A+5.1 E+0 S+10)
+    Sparta Prague non fa X2 + GOAL da 25 partite (ritardo massimo del campionato 25, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Baník Ostrava è in sottofrequenza su questa combo (27/100), deve recuperare; nel ritardo il 88% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 8. 14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [ALT X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 64.8  (R+26.2 C+5 F+5.8 G+0 A+2.8 E+10 S+15)
+    VPS non fa X2 + OVER 2,5 da 7 partite (ritardo massimo del campionato 8, mediano 4), tra i 3 ritardi più lunghi del campionato. Inoltre VPS è in sottofrequenza (21/100), deve recuperare; anche KuPS è in ritardo sulla stessa combo (6).
+
+ 9. 15:00  Leeds United vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+OVER2,5]
+    X2 + OVER 2,5  -  punteggio 63.7  (R+30 C+10 F+6.9 G+4 A-2.1 E+0 S+15)
+    Leeds United non fa X2 + OVER 2,5 da 10 partite (ritardo massimo del campionato 10, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Leeds United è in sottofrequenza (20/100), deve recuperare; nel ritardo il 70% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+10. 16:30  Örgryte vs GAIS   [SVEZIA - ALLSVENSKAN]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 61.3  (R+30 C+10 F+6.8 G+3.8 A-4.3 E+0 S+15)
+    GAIS non fa 12 + GOAL da 13 partite (ritardo massimo del campionato 13, mediano 2), ed è il ritardo più lungo del campionato. Inoltre GAIS è in sottofrequenza (29/100), deve recuperare; nel ritardo il 69% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
