@@ -1,6 +1,8 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 17/10/2026 18:17 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 17/10/2026 19:16 (ora italiana). Dal più recente. Fonte: FotMob
 
+17/10 17:00  [GOAL] FC Inter Turku: X2 + GOAL uscita, era a 7  -  FC Inter Turku 1-2 AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]
+17/10 17:00  [OVER 2,5] FC Inter Turku: X2 + OVER 2,5 uscita, era a 7  -  FC Inter Turku 1-2 AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]
 17/10 16:15  [GOAL] Mallorca: X2 + GOAL uscita, era a 9  -  Eibar 1-1 Mallorca   [SPAGNA - LALIGA 2]
 17/10 16:00  [GOAL] Brentford: 12 + GOAL uscita, era a 10  -  Brentford 1-2 Liverpool   [INGHILTERRA - PREMIER LEAGUE]
 17/10 16:00  [GOAL] Gillingham: 1X + GOAL uscita, era a 6  -  Accrington Stanley 3-1 Gillingham   [INGHILTERRA - LEAGUE TWO]
@@ -88,6 +90,3 @@ Aggiornato: 17/10/2026 18:17 (ora italiana). Dal più recente. Fonte: FotMob
 11/10 13:30  [OVER 2,5] Greuther Fürth: 1X + OVER 2,5 uscita, era a 6  -  Hertha BSC 2-1 Greuther Fürth   [GERMANIA - 2. BUNDESLIGA]
 11/10 10:30  [GOAL] Inter Bratislava: 12 + GOAL uscita, era a 6  -  Malženice 2-5 Inter Bratislava   [SLOVACCHIA - 2. LIGA]
 10/10 20:45  [OVER 2,5] Angers: 1X + OVER 2,5 uscita, era a 7  -  Brest 5-1 Angers   [FRANCIA - LIGUE 1]
-10/10 18:30  [GOAL] Tottenham Hotspur: 1X + GOAL uscita, era a 6  -  Manchester United 1-1 Tottenham Hotspur   [INGHILTERRA - PREMIER LEAGUE]
-10/10 18:30  [OVER 2,5] Getafe: 1X + OVER 2,5 uscita, era a 6  -  Barcelona 3-0 Getafe   [SPAGNA - LALIGA]
-10/10 18:30  [OVER 2,5] Getafe: 12 + OVER 2,5 uscita, era a 6  -  Barcelona 3-0 Getafe   [SPAGNA - LALIGA]

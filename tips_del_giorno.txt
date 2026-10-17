@@ -1,19 +1,15 @@
 TIPS DEL GIORNO - 17/10/2026
-Aggiornato: 17/10/2026 18:17 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 17/10/2026 19:16 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 20:45  Troyes vs Lens   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 83.6  (R+30 C+10 F+6.5 G+6.6 A+5.5 E+0 S+25)
-    Troyes non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Troyes è in sottofrequenza (31/100), deve recuperare; anche Lens è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+    Troyes non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Troyes è in sottofrequenza (31/100), deve recuperare; anche Lens è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 2. 18:30  Bayern München vs RB Leipzig   [GERMANIA - BUNDESLIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 83.0  (R+30 C+10 F+5 G+8 A+5 E+0 S+25)
-    RB Leipzig non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre RB Leipzig è in sottofrequenza (33/100), deve recuperare; anche Bayern München è in sottofrequenza su questa combo (33/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 3. 20:00  Telstar vs Feyenoord   [OLANDA - EREDIVISIE]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 57.0  (R+30 C+10 F+4 G+0 A-2 E+0 S+15)
+ 2. 20:00  Telstar vs Feyenoord   [OLANDA - EREDIVISIE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 57.2  (R+30 C+10 F+4.1 G+0 A-1.9 E+0 S+15)
     Telstar non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Telstar è in sottofrequenza (34/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 4. 20:15  Cracovia vs Legia Warszawa   [POLONIA - EKSTRAKLASA]  [OK 1X+OVER2,5]
+ 3. 20:15  Cracovia vs Legia Warszawa   [POLONIA - EKSTRAKLASA]  [OK 1X+OVER2,5]
     1X + OVER 2,5  -  punteggio 48.7  (R+30 C+10 F+2.4 G+8 A-1.6 E+0 S+0)
     Legia Warszawa non fa 1X + OVER 2,5 da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
