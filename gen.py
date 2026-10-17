@@ -336,14 +336,14 @@ def main():
                   tn = teams[tid]
                   parts = []
                   for key, name, v, _, full, pct in allr.get(tn, []):
-                      if key == KEY and v >= (SOGLIA_GOAL if key == "goal" else SOGLIA_OVER):
+                      if key == KEY and v >= (SOGLIA_GOAL if key == "goal" else SOGLIA_GOAL):
                           rr = [x for x in (teams[h], teams[a]) if x in red.get(name, ())]
                           parts.append(f"{name} ({v}{'+' if full else ''})" + (f" 🟢 {pct}%" if pct >= 50 else "") + ("".join(f" 🔴 {x}" for x in rr)))
                   if parts: info.append(f"      {tn}: " + "; ".join(parts))
               if info: fx.append((t, c, l, teams[h], teams[a], info))
       fx.sort(key=lambda x: (x[0], x[1], x[3]))
       P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - {TIT} - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_OVER}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_GOAL}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
       day = None
       for t, c, l, hn, an, info in fx:
           lt = t.astimezone(ROME)
@@ -352,7 +352,7 @@ def main():
           P.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]"); P += info
       if not fx: P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia.")
       sections["prossime_" + KEY] = "\n".join(P) + "\n"
-    LAB = {"goal": "GOAL", "over": "OVER 2,5"}
+    LAB = {"goal": "GOAL"}
     cf = []; POP = {}
     for LI, (c, l, r, err) in enumerate(data):
         if not r: continue
@@ -365,7 +365,7 @@ def main():
                 for tid in (h, a):
                     tn = teams[tid]; parts = []; hparts = []
                     for key, name, v, _, full, pct in allr.get(tn, []):
-                        if key == KEY and v >= (SOGLIA_GOAL if key == "goal" else SOGLIA_OVER):
+                        if key == KEY and v >= (SOGLIA_GOAL if key == "goal" else SOGLIA_GOAL):
                             rr = [x for x in (teams[h], teams[a]) if x in red.get(name, ())]
                             parts.append(f"{name} ({v}{'+' if full else ''})" + (f" 🟢 {pct}%" if pct >= 50 else "") + "".join(f" 🔴 {x}" for x in rr))
                             E = lambda x: html.escape(str(x), quote=True)
@@ -409,7 +409,7 @@ def main():
     sections["tips_html"] = "\n".join(TH)
     sections["tips_rules"] = "".join(f"<li>{html.escape(x)}</li>" for x in TIPS_RULES)
     open("tips_del_giorno.txt", "w").write(sections["tips"])
-    LAB2 = {"goal": "GOAL", "over": "OVER 2,5"}
+    LAB2 = {"goal": "GOAL"}
     sal = []
     for c, l, r, err in data:
         if not r: continue
@@ -427,7 +427,7 @@ def main():
     sections["saltati"] = "\n".join(ST) + "\n"
     sections["saltati_html"] = "\n".join(SH)
     open("saltati.txt", "w").write(sections["saltati"])
-    S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime {SOTTO_N} partite di campionato)", f"Aggiornato: {now} (ora italiana)",
+    S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali valide)", f"Aggiornato: {now} (ora italiana)",
          "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob", ""]
     for c, l, r, err in data:
         S += ["="*50, f"{c} - {l}", "="*50]
