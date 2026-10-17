@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 17/10/2026 20:15 (ora italiana)
+Aggiornato: 17/10/2026 21:16 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -155,7 +155,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Arsenal                        31/100
     5/20 Nottingham Forest              32/100
      ...
-   20/20 Newcastle United               49/100  (la fa più spesso)
+   20/20 Newcastle United               48/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/20 Everton                        24/100
@@ -185,7 +185,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     4/20 Leeds United                   41/100
     5/20 AFC Bournemouth                42/100
      ...
-   20/20 Newcastle United               59/100  (la fa più spesso)
+   20/20 Newcastle United               58/100  (la fa più spesso)
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -376,16 +376,17 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 Schalke 04                     36/100
     3/18 Elversberg                     37/100
     4/18 Bayer Leverkusen               38/100
-    5/18 Bayern München                 39/100
+    5/18 Bayern München                 40/100
+    6/18 Mainz 05                       40/100
      ...
    18/18 Hoffenheim                     52/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Freiburg                       31/100
     2/18 Union Berlin                   31/100
-    3/18 Bayern München                 33/100
-    4/18 Borussia Mönchengladbach       33/100
-    5/18 RB Leipzig                     33/100
+    3/18 Bayern München                 32/100
+    4/18 RB Leipzig                     32/100
+    5/18 Borussia Mönchengladbach       33/100
      ...
    18/18 Eintracht Frankfurt            51/100  (la fa più spesso)
 
@@ -406,7 +407,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
     5/18 Bayer Leverkusen               36/100
     6/18 Elversberg                     36/100
      ...
-   18/18 Bayern München                 52/100  (la fa più spesso)
+   18/18 Bayern München                 53/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
     1/18 Union Berlin                   26/100
@@ -415,6 +416,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
     4/18 Borussia Dortmund              28/100
     5/18 Freiburg                       28/100
     6/18 Mainz 05                       28/100
+    7/18 RB Leipzig                     28/100
      ...
    18/18 Eintracht Frankfurt            42/100  (la fa più spesso)
 
@@ -678,7 +680,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 Athletic Club                  38/100
     5/20 Atlético Madrid                38/100
      ...
-   20/20 Real Betis                     50/100  (la fa più spesso)
+   20/20 Real Betis                     49/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Atlético Madrid                24/100
@@ -1614,11 +1616,11 @@ SOTTOFREQUENZA 12 + GOAL
    12/12 Vendsyssel FF                  42/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
-    1/12 Hobro                          26/100
+    1/12 Hobro                          27/100
     2/12 Hvidovre                       29/100
     3/12 Kolding IF                     29/100
-    4/12 Fredericia                     31/100
-    5/12 Aarhus Fremad                  32/100
+    4/12 Aarhus Fremad                  32/100
+    5/12 Fredericia                     32/100
     6/12 Vejle Boldklub                 32/100
      ...
    12/12 Esbjerg fB                     42/100  (la fa più spesso)

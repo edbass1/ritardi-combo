@@ -1,10 +1,7 @@
 TIPS DEL GIORNO - 17/10/2026
-Aggiornato: 17/10/2026 20:15 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 17/10/2026 21:16 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:45  Troyes vs Lens   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 83.6  (R+30 C+10 F+6.5 G+6.6 A+5.5 E+0 S+25)
-    Troyes non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Troyes è in sottofrequenza (31/100), deve recuperare; anche Lens è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
