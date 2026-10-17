@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera ritardi combo (1X/X2/12 + Goal / Over 2.5) da FotMob."""
+"""Genera ritardi combo (1X/X2/12 + Goal) da FotMob."""
 import json, time, urllib.request, datetime, html
 from zoneinfo import ZoneInfo
 
@@ -361,7 +361,7 @@ def main():
                    "sotto": {name: [[t, k2, n] for k2, n, t in rows] for name, rows in r[7]}, "tab": r[9], "stot": {k: [v[0], [v[1][2], v[1][0], v[1][1]] if v[1] else None] for k, v in r[11].items()}}
         for t, h, a in up:
             tags = []  # (key, team, [part strings])
-            for KEY in ("goal", "over"):
+            for KEY in ("goal",):
                 for tid in (h, a):
                     tn = teams[tid]; parts = []; hparts = []
                     for key, name, v, _, full, pct in allr.get(tn, []):
@@ -401,7 +401,7 @@ def main():
         det = " ".join(f"{a}{b:+g}" for a, b in zip("RCFGAES", comp))
         dh, dt = dbadges(data[LIX][2], f"{c} - {l}", [nm])
         TT += [f"{i:>2}. {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}", f"    {nm}  -  punteggio {sc}  ({det})", f"    {why}", ""]
-        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} <a class="b365" href="https://www.bet365.it/" target="_blank" rel="noopener">bet365</a></div><div class="tipc"><span class="tag {"goal" if "GOAL" in nm else "over"}">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
+        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} <a class="b365" href="https://www.bet365.it/" target="_blank" rel="noopener">bet365</a></div><div class="tipc"><span class="tag "goal"">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
     if not tips:
         TT.append("Nessuna tip convincente oggi."); TH.append("<p>Nessuna tip convincente oggi.</p>")
     TT += ["", "REGOLE DEL PUNTEGGIO"] + ["  " + x for x in TIPS_RULES]
@@ -428,7 +428,7 @@ def main():
     sections["saltati_html"] = "\n".join(SH)
     open("saltati.txt", "w").write(sections["saltati"])
     S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali valide)", f"Aggiornato: {now} (ora italiana)",
-         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob", ""]
+         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob", ""]
     for c, l, r, err in data:
         S += ["="*50, f"{c} - {l}", "="*50]
         if not r: S += ["  dati non disponibili", ""]; continue
