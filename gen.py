@@ -63,19 +63,44 @@ def matches(lid, season=None):
     return _CACHE[k]
 
 def country_pool(country):
-    lids = [lid for c, l, lid in LEAGUES if c == country] + EXTRA.get(country, [])
-    pool, missing = {}, []
+    # Recupera prima le stagioni più recenti e si ferma appena tutte le squadre
+    # attualmente presenti nei campionati configurati hanno 100 partite valide.
+    lids = list(dict.fromkeys(
+        [lid for c, l, lid in LEAGUES if c == country] + EXTRA.get(country, [])
+    ))
+    league_info, missing, target_teams = {}, [], set()
     for lid in lids:
-        try: d, _, _ = matches(lid)
-        except Exception: missing.append(f"{lid}"); continue
-        ss = d.get("allAvailableSeasons") or []
-        cs = d["details"].get("selectedSeason") or (ss[0] if ss else None)
-        idx = ss.index(cs) if cs in ss else 0
-        for i, se in enumerate(ss[idx:idx+SOTTO_STAGIONI]):
-            try: _, ms, _ = matches(lid, None if i == 0 else se)
-            except Exception: missing.append(f"{lid} {se}"); continue
-            for m in ms: pool[(m[0], m[1], m[2])] = m
-            time.sleep(0.3)
+        try:
+            d, current_matches, teams = matches(lid)
+            ss = d.get("allAvailableSeasons") or []
+            cs = d.get("details", {}).get("selectedSeason") or (ss[0] if ss else None)
+            idx = ss.index(cs) if cs in ss else 0
+            league_info[lid] = (ss[idx:idx + SOTTO_STAGIONI], current_matches, teams)
+            target_teams.update(teams.keys())
+        except Exception:
+            missing.append(str(lid))
+    pool = {}
+    max_rounds = min(SOTTO_STAGIONI, max((len(x[0]) for x in league_info.values()), default=0))
+    for season_index in range(max_rounds):
+        for lid, (seasons, current_matches, teams) in league_info.items():
+            if season_index >= len(seasons):
+                continue
+            try:
+                if season_index == 0:
+                    ms = current_matches
+                else:
+                    _, ms, _ = matches(lid, seasons[season_index])
+                for m in ms:
+                    pool[(m[0], m[1], m[2])] = m
+                time.sleep(0.3)
+            except Exception:
+                missing.append(f"{lid} {seasons[season_index]}")
+        counts = {}
+        for m in pool.values():
+            counts[m[1]] = counts.get(m[1], 0) + 1
+            counts[m[2]] = counts.get(m[2], 0) + 1
+        if target_teams and all(counts.get(tid, 0) >= SOTTO_MIN for tid in target_teams):
+            break
     return sorted(pool.values()), missing
 
 def _matches(lid, season=None):
