@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 17/10/2026 21:16 (ora italiana)
+Aggiornato: 17/10/2026 22:14 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -93,7 +93,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Padova                         28/100
     5/20 Südtirol                       28/100
      ...
-   20/20 Pisa                           36/100  (la fa più spesso)
+   20/20 Pisa                           37/100  (la fa più spesso)
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/20 Arezzo                         20/100
@@ -115,7 +115,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
     4/20 Ascoli                         20/100
     5/20 Empoli                         20/100
      ...
-   20/20 Pisa                           33/100  (la fa più spesso)
+   20/20 Pisa                           32/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
     1/20 Padova                         34/100
@@ -124,7 +124,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     4/20 Virtus Entella                 35/100
     5/20 Modena                         37/100
      ...
-   20/20 Pisa                           47/100  (la fa più spesso)
+   20/20 Pisa                           48/100  (la fa più spesso)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
@@ -623,7 +623,7 @@ SOTTOFREQUENZA 1X + GOAL
    17/17 Rodez                          50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/17 Saint-Étienne                  25/100
+    1/17 Saint-Étienne                  24/100
     2/17 Grenoble                       28/100
     3/17 Dijon                          31/100
     4/17 Annecy FC                      32/100
@@ -655,9 +655,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
     2/17 Grenoble                       19/100
     3/17 Sochaux                        19/100
     4/17 Dunkerque                      23/100
-    5/17 Dijon                          24/100
-    6/17 Montpellier                    24/100
-    7/17 Saint-Étienne                  24/100
+    5/17 Saint-Étienne                  23/100
      ...
    17/17 Rodez                          33/100  (la fa più spesso)
 
@@ -930,9 +928,9 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 FC Groningen                   31/100
     2/18 SC Heerenveen                  34/100
     3/18 Cambuur                        35/100
-    4/18 Telstar                        36/100
-    5/18 Fortuna Sittard                37/100
-    6/18 PSV Eindhoven                  37/100
+    4/18 Fortuna Sittard                37/100
+    5/18 PSV Eindhoven                  37/100
+    6/18 Telstar                        37/100
      ...
    18/18 NEC Nijmegen                   51/100  (la fa più spesso)
 
@@ -942,7 +940,6 @@ SOTTOFREQUENZA 12 + GOAL
     3/18 Ajax                           34/100
     4/18 PEC Zwolle                     34/100
     5/18 SC Heerenveen                  34/100
-    6/18 Telstar                        34/100
      ...
    18/18 PSV Eindhoven                  57/100  (la fa più spesso)
 
@@ -957,8 +954,8 @@ SOTTOFREQUENZA 1X + OVER 2,5
 
 SOTTOFREQUENZA X2 + OVER 2,5
     1/18 FC Groningen                   22/100
-    2/18 Telstar                        26/100
-    3/18 Willem II                      26/100
+    2/18 Willem II                      26/100
+    3/18 Telstar                        27/100
     4/18 Cambuur                        28/100
     5/18 FC Twente                      29/100
     6/18 PEC Zwolle                     29/100
@@ -1163,8 +1160,8 @@ AUSTRIA - BUNDESLIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 Austria Lustenau               30/99
     2/12 LASK                           32/100
-    3/12 Ried                           33/100
-    4/12 WSG Tirol                      33/100
+    3/12 WSG Tirol                      33/100
+    4/12 Ried                           34/100
     5/12 Wolfsberger AC                 35/100
      ...
    12/12 Salzburg                       43/100  (la fa più spesso)
@@ -1182,8 +1179,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/12 Austria Lustenau               21/99
     2/12 Altach                         23/100
     3/12 Rapid Wien                     31/100
-    4/12 Ried                           34/100
-    5/12 Sturm Graz                     34/100
+    4/12 Sturm Graz                     34/100
+    5/12 Ried                           35/100
      ...
    12/12 LASK                           41/100  (la fa più spesso)
 
@@ -1214,7 +1211,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     5/12 Austria Wien                   45/100
     6/12 Rapid Wien                     45/100
      ...
-   12/12 Wolfsberger AC                 51/100  (la fa più spesso)
+   12/12 Ried                           52/100  (la fa più spesso)
 
 ==================================================
 AUSTRIA - 2. LIGA
