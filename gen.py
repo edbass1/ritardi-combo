@@ -29,9 +29,6 @@ COMBOS = {
  "goal": [("1X + GOAL", lambda h,a: h>=a and h>0 and a>0),
           ("X2 + GOAL", lambda h,a: a>=h and h>0 and a>0),
           ("12 + GOAL", lambda h,a: h!=a and h>0 and a>0)],
- "over": [("1X + OVER 2,5", lambda h,a: h>=a and h+a>=3),
-          ("X2 + OVER 2,5", lambda h,a: a>=h and h+a>=3),
-          ("12 + OVER 2,5", lambda h,a: h!=a and h+a>=3)],
 }
 TOP = 10
 SALTATI_MIN = 6      # ritardo minimo spezzato per la sezione Saltati
@@ -40,7 +37,7 @@ DANGER_GIORNI = 10   # badge DANGEROUS: giorni considerati
 DANGER_TOP = 5       # badge DANGEROUS: ritardo nella top N del campionato
 DANGER_MIN = 6       # badge DANGEROUS: ritardo minimo al momento della rottura
 SOTTO_N = 100     # partite considerate per le sottofrequenze
-SOTTO_MIN = 85    # minimo partite per entrare nelle sottofrequenze
+SOTTO_MIN = 100   # minimo storico valido: 100 partite nazionali
 SOTTO_STAGIONI = 4
 # campionati extra (non in classifica) usati solo per lo storico delle sottofrequenze
 EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"SPAGNA":[8968],
@@ -48,7 +45,6 @@ EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"S
          "SCOZIA":[124],"FINLANDIA":[8969]}
 _CACHE = {}
 SOGLIA_GOAL = 6   # ritardo minimo per 'Prossime partite' (combo Goal)
-SOGLIA_OVER = 6   # ritardo minimo per 'Prossime partite' (combo Over 2,5)
 GIORNI = 5
 ROME = ZoneInfo('Europe/Rome')
 
@@ -306,7 +302,7 @@ def main():
         try: data.append((c, l, compute(lid, pools[c][0]), None))
         except Exception as e: data.append((c, l, None, str(e)))
         time.sleep(1)
-    titles = {"goal": "RITARDI DOPPIA CHANCE + GOAL", "over": "RITARDI DOPPIA CHANCE + OVER 2,5"}
+    titles = {"goal": "RITARDI DOPPIA CHANCE + GOAL"}
     sections = {}
     for key in COMBOS:
         L = [titles[key], f"Aggiornato: {now} (ora italiana)",
@@ -329,7 +325,7 @@ def main():
                     L.append(f"  {i:>2}. {t:<30} {str(v)+('+' if full else ''):>4}{dot}")
                 L.append("")
         sections[key] = "\n".join(L) + "\n"
-    for KEY, TIT in (('goal', 'COMBO + GOAL'), ('over', 'COMBO + OVER 2,5')):
+    for KEY, TIT in (('goal', 'COMBO + GOAL'),):
       fx = []
       for c, l, r, err in data:
           if not r: continue
