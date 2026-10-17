@@ -1,84 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 17/10/2026 15:22 (ora italiana)
+Aggiornato: 17/10/2026 16:17 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 17/10/2026
 ==================================================
-15:30  SW Bregenz vs SKU Amstetten   [AUSTRIA - 2. LIGA]  [ALT X2+GOAL] [ALT X2+OVER2,5]
-      [GOAL] SW Bregenz: X2 + GOAL (9) 🟢 78%
-      [OVER 2,5] SW Bregenz: X2 + OVER 2,5 (9) 🟢 78%
-15:30  Schalke 04 vs Mainz 05   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL] [OK 1X+OVER2,5]
-      [GOAL] Mainz 05: 1X + GOAL (9) 🟢 89% 🔴 Schalke 04
-      [OVER 2,5] Mainz 05: 1X + OVER 2,5 (12) 🟢 83% 🔴 Mainz 05
-15:30  Polonia Bytom vs Chrobry Głogów   [POLONIA - I LIGA]  [OK 12+GOAL] [ALT 12+OVER2,5] [ALT 1X+OVER2,5]
-      [GOAL] Polonia Bytom: 12 + GOAL (6) 🟢 50%
-      [GOAL] Chrobry Głogów: 12 + GOAL (7) 🟢 71%
-      [OVER 2,5] Polonia Bytom: 12 + OVER 2,5 (6) 🟢 50%
-      [OVER 2,5] Chrobry Głogów: 1X + OVER 2,5 (10) 🟢 70% 🔴 Chrobry Głogów
-16:00  Accrington Stanley vs Gillingham   [INGHILTERRA - LEAGUE TWO]  [ALT 1X+GOAL] [ALT X2+OVER2,5]
-      [GOAL] Gillingham: 1X + GOAL (6) 🟢 83%
-      [OVER 2,5] Accrington Stanley: X2 + OVER 2,5 (6) 🟢 67%
-16:00  Bradford City vs Stevenage   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
-      [OVER 2,5] Bradford City: 1X + OVER 2,5 (14) 🟢 50% 🔴 Stevenage
-16:00  Brentford vs Liverpool   [INGHILTERRA - PREMIER LEAGUE]  [OK 12+GOAL]
-      [GOAL] Brentford: 12 + GOAL (10) 🟢 100%
-      [GOAL] Liverpool: 12 + GOAL (7) 🟢 71%
-16:00  Colchester United vs Exeter City   [INGHILTERRA - LEAGUE TWO]  [ALT 1X+GOAL] [ALT X2+GOAL] [ALT 12+GOAL] [OK 1X+OVER2,5] [ALT X2+OVER2,5] [ALT 12+OVER2,5]
-      [GOAL] Exeter City: 1X + GOAL (6) 🔴 Exeter City; X2 + GOAL (6); 12 + GOAL (7) 🔴 Colchester United
-      [OVER 2,5] Exeter City: 1X + OVER 2,5 (7) 🔴 Colchester United; X2 + OVER 2,5 (10+) 🔴 Colchester United; 12 + OVER 2,5 (7) 🔴 Colchester United
-16:00  Crewe Alexandra vs Rochdale   [INGHILTERRA - LEAGUE TWO]  [ALT X2+OVER2,5] [OK 1X+OVER2,5]
-      [OVER 2,5] Crewe Alexandra: X2 + OVER 2,5 (6) 🟢 83%
-      [OVER 2,5] Rochdale: 1X + OVER 2,5 (6) 🟢 67% 🔴 Crewe Alexandra
-16:00  Grimsby Town vs Northampton Town   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL] [OK 1X+OVER2,5] [ALT X2+OVER2,5] [ALT 12+OVER2,5]
-      [GOAL] Northampton Town: 12 + GOAL (8+) 🟢 50%
-      [OVER 2,5] Northampton Town: 1X + OVER 2,5 (8+) 🟢 50%; X2 + OVER 2,5 (8+) 🟢 50% 🔴 Northampton Town; 12 + OVER 2,5 (8+) 🟢 50%
-16:00  Leicester City vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
-      [OVER 2,5] Leicester City: 1X + OVER 2,5 (8+) 🟢 88%
-16:00  Leyton Orient vs Blackpool   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
-      [OVER 2,5] Leyton Orient: 1X + OVER 2,5 (9) 🟢 78%
-16:00  Newport County vs York City   [INGHILTERRA - LEAGUE TWO]  [ALT X2+OVER2,5]
-      [OVER 2,5] Newport County: X2 + OVER 2,5 (7)
-      [OVER 2,5] York City: X2 + OVER 2,5 (9+) 🟢 100%
-16:00  Oldham Athletic vs Cheltenham Town   [INGHILTERRA - LEAGUE TWO]  [OK 1X+OVER2,5]
-      [OVER 2,5] Oldham Athletic: 1X + OVER 2,5 (6) 🟢 83%
-16:00  Port Vale vs Chesterfield   [INGHILTERRA - LEAGUE TWO]  [ALT X2+GOAL] [ALT X2+OVER2,5]
-      [GOAL] Port Vale: X2 + GOAL (6) 🔴 Port Vale
-      [OVER 2,5] Port Vale: X2 + OVER 2,5 (8+) 🟢 50% 🔴 Port Vale
-16:00  Sheffield Wednesday vs AFC Wimbledon   [INGHILTERRA - LEAGUE ONE]  [OK X2+OVER2,5]
-      [OVER 2,5] AFC Wimbledon: X2 + OVER 2,5 (9) 🟢 56%
-16:00  Southampton vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL] [ALT X2+OVER2,5]
-      [GOAL] Bolton Wanderers: 1X + GOAL (6) 🟢 83%
-      [OVER 2,5] Southampton: X2 + OVER 2,5 (10) 🟢 80%
-16:00  Swindon Town vs Walsall   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL] [ALT X2+OVER2,5] [ALT 12+OVER2,5]
-      [GOAL] Walsall: 12 + GOAL (6) 🟢 67%
-      [OVER 2,5] Swindon Town: X2 + OVER 2,5 (10) 🟢 60%
-      [OVER 2,5] Walsall: 12 + OVER 2,5 (6) 🟢 67%
-16:00  Tranmere Rovers vs Barnet   [INGHILTERRA - LEAGUE TWO]  [ALT X2+OVER2,5]
-      [OVER 2,5] Tranmere Rovers: X2 + OVER 2,5 (6) 🟢 83%
-16:00  West Bromwich Albion vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]  [ALT 1X+OVER2,5]
-      [OVER 2,5] West Bromwich Albion: 1X + OVER 2,5 (7) 🔴 Blackburn Rovers
-16:00  Wigan Athletic vs Reading   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
-      [GOAL] Wigan Athletic: X2 + GOAL (13) 🔴 Wigan Athletic
-16:00  Aberdeen vs St. Mirren   [SCOZIA - PREMIERSHIP]  [OK 12+GOAL]
-      [GOAL] Aberdeen: 12 + GOAL (7) 🟢 57% 🔴 Aberdeen 🔴 St. Mirren
-16:00  Dunfermline Athletic vs Livingston   [SCOZIA - CHAMPIONSHIP]  [ALT 12+GOAL] [OK 1X+OVER2,5] [ALT X2+OVER2,5] [OK 12+OVER2,5]
-      [GOAL] Dunfermline Athletic: 12 + GOAL (14) 🟢 71% 🔴 Dunfermline Athletic
-      [OVER 2,5] Dunfermline Athletic: 1X + OVER 2,5 (11) 🟢 64% 🔴 Dunfermline Athletic; X2 + OVER 2,5 (11) 🟢 64%; 12 + OVER 2,5 (13) 🟢 69% 🔴 Dunfermline Athletic
-16:00  Greenock Morton vs Queen's Park   [SCOZIA - CHAMPIONSHIP]  [OK X2+GOAL] [ALT X2+OVER2,5]
-      [GOAL] Queen's Park: X2 + GOAL (8) 🟢 88% 🔴 Queen's Park
-      [OVER 2,5] Queen's Park: X2 + OVER 2,5 (8) 🟢 88%
-16:00  St. Johnstone vs Dundee United   [SCOZIA - PREMIERSHIP]  [OK 12+GOAL] [OK X2+OVER2,5]
-      [GOAL] Dundee United: 12 + GOAL (13) 🟢 85% 🔴 Dundee United
-      [OVER 2,5] St. Johnstone: X2 + OVER 2,5 (8+) 🟢 62% 🔴 St. Johnstone
-16:00  Stenhousemuir vs Raith Rovers   [SCOZIA - CHAMPIONSHIP]  [OK X2+GOAL] [OK 1X+GOAL] [ALT X2+OVER2,5]
-      [GOAL] Stenhousemuir: X2 + GOAL (8) 🟢 50% 🔴 Raith Rovers
-      [GOAL] Raith Rovers: 1X + GOAL (9) 🟢 78% 🔴 Raith Rovers
-      [OVER 2,5] Stenhousemuir: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Raith Rovers
-16:15  Eibar vs Mallorca   [SPAGNA - LALIGA 2]  [OK X2+GOAL] [ALT X2+OVER2,5]
-      [GOAL] Mallorca: X2 + GOAL (9+) 🟢 56% 🔴 Eibar
-      [OVER 2,5] Mallorca: X2 + OVER 2,5 (9+) 🟢 56% 🔴 Mallorca
 16:30  Würzburger Kickers vs Waldhof Mannheim   [GERMANIA - 3. LIGA]  [OK 1X+GOAL] [ALT 1X+OVER2,5]
       [GOAL] Waldhof Mannheim: 1X + GOAL (6) 🟢 67%
       [OVER 2,5] Waldhof Mannheim: 1X + OVER 2,5 (6) 🟢 67%
@@ -138,7 +65,7 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [GOAL] VPS: 1X + GOAL (10) 🔴 VPS; X2 + GOAL (7); 12 + GOAL (7) 🔴 KuPS
       [OVER 2,5] KuPS: 1X + OVER 2,5 (10) 🟢 50% 🔴 KuPS 🔴 VPS; X2 + OVER 2,5 (6) 🔴 VPS; 12 + OVER 2,5 (6) 🔴 KuPS
       [OVER 2,5] VPS: X2 + OVER 2,5 (7) 🔴 VPS
-14:00  AD Ceuta FC vs Real Oviedo   [SPAGNA - LALIGA 2]  [OK X2+GOAL]
+14:00  AD Ceuta FC vs Real Oviedo   [SPAGNA - LALIGA 2]  [ALT X2+GOAL]
       [GOAL] Real Oviedo: X2 + GOAL (9+) 🟢 56%
 14:00  Osasuna vs Racing Santander   [SPAGNA - LALIGA]  [ALT X2+OVER2,5]
       [OVER 2,5] Osasuna: X2 + OVER 2,5 (6) 🟢 83%
@@ -256,16 +183,14 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [OVER 2,5] AFC Wimbledon: X2 + OVER 2,5 (9) 🟢 56%
 20:45  Barnet vs Swindon Town   [INGHILTERRA - LEAGUE TWO]  [ALT X2+OVER2,5]
       [OVER 2,5] Swindon Town: X2 + OVER 2,5 (10) 🟢 60%
-20:45  Bromley vs Leicester City   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
+20:45  Bromley vs Leicester City   [INGHILTERRA - LEAGUE ONE]  [ALT 1X+OVER2,5]
       [OVER 2,5] Leicester City: 1X + OVER 2,5 (8+) 🟢 88%
-20:45  Burton Albion vs Bradford City   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
+20:45  Burton Albion vs Bradford City   [INGHILTERRA - LEAGUE ONE]  [ALT 1X+OVER2,5]
       [OVER 2,5] Bradford City: 1X + OVER 2,5 (14) 🟢 50%
 20:45  Exeter City vs Crewe Alexandra   [INGHILTERRA - LEAGUE TWO]  [ALT 1X+GOAL] [ALT X2+GOAL] [ALT 12+GOAL] [OK 1X+OVER2,5] [ALT X2+OVER2,5] [ALT 12+OVER2,5]
       [GOAL] Exeter City: 1X + GOAL (6) 🔴 Exeter City; X2 + GOAL (6); 12 + GOAL (7)
       [OVER 2,5] Exeter City: 1X + OVER 2,5 (7) 🔴 Crewe Alexandra; X2 + OVER 2,5 (10+); 12 + OVER 2,5 (7)
       [OVER 2,5] Crewe Alexandra: X2 + OVER 2,5 (6) 🟢 83%
-20:45  Huddersfield Town vs Peterborough United   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
-      [OVER 2,5] Peterborough United: 1X + OVER 2,5 (6) 🟢 67%
 20:45  Northampton Town vs Tranmere Rovers   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL] [OK 1X+OVER2,5] [ALT X2+OVER2,5] [ALT 12+OVER2,5]
       [GOAL] Northampton Town: 12 + GOAL (8+) 🟢 50%
       [OVER 2,5] Northampton Town: 1X + OVER 2,5 (8+) 🟢 50%; X2 + OVER 2,5 (8+) 🟢 50% 🔴 Northampton Town; 12 + OVER 2,5 (8+) 🟢 50%
@@ -295,5 +220,5 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
 ==================================================
 21/10/2026
 ==================================================
-21:00  Reading vs Leyton Orient   [INGHILTERRA - LEAGUE ONE]  [OK 1X+OVER2,5]
+21:00  Reading vs Leyton Orient   [INGHILTERRA - LEAGUE ONE]  [ALT 1X+OVER2,5]
       [OVER 2,5] Leyton Orient: 1X + OVER 2,5 (9) 🟢 78%

@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + OVER 2,5
-Aggiornato: 17/10/2026 15:22 (ora italiana)
+Aggiornato: 17/10/2026 16:17 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -88,99 +88,99 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
-Stagione 2026/2027 (60 partite giocate) + 2025/2026
+Stagione 2026/2027 (61 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Tottenham Hotspur                 5  🟢 60%
    2. Liverpool                         4  🟢 50%
    3. Manchester United                 3  🟢 67%
    4. Brighton & Hove Albion            1  🟢 100%
-   5. Manchester City                   1  🟢 100%
-   6. Sunderland                        1  🟢 100%  🔴
-   7. AFC Bournemouth                   0
-   8. Arsenal                           0
-   9. Aston Villa                       0
-  10. Brentford                         0
+   5. Chelsea                           1  🟢 100%
+   6. Everton                           1  🟢 100%  🔴
+   7. Manchester City                   1  🟢 100%
+   8. Sunderland                        1  🟢 100%  🔴
+   9. AFC Bournemouth                   0
+  10. Arsenal                           0
 
 RITARDI X2 + OVER 2,5
    1. Leeds United                     10  🟢 70%  🔴
    2. Sunderland                        7  🟢 86%  🔴
    3. Arsenal                           6  🟢 83%
-   4. Fulham                            3  🟢 67%
-   5. Manchester United                 3  🟢 67%
-   6. Newcastle United                  3  🟢 100%
-   7. AFC Bournemouth                   2  🟢 50%
-   8. Brighton & Hove Albion            2  🟢 100%
-   9. Chelsea                           2  🟢 100%
+   4. Chelsea                           3  🟢 100%
+   5. Fulham                            3  🟢 67%
+   6. Manchester United                 3  🟢 67%
+   7. Newcastle United                  3  🟢 100%
+   8. AFC Bournemouth                   2  🟢 50%
+   9. Brighton & Hove Albion            2  🟢 100%
   10. Coventry City                     2  🟢 50%  🔴
 
 RITARDI 12 + OVER 2,5
-   1. Everton                           7  🟢 57%  🔴
+   1. Everton                           8  🟢 62%  🔴
    2. Manchester United                 4  🟢 75%
    3. Aston Villa                       1  🟢 100%
    4. Brentford                         1  🟢 100%
    5. Brighton & Hove Albion            1  🟢 100%
-   6. Hull City                         1  🟢 100%  🔴
-   7. Sunderland                        1  🟢 100%  🔴
-   8. Tottenham Hotspur                 1  🟢 100%
-   9. AFC Bournemouth                   0
-  10. Arsenal                           0
+   6. Chelsea                           1  🟢 100%
+   7. Hull City                         1  🟢 100%  🔴
+   8. Sunderland                        1  🟢 100%  🔴
+   9. Tottenham Hotspur                 1  🟢 100%
+  10. AFC Bournemouth                   0
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
-Stagione 2026/2027 (120 partite giocate) + 2025/2026
+Stagione 2026/2027 (123 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. West Bromwich Albion              7
    2. Bolton Wanderers                  5  🟢 80%
    3. Wolverhampton Wanderers           5
    4. Bristol City                      4
-   5. Middlesbrough                     2  🟢 50%
-   6. Millwall                          2  🔴
-   7. Southampton                       2
-   8. Stoke City                        2  🟢 100%  🔴
-   9. West Ham United                   2  🟢 100%
-  10. Wrexham                           2  🟢 100%
+   5. Southampton                       2
+   6. Stoke City                        2  🟢 100%  🔴
+   7. West Ham United                   2  🟢 100%
+   8. Wrexham                           2  🟢 100%
+   9. Blackburn Rovers                  1  🔴
+  10. Burnley                           1  🟢 100%  🔴
 
 RITARDI X2 + OVER 2,5
    1. Southampton                      10  🟢 80%
-   2. Cardiff City                      7  🟢 86%
-   3. Bristol City                      5
-   4. Sheffield United                  4  🟢 75%
-   5. Derby County                      3  🟢 100%
-   6. Birmingham City                   2  🟢 50%  🔴
-   7. Blackburn Rovers                  2  🟢 50%
-   8. Millwall                          2
-   9. Norwich City                      2  🟢 50%
-  10. Portsmouth                        2  🟢 50%
+   2. Bristol City                      5
+   3. Sheffield United                  4  🟢 75%
+   4. Derby County                      3  🟢 100%
+   5. Birmingham City                   2  🟢 50%  🔴
+   6. Blackburn Rovers                  2  🟢 50%
+   7. Norwich City                      2  🟢 50%
+   8. Portsmouth                        2  🟢 50%
+   9. Preston North End                 2  🟢 50%
+  10. Queens Park Rangers               2  🟢 100%
 
 RITARDI 12 + OVER 2,5
-   1. Bristol City                      4
-   2. Millwall                          4  🟢 50%  🔴
-   3. Charlton Athletic                 2  🟢 100%
+   1. Millwall                          5  🟢 60%  🔴
+   2. Bristol City                      4
+   3. Charlton Athletic                 3  🟢 100%
    4. Southampton                       2
    5. Blackburn Rovers                  1  🔴
-   6. Norwich City                      1
-   7. Swansea City                      1
-   8. Birmingham City                   0
-   9. Bolton Wanderers                  0
-  10. Burnley                           0
+   6. Cardiff City                      1  🟢 100%
+   7. Lincoln City                      1  🟢 100%
+   8. Middlesbrough                     1  🟢 100%
+   9. Norwich City                      1
+  10. Swansea City                      1
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
-Stagione 2026/2027 (103 partite giocate) + 2025/2026
+Stagione 2026/2027 (105 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Bradford City                    14  🟢 50%
    2. Leyton Orient                     9  🟢 78%
    3. Leicester City                   8+  🟢 88%
-   4. Peterborough United               6  🟢 67%
-   5. Doncaster Rovers                  5  🟢 60%
-   6. Notts County                      5  🟢 80%  🔴
-   7. Wigan Athletic                    4  🔴
-   8. Burton Albion                     3
-   9. Cambridge United                  3  🟢 67%
-  10. Milton Keynes Dons                3  🟢 67%
+   4. Doncaster Rovers                  5  🟢 60%
+   5. Notts County                      5  🟢 80%  🔴
+   6. Wigan Athletic                    4  🔴
+   7. Cambridge United                  3  🟢 67%
+   8. Oxford United                     3  🟢 100%
+   9. Blackpool                         2  🟢 50%
+  10. Reading                           2  🟢 100%
 
 RITARDI X2 + OVER 2,5
    1. AFC Wimbledon                     9  🟢 56%
@@ -201,14 +201,14 @@ RITARDI 12 + OVER 2,5
    4. Leyton Orient                     3
    5. Sheffield Wednesday               3
    6. Wigan Athletic                    3  🔴
-   7. Stevenage                         2  🔴
-   8. Blackpool                         1
-   9. Burton Albion                     1
+   7. Burton Albion                     2  🟢 50%
+   8. Stevenage                         2  🔴
+   9. Blackpool                         1
   10. Huddersfield Town                 1  🟢 100%
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
-Stagione 2026/2027 (115 partite giocate) + 2025/2026
+Stagione 2026/2027 (116 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Northampton Town                 8+  🟢 50%
@@ -328,43 +328,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 GERMANIA - 3. LIGA
-Stagione 2026/2027 (91 partite giocate) + 2025/2026
+Stagione 2026/2027 (96 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Waldhof Mannheim                  6  🟢 67%
    2. Fortuna Köln                      5  🟢 60%
-   3. Meppen                            4  🟢 75%
-   4. Hansa Rostock                     3  🟢 100%
-   5. Ingolstadt                        2  🟢 100%
-   6. Saarbrücken                       2  🟢 50%  🔴
-   7. Fortuna Düsseldorf                1  🟢 100%  🔴
-   8. MSV Duisburg                      1  🟢 100%
-   9. Preussen Münster                  1  🟢 100%
-  10. RW Essen                          1  🟢 100%
+   3. Hansa Rostock                     4  🟢 100%  🔴
+   4. Meppen                            4  🟢 75%
+   5. Ingolstadt                        3  🟢 67%
+   6. Saarbrücken                       3  🟢 67%  🔴
+   7. Fortuna Düsseldorf                2  🟢 100%  🔴
+   8. RW Essen                          2  🟢 50%
+   9. Alemannia Aachen                  1  🟢 100%
+  10. Jahn Regensburg                   1
 
 RITARDI X2 + OVER 2,5
-   1. Hansa Rostock                     6  🟢 100%
+   1. Hansa Rostock                     7  🟢 100%
    2. Fortuna Köln                      3
    3. Hoffenheim II                     3  🟢 67%
    4. Meppen                            3  🟢 67%
    5. VfB Stuttgart II                  3  🟢 67%
-   6. Alemannia Aachen                  1  🟢 100%
-   7. RW Essen                          1  🟢 100%
-   8. Wehen Wiesbaden                   1  🟢 100%
-   9. Fortuna Düsseldorf                0
-  10. Ingolstadt                        0
+   6. Alemannia Aachen                  2  🟢 100%
+   7. RW Essen                          2  🟢 50%
+   8. Wehen Wiesbaden                   2  🟢 50%
+   9. Ingolstadt                        1
+  10. Jahn Regensburg                   1  🔴
 
 RITARDI 12 + OVER 2,5
-   1. Fortuna Köln                      3  🔴
-   2. Hansa Rostock                     3  🟢 100%
-   3. Meppen                            3  🟢 67%
-   4. RW Essen                          3  🟢 100%
-   5. SC Verl                           2  🟢 100%
-   6. Würzburger Kickers                2  🟢 100%
-   7. Jahn Regensburg                   1  🟢 100%  🔴
-   8. Sonnenhof Großaspach              1  🟢 100%
-   9. TSV Havelse                       1  🟢 100%
-  10. VfB Stuttgart II                  1
+   1. Hansa Rostock                     4  🟢 100%
+   2. RW Essen                          4  🟢 75%
+   3. Fortuna Köln                      3  🔴
+   4. Meppen                            3  🟢 67%
+   5. Jahn Regensburg                   2  🟢 50%  🔴
+   6. SC Verl                           2  🟢 100%
+   7. Würzburger Kickers                2  🟢 100%
+   8. Alemannia Aachen                  1  🟢 100%
+   9. Ingolstadt                        1
+  10. TSV Havelse                       1  🟢 100%
 
 ==================================================
 FRANCIA - LIGUE 1
@@ -408,55 +408,55 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 FRANCIA - LIGUE 2
-Stagione 2026/2027 (77 partite giocate) + 2025/2026
+Stagione 2026/2027 (79 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Red Star                         10  🟢 70%
    2. Boulogne                          9  🟢 56%
    3. Nancy                             9  🔴
-   4. Sochaux                          8+  🟢 50%  🔴
-   5. Grenoble                          6  🟢 83%
-   6. Nantes                            4  🔴
-   7. Annecy FC                         3  🟢 67%
+   4. Grenoble                          6  🟢 83%
+   5. Nantes                            5  🔴
+   6. Annecy FC                         3  🟢 67%
+   7. Dunkerque                         3  🟢 67%
    8. Guingamp                          3  🟢 67%
    9. Montpellier                       3  🟢 67%  🔴
   10. Rodez                             3  🟢 67%
 
 RITARDI X2 + OVER 2,5
    1. Montpellier                       9  🟢 56%
-   2. Sochaux                           7  🔴
-   3. Dunkerque                         6  🟢 67%
-   4. Grenoble                          4  🟢 75%  🔴
-   5. Reims                             3  🟢 67%
-   6. Boulogne                          2  🟢 100%
-   7. Dijon                             2  🟢 100%
-   8. Metz                              1  🟢 100%
-   9. Nantes                            1
-  10. Rodez                             1  🟢 100%
+   2. Sochaux                           8  🟢 50%  🔴
+   3. Grenoble                          4  🟢 75%  🔴
+   4. Reims                             3  🟢 67%
+   5. Boulogne                          2  🟢 100%
+   6. Dijon                             2  🟢 100%
+   7. Metz                              2  🟢 100%
+   8. Rodez                             1  🟢 100%
+   9. Saint-Étienne                     1  🟢 100%
+  10. Annecy FC                         0
 
 RITARDI 12 + OVER 2,5
-   1. Sochaux                           7  🔴
-   2. Grenoble                          4  🟢 75%
-   3. Montpellier                       3  🟢 67%  🔴
-   4. Boulogne                          2  🟢 100%
-   5. Dunkerque                         2  🟢 50%
-   6. Saint-Étienne                     2  🟢 100%
-   7. Clermont Foot                     1  🟢 100%  🔴
-   8. Laval                             1  🟢 100%
-   9. Nantes                            1
-  10. Rodez                             1  🟢 100%
+   1. Grenoble                          4  🟢 75%
+   2. Montpellier                       3  🟢 67%  🔴
+   3. Boulogne                          2  🟢 100%
+   4. Saint-Étienne                     2  🟢 100%
+   5. Clermont Foot                     1  🟢 100%  🔴
+   6. Laval                             1  🟢 100%
+   7. Rodez                             1  🟢 100%
+   8. Annecy FC                         0
+   9. Dijon                             0
+  10. Dunkerque                         0
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (79 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Elche                             5  🟢 80%
    2. Málaga                            5  🟢 60%
    3. Deportivo Alavés                  3
-   4. Athletic Club                     2  🟢 50%  🔴
-   5. Espanyol                          2  🟢 100%
-   6. Atlético Madrid                   1  🟢 100%
+   4. Espanyol                          3  🟢 67%
+   5. Athletic Club                     2  🟢 50%  🔴
+   6. Atlético Madrid                   2  🟢 50%
    7. Celta Vigo                        1
    8. Deportivo A Coruña                1  🟢 100%  🔴
    9. Levante                           1  🟢 100%
@@ -470,25 +470,25 @@ RITARDI X2 + OVER 2,5
    5. Athletic Club                     5  🟢 80%  🔴
    6. Deportivo A Coruña                5  🟢 80%
    7. Real Betis                        3  🟢 67%
-   8. Málaga                            2  🟢 50%
-   9. Real Madrid                       2  🟢 50%
-  10. Villarreal                        2  🟢 50%
+   8. Espanyol                          2  🟢 50%  🔴
+   9. Málaga                            2  🟢 50%
+  10. Real Madrid                       2  🟢 50%
 
 RITARDI 12 + OVER 2,5
    1. Athletic Club                     2  🟢 50%
-   2. Levante                           2  🟢 100%
-   3. Málaga                            2  🟢 50%  🔴
-   4. Celta Vigo                        1
-   5. Deportivo A Coruña                1  🟢 100%
-   6. Elche                             1
-   7. Espanyol                          1  🟢 100%
-   8. Racing Santander                  1  🟢 100%
-   9. Rayo Vallecano                    1  🟢 100%
-  10. Real Madrid                       1
+   2. Espanyol                          2  🟢 50%
+   3. Levante                           2  🟢 100%
+   4. Málaga                            2  🟢 50%  🔴
+   5. Atlético Madrid                   1
+   6. Celta Vigo                        1
+   7. Deportivo A Coruña                1  🟢 100%
+   8. Elche                             1
+   9. Racing Santander                  1  🟢 100%
+  10. Rayo Vallecano                    1  🟢 100%
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (100 partite giocate) + 2025/2026
+Stagione 2026/2027 (101 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. FC Andorra                        7  🔴
@@ -497,22 +497,22 @@ RITARDI 1X + OVER 2,5
    4. Granada                           3  🟢 67%
    5. Sabadell                          3  🟢 67%
    6. AD Ceuta FC                       2  🟢 100%
-   7. Burgos CF                         1  🔴
-   8. Cádiz                             1
-   9. Córdoba                           1
-  10. Leganés                           1
+   7. Almería                           1  🟢 100%
+   8. Burgos CF                         1  🔴
+   9. Cádiz                             1
+  10. Córdoba                           1
 
 RITARDI X2 + OVER 2,5
    1. Leganés                          13  🟢 54%  🔴
-   2. Almería                           9  🟢 67%
-   3. Mallorca                         9+  🟢 56%  🔴
-   4. Tenerife                          8  🟢 75%  🔴
-   5. Castellón                         4  🟢 75%
-   6. Celta Fortuna                     4  🟢 100%
-   7. Córdoba                           4  🟢 75%
-   8. Real Oviedo                       4  🟢 100%
-   9. Burgos CF                         3  🔴
-  10. Cádiz                             3  🟢 67%
+   2. Mallorca                         9+  🟢 56%  🔴
+   3. Tenerife                          8  🟢 75%  🔴
+   4. Castellón                         4  🟢 75%
+   5. Celta Fortuna                     4  🟢 100%
+   6. Córdoba                           4  🟢 75%
+   7. Real Oviedo                       4  🟢 100%
+   8. Burgos CF                         3  🔴
+   9. Cádiz                             3  🟢 67%
+  10. Eldense                           3  🟢 67%
 
 RITARDI 12 + OVER 2,5
    1. Castellón                         3  🟢 67%
@@ -928,43 +928,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 NORVEGIA - ELITESERIEN
-Stagione 2026 (176 partite giocate) + 2025
+Stagione 2026 (177 partite giocate) + 2025
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Fredrikstad                       8  🟢 62%  🔴
    2. Sarpsborg 08                      3  🟢 100%
    3. Aalesund                          2  🟢 100%
-   4. Rosenborg                         2  🟢 100%
-   5. Brann                             1  🟢 100%
-   6. Hamarkameratene                   1  🟢 100%
-   7. Sandefjord                        1  🟢 100%
-   8. Start                             1  🟢 100%
-   9. Tromsø                            1  🟢 100%  🔴
-  10. Viking                            1  🟢 100%
+   4. Hamarkameratene                   2  🟢 100%
+   5. Rosenborg                         2  🟢 100%
+   6. Bodø/Glimt                        1  🟢 100%
+   7. Brann                             1  🟢 100%
+   8. Sandefjord                        1  🟢 100%
+   9. Start                             1  🟢 100%
+  10. Tromsø                            1  🟢 100%  🔴
 
 RITARDI X2 + OVER 2,5
    1. Viking                            7  🟢 100%
    2. Tromsø                            6  🟢 83%  🔴
    3. Sandefjord                        5  🟢 80%  🔴
-   4. Bodø/Glimt                        3  🟢 100%
+   4. Bodø/Glimt                        4  🟢 100%
    5. Brann                             3  🟢 100%
    6. Fredrikstad                       3  🟢 100%  🔴
    7. Vålerenga                         3  🟢 100%
-   8. KFUM                              1  🟢 100%
-   9. Kristiansund                      1  🟢 100%
-  10. Rosenborg                         1  🟢 100%  🔴
+   8. Hamarkameratene                   1  🟢 100%
+   9. KFUM                              1  🟢 100%
+  10. Kristiansund                      1  🟢 100%
 
 RITARDI 12 + OVER 2,5
    1. Fredrikstad                       3  🟢 100%  🔴
-   2. Brann                             1  🟢 100%
-   3. Lillestrøm                        1  🟢 100%
-   4. Molde                             1  🟢 100%
-   5. Rosenborg                         1  🟢 100%
-   6. Sandefjord                        1  🟢 100%
-   7. Tromsø                            1  🟢 100%
-   8. Viking                            1  🟢 100%
-   9. Aalesund                          0
-  10. Bodø/Glimt                        0
+   2. Bodø/Glimt                        1  🟢 100%
+   3. Brann                             1  🟢 100%
+   4. Hamarkameratene                   1  🟢 100%  🔴
+   5. Lillestrøm                        1  🟢 100%
+   6. Molde                             1  🟢 100%
+   7. Rosenborg                         1  🟢 100%
+   8. Sandefjord                        1  🟢 100%
+   9. Tromsø                            1  🟢 100%
+  10. Viking                            1  🟢 100%
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
