@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - '.github/workflows/update.yml'
+      - 'gen.py'
 permissions:
   contents: write
 jobs:
