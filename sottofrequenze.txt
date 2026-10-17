@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL e + OVER 2,5 (ultime 100 partite di campionato)
-Aggiornato: 17/10/2026 16:17 (ora italiana)
+Aggiornato: 17/10/2026 17:16 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse (contano anche le partite in altre divisioni). Classifica per numero di uscite; incluse solo squadre con almeno 85 partite (N<100 = storico disponibile inferiore). Fonte: FotMob
 
 ==================================================
@@ -17,8 +17,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/20 Lecce                          21/100
     2/20 Roma                           26/100
-    3/20 Inter                          29/100
-    4/20 Venezia                        29/100
+    3/20 Venezia                        28/100
+    4/20 Inter                          29/100
     5/20 Napoli                         30/100
     6/20 Sassuolo                       30/100
     7/20 Torino                         30/100
@@ -41,13 +41,13 @@ SOTTOFREQUENZA 1X + OVER 2,5
     4/20 Bologna                        28/100
     5/20 Parma                          28/100
      ...
-   20/20 Venezia                        39/100  (la fa più spesso)
+   20/20 Inter                          39/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
     1/20 Roma                           19/100
-    2/20 Lecce                          21/100
-    3/20 Torino                         21/100
-    4/20 Venezia                        21/100
+    2/20 Venezia                        20/100
+    3/20 Lecce                          21/100
+    4/20 Torino                         21/100
     5/20 Juventus                       22/100
     6/20 Parma                          22/100
      ...
@@ -71,25 +71,26 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 LR Vicenza                     30/100
     3/20 Hellas Verona                  33/100
     4/20 Cremonese                      34/100
-    5/20 Ascoli                         35/100
+    5/20 Ascoli                         36/100
+    6/20 Benevento                      36/100
+    7/20 Padova                         36/100
      ...
    20/20 Catanzaro                      47/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Carrarese                      25/100
     2/20 Arezzo                         28/100
-    3/20 Ascoli                         30/100
-    4/20 Avellino                       30/100
-    5/20 LR Vicenza                     30/100
-    6/20 Padova                         30/100
+    3/20 Avellino                       30/100
+    4/20 LR Vicenza                     30/100
+    5/20 Padova                         30/100
      ...
    20/20 Modena                         42/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Virtus Entella                 25/100
-    2/20 Carrarese                      26/100
-    3/20 Benevento                      27/100
-    4/20 Padova                         27/100
+    1/20 Virtus Entella                 26/100
+    2/20 Benevento                      27/100
+    3/20 Carrarese                      27/100
+    4/20 Padova                         28/100
     5/20 Südtirol                       28/100
      ...
    20/20 Pisa                           36/100  (la fa più spesso)
@@ -98,17 +99,18 @@ SOTTOFREQUENZA 1X + OVER 2,5
     1/20 Arezzo                         20/100
     2/20 Cesena                         25/100
     3/20 Padova                         26/100
-    4/20 LR Vicenza                     27/100
-    5/20 Ascoli                         28/100
+    4/20 Ascoli                         28/100
+    5/20 Empoli                         28/100
     6/20 Hellas Verona                  28/100
-    7/20 Sampdoria                      28/100
-    8/20 Südtirol                       28/100
+    7/20 LR Vicenza                     28/100
+    8/20 Sampdoria                      28/100
+    9/20 Südtirol                       28/100
      ...
    20/20 Catanzaro                      41/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-    1/20 Virtus Entella                 13/100
-    2/20 Padova                         15/100
+    1/20 Virtus Entella                 14/100
+    2/20 Padova                         16/100
     3/20 Carrarese                      18/100
     4/20 Ascoli                         20/100
     5/20 Empoli                         20/100
@@ -116,10 +118,10 @@ SOTTOFREQUENZA X2 + OVER 2,5
    20/20 Pisa                           33/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-    1/20 Padova                         33/100
-    2/20 Carrarese                      34/100
-    3/20 Sampdoria                      34/100
-    4/20 Virtus Entella                 34/100
+    1/20 Padova                         34/100
+    2/20 Sampdoria                      34/100
+    3/20 Carrarese                      35/100
+    4/20 Virtus Entella                 35/100
     5/20 Modena                         37/100
      ...
    20/20 Pisa                           47/100  (la fa più spesso)
@@ -1717,7 +1719,7 @@ SOTTOFREQUENZA 1X + GOAL
    12/12 Örebro                         56/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 Sandvikens IF                  25/85
+    1/12 Sandvikens IF                  25/86
     2/12 Örebro                         30/100
     3/12 GIF Sundsvall                  31/100
     4/12 Helsingborg                    32/100
@@ -1727,7 +1729,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Östersunds FK                  29/100
-    2/12 Sandvikens IF                  30/85
+    2/12 Sandvikens IF                  30/86
     3/12 IK Brage                       32/100
     4/12 IK Oddevold                    33/86
     5/12 GIF Sundsvall                  34/100
@@ -1746,7 +1748,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
 SOTTOFREQUENZA X2 + OVER 2,5
     1/12 Örebro                         18/100
     2/12 Östersunds FK                  18/100
-    3/12 Sandvikens IF                  21/85
+    3/12 Sandvikens IF                  21/86
     4/12 GIF Sundsvall                  24/100
     5/12 IFK Norrköping                 26/100
      ...
@@ -1755,7 +1757,7 @@ SOTTOFREQUENZA X2 + OVER 2,5
 SOTTOFREQUENZA 12 + OVER 2,5
     1/12 Östersunds FK                  33/100
     2/12 IK Oddevold                    39/86
-    3/12 Sandvikens IF                  42/85
+    3/12 Sandvikens IF                  42/86
     4/12 IK Brage                       43/100
     5/12 Helsingborg                    45/100
      ...
@@ -1767,7 +1769,7 @@ REP. CECA - 1. LIGA
 SOTTOFREQUENZA 1X + GOAL
     1/16 Baník Ostrava                  30/100
     2/16 Bohemians 1905                 31/100
-    3/16 Hradec Králové                 32/100
+    3/16 Hradec Králové                 31/100
     4/16 Jablonec                       32/100
     5/16 Slavia Prague                  32/100
     6/16 Viktoria Plzeň                 32/100
@@ -1775,10 +1777,10 @@ SOTTOFREQUENZA 1X + GOAL
    16/16 Sparta Prague                  41/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/16 Slavia Prague                  24/100
+    1/16 Slavia Prague                  23/100
     2/16 Jablonec                       26/100
     3/16 Baník Ostrava                  27/100
-    4/16 Hradec Králové                 28/100
+    4/16 Hradec Králové                 27/100
     5/16 Slovan Liberec                 29/100
      ...
    16/16 Sigma Olomouc                  43/100  (la fa più spesso)
@@ -1797,8 +1799,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
     2/16 Bohemians 1905                 25/100
     3/16 Hradec Králové                 28/100
     4/16 Teplice                        28/100
-    5/16 Pardubice                      29/100
-    6/16 Slovan Liberec                 29/100
+    5/16 Slovan Liberec                 29/100
      ...
    16/16 Slavia Prague                  41/100  (la fa più spesso)
 
@@ -1818,7 +1819,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     4/16 Slovan Liberec                 40/100
     5/16 Slovácko                       40/100
      ...
-   16/16 Slavia Prague                  59/100  (la fa più spesso)
+   16/16 Sparta Prague                  58/100  (la fa più spesso)
 
 ==================================================
 REP. CECA - FNL
@@ -1945,11 +1946,12 @@ SLOVACCHIA - 2. LIGA
 SOTTOFREQUENZA 1X + GOAL
     1/10 FC Petržalka 1898              33/98
     2/10 Tatran Prešov                  37/99
-    3/10 Zlaté Moravce                  38/100
-    4/10 Žilina B                       38/98
-    5/10 FC STK 1914 Šamorín            40/98
+    3/10 Žilina B                       38/98
+    4/10 Zlaté Moravce                  39/100
+    5/10 FC STK 1914 Šamorín            41/99
+    6/10 Malženice                      41/98
      ...
-   10/10 Považská Bystrica              54/98  (la fa più spesso)
+   10/10 Považská Bystrica              55/99  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 Tatran Prešov                  24/99
@@ -1958,12 +1960,12 @@ SOTTOFREQUENZA X2 + GOAL
     4/10 FC Petržalka 1898              29/98
     5/10 FK Pohronie                    29/98
      ...
-   10/10 Považská Bystrica              38/98  (la fa più spesso)
+   10/10 Považská Bystrica              38/99  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 FC Petržalka 1898              32/98
     2/10 Tatran Prešov                  33/99
-    3/10 Zlaté Moravce                  35/100
+    3/10 Zlaté Moravce                  36/100
     4/10 FK Pohronie                    37/98
     5/10 Liptovský Mikuláš              40/98
      ...
@@ -1971,12 +1973,11 @@ SOTTOFREQUENZA 12 + GOAL
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/10 FC Petržalka 1898              28/98
-    2/10 FC STK 1914 Šamorín            35/98
-    3/10 Zlaté Moravce                  36/100
+    2/10 FC STK 1914 Šamorín            36/99
+    3/10 Zlaté Moravce                  37/100
     4/10 Tatran Prešov                  37/99
     5/10 FK Pohronie                    39/98
     6/10 Malženice                      39/98
-    7/10 Považská Bystrica              39/98
      ...
    10/10 Liptovský Mikuláš              43/98  (la fa più spesso)
 
@@ -1984,14 +1985,14 @@ SOTTOFREQUENZA X2 + OVER 2,5
     1/10 Tatran Prešov                  20/99
     2/10 FC Petržalka 1898              20/98
     3/10 Malženice                      20/98
-    4/10 Považská Bystrica              21/98
+    4/10 Považská Bystrica              21/99
     5/10 Slovan Bratislava B            24/98
      ...
    10/10 FK Pohronie                    27/98  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
-    1/10 Zlaté Moravce                  43/100
-    2/10 Tatran Prešov                  43/99
+    1/10 Tatran Prešov                  43/99
+    2/10 Zlaté Moravce                  44/100
     3/10 FC Petržalka 1898              44/98
     4/10 Liptovský Mikuláš              47/98
     5/10 Slovan Bratislava B            49/98
@@ -2237,7 +2238,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
 FINLANDIA - VEIKKAUSLIIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 HJK                            38/100
+    1/12 HJK                            37/100
     2/12 TPS                            39/100
     3/12 FF Jaro                        40/100
     4/12 VPS                            40/100
@@ -2271,9 +2272,12 @@ SOTTOFREQUENZA 1X + OVER 2,5
     1/12 KuPS                           31/100
     2/12 VPS                            35/100
     3/12 AC Oulu                        37/100
-    4/12 HJK                            37/100
-    5/12 IF Gnistan                     37/100
-    6/12 TPS                            37/100
+    4/12 TPS                            37/100
+    5/12 FC Inter Turku                 38/100
+    6/12 FF Jaro                        38/100
+    7/12 HJK                            38/100
+    8/12 IF Gnistan                     38/100
+    9/12 IFK Mariehamn                  38/100
      ...
    12/12 SJK                            44/100  (la fa più spesso)
 
@@ -2290,36 +2294,37 @@ SOTTOFREQUENZA 12 + OVER 2,5
     1/12 FC Lahti                       42/100
     2/12 FC Inter Turku                 45/100
     3/12 KuPS                           45/100
-    4/12 IF Gnistan                     47/100
+    4/12 IF Gnistan                     48/100
     5/12 IFK Mariehamn                  49/100
      ...
-   12/12 HJK                            56/100  (la fa più spesso)
+   12/12 HJK                            57/100  (la fa più spesso)
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/10 FC KTP                         36/100
-    2/10 EIF                            38/100
-    3/10 JIPPO                          38/100
-    4/10 JäPS                           38/100
-    5/10 PK-35                          38/100
+    2/10 JäPS                           38/100
+    3/10 MP                             38/100
+    4/10 PK-35                          38/100
+    5/10 EIF                            39/100
+    6/10 JIPPO                          39/100
      ...
-   10/10 KäPa                           55/100  (la fa più spesso)
+   10/10 KäPa                           56/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 FC KTP                         29/100
     2/10 JIPPO                          30/100
-    3/10 MP                             31/100
-    4/10 EIF                            32/100
+    3/10 EIF                            31/100
+    4/10 MP                             32/100
     5/10 Klubi 04                       33/100
      ...
-   10/10 KäPa                           40/100  (la fa più spesso)
+   10/10 KäPa                           39/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 PK-35                          32/100
-    2/10 Klubi 04                       33/100
-    3/10 JIPPO                          34/100
+    1/10 Klubi 04                       33/100
+    2/10 PK-35                          33/100
+    3/10 JIPPO                          35/100
     4/10 MP                             36/100
     5/10 EIF                            38/100
     6/10 SJK Akatemia                   38/100
@@ -2328,25 +2333,25 @@ SOTTOFREQUENZA 12 + GOAL
 
 SOTTOFREQUENZA 1X + OVER 2,5
     1/10 PK-35                          28/100
-    2/10 JIPPO                          30/100
+    2/10 JIPPO                          31/100
     3/10 JäPS                           34/100
     4/10 Klubi 04                       35/100
-    5/10 EIF                            36/100
+    5/10 MP                             36/100
      ...
-   10/10 KäPa                           49/100  (la fa più spesso)
+   10/10 KäPa                           50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + OVER 2,5
-    1/10 JIPPO                          20/100
-    2/10 EIF                            26/100
-    3/10 MP                             26/100
-    4/10 PK-35                          26/100
+    1/10 JIPPO                          19/100
+    2/10 EIF                            25/100
+    3/10 PK-35                          25/100
+    4/10 MP                             27/100
     5/10 Klubi 04                       28/100
      ...
-   10/10 KäPa                           32/100  (la fa più spesso)
+   10/10 JäPS                           33/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + OVER 2,5
     1/10 JIPPO                          44/100
-    2/10 PK-35                          44/100
+    2/10 PK-35                          45/100
     3/10 Klubi 04                       47/100
     4/10 MP                             47/100
     5/10 SJK Akatemia                   49/100
@@ -2363,10 +2368,9 @@ SOTTOFREQUENZA 1X + GOAL
     4/17 GKS Katowice                   39/100
     5/17 Górnik Zabrze                  39/100
     6/17 Lech Poznań                    39/100
-    7/17 Motor Lublin                   39/100
-    8/17 Widzew Łódź                    39/100
+    7/17 Widzew Łódź                    39/100
      ...
-   17/17 Śląsk Wrocław                  49/100  (la fa più spesso)
+   17/17 Śląsk Wrocław                  50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/17 Górnik Zabrze                  27/100
@@ -2382,9 +2386,8 @@ SOTTOFREQUENZA 12 + GOAL
     2/17 Legia Warszawa                 31/100
     3/17 Piast Gliwice                  31/100
     4/17 Pogoń Szczecin                 31/100
-    5/17 Motor Lublin                   35/100
-    6/17 Wisła Płock                    35/100
-    7/17 Zagłębie Lubin                 35/100
+    5/17 Wisła Płock                    35/100
+    6/17 Zagłębie Lubin                 35/100
      ...
    17/17 Radomiak Radom                 44/100  (la fa più spesso)
 
@@ -2393,7 +2396,7 @@ SOTTOFREQUENZA 1X + OVER 2,5
     2/17 Raków Częstochowa              26/100
     3/17 Piast Gliwice                  27/100
     4/17 Zagłębie Lubin                 29/100
-    5/17 Motor Lublin                   30/100
+    5/17 Motor Lublin                   31/100
      ...
    17/17 Śląsk Wrocław                  41/100  (la fa più spesso)
 
@@ -2414,8 +2417,7 @@ SOTTOFREQUENZA 12 + OVER 2,5
     3/17 Piast Gliwice                  38/100
     4/17 Zagłębie Lubin                 40/100
     5/17 Cracovia                       42/100
-    6/17 Motor Lublin                   42/100
-    7/17 Pogoń Szczecin                 42/100
+    6/17 Pogoń Szczecin                 42/100
      ...
    17/17 Radomiak Radom                 55/100  (la fa più spesso)
 

@@ -1,21 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 17/10/2026 16:17 (ora italiana)
+Aggiornato: 17/10/2026 17:16 (ora italiana)
 Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 17/10/2026
 ==================================================
-16:30  Würzburger Kickers vs Waldhof Mannheim   [GERMANIA - 3. LIGA]  [OK 1X+GOAL] [ALT 1X+OVER2,5]
-      [GOAL] Waldhof Mannheim: 1X + GOAL (6) 🟢 67%
-      [OVER 2,5] Waldhof Mannheim: 1X + OVER 2,5 (6) 🟢 67%
-16:30  FC Emmen vs Almere City FC   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-      [GOAL] Almere City FC: X2 + GOAL (6) 🟢 50%
-17:00  FC Inter Turku vs AC Oulu   [FINLANDIA - VEIKKAUSLIIGA]  [OK X2+GOAL] [OK 1X+GOAL] [OK X2+OVER2,5] [ALT 1X+OVER2,5]
-      [GOAL] FC Inter Turku: X2 + GOAL (7) 🔴 FC Inter Turku
-      [GOAL] AC Oulu: 1X + GOAL (10)
-      [OVER 2,5] FC Inter Turku: X2 + OVER 2,5 (7) 🔴 FC Inter Turku
-      [OVER 2,5] AC Oulu: 1X + OVER 2,5 (12) 🔴 AC Oulu
 17:30  BW Linz vs FC Liefering   [AUSTRIA - 2. LIGA]  [ALT X2+OVER2,5]
       [OVER 2,5] BW Linz: X2 + OVER 2,5 (7) 🟢 86% 🔴 BW Linz
 18:00  Viking vs Fredrikstad   [NORVEGIA - ELITESERIEN]  [OK X2+OVER2,5] [OK 1X+OVER2,5]
@@ -89,7 +79,7 @@ Soglie: combo Goal ritardo >= 6, combo Over 2,5 ritardo >= 6. Orari in ora itali
       [OVER 2,5] Sunderland: X2 + OVER 2,5 (7) 🟢 86% 🔴 Sunderland
 15:00  Leeds United vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+OVER2,5]
       [OVER 2,5] Leeds United: X2 + OVER 2,5 (10) 🟢 70% 🔴 Leeds United
-15:00  Juve Stabia vs Südtirol   [ITALIA - SERIE B]  [OK 1X+OVER2,5]
+15:00  Juve Stabia vs Südtirol   [ITALIA - SERIE B]  [ALT 1X+OVER2,5]
       [OVER 2,5] Juve Stabia: 1X + OVER 2,5 (6) 🟢 83%
       [OVER 2,5] Südtirol: 1X + OVER 2,5 (11) 🟢 55%
 15:00  Baník Ostrava vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]

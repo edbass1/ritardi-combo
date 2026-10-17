@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + OVER 2,5
-Aggiornato: 17/10/2026 16:17 (ora italiana)
+Aggiornato: 17/10/2026 17:16 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -8,7 +8,7 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (61 partite giocate) + 2025/2026
+Stagione 2026/2027 (62 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Cagliari                          7
@@ -17,17 +17,17 @@ RITARDI 1X + OVER 2,5
    4. Juventus                          2  🟢 100%
    5. Lecce                             1  🟢 100%  🔴
    6. Milan                             1  🟢 100%
-   7. Roma                              1
-   8. Atalanta                          0
-   9. Fiorentina                        0
-  10. Frosinone                         0
+   7. Napoli                            1
+   8. Roma                              1
+   9. Venezia                           1
+  10. Atalanta                          0
 
 RITARDI X2 + OVER 2,5
    1. Parma                             8  🟢 62%
    2. Juventus                          6  🟢 83%
    3. Frosinone                         5  🟢 100%
-   4. Monza                             4  🟢 100%
-   5. Napoli                            4  🟢 75%
+   4. Napoli                            5  🟢 60%
+   5. Monza                             4  🟢 100%
    6. Sassuolo                          4  🟢 100%
    7. Como                              3  🟢 67%
    8. Genoa                             3  🟢 100%
@@ -40,51 +40,51 @@ RITARDI 12 + OVER 2,5
    3. Como                              2  🟢 50%
    4. Juventus                          2  🟢 100%  🔴
    5. Milan                             1  🟢 100%
-   6. Atalanta                          0
-   7. Bologna                           0  🔴
-   8. Fiorentina                        0
-   9. Frosinone                         0
-  10. Genoa                             0
+   6. Napoli                            1
+   7. Venezia                           1
+   8. Atalanta                          0
+   9. Bologna                           0  🔴
+  10. Fiorentina                        0
 
 ==================================================
 ITALIA - SERIE B
-Stagione 2026/2027 (61 partite giocate) + 2025/2026
+Stagione 2026/2027 (65 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Südtirol                         11  🟢 55%
-   2. Carrarese                         6  🟢 50%
-   3. Juve Stabia                       6  🟢 83%
+   2. Juve Stabia                       6  🟢 83%
+   3. Virtus Entella                    4  🟢 75%
    4. Arezzo                            3  🔴
-   5. Virtus Entella                    3  🟢 67%
-   6. Benevento                         2  🟢 50%
-   7. Cesena                            2  🟢 100%  🔴
-   8. Cremonese                         2
-   9. Ascoli                            1
-  10. Empoli                            1  🟢 100%
+   5. Ascoli                            2  🟢 50%
+   6. Cesena                            2  🟢 100%  🔴
+   7. Cremonese                         2
+   8. Empoli                            2  🟢 100%
+   9. Padova                            2  🟢 100%  🔴
+  10. Mantova                           1  🟢 100%
 
 RITARDI X2 + OVER 2,5
-   1. Padova                            6  🟢 67%  🔴
-   2. Ascoli                            5
+   1. Ascoli                            6  🟢 50%
+   2. Carrarese                         6  🟢 50%  🔴
    3. Avellino                          5  🟢 80%
-   4. Benevento                         5  🟢 60%
-   5. Carrarese                         5  🔴
-   6. Modena                            4  🟢 75%
-   7. Sampdoria                         4  🟢 100%
-   8. Juve Stabia                       3  🟢 100%
-   9. Cesena                            2  🟢 100%
-  10. Cremonese                         2
+   4. Modena                            5  🟢 80%
+   5. Sampdoria                         4  🟢 100%
+   6. Juve Stabia                       3  🟢 100%
+   7. Cesena                            2  🟢 100%
+   8. Cremonese                         2
+   9. Arezzo                            1
+  10. Empoli                            1  🟢 100%
 
 RITARDI 12 + OVER 2,5
-   1. Carrarese                         5  🔴
-   2. Cesena                            4  🟢 100%
+   1. Cesena                            4  🟢 100%
+   2. Benevento                         3  🟢 67%
    3. Cremonese                         3
    4. Juve Stabia                       3  🟢 100%
-   5. Benevento                         2  🟢 50%
-   6. Virtus Entella                    2  🟢 50%  🔴
-   7. Arezzo                            1
-   8. Ascoli                            1
-   9. Catanzaro                         1  🟢 100%
-  10. Hellas Verona                     1  🟢 100%
+   5. Ascoli                            2  🟢 50%
+   6. Arezzo                            1
+   7. Catanzaro                         1  🟢 100%
+   8. Empoli                            1  🟢 100%
+   9. Hellas Verona                     1  🟢 100%
+  10. LR Vicenza                        1  🟢 100%
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
@@ -1128,83 +1128,83 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (208 partite giocate) + 2025
+Stagione 2026 (210 partite giocate) + 2025
 ==================================================
 RITARDI 1X + OVER 2,5
    1. IFK Värnamo                      13  🟢 77%  🔴
-   2. Östersunds FK                    10
+   2. Östersunds FK                    11
    3. Nordic United FC                  9  🟢 89%
    4. Helsingborg                       6  🟢 67%
    5. IK Oddevold                       4  🟢 50%
-   6. Falkenbergs FF                    3  🟢 67%
-   7. Norrby                            3  🟢 67%
-   8. Östers IF                         3  🟢 100%  🔴
-   9. IK Brage                          2  🟢 100%
-  10. Ljungskile                        2  🟢 100%
+   6. Norrby                            3  🟢 67%
+   7. Östers IF                         3  🟢 100%  🔴
+   8. IK Brage                          2  🟢 100%
+   9. Ljungskile                        2  🟢 100%
+  10. Sandvikens IF                     1
 
 RITARDI X2 + OVER 2,5
-   1. Östersunds FK                    10  🔴
-   2. IK Brage                          7  🟢 86%
-   3. Sandvikens IF                     7  🟢 86%  🔴
+   1. Östersunds FK                    11  🔴
+   2. Sandvikens IF                     8  🟢 75%  🔴
+   3. IK Brage                          7  🟢 86%
    4. Ljungskile                        5  🟢 100%
    5. GIF Sundsvall                     3  🟢 100%  🔴
    6. Helsingborg                       3
    7. Örebro                            3  🟢 100%  🔴
-   8. Norrby                            2  🟢 50%
-   9. Varbergs BoIS FC                  2  🟢 100%
-  10. IFK Norrköping                    1  🟢 100%
+   8. Landskrona BoIS                   2  🟢 100%
+   9. Norrby                            2  🟢 50%
+  10. Varbergs BoIS FC                  2  🟢 100%
 
 RITARDI 12 + OVER 2,5
-   1. Östersunds FK                    16  🟢 62%  🔴
+   1. Östersunds FK                    17  🟢 59%  🔴
    2. Helsingborg                       3  🔴
    3. IK Brage                          2  🟢 100%  🔴
    4. Ljungskile                        2  🟢 100%
    5. Norrby                            2  🟢 50%
    6. IK Oddevold                       1  🟢 100%  🔴
    7. Nordic United FC                  1  🟢 100%
-   8. Varbergs BoIS FC                  1  🟢 100%
-   9. Örebro                            1  🟢 100%
-  10. Östers IF                         1  🟢 100%
+   8. Sandvikens IF                     1  🔴
+   9. Varbergs BoIS FC                  1  🟢 100%
+  10. Örebro                            1  🟢 100%
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (80 partite giocate) + 2025/2026
+Stagione 2026/2027 (83 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. Teplice                           6  🟢 100%  🔴
-   2. FC Zlín                           4  🟢 75%
-   3. Hradec Králové                    4  🟢 75%  🔴
-   4. Jablonec                          3  🟢 67%
-   5. Sigma Olomouc                     3  🟢 100%
-   6. Sparta Prague                     3  🟢 100%
-   7. Artis Brno                        2  🟢 50%  🔴
-   8. Bohemians 1905                    2  🔴
-   9. FC Zbrojovka Brno                 2  🟢 50%
-  10. Slovan Liberec                    2  🟢 50%
+   1. Teplice                           7  🟢 86%  🔴
+   2. Hradec Králové                    5  🟢 60%  🔴
+   3. Jablonec                          3  🟢 67%
+   4. Sigma Olomouc                     3  🟢 100%
+   5. Sparta Prague                     3  🟢 100%
+   6. Artis Brno                        2  🟢 50%  🔴
+   7. Bohemians 1905                    2  🔴
+   8. FC Zbrojovka Brno                 2  🟢 50%
+   9. Mladá Boleslav                    2
+  10. Slavia Prague                     2
 
 RITARDI X2 + OVER 2,5
    1. FC Zbrojovka Brno               10+  🟢 70%
-   2. Mladá Boleslav                    8  🟢 88%
+   2. Mladá Boleslav                    9  🟢 78%
    3. Bohemians 1905                    6  🟢 67%
-   4. Jablonec                          4  🟢 75%  🔴
-   5. Slavia Prague                     4  🟢 75%
-   6. Slovan Liberec                    3  🟢 67%
-   7. Teplice                           3  🟢 100%
-   8. FC Zlín                           2  🟢 50%  🔴
-   9. Pardubice                         2  🟢 100%
+   4. Slavia Prague                     5  🟢 60%
+   5. Jablonec                          4  🟢 75%  🔴
+   6. Teplice                           4  🟢 75%
+   7. FC Zlín                           3  🟢 67%  🔴
+   8. Pardubice                         3  🟢 100%
+   9. Slovan Liberec                    3  🟢 67%
   10. Viktoria Plzeň                    2  🟢 100%
 
 RITARDI 12 + OVER 2,5
    1. Slovácko                          5  🟢 80%  🔴
-   2. Jablonec                          3  🟢 67%
-   3. Teplice                           3  🟢 100%  🔴
+   2. Teplice                           4  🟢 75%  🔴
+   3. Jablonec                          3  🟢 67%
    4. Baník Ostrava                     2  🟢 50%
    5. Bohemians 1905                    2  🔴
    6. FC Zbrojovka Brno                 2  🟢 50%
-   7. FC Zlín                           2  🟢 50%
-   8. Slovan Liberec                    2  🟢 50%  🔴
-   9. Mladá Boleslav                    1
-  10. Pardubice                         1  🟢 100%
+   7. Mladá Boleslav                    2
+   8. Slavia Prague                     2
+   9. Slovan Liberec                    2  🟢 50%  🔴
+  10. Hradec Králové                    1  🔴
 
 ==================================================
 REP. CECA - FNL
@@ -1288,43 +1288,43 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (98 partite giocate) + 2025/2026
+Stagione 2026/2027 (102 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. FK Pohronie                       7  🟢 71%
    2. Malženice                         7  🟢 57%
    3. Liptovský Mikuláš                 6  🟢 67%
    4. FC Petržalka 1898                 4  🟢 75%  🔴
-   5. Slovan Galanta                    3  🟢 100%
-   6. Žilina B                          3  🟢 67%
-   7. Baník Lehota pod Vtacnikom        2
-   8. FC STK 1914 Šamorín               2  🟢 100%  🔴
-   9. MFK Zvolen                        2  🟢 50%
-  10. Slovan Bratislava B               2  🟢 100%
+   5. Žilina B                          3  🟢 67%
+   6. Baník Lehota pod Vtacnikom        2
+   7. Slovan Bratislava B               2  🟢 100%
+   8. FC STK 1914 Šamorín               0  🔴
+   9. Humenné                           0
+  10. Inter Bratislava                  0
 
 RITARDI X2 + OVER 2,5
-   1. Humenné                          11  🟢 55%
+   1. Humenné                          12  🟢 58%
    2. FC Petržalka 1898                 9  🟢 67%  🔴
-   3. FC STK 1914 Šamorín               5  🟢 80%
+   3. MFK Zvolen                        4  🟢 75%
    4. Baník Lehota pod Vtacnikom        3
    5. Liptovský Mikuláš                 3  🟢 67%
-   6. MFK Zvolen                        3  🟢 67%
+   6. MFK Bytca                         2  🟢 100%
    7. Slovan Bratislava B               2  🟢 100%
    8. FK Pohronie                       1
-   9. MFK Bytca                         1  🟢 100%
-  10. Malženice                         1  🔴
+   9. Malženice                         1  🔴
+  10. Považská Bystrica                 1  🟢 100%
 
 RITARDI 12 + OVER 2,5
    1. FC Petržalka 1898                 4  🟢 75%  🔴
-   2. Liptovský Mikuláš                 3  🟢 67%
-   3. Slovan Bratislava B               3  🟢 100%
-   4. Baník Lehota pod Vtacnikom        2
-   5. FC STK 1914 Šamorín               2  🟢 100%
-   6. MFK Zvolen                        2  🟢 50%
-   7. FK Pohronie                       1
+   2. FC STK 1914 Šamorín               3  🟢 100%
+   3. Liptovský Mikuláš                 3  🟢 67%
+   4. Slovan Bratislava B               3  🟢 100%
+   5. Baník Lehota pod Vtacnikom        2
+   6. FK Pohronie                       1
+   7. Inter Bratislava                  1  🟢 100%
    8. Malženice                         1
-   9. Považská Bystrica                 1  🟢 100%
-  10. Tatran Prešov                     1  🟢 100%  🔴
+   9. Tatran Prešov                     1  🟢 100%  🔴
+  10. Humenné                           0
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1488,19 +1488,19 @@ RITARDI 12 + OVER 2,5
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (162 partite giocate) + 2025
+Stagione 2026 (163 partite giocate) + 2025
 ==================================================
 RITARDI 1X + OVER 2,5
    1. AC Oulu                          12  🔴
    2. KuPS                             10  🟢 50%  🔴
    3. FF Jaro                           7  🟢 71%
-   4. IF Gnistan                        7  🟢 71%  🔴
-   5. FC Inter Turku                    4
-   6. Ilves                             3  🟢 100%
-   7. IFK Mariehamn                     2  🟢 100%
-   8. SJK                               2  🟢 50%
-   9. HJK                               1  🟢 100%  🔴
-  10. VPS                               1  🔴
+   4. FC Inter Turku                    4
+   5. Ilves                             3  🟢 100%
+   6. IFK Mariehamn                     2  🟢 100%
+   7. SJK                               2  🟢 50%
+   8. VPS                               1  🔴
+   9. FC Lahti                          0
+  10. HJK                               0
 
 RITARDI X2 + OVER 2,5
    1. FF Jaro                           8  🟢 75%
@@ -1510,7 +1510,7 @@ RITARDI X2 + OVER 2,5
    5. IFK Mariehamn                     6  🟢 83%  🔴
    6. KuPS                              6
    7. SJK                               6  🟢 50%
-   8. IF Gnistan                        3
+   8. IF Gnistan                        4  🟢 50%
    9. Ilves                             2  🟢 100%
   10. TPS                               2  🟢 50%
 
@@ -1518,69 +1518,69 @@ RITARDI 12 + OVER 2,5
    1. FF Jaro                           7  🟢 71%
    2. KuPS                              6  🔴
    3. FC Inter Turku                    4  🔴
-   4. IF Gnistan                        3
-   5. IFK Mariehamn                     2  🟢 100%
-   6. Ilves                             2  🟢 100%
-   7. SJK                               2  🟢 50%
-   8. VPS                               1
-   9. AC Oulu                           0
-  10. FC Lahti                          0  🔴
+   4. IFK Mariehamn                     2  🟢 100%
+   5. Ilves                             2  🟢 100%
+   6. SJK                               2  🟢 50%
+   7. VPS                               1
+   8. AC Oulu                           0
+   9. FC Lahti                          0  🔴
+  10. HJK                               0
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
-Stagione 2026 (130 partite giocate) + 2025
+Stagione 2026 (135 partite giocate) + 2025
 ==================================================
 RITARDI 1X + OVER 2,5
-   1. MP                                6  🟢 83%
-   2. JIPPO                             3  🔴
-   3. JäPS                              1  🟢 100%  🔴
-   4. KäPa                              1  🟢 100%
+   1. MP                                7  🟢 86%
+   2. JäPS                              2  🟢 100%  🔴
+   3. FC KTP                            1
+   4. Klubi 04                          1
    5. EIF                               0
-   6. FC KTP                            0
-   7. Haka                              0
-   8. Klubi 04                          0
+   6. Haka                              0
+   7. JIPPO                             0  🔴
+   8. KäPa                              0
    9. PK-35                             0  🔴
   10. SJK Akatemia                      0
 
 RITARDI X2 + OVER 2,5
-   1. MP                                5  🟢 80%  🔴
-   2. Klubi 04                          4  🟢 100%
-   3. EIF                               3  🟢 67%  🔴
-   4. Haka                              3  🟢 100%
-   5. FC KTP                            2  🟢 100%
-   6. KäPa                              2  🟢 100%
-   7. PK-35                             2  🟢 50%  🔴
-   8. SJK Akatemia                      2  🟢 100%
-   9. JIPPO                             0  🔴
-  10. JäPS                              0
+   1. Klubi 04                          5  🟢 80%
+   2. EIF                               4  🟢 75%  🔴
+   3. Haka                              4  🟢 100%
+   4. FC KTP                            3  🟢 67%
+   5. KäPa                              3  🟢 100%
+   6. PK-35                             3  🟢 67%  🔴
+   7. SJK Akatemia                      3  🟢 100%
+   8. JIPPO                             1  🟢 100%  🔴
+   9. JäPS                              0
+  10. MP                                0
 
 RITARDI 12 + OVER 2,5
-   1. MP                                5  🟢 80%  🔴
-   2. KäPa                              1  🟢 100%
+   1. FC KTP                            1
+   2. Klubi 04                          1  🔴
    3. EIF                               0
-   4. FC KTP                            0
-   5. Haka                              0
-   6. JIPPO                             0  🔴
-   7. JäPS                              0
-   8. Klubi 04                          0  🔴
+   4. Haka                              0
+   5. JIPPO                             0  🔴
+   6. JäPS                              0
+   7. KäPa                              0
+   8. MP                                0  🔴
    9. PK-35                             0  🔴
   10. SJK Akatemia                      0
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (90 partite giocate) + 2025/2026
+Stagione 2026/2027 (91 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + OVER 2,5
    1. Legia Warszawa                    6  🟢 100%
    2. Pogoń Szczecin                    5  🟢 80%
    3. Górnik Zabrze                     3  🟢 67%
    4. Jagiellonia Białystok             3  🟢 100%
-   5. Motor Lublin                      2  🟢 50%
-   6. Raków Częstochowa                 2  🟢 100%  🔴
-   7. Wisła Kraków                      2  🟢 50%
-   8. Korona Kielce                     1  🟢 100%  🔴
-   9. Lech Poznań                       1  🟢 100%
-  10. Radomiak Radom                    1  🟢 100%
+   5. Raków Częstochowa                 2  🟢 100%  🔴
+   6. Wisła Kraków                      2  🟢 50%
+   7. Korona Kielce                     1  🟢 100%  🔴
+   8. Lech Poznań                       1  🟢 100%
+   9. Radomiak Radom                    1  🟢 100%
+  10. Widzew Łódź                       1
 
 RITARDI X2 + OVER 2,5
    1. Cracovia                         11  🟢 73%
@@ -1591,8 +1591,8 @@ RITARDI X2 + OVER 2,5
    6. Zagłębie Lubin                    2  🟢 100%
    7. GKS Katowice                      1  🟢 100%
    8. Legia Warszawa                    1  🟢 100%
-   9. Piast Gliwice                     1  🟢 100%
-  10. Pogoń Szczecin                    1  🟢 100%  🔴
+   9. Motor Lublin                      1  🟢 100%
+  10. Piast Gliwice                     1  🟢 100%
 
 RITARDI 12 + OVER 2,5
    1. Wisła Kraków                      2  🟢 50%
