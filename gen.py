@@ -38,7 +38,7 @@ DANGER_TOP = 5       # badge DANGEROUS: ritardo nella top N del campionato
 DANGER_MIN = 6       # badge DANGEROUS: ritardo minimo al momento della rottura
 SOTTO_N = 100     # partite considerate per le sottofrequenze
 SOTTO_MIN = 100   # minimo storico valido: 100 partite nazionali
-SOTTO_STAGIONI = 4
+SOTTO_STAGIONI = 12
 # campionati extra (non in classifica) usati solo per lo storico delle sottofrequenze
 EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"SPAGNA":[8968],
          "OLANDA":[9195],"NORVEGIA":[204],"DANIMARCA":[239],"PORTOGALLO":[9112],"POLONIA":[8935],
@@ -120,7 +120,7 @@ def compute(lid, POOL):
         for tid, tname in teams.items():
             seq = [m for m in POOL if tid in (m[1], m[2])][-SOTTO_N:]
             rows.append((sum(1 for m in seq if f(m[3], m[4])), len(seq), tname))
-        freq[name] = {t: (k, n) for k, n, t in rows}
+        freq[name] = {t: (k, n) for k, n, t in rows if n >= SOTTO_MIN}
         rows = [r for r in rows if r[1] >= SOTTO_MIN]
         rate = lambda r: r[0]
         rows.sort(key=lambda r: (r[0], -r[1], r[2]))
