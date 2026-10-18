@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 18/10/2026 15:22 (ora italiana)
+Aggiornato: 18/10/2026 16:17 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -230,7 +230,7 @@ SOTTOFREQUENZA 12 + GOAL
 GERMANIA - 2. BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Magdeburg                      31/100
+    1/18 Magdeburg                      30/100
     2/18 VfL Osnabrück                  35/100
     3/18 Eintracht Braunschweig         37/100
     4/18 St. Pauli                      39/100
@@ -242,17 +242,17 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 Kaiserslautern                 27/100
     2/18 St. Pauli                      30/100
     3/18 VfL Osnabrück                  30/100
-    4/18 Energie Cottbus                31/100
-    5/18 Arminia Bielefeld              32/100
-    6/18 Darmstadt                      32/100
+    4/18 Arminia Bielefeld              31/100
+    5/18 Darmstadt                      31/100
+    6/18 Energie Cottbus                31/100
      ...
    18/18 Wolfsburg                      51/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Arminia Bielefeld              33/100
-    2/18 Darmstadt                      33/100
-    3/18 St. Pauli                      33/100
-    4/18 VfL Osnabrück                  33/100
+    1/18 Darmstadt                      32/100
+    2/18 St. Pauli                      33/100
+    3/18 VfL Osnabrück                  33/100
+    4/18 Arminia Bielefeld              34/100
     5/18 Hannover 96                    34/100
      ...
    18/18 Hertha BSC                     45/100  (la fa più spesso)
@@ -263,9 +263,10 @@ GERMANIA - 3. LIGA
 SOTTOFREQUENZA 1X + GOAL
     1/20 Viktoria Köln 1904             31/100
     2/20 Hansa Rostock                  35/100
-    3/20 Hoffenheim II                  37/100
-    4/20 Jahn Regensburg                37/100
-    5/20 Würzburger Kickers             37/100
+    3/20 Jahn Regensburg                37/100
+    4/20 Würzburger Kickers             37/100
+    5/20 Hoffenheim II                  38/100
+    6/20 Meppen                         38/100
      ...
    20/20 VfB Stuttgart II               50/100  (la fa più spesso)
 
@@ -388,7 +389,7 @@ SOTTOFREQUENZA 12 + GOAL
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/22 Real Oviedo                    29/100
+    1/22 Real Oviedo                    28/100
     2/22 Cádiz                          33/100
     3/22 Sabadell                       33/100
     4/22 Burgos CF                      34/100
@@ -404,7 +405,6 @@ SOTTOFREQUENZA X2 + GOAL
     3/22 Burgos CF                      25/100
     4/22 Tenerife                       25/100
     5/22 Leganés                        26/100
-    6/22 Real Oviedo                    26/100
      ...
    22/22 Córdoba                        41/100  (la fa più spesso)
 
@@ -812,6 +812,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/12 Brøndby IF                     34/100
     4/12 Lyngby                         36/100
     5/12 Randers FC                     36/100
+    6/12 Sønderjyske                    36/100
      ...
    12/12 OB                             47/100  (la fa più spesso)
 
@@ -821,6 +822,7 @@ SOTTOFREQUENZA 12 + GOAL
     3/12 Brøndby IF                     36/100
     4/12 AC Horsens                     37/100
     5/12 Randers FC                     38/100
+    6/12 Sønderjyske                    38/100
      ...
    12/12 FC København                   47/100  (la fa più spesso)
 
@@ -867,7 +869,7 @@ SOTTOFREQUENZA 1X + GOAL
     6/16 IFK Göteborg                   34/100
     7/16 Kalmar FF                      34/100
      ...
-   16/16 Brommapojkarna                 43/100  (la fa più spesso)
+   16/16 Sirius                         43/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 GAIS                           24/100
@@ -885,7 +887,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/16 Djurgården                     32/100
     5/16 IFK Göteborg                   32/100
      ...
-   16/16 Sirius                         48/100  (la fa più spesso)
+   16/16 Sirius                         47/100  (la fa più spesso)
 
 ==================================================
 SVEZIA - SUPERETTAN
