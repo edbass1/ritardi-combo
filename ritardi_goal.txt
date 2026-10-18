@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 18/10/2026 14:18 (ora italiana)
+Aggiornato: 18/10/2026 15:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -8,27 +8,27 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (64 partite giocate) + 2025/2026
+Stagione 2026/2027 (65 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Bologna                           2  🟢 100%  🔴
-   2. Como                              2  🟢 50%
-   3. Inter                             2  🟢 100%
-   4. Lecce                             2  🟢 100%  🔴
+   1. Lecce                             3  🟢 100%  🔴
+   2. Bologna                           2  🟢 100%  🔴
+   3. Como                              2  🟢 50%
+   4. Inter                             2  🟢 100%
    5. Napoli                            2  🟢 50%
    6. Roma                              2  🟢 50%
    7. Genoa                             1  🟢 100%
    8. Parma                             1  🟢 100%
-   9. Venezia                           1
-  10. Atalanta                          0
+   9. Udinese                           1  🟢 100%  🔴
+  10. Venezia                           1
 
 RITARDI X2 + GOAL
-   1. Como                              3  🟢 67%
-   2. Frosinone                         3  🟢 100%
-   3. Genoa                             3  🟢 100%
-   4. Monza                             3  🟢 100%
-   5. Parma                             3  🟢 100%
-   6. Udinese                           3  🟢 67%
+   1. Udinese                           4  🟢 75%
+   2. Como                              3  🟢 67%
+   3. Frosinone                         3  🟢 100%
+   4. Genoa                             3  🟢 100%
+   5. Monza                             3  🟢 100%
+   6. Parma                             3  🟢 100%
    7. Venezia                           3  🟢 67%  🔴
    8. Atalanta                          2  🟢 100%
    9. Lazio                             2  🟢 100%
@@ -42,9 +42,9 @@ RITARDI 12 + GOAL
    5. Como                              2  🟢 50%
    6. Juventus                          2  🟢 100%  🔴
    7. Genoa                             1  🟢 100%
-   8. Parma                             1  🟢 100%
-   9. Venezia                           1
-  10. Atalanta                          0
+   8. Lecce                             1  🟢 100%  🔴
+   9. Parma                             1  🟢 100%
+  10. Udinese                           1  🟢 100%
 
 ==================================================
 ITALIA - SERIE B
@@ -1048,43 +1048,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - 1. DIVISION
-Stagione 2026/2027 (65 partite giocate) + 2025/2026
+Stagione 2026/2027 (66 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. AB                                5  🟢 80%  🔴
    2. Aarhus Fremad                     4  🟢 50%  🔴
-   3. Fredericia                        2  🟢 100%  🔴
-   4. HB Køge                           2  🟢 100%
-   5. Hvidovre                          2  🟢 100%
-   6. Vejle Boldklub                    2  🟢 50%
-   7. AaB                               1
-   8. Esbjerg fB                        1
-   9. Hillerød                          1  🟢 100%
+   3. Hvidovre                          3  🟢 67%
+   4. Fredericia                        2  🟢 100%  🔴
+   5. HB Køge                           2  🟢 100%
+   6. Hillerød                          2  🟢 50%
+   7. Vejle Boldklub                    2  🟢 50%
+   8. AaB                               1
+   9. Esbjerg fB                        1
   10. Hobro                             1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Aarhus Fremad                     2  🟢 50%  🔴
    2. Fredericia                        2  🟢 100%
-   3. Vendsyssel FF                     2  🟢 100%  🔴
-   4. AaB                               1
-   5. Esbjerg fB                        1  🔴
-   6. Hillerød                          1  🟢 100%
+   3. Hillerød                          2  🟢 50%
+   4. Vendsyssel FF                     2  🟢 100%  🔴
+   5. AaB                               1
+   6. Esbjerg fB                        1  🔴
    7. Hobro                             1  🟢 100%
-   8. Kolding IF                        1  🟢 100%
-   9. Vejle Boldklub                    1
-  10. AB                                0
+   8. Hvidovre                          1
+   9. Kolding IF                        1  🟢 100%
+  10. Vejle Boldklub                    1
 
 RITARDI 12 + GOAL
    1. AaB                               6  🟢 67%
    2. Esbjerg fB                        6  🟢 67%
    3. Fredericia                        5  🟢 60%  🔴
-   4. Hillerød                          4  🟢 75%  🔴
+   4. Hillerød                          5  🟢 60%  🔴
    5. Aarhus Fremad                     2  🟢 50%  🔴
    6. Hobro                             2  🟢 100%
-   7. Vejle Boldklub                    1
-   8. AB                                0
-   9. HB Køge                           0
-  10. Hvidovre                          0
+   7. Hvidovre                          1
+   8. Vejle Boldklub                    1
+   9. AB                                0
+  10. HB Køge                           0
 
 ==================================================
 SVEZIA - ALLSVENSKAN
@@ -1128,83 +1128,83 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (211 partite giocate) + 2025
+Stagione 2026 (212 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Helsingborg                       5  🟢 60%  🔴
    2. IFK Norrköping                    4  🟢 75%
    3. IFK Värnamo                       4  🟢 100%  🔴
-   4. Norrby                            3  🟢 67%
-   5. IK Brage                          2  🟢 100%
-   6. Nordic United FC                  2  🟢 100%
-   7. GIF Sundsvall                     1  🟢 100%  🔴
-   8. Ljungskile                        1  🟢 100%
-   9. Sandvikens IF                     1
-  10. Östersunds FK                     1
+   4. IK Brage                          2  🟢 100%
+   5. GIF Sundsvall                     1  🟢 100%  🔴
+   6. Ljungskile                        1  🟢 100%
+   7. Sandvikens IF                     1
+   8. Östersunds FK                     1
+   9. Falkenbergs FF                    0
+  10. IK Oddevold                       0
 
 RITARDI X2 + GOAL
    1. GIF Sundsvall                     7  🟢 57%  🔴
    2. Helsingborg                       3  🔴
    3. IK Brage                          3  🟢 100%
-   4. Sandvikens IF                     3  🟢 67%
-   5. IK Oddevold                       2  🟢 100%
-   6. Landskrona BoIS                   2  🟢 100%
-   7. Norrby                            2  🟢 50%
-   8. Östers IF                         2  🟢 100%
-   9. Falkenbergs FF                    1  🟢 100%
-  10. IFK Norrköping                    1  🟢 100%  🔴
+   4. Norrby                            3  🟢 67%
+   5. Sandvikens IF                     3  🟢 67%
+   6. IK Oddevold                       2  🟢 100%
+   7. Landskrona BoIS                   2  🟢 100%
+   8. Nordic United FC                  2  🟢 100%
+   9. Östers IF                         2  🟢 100%
+  10. Falkenbergs FF                    1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Östersunds FK                    17  🟢 59%  🔴
    2. Helsingborg                       3
    3. IK Brage                          2  🟢 100%  🔴
    4. Ljungskile                        2  🟢 100%  🔴
-   5. Norrby                            2  🟢 50%  🔴
-   6. GIF Sundsvall                     1  🟢 100%
-   7. IFK Norrköping                    1  🟢 100%
-   8. Nordic United FC                  1  🟢 100%
-   9. Sandvikens IF                     1
-  10. Varbergs BoIS FC                  1  🟢 100%
+   5. GIF Sundsvall                     1  🟢 100%
+   6. IFK Norrköping                    1  🟢 100%
+   7. Sandvikens IF                     1
+   8. Varbergs BoIS FC                  1  🟢 100%
+   9. Örebro                            1  🟢 100%
+  10. Falkenbergs FF                    0
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (84 partite giocate) + 2025/2026
+Stagione 2026/2027 (85 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Slovan Liberec                    7  🟢 57%
    2. Mladá Boleslav                    6  🟢 67%
    3. Hradec Králové                    5  🟢 60%  🔴
-   4. Sparta Prague                     3  🟢 100%
-   5. Artis Brno                        2  🟢 50%
-   6. Bohemians 1905                    2  🔴
-   7. FC Zbrojovka Brno                 2  🟢 50%
+   4. FC Zbrojovka Brno                 3  🟢 67%
+   5. Sparta Prague                     3  🟢 100%
+   6. Artis Brno                        2  🟢 50%
+   7. Bohemians 1905                    2  🔴
    8. FC Zlín                           2  🟢 50%
    9. Pardubice                         2  🟢 100%
   10. Slavia Prague                     2
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    25  🟢 88%
-   2. FC Zbrojovka Brno                 8  🟢 62%
-   3. Mladá Boleslav                    7  🟢 71%
-   4. Slavia Prague                     6  🟢 67%  🔴
-   5. Bohemians 1905                    5  🟢 60%
-   6. Slovan Liberec                    4  🟢 50%
-   7. Pardubice                         3  🟢 100%
-   8. FC Zlín                           2  🟢 50%
-   9. Viktoria Plzeň                    2  🟢 100%
-  10. Baník Ostrava                     1  🔴
+   2. Mladá Boleslav                    7  🟢 71%
+   3. Slavia Prague                     6  🟢 67%  🔴
+   4. Bohemians 1905                    5  🟢 60%
+   5. Slovan Liberec                    4  🟢 50%
+   6. Pardubice                         3  🟢 100%
+   7. FC Zlín                           2  🟢 50%
+   8. Viktoria Plzeň                    2  🟢 100%
+   9. Baník Ostrava                     1  🔴
+  10. Hradec Králové                    1  🔴
 
 RITARDI 12 + GOAL
    1. Mladá Boleslav                    6  🟢 67%
-   2. Slovácko                          5  🟢 80%  🔴
-   3. Jablonec                          4  🟢 75%
-   4. Slovan Liberec                    4  🟢 50%  🔴
-   5. Teplice                           4  🟢 75%  🔴
-   6. FC Zlín                           3  🟢 67%
-   7. Sigma Olomouc                     3  🟢 67%
-   8. Sparta Prague                     3  🟢 100%
-   9. Baník Ostrava                     2  🟢 50%
-  10. Bohemians 1905                    2  🔴
+   2. Jablonec                          4  🟢 75%
+   3. Slovan Liberec                    4  🟢 50%  🔴
+   4. Teplice                           4  🟢 75%  🔴
+   5. FC Zlín                           3  🟢 67%
+   6. Sigma Olomouc                     3  🟢 67%
+   7. Sparta Prague                     3  🟢 100%
+   8. Baník Ostrava                     2  🟢 50%
+   9. Bohemians 1905                    2  🔴
+  10. Pardubice                         2  🟢 100%
 
 ==================================================
 REP. CECA - FNL

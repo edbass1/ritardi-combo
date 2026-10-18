@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 18/10/2026
-Aggiornato: 18/10/2026 14:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 18/10/2026 15:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 66.9  (R+30 C+10 F+10.7 G+3.4 A-2.2 E+0 S+15)
@@ -9,37 +9,25 @@ Aggiornato: 18/10/2026 14:18 (ora italiana). Calcolo automatico, nessuna garanzi
     X2 + GOAL  -  punteggio 65.3  (R+30 C+10 F+4.4 G+6.6 A-0.6 E+0 S+15)
     Arsenal non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Arsenal è in sottofrequenza (30/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 3. 15:00  Baník Ostrava vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 64.8  (R+30 C+10 F+2.1 G+7.6 A+5.1 E+0 S+10)
-    Sparta Prague non fa X2 + GOAL da 25 partite (ritardo massimo del campionato 25, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Baník Ostrava è in sottofrequenza su questa combo (27/100), deve recuperare; nel ritardo il 88% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 4. 16:30  Örgryte vs GAIS   [SVEZIA - ALLSVENSKAN]  [OK 12+GOAL]
+ 3. 16:30  Örgryte vs GAIS   [SVEZIA - ALLSVENSKAN]  [OK 12+GOAL]
     12 + GOAL  -  punteggio 61.3  (R+30 C+10 F+6.8 G+3.8 A-4.3 E+0 S+15)
     GAIS non fa 12 + GOAL da 13 partite (ritardo massimo del campionato 13, mediano 2), ed è il ritardo più lungo del campionato. Inoltre GAIS è in sottofrequenza (29/100), deve recuperare; nel ritardo il 69% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 5. 16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
+ 4. 16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
     X2 + GOAL  -  punteggio 54.6  (R+30 C+10 F+3.5 G+5.6 A-9.5 E+0 S+15)
     Brøndby IF non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Brøndby IF è in sottofrequenza (34/100), deve recuperare; nel ritardo il 78% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: OB la fa già spesso (47/100).
 
- 6. 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 54.5  (R+30 C+10 F+3.5 G+1.4 A-5.5 E+0 S+15)
-    GIF Sundsvall non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre GIF Sundsvall è in sottofrequenza (31/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: IFK Värnamo la fa già spesso (40/100).
-
- 7. 15:00  Angers vs Marseille   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 51.4  (R+25.7 C+5 F-2.4 G+6.6 A+6.6 E+0 S+10)
-    Marseille non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 7, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche Angers è in sottofrequenza su questa combo (31/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 8. 14:30  ŁKS Łódź vs TS Podbeskidzie Bielsko-Biała   [POLONIA - I LIGA]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 46.5  (R+30 C+10 F+3.2 G+6 A-2.8 E+0 S+0)
-    TS Podbeskidzie Bielsko-Biała non fa 12 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 80% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 9. 17:00  Lyn vs Moss   [NORVEGIA - OBOS-LIGAEN]  [ALT 1X+GOAL]
+ 5. 17:00  Lyn vs Moss   [NORVEGIA - OBOS-LIGAEN]  [ALT 1X+GOAL]
     1X + GOAL  -  punteggio 44.2  (R+30 C+10 F-1 G+7.2 A-2 E+0 S+0)
     Moss non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
-10. 14:30  Salzburg vs Altach   [AUSTRIA - BUNDESLIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 40.3  (R+30 C+10 F+0.3 G+6.6 A-6.7 E+0 S+0)
-    Altach non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Salzburg la fa già spesso (43/100).
+ 6. 16:15  Celta Vigo vs Deportivo Alavés   [SPAGNA - LALIGA]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 37.3  (R+18 C+5 F-7 G+3.4 A+8 E+0 S+10)
+    Celta Vigo non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 10, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche Deportivo Alavés è in sottofrequenza su questa combo (27/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Celta Vigo la fa già più della media (42% vs 35%).
+
+ 7. 18:30  Girona vs FC Andorra   [SPAGNA - LALIGA 2]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 36.5  (R+30 C+10 F+1.3 G+0 A-4.7 E+0 S+0)
+    FC Andorra non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato.
 
 
 REGOLE DEL PUNTEGGIO

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 18/10/2026 14:18 (ora italiana)
+Aggiornato: 18/10/2026 15:22 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -944,8 +944,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/16 Bohemians 1905                 28/100
     2/16 Slovan Liberec                 28/100
     3/16 Hradec Králové                 30/100
-    4/16 Slovácko                       30/100
-    5/16 Teplice                        30/100
+    4/16 Teplice                        30/100
+    5/16 Artis Brno                     31/100
+    6/16 Slovácko                       31/100
      ...
    16/16 Sparta Prague                  47/100  (la fa più spesso)
 
