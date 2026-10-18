@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 18/10/2026 21:16 (ora italiana)
+Aggiornato: 18/10/2026 22:14 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -51,7 +51,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Carrarese                      25/100
-    2/20 Arezzo                         28/100
+    2/20 Arezzo                         29/100
     3/20 LR Vicenza                     30/100
     4/20 Padova                         30/100
     5/20 Ascoli                         31/100
@@ -268,14 +268,13 @@ SOTTOFREQUENZA 1X + GOAL
     3/20 Jahn Regensburg                37/100
     4/20 Würzburger Kickers             37/100
     5/20 Hoffenheim II                  38/100
-    6/20 Meppen                         38/100
      ...
    20/20 VfB Stuttgart II               50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 MSV Duisburg                   27/100
-    2/20 Meppen                         27/100
-    3/20 Jahn Regensburg                28/100
+    2/20 Jahn Regensburg                28/100
+    3/20 Meppen                         28/100
     4/20 Fortuna Köln                   32/100
     5/20 Waldhof Mannheim               32/100
      ...
@@ -288,7 +287,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Fortuna Köln                   34/100
     5/20 Meppen                         35/100
      ...
-   20/20 TSV Havelse                    50/100  (la fa più spesso)
+   20/20 TSV Havelse                    49/100  (la fa più spesso)
 
 ==================================================
 FRANCIA - LIGUE 1
@@ -482,8 +481,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/18 Feyenoord                      34/100
     2/18 Cambuur                        39/100
     3/18 FC Groningen                   39/100
-    4/18 Fortuna Sittard                39/100
-    5/18 Excelsior                      40/100
+    4/18 Excelsior                      40/100
+    5/18 Fortuna Sittard                40/100
      ...
    18/18 PEC Zwolle                     49/100  (la fa più spesso)
 
@@ -491,9 +490,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 FC Groningen                   32/100
     2/18 SC Heerenveen                  34/100
     3/18 Cambuur                        35/100
-    4/18 Fortuna Sittard                37/100
-    5/18 PSV Eindhoven                  37/100
-    6/18 Telstar                        37/100
+    4/18 PSV Eindhoven                  37/100
+    5/18 Telstar                        37/100
      ...
    18/18 NEC Nijmegen                   51/100  (la fa più spesso)
 
