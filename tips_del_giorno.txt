@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 18/10/2026
-Aggiornato: 18/10/2026 13:16 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 18/10/2026 14:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 66.9  (R+30 C+10 F+10.7 G+3.4 A-2.2 E+0 S+15)
@@ -29,17 +29,17 @@ Aggiornato: 18/10/2026 13:16 (ora italiana). Calcolo automatico, nessuna garanzi
     1X + GOAL  -  punteggio 51.4  (R+25.7 C+5 F-2.4 G+6.6 A+6.6 E+0 S+10)
     Marseille non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 7, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche Angers è in sottofrequenza su questa combo (31/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 8. 14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 50.7  (R+23.7 C+5 F+4.8 G+3.4 A-1.2 E+0 S+15)
-    Västerås SK non fa 1X + GOAL da 15 partite (ritardo massimo del campionato 19, mediano 2), tra i 3 ritardi più lunghi del campionato. Inoltre Västerås SK è in sottofrequenza (31/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+ 8. 14:30  ŁKS Łódź vs TS Podbeskidzie Bielsko-Biała   [POLONIA - I LIGA]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 46.5  (R+30 C+10 F+3.2 G+6 A-2.8 E+0 S+0)
+    TS Podbeskidzie Bielsko-Biała non fa 12 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 80% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 9. 14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 49.4  (R+27.3 C+5 F+1.6 G+0 A+0.6 E+0 S+15)
-    VPS non fa 1X + GOAL da 10 partite (ritardo massimo del campionato 11, mediano 2), tra i 3 ritardi più lunghi del campionato. Inoltre VPS è in sottofrequenza (40/100), deve recuperare.
+ 9. 17:00  Lyn vs Moss   [NORVEGIA - OBOS-LIGAEN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 44.2  (R+30 C+10 F-1 G+7.2 A-2 E+0 S+0)
+    Moss non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
-10. 14:00  AD Ceuta FC vs Real Oviedo   [SPAGNA - LALIGA 2]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 48.8  (R+30 C+10 F+4.8 G+1.2 A+2.8 E+0 S+0)
-    Real Oviedo non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 2), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 56% delle partite ha avuto almeno 2 gol o entrambe a segno.
+10. 14:30  Salzburg vs Altach   [AUSTRIA - BUNDESLIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 40.3  (R+30 C+10 F+0.3 G+6.6 A-6.7 E+0 S+0)
+    Altach non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Salzburg la fa già spesso (43/100).
 
 
 REGOLE DEL PUNTEGGIO

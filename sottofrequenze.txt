@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 18/10/2026 13:16 (ora italiana)
+Aggiornato: 18/10/2026 14:18 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -489,7 +489,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/18 Fortuna Sittard                39/100
     5/18 Excelsior                      40/100
      ...
-   18/18 PEC Zwolle                     48/100  (la fa più spesso)
+   18/18 PEC Zwolle                     49/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 FC Groningen                   31/100
@@ -502,11 +502,12 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 NEC Nijmegen                   51/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Go Ahead Eagles                29/100
+    1/18 Go Ahead Eagles                30/100
     2/18 Sparta Rotterdam               32/100
     3/18 Ajax                           34/100
-    4/18 PEC Zwolle                     34/100
-    5/18 SC Heerenveen                  34/100
+    4/18 SC Heerenveen                  34/100
+    5/18 PEC Zwolle                     35/100
+    6/18 Telstar                        35/100
      ...
    18/18 PSV Eindhoven                  57/100  (la fa più spesso)
 
@@ -520,7 +521,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 MVV Maastricht                 35/100
     5/20 Heracles                       36/100
      ...
-   20/20 RKC Waalwijk                   50/100  (la fa più spesso)
+   20/20 RKC Waalwijk                   51/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Jong Ajax                      23/100
@@ -1238,16 +1239,15 @@ SOTTOFREQUENZA 1X + GOAL
     2/17 Zagłębie Lubin                 35/100
     3/17 Raków Częstochowa              37/100
     4/17 GKS Katowice                   39/100
-    5/17 Górnik Zabrze                  39/100
-    6/17 Lech Poznań                    39/100
-    7/17 Widzew Łódź                    39/100
+    5/17 Lech Poznań                    39/100
+    6/17 Widzew Łódź                    39/100
      ...
    17/17 Śląsk Wrocław                  50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/17 Górnik Zabrze                  27/100
-    2/17 Pogoń Szczecin                 27/100
-    3/17 GKS Katowice                   28/100
+    1/17 Pogoń Szczecin                 27/100
+    2/17 GKS Katowice                   28/100
+    3/17 Górnik Zabrze                  28/100
     4/17 Widzew Łódź                    31/100
     5/17 Lech Poznań                    33/100
      ...
