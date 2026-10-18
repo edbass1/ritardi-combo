@@ -1,7 +1,26 @@
-TIPS DEL GIORNO - 18/10/2026
-Aggiornato: 18/10/2026 23:16 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 19/10/2026
+Aggiornato: 19/10/2026 00:15 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 21:00  Getafe vs Rayo Vallecano   [SPAGNA - LALIGA]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 87.2  (R+30 C+10 F+15 G+0 A+7.2 E+0 S+25)
+    Getafe non fa 12 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Getafe è in sottofrequenza (20/100), deve recuperare; anche Rayo Vallecano è in sottofrequenza su questa combo (28/100), deve recuperare.
+
+ 2. 21:00  Derry City vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 66.0  (R+30 C+10 F+7.4 G+7.2 A-3.6 E+0 S+15)
+    St. Patrick's Athletic non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre St. Patrick's Athletic è in sottofrequenza (31/100), deve recuperare; nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 3. 20:00  Jong FC Utrecht vs Roda JC Kerkrade   [OLANDA - EERSTE DIVISIE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 60.5  (R+30 C+10 F+4.5 G+2.4 A-1.5 E+0 S+15)
+    Roda JC Kerkrade non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Roda JC Kerkrade è in sottofrequenza (36/100), deve recuperare; nel ritardo il 62% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 19:00  Degerfors vs Kalmar FF   [SVEZIA - ALLSVENSKAN]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 59.3  (R+30 C+10 F+1.6 G+7.2 A+0.6 E+10 S+0)
+    Degerfors non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Kalmar FF è in ritardo sulla stessa combo (7); nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 5. 21:00  Tottenham Hotspur vs Coventry City   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 48.3  (R+25.7 C+5 F+7.3 G+0 A-4.7 E+0 S+15)
+    Coventry City non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 7, mediano 3), tra i 3 ritardi più lunghi del campionato. Inoltre Coventry City è in sottofrequenza (27/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
