@@ -1,15 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 18/10/2026 17:17 (ora italiana)
+Aggiornato: 18/10/2026 18:18 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 18/10/2026
 ==================================================
-17:30  Nottingham Forest vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
-      [GOAL] Arsenal: X2 + GOAL (6) 🟢 83%
-18:00  FC København vs AGF   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
-      [GOAL] FC København: X2 + GOAL (8) 🟢 88%
 18:30  Girona vs FC Andorra   [SPAGNA - LALIGA 2]  [ALT 1X+GOAL]
       [GOAL] FC Andorra: 1X + GOAL (7)
 19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]  [OK 1X+GOAL]
@@ -27,7 +23,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] Coventry City: X2 + GOAL (6+) 🟢 50% 🔴 Coventry City
 21:00  Derry City vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]  [ALT 1X+GOAL]
       [GOAL] St. Patrick's Athletic: 1X + GOAL (7) 🟢 86% 🔴 St. Patrick's Athletic
-21:00  Getafe vs Rayo Vallecano   [SPAGNA - LALIGA]  [OK 12+GOAL]
+21:00  Getafe vs Rayo Vallecano   [SPAGNA - LALIGA]  [ALT 12+GOAL]
       [GOAL] Getafe: 12 + GOAL (10) 🔴 Getafe 🔴 Rayo Vallecano
 
 ==================================================
@@ -56,5 +52,13 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
 ==================================================
 21/10/2026
 ==================================================
-20:00  Levante vs Athletic Club   [SPAGNA - LALIGA]  [OK 12+GOAL]
+20:00  Levante vs Athletic Club   [SPAGNA - LALIGA]  [ALT 12+GOAL]
       [GOAL] Athletic Club: 12 + GOAL (6) 🟢 67%
+
+==================================================
+23/10/2026
+==================================================
+17:30  Ústí nad Labem vs Karviná   [REP. CECA - FNL]  [OK X2+GOAL]
+      [GOAL] Karviná: X2 + GOAL (7) 🟢 86% 🔴 Ústí nad Labem
+18:00  Vysočina Jihlava vs FC Vlašim   [REP. CECA - FNL]  [OK X2+GOAL]
+      [GOAL] FC Vlašim: X2 + GOAL (6) 🟢 83%
