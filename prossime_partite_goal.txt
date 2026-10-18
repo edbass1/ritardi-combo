@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 18/10/2026 20:16 (ora italiana)
+Aggiornato: 18/10/2026 21:16 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -84,3 +84,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Roda JC Kerkrade: 12 + GOAL (8) 🟢 62% 🔴 Almere City FC 🔴 Roda JC Kerkrade
 20:00  TOP Oss vs Jong Ajax   [OLANDA - EERSTE DIVISIE]
       TOP Oss: X2 + GOAL (10) 🟢 80% 🔴 Jong Ajax
+20:30  VfB Stuttgart vs Borussia Mönchengladbach   [GERMANIA - BUNDESLIGA]
+      VfB Stuttgart: X2 + GOAL (6) 🟢 67%
+20:45  Kortrijk vs KV Mechelen   [BELGIO - FIRST DIVISION A]
+      Kortrijk: 1X + GOAL (8+) 🟢 75% 🔴 Kortrijk
+20:45  Galway United FC vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]
+      St. Patrick's Athletic: 1X + GOAL (7) 🟢 86% 🔴 St. Patrick's Athletic
+21:00  Bolton Wanderers vs Middlesbrough   [INGHILTERRA - CHAMPIONSHIP]
+      Bolton Wanderers: 1X + GOAL (7) 🟢 71%
+21:00  Shamrock Rovers vs Sligo Rovers   [IRLANDA - PREMIER DIVISION]
+      Shamrock Rovers: X2 + GOAL (6) 🟢 83% 🔴 Sligo Rovers

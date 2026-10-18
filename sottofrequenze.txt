@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 18/10/2026 20:16 (ora italiana)
+Aggiornato: 18/10/2026 21:16 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -379,7 +379,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Deportivo Alavés               27/100
     3/20 Rayo Vallecano                 28/100
     4/20 Valencia                       28/100
-    5/20 Málaga                         29/100
+    5/20 Málaga                         30/100
      ...
    20/20 Barcelona                      50/100  (la fa più spesso)
 
@@ -391,14 +391,12 @@ SOTTOFREQUENZA 1X + GOAL
     2/22 Cádiz                          32/100
     3/22 Sabadell                       33/100
     4/22 Burgos CF                      34/100
-    5/22 Eldense                        35/100
-    6/22 Leganés                        35/100
-    7/22 Tenerife                       35/100
+    5/22 Eldense                        34/100
      ...
    22/22 Almería                        51/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/22 Real Valladolid                21/100
+    1/22 Real Valladolid                22/100
     2/22 Eibar                          24/100
     3/22 Burgos CF                      25/100
     4/22 Tenerife                       25/100
@@ -732,7 +730,7 @@ SOTTOFREQUENZA 12 + GOAL
 NORVEGIA - ELITESERIEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/16 Tromsø                         29/100
+    1/16 Tromsø                         30/100
     2/16 Lillestrøm                     33/100
     3/16 Hamarkameratene                36/100
     4/16 Bodø/Glimt                     37/100
@@ -742,8 +740,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 Sandefjord                     27/100
-    2/16 Tromsø                         27/100
-    3/16 Lillestrøm                     28/100
+    2/16 Lillestrøm                     28/100
+    3/16 Tromsø                         28/100
     4/16 Brann                          31/100
     5/16 Fredrikstad                    31/100
      ...
@@ -752,7 +750,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/16 Hamarkameratene                29/100
     2/16 Fredrikstad                    32/100
-    3/16 KFUM                           38/100
+    3/16 KFUM                           37/100
     4/16 Kristiansund                   39/100
     5/16 Lillestrøm                     39/100
     6/16 Rosenborg                      39/100

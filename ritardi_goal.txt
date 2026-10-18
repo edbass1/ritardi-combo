@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 18/10/2026 20:16 (ora italiana)
+Aggiornato: 18/10/2026 21:16 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -448,7 +448,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (85 partite giocate) + 2025/2026
+Stagione 2026/2027 (86 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Elche                             4  🟢 50%
@@ -458,9 +458,9 @@ RITARDI 1X + GOAL
    5. Atlético Madrid                   2  🟢 50%
    6. Villarreal                        2
    7. Espanyol                          1
-   8. Osasuna                           1  🟢 100%
-   9. Racing Santander                  1  🟢 100%
-  10. Real Betis                        1  🟢 100%
+   8. Málaga                            1  🟢 100%
+   9. Osasuna                           1  🟢 100%
+  10. Racing Santander                  1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Celta Vigo                        3  🟢 67%
@@ -481,26 +481,26 @@ RITARDI 12 + GOAL
    4. Elche                             2
    5. Espanyol                          2  🟢 50%
    6. Levante                           2  🟢 100%
-   7. Málaga                            2  🟢 50%
-   8. Valencia                          2  🟢 50%  🔴
-   9. Villarreal                        2
-  10. Atlético Madrid                   1
+   7. Valencia                          2  🟢 50%  🔴
+   8. Villarreal                        2
+   9. Atlético Madrid                   1
+  10. Deportivo A Coruña                1  🟢 100%
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (106 partite giocate) + 2025/2026
+Stagione 2026/2027 (108 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Andorra                        7
+   1. FC Andorra                        8  🟢 50%
    2. Granada                           4  🟢 75%
    3. Leganés                           4  🟢 75%
    4. Cádiz                             3  🟢 67%  🔴
    5. AD Ceuta FC                       2  🟢 100%
    6. Almería                           2  🟢 100%
    7. Castellón                         2  🟢 50%
-   8. Sabadell                          2  🟢 50%  🔴
-   9. Burgos CF                         1
-  10. Córdoba                           1
+   8. Real Valladolid                   2  🟢 100%
+   9. Sabadell                          2  🟢 50%  🔴
+  10. Burgos CF                         1
 
 RITARDI X2 + GOAL
    1. Leganés                           9  🟢 56%
@@ -508,23 +508,23 @@ RITARDI X2 + GOAL
    3. Sporting Gijón                    4  🟢 75%
    4. Burgos CF                         3  🔴
    5. Cádiz                             3  🟢 67%
-   6. Eldense                           3  🟢 67%
+   6. FC Andorra                        3
    7. Albacete                          2  🟢 100%
    8. Castellón                         2  🟢 50%
    9. Celta Fortuna                     2  🟢 100%
-  10. FC Andorra                        2
+  10. Granada                           2  🟢 50%
 
 RITARDI 12 + GOAL
    1. Castellón                         5  🟢 80%
    2. Cádiz                             4  🟢 75%
-   3. Leganés                           4  🟢 75%  🔴
-   4. Girona                            3  🟢 67%
-   5. FC Andorra                        2
+   3. Girona                            4  🟢 75%
+   4. Leganés                           4  🟢 75%  🔴
+   5. FC Andorra                        3
    6. Granada                           2  🟢 50%
-   7. Real Valladolid                   2  🟢 100%
-   8. Burgos CF                         1
-   9. Córdoba                           1
-  10. Eibar                             1  🟢 100%
+   7. Burgos CF                         1
+   8. Córdoba                           1
+   9. Eibar                             1  🟢 100%
+  10. Las Palmas                        1  🟢 100%
 
 ==================================================
 BELGIO - FIRST DIVISION A
@@ -928,7 +928,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - ELITESERIEN
-Stagione 2026 (183 partite giocate) + 2025
+Stagione 2026 (184 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Aalesund                          3  🟢 100%
@@ -949,22 +949,22 @@ RITARDI X2 + GOAL
    4. Vålerenga                         2  🟢 100%
    5. Fredrikstad                       1  🟢 100%
    6. Hamarkameratene                   1  🟢 100%
-   7. KFUM                              1  🟢 100%
-   8. Lillestrøm                        1  🟢 100%  🔴
-   9. Molde                             1  🟢 100%
-  10. Rosenborg                         1  🟢 100%
+   7. Lillestrøm                        1  🟢 100%  🔴
+   8. Molde                             1  🟢 100%
+   9. Rosenborg                         1  🟢 100%
+  10. Sandefjord                        1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. Lillestrøm                        4  🟢 100%
    2. Sandefjord                        3  🟢 100%
    3. Rosenborg                         2  🟢 100%
-   4. Bodø/Glimt                        1  🟢 100%
-   5. Hamarkameratene                   1  🟢 100%  🔴
-   6. Sarpsborg 08                      1  🟢 100%
-   7. Tromsø                            1  🟢 100%
-   8. Aalesund                          0
-   9. Brann                             0
-  10. Fredrikstad                       0  🔴
+   4. Tromsø                            2  🟢 100%
+   5. Bodø/Glimt                        1  🟢 100%
+   6. Hamarkameratene                   1  🟢 100%  🔴
+   7. KFUM                              1  🟢 100%  🔴
+   8. Sarpsborg 08                      1  🟢 100%
+   9. Aalesund                          0
+  10. Brann                             0
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
