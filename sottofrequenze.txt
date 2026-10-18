@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 18/10/2026 11:35 (ora italiana)
+Aggiornato: 18/10/2026 12:18 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -956,17 +956,18 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 Dukla Praha                    32/100
     3/12 Příbram                        34/100
     4/12 Ústí nad Labem                 35/100
-    5/12 FC Silon Táborsko              38/100
+    5/12 FC Silon Táborsko              39/100
+    6/12 Opava                          39/100
+    7/12 Třinec                         39/100
      ...
    12/12 Slavia Prague B                53/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Ústí nad Labem                 27/100
-    2/12 FC Silon Táborsko              28/100
+    2/12 FC Silon Táborsko              29/100
     3/12 Opava                          29/100
     4/12 Třinec                         29/100
     5/12 Dukla Praha                    31/100
-    6/12 Žižkov                         31/100
      ...
    12/12 FC Vlašim                      39/100  (la fa più spesso)
 
