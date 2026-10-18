@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 18/10/2026
-Aggiornato: 18/10/2026 01:12 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 18/10/2026 11:35 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 66.9  (R+30 C+10 F+10.7 G+3.4 A-2.2 E+0 S+15)
@@ -17,29 +17,29 @@ Aggiornato: 18/10/2026 01:12 (ora italiana). Calcolo automatico, nessuna garanzi
     12 + GOAL  -  punteggio 61.3  (R+30 C+10 F+6.8 G+3.8 A-4.3 E+0 S+15)
     GAIS non fa 12 + GOAL da 13 partite (ritardo massimo del campionato 13, mediano 2), ed è il ritardo più lungo del campionato. Inoltre GAIS è in sottofrequenza (29/100), deve recuperare; nel ritardo il 69% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 5. 10:30  FC Petržalka 1898 vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 60.9  (R+30 C+10 F+5.8 G+2.4 A-2.2 E+0 S+15)
-    FC Petržalka 1898 non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre FC Petržalka 1898 è in sottofrequenza (33/100), deve recuperare; nel ritardo il 62% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 6. 16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
+ 5. 16:00  OB vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
     X2 + GOAL  -  punteggio 54.6  (R+30 C+10 F+3.5 G+5.6 A-9.5 E+0 S+15)
     Brøndby IF non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Brøndby IF è in sottofrequenza (34/100), deve recuperare; nel ritardo il 78% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: OB la fa già spesso (47/100).
 
- 7. 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]  [ALT X2+GOAL]
+ 6. 15:00  GIF Sundsvall vs IFK Värnamo   [SVEZIA - SUPERETTAN]  [ALT X2+GOAL]
     X2 + GOAL  -  punteggio 54.5  (R+30 C+10 F+3.5 G+1.4 A-5.5 E+0 S+15)
     GIF Sundsvall non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre GIF Sundsvall è in sottofrequenza (31/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: IFK Värnamo la fa già spesso (40/100).
 
- 8. 15:00  Angers vs Marseille   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
+ 7. 15:00  Angers vs Marseille   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 51.4  (R+25.7 C+5 F-2.4 G+6.6 A+6.6 E+0 S+10)
     Marseille non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 7, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche Angers è in sottofrequenza su questa combo (31/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 9. 14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+ 8. 14:00  Västerås SK vs Mjällby   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
     1X + GOAL  -  punteggio 50.7  (R+23.7 C+5 F+4.8 G+3.4 A-1.2 E+0 S+15)
     Västerås SK non fa 1X + GOAL da 15 partite (ritardo massimo del campionato 19, mediano 2), tra i 3 ritardi più lunghi del campionato. Inoltre Västerås SK è in sottofrequenza (31/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
-10. 14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
+ 9. 14:00  KuPS vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 49.4  (R+27.3 C+5 F+1.6 G+0 A+0.6 E+0 S+15)
     VPS non fa 1X + GOAL da 10 partite (ritardo massimo del campionato 11, mediano 2), tra i 3 ritardi più lunghi del campionato. Inoltre VPS è in sottofrequenza (40/100), deve recuperare.
+
+10. 14:00  AD Ceuta FC vs Real Oviedo   [SPAGNA - LALIGA 2]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 48.8  (R+30 C+10 F+4.8 G+1.2 A+2.8 E+0 S+0)
+    Real Oviedo non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 2), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 56% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
 
 REGOLE DEL PUNTEGGIO
