@@ -1,10 +1,7 @@
 TIPS DEL GIORNO - 18/10/2026
-Aggiornato: 18/10/2026 19:17 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 18/10/2026 20:16 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 19:30  Sampdoria vs Arezzo   [ITALIA - SERIE B]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 67.1  (R+30 C+10 F+10.8 G+3.4 A-2.2 E+0 S+15)
-    Arezzo non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Arezzo è in sottofrequenza (28/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
