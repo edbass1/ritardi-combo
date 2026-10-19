@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 19/10/2026 21:27 (ora italiana)
+Aggiornato: 19/10/2026 22:24 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -648,43 +648,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 OLANDA - EERSTE DIVISIE
-Stagione 2026/2027 (107 partite giocate) + 2025/2026
+Stagione 2026/2027 (110 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Eindhoven                      2  🟢 50%  🔴
-   2. Heracles                          2  🟢 100%
-   3. Jong Ajax                         2  🟢 50%
+   1. FC Dordrecht                      2  🟢 50%
+   2. FC Eindhoven                      2  🟢 50%  🔴
+   3. Heracles                          2  🟢 100%
    4. MVV Maastricht                    2  🟢 50%
    5. NAC Breda                         2  🟢 50%
    6. Vitesse                           2  🟢 50%
-   7. FC Dordrecht                      1  🟢 100%
-   8. Helmond Sport                     1  🟢 100%
-   9. Almere City FC                    0
-  10. De Graafschap                     0
+   7. Helmond Sport                     1  🟢 100%
+   8. Jong FC Utrecht                   1  🟢 100%
+   9. Jong PSV                          1
+  10. Roda JC Kerkrade                  1  🟢 100%
 
 RITARDI X2 + GOAL
    1. TOP Oss                          10  🟢 80%
    2. Almere City FC                    7  🟢 57%
-   3. Jong Ajax                         5  🟢 60%  🔴
-   4. FC Den Bosch                      2  🟢 50%
-   5. FC Eindhoven                      2  🟢 50%
-   6. FC Emmen                          2  🟢 100%
-   7. Helmond Sport                     2  🟢 100%  🔴
-   8. NAC Breda                         2  🟢 50%
-   9. Vitesse                           2  🟢 50%
-  10. De Graafschap                     1  🟢 100%
+   3. Jong Ajax                         6  🟢 67%  🔴
+   4. De Graafschap                     2  🟢 100%
+   5. FC Den Bosch                      2  🟢 50%
+   6. FC Dordrecht                      2  🟢 50%
+   7. FC Eindhoven                      2  🟢 50%
+   8. FC Emmen                          2  🟢 100%
+   9. Helmond Sport                     2  🟢 100%  🔴
+  10. NAC Breda                         2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Roda JC Kerkrade                  8  🟢 62%  🔴
-   2. RKC Waalwijk                      4  🟢 100%
-   3. Vitesse                           4  🟢 75%
+   1. RKC Waalwijk                      4  🟢 100%
+   2. Vitesse                           4  🟢 75%
+   3. FC Dordrecht                      3  🟢 67%  🔴
    4. FC Eindhoven                      3  🟢 67%  🔴
    5. FC Volendam                       3  🟢 67%
    6. NAC Breda                         3  🟢 67%  🔴
    7. VVV-Venlo                         3  🟢 100%
-   8. FC Dordrecht                      2  🟢 100%  🔴
-   9. Jong AZ Alkmaar                   2  🟢 50%
-  10. Jong Ajax                         2  🟢 50%
+   8. Jong AZ Alkmaar                   2  🟢 50%
+   9. Jong PSV                          2  🟢 50%
+  10. Helmond Sport                     1  🟢 100%
 
 ==================================================
 SVIZZERA - SUPER LEAGUE
