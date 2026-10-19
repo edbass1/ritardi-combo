@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 19/10/2026 13:24 (ora italiana)
+Aggiornato: 19/10/2026 14:29 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -106,3 +106,21 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] VPS: 1X + GOAL (11) 🔴 VPS; X2 + GOAL (8) 🔴 FC Inter Turku; 12 + GOAL (8)
 13:00  Östersunds FK vs Nordic United FC   [SVEZIA - SUPERETTAN]  [OK 12+GOAL]
       [GOAL] Östersunds FK: 12 + GOAL (17) 🟢 59% 🔴 Östersunds FK
+13:30  Esbjerg fB vs Fredericia   [DANIMARCA - 1. DIVISION]  [OK 12+GOAL]
+      [GOAL] Esbjerg fB: 12 + GOAL (6) 🟢 67% 🔴 Fredericia
+13:30  Bristol Rovers vs Swindon Town   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+      [GOAL] Swindon Town: 12 + GOAL (6) 🟢 50%
+13:30  Huddersfield Town vs Wigan Athletic   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
+      [GOAL] Wigan Athletic: X2 + GOAL (14) 🔴 Wigan Athletic
+13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+      [GOAL] Northampton Town: 12 + GOAL (9+) 🟢 56% 🔴 Colchester United
+14:00  Montpellier vs Red Star   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
+      [GOAL] Red Star: 1X + GOAL (6) 🟢 67% 🔴 Montpellier
+14:00  Ingolstadt vs MSV Duisburg   [GERMANIA - 3. LIGA]  [OK 1X+GOAL]
+      [GOAL] Ingolstadt: 1X + GOAL (8) 🟢 75%
+14:00  Wehen Wiesbaden vs Sonnenhof Großaspach   [GERMANIA - 3. LIGA]  [OK 1X+GOAL]
+      [GOAL] Wehen Wiesbaden: 1X + GOAL (6) 🟢 67%
+14:30  FC STK 1914 Šamorín vs FK Pohronie   [SLOVACCHIA - 2. LIGA]  [OK 1X+GOAL]
+      [GOAL] FK Pohronie: 1X + GOAL (7) 🟢 71%
+14:30  Považská Bystrica vs Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]  [OK 1X+GOAL]
+      [GOAL] Liptovský Mikuláš: 1X + GOAL (6) 🟢 67%
