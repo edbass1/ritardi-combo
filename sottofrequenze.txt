@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 19/10/2026 20:24 (ora italiana)
+Aggiornato: 19/10/2026 21:27 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -802,7 +802,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Nordsjælland                   31/100
-    2/12 Viborg                         32/100
+    2/12 Viborg                         33/100
     3/12 Brøndby IF                     34/100
     4/12 Lyngby                         36/100
     5/12 Randers FC                     36/100
@@ -818,7 +818,7 @@ SOTTOFREQUENZA 12 + GOAL
     5/12 Randers FC                     38/100
     6/12 Sønderjyske                    38/100
      ...
-   12/12 Viborg                         46/100  (la fa più spesso)
+   12/12 Viborg                         47/100  (la fa più spesso)
 
 ==================================================
 DANIMARCA - 1. DIVISION
@@ -869,10 +869,10 @@ SOTTOFREQUENZA X2 + GOAL
     1/16 GAIS                           23/100
     2/16 Halmstads BK                   25/100
     3/16 Hammarby                       27/100
-    4/16 Kalmar FF                      29/100
+    4/16 Kalmar FF                      30/100
     5/16 Västerås SK                    30/100
      ...
-   16/16 Degerfors                      41/100  (la fa più spesso)
+   16/16 Degerfors                      42/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/16 Halmstads BK                   28/100
@@ -899,7 +899,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/13 GIF Sundsvall                  30/100
     2/13 Örebro                         30/100
-    3/13 Helsingborg                    32/100
+    3/13 Helsingborg                    31/100
     4/13 IFK Norrköping                 32/100
     5/13 Östersunds FK                  33/100
      ...
@@ -911,6 +911,7 @@ SOTTOFREQUENZA 12 + GOAL
     3/13 Ljungskile                     32/100
     4/13 Norrby                         32/100
     5/13 GIF Sundsvall                  34/100
+    6/13 Helsingborg                    34/100
      ...
    13/13 Falkenbergs FF                 46/100  (la fa più spesso)
 
@@ -1259,7 +1260,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/17 Pogoń Szczecin                 31/100
     5/17 Zagłębie Lubin                 34/100
      ...
-   17/17 Radomiak Radom                 44/100  (la fa più spesso)
+   17/17 Śląsk Wrocław                  43/100  (la fa più spesso)
 
 ==================================================
 POLONIA - I LIGA
