@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 19/10/2026
-Aggiornato: 19/10/2026 18:25 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 19/10/2026 19:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 21:00  Getafe vs Rayo Vallecano   [SPAGNA - LALIGA]  [ALT 12+GOAL]
     12 + GOAL  -  punteggio 87.2  (R+30 C+10 F+15 G+0 A+7.2 E+0 S+25)
@@ -13,11 +13,7 @@ Aggiornato: 19/10/2026 18:25 (ora italiana). Calcolo automatico, nessuna garanzi
     12 + GOAL  -  punteggio 60.5  (R+30 C+10 F+4.5 G+2.4 A-1.5 E+0 S+15)
     Roda JC Kerkrade non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Roda JC Kerkrade è in sottofrequenza (36/100), deve recuperare; nel ritardo il 62% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 4. 19:00  Degerfors vs Kalmar FF   [SVEZIA - ALLSVENSKAN]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 59.3  (R+30 C+10 F+1.6 G+7.2 A+0.6 E+10 S+0)
-    Degerfors non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Kalmar FF è in ritardo sulla stessa combo (7); nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 5. 21:00  Tottenham Hotspur vs Coventry City   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
+ 4. 21:00  Tottenham Hotspur vs Coventry City   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
     X2 + GOAL  -  punteggio 48.3  (R+25.7 C+5 F+7.3 G+0 A-4.7 E+0 S+15)
     Coventry City non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 7, mediano 3), tra i 3 ritardi più lunghi del campionato. Inoltre Coventry City è in sottofrequenza (27/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
 

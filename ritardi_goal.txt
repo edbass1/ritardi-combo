@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 19/10/2026 18:25 (ora italiana)
+Aggiornato: 19/10/2026 19:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -1288,19 +1288,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (103 partite giocate) + 2025/2026
+Stagione 2026/2027 (104 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. FK Pohronie                       7  🟢 71%
    2. Liptovský Mikuláš                 6  🟢 67%
-   3. Žilina B                          3  🟢 67%
-   4. Baník Lehota pod Vtacnikom        2
-   5. Malženice                         2  🟢 50%
-   6. FC Petržalka 1898                 0  🔴
-   7. FC STK 1914 Šamorín               0
-   8. Humenné                           0  🔴
-   9. Inter Bratislava                  0
-  10. MFK Bytca                         0
+   3. Baník Lehota pod Vtacnikom        2
+   4. Malženice                         2  🟢 50%
+   5. FC Petržalka 1898                 0  🔴
+   6. FC STK 1914 Šamorín               0
+   7. Humenné                           0  🔴
+   8. Inter Bratislava                  0
+   9. MFK Bytca                         0
+  10. MFK Zvolen                        0
 
 RITARDI X2 + GOAL
    1. Humenné                           4  🟢 75%  🔴
@@ -1320,11 +1320,11 @@ RITARDI 12 + GOAL
    3. FC STK 1914 Šamorín               3  🟢 100%
    4. Liptovský Mikuláš                 3  🟢 67%
    5. Baník Lehota pod Vtacnikom        2
-   6. FK Pohronie                       1
-   7. Inter Bratislava                  1  🟢 100%
-   8. Malženice                         1
-   9. Tatran Prešov                     1  🟢 100%  🔴
-  10. Humenné                           0  🔴
+   6. Tatran Prešov                     2  🟢 100%  🔴
+   7. FK Pohronie                       1
+   8. Inter Bratislava                  1  🟢 100%
+   9. Malženice                         1
+  10. Žilina B                          1  🟢 100%
 
 ==================================================
 SCOZIA - PREMIERSHIP
