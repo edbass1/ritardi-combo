@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 19/10/2026 19:22 (ora italiana)
+Aggiornato: 19/10/2026 20:24 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -8,7 +8,7 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (68 partite giocate) + 2025/2026
+Stagione 2026/2027 (69 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              3  🟢 67%
@@ -17,18 +17,18 @@ RITARDI 1X + GOAL
    4. Inter                             2  🟢 100%
    5. Napoli                            2  🟢 50%
    6. Roma                              2  🟢 50%
-   7. Fiorentina                        1  🟢 100%
-   8. Genoa                             1  🟢 100%
-   9. Juventus                          1  🟢 100%
-  10. Lazio                             1  🟢 100%
+   7. Cagliari                          1  🟢 100%
+   8. Fiorentina                        1  🟢 100%
+   9. Genoa                             1  🟢 100%
+  10. Juventus                          1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Udinese                           4  🟢 75%
-   2. Atalanta                          3  🟢 100%
-   3. Frosinone                         3  🟢 100%
-   4. Genoa                             3  🟢 100%
-   5. Lazio                             3  🟢 100%
-   6. Monza                             3  🟢 100%
+   1. Monza                             4  🟢 100%
+   2. Udinese                           4  🟢 75%
+   3. Atalanta                          3  🟢 100%
+   4. Frosinone                         3  🟢 100%
+   5. Genoa                             3  🟢 100%
+   6. Lazio                             3  🟢 100%
    7. Parma                             3  🟢 100%
    8. Venezia                           3  🟢 67%  🔴
    9. Napoli                            2  🟢 50%
@@ -37,14 +37,14 @@ RITARDI X2 + GOAL
 RITARDI 12 + GOAL
    1. Napoli                            4  🟢 50%
    2. Roma                              4  🟢 75%
-   3. Juventus                          3  🟢 100%  🔴
-   4. Cagliari                          2  🟢 50%
+   3. Cagliari                          3  🟢 67%
+   4. Juventus                          3  🟢 100%  🔴
    5. Genoa                             1  🟢 100%
    6. Lazio                             1  🟢 100%
    7. Lecce                             1  🟢 100%  🔴
-   8. Parma                             1  🟢 100%
-   9. Udinese                           1  🟢 100%
-  10. Venezia                           1
+   8. Monza                             1  🟢 100%
+   9. Parma                             1  🟢 100%
+  10. Udinese                           1  🟢 100%
 
 ==================================================
 ITALIA - SERIE B
@@ -1608,7 +1608,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (98 partite giocate) + 2025/2026
+Stagione 2026/2027 (99 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Odra Opole                        4  🔴
@@ -1618,8 +1618,8 @@ RITARDI 1X + GOAL
    5. Pogoń Grodzisk Mazowiecki         3  🟢 67%
    6. Pogoń Siedlce                     3  🟢 67%  🔴
    7. Polonia Warszawa                  3  🟢 67%  🔴
-   8. Ruch Chorzów                      3  🟢 67%
-   9. Puszcza Niepołomice               2  🟢 50%
+   8. Puszcza Niepołomice               3  🟢 67%
+   9. Ruch Chorzów                      3  🟢 67%
   10. TS Podbeskidzie Bielsko-Biała     2
 
 RITARDI X2 + GOAL
@@ -1640,9 +1640,9 @@ RITARDI 12 + GOAL
    3. Ruch Chorzów                      4  🟢 75%  🔴
    4. Pogoń Grodzisk Mazowiecki         3  🟢 67%
    5. Skierniewice                      3  🟢 67%
-   6. ŁKS Łódź                          3  🟢 67%
-   7. Miedź Legnica                     2  🟢 50%
-   8. Termalica Nieciecza               2  🟢 50%
+   6. Termalica Nieciecza               3  🟢 67%
+   7. ŁKS Łódź                          3  🟢 67%
+   8. Miedź Legnica                     2  🟢 50%
    9. Polonia Warszawa                  1
-  10. Stal Mielec                       1  🟢 100%
+  10. Puszcza Niepołomice               1  🟢 100%  🔴
 

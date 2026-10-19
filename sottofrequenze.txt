@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 19/10/2026 19:22 (ora italiana)
+Aggiornato: 19/10/2026 20:24 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1288,7 +1288,7 @@ SOTTOFREQUENZA 12 + GOAL
     1/17 Odra Opole                     26/100
     2/17 Ruch Chorzów                   29/100
     3/17 Arka Gdynia                    30/100
-    4/17 Puszcza Niepołomice            31/100
+    4/17 Puszcza Niepołomice            30/100
     5/17 Warta Poznań                   34/100
      ...
    17/17 Lechia Gdańsk                  50/100  (la fa più spesso)
