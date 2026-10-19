@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 19/10/2026 14:29 (ora italiana)
+Aggiornato: 19/10/2026 15:37 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -124,3 +124,15 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       FK Pohronie: 1X + GOAL (7) 🟢 71%
 14:30  Považská Bystrica vs Liptovský Mikuláš   [SLOVACCHIA - 2. LIGA]
       Liptovský Mikuláš: 1X + GOAL (6) 🟢 67%
+14:45  Baník Lehota pod Vtacnikom vs FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]
+      FC Petržalka 1898: 12 + GOAL (9) 🟢 67% 🔴 FC Petržalka 1898
+15:00  Slovan Liberec vs Baník Ostrava   [REP. CECA - 1. LIGA]
+      Slovan Liberec: 1X + GOAL (7) 🟢 57% 🔴 Baník Ostrava
+15:00  Häcken vs Degerfors   [SVEZIA - ALLSVENSKAN]
+      Degerfors: 12 + GOAL (7) 🟢 86%
+15:30  FC Liefering vs SW Bregenz   [AUSTRIA - 2. LIGA]
+      SW Bregenz: X2 + GOAL (10) 🟢 70%
+15:30  Mainz 05 vs Werder Bremen   [GERMANIA - BUNDESLIGA]
+      Mainz 05: 1X + GOAL (10) 🟢 80%
+15:30  RB Leipzig vs Elversberg   [GERMANIA - BUNDESLIGA]
+      RB Leipzig: X2 + GOAL (10) 🟢 100% 🔴 RB Leipzig
