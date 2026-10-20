@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 20/10/2026 22:21 (ora italiana)
+Aggiornato: 20/10/2026 23:23 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -72,12 +72,11 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Östersunds FK: 12 + GOAL (17) 🟢 59% 🔴 Östersunds FK
 13:30  Esbjerg fB vs Fredericia   [DANIMARCA - 1. DIVISION]
       Esbjerg fB: 12 + GOAL (6) 🟢 67% 🔴 Fredericia
-13:30  Bristol Rovers vs Swindon Town   [INGHILTERRA - LEAGUE TWO]
-      Swindon Town: 12 + GOAL (6) 🟢 50%
 13:30  Huddersfield Town vs Wigan Athletic   [INGHILTERRA - LEAGUE ONE]
-      Wigan Athletic: X2 + GOAL (14) 🔴 Wigan Athletic
+      Wigan Athletic: X2 + GOAL (15) 🔴 Wigan Athletic
 13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]
-      Northampton Town: 12 + GOAL (9+) 🟢 56% 🔴 Colchester United
+      Northampton Town: 12 + GOAL (10+) 🟢 50% 🔴 Colchester United
+      Colchester United: 12 + GOAL (6) 🟢 67% 🔴 Colchester United
 14:00  Montpellier vs Red Star   [FRANCIA - LIGUE 2]
       Red Star: 1X + GOAL (6) 🟢 67% 🔴 Montpellier
 14:00  Ingolstadt vs MSV Duisburg   [GERMANIA - 3. LIGA]
@@ -106,24 +105,23 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 16:00  Coventry City vs Fulham   [INGHILTERRA - PREMIER LEAGUE]
       Coventry City: X2 + GOAL (7+) 🟢 57% 🔴 Coventry City
 16:00  Exeter City vs Fleetwood Town   [INGHILTERRA - LEAGUE TWO]
-      Exeter City: 1X + GOAL (7) 🔴 Exeter City; X2 + GOAL (7); 12 + GOAL (8) 🔴 Exeter City
+      Exeter City: 1X + GOAL (8) 🔴 Exeter City; X2 + GOAL (8); 12 + GOAL (9) 🔴 Exeter City
 16:00  Oxford United vs Bradford City   [INGHILTERRA - LEAGUE ONE]
-      Bradford City: 12 + GOAL (6)
+      Bradford City: 12 + GOAL (7)
 16:00  West Ham United vs Southampton   [INGHILTERRA - CHAMPIONSHIP]
       Southampton: X2 + GOAL (6) 🟢 50%
 16:00  York City vs Port Vale   [INGHILTERRA - LEAGUE TWO]
-      York City: 12 + GOAL (6) 🟢 100% 🔴 Port Vale
-      Port Vale: X2 + GOAL (7) 🔴 Port Vale
+      York City: 12 + GOAL (7) 🟢 100% 🔴 Port Vale
+      Port Vale: 12 + GOAL (6) 🔴 Port Vale
 16:00  Dundee United vs Aberdeen   [SCOZIA - PREMIERSHIP]
       Dundee United: 12 + GOAL (14) 🟢 86% 🔴 Dundee United 🔴 Aberdeen
 16:00  Greenock Morton vs Ayr United   [SCOZIA - CHAMPIONSHIP]
       Greenock Morton: 1X + GOAL (6) 🟢 83%
 16:00  Partick Thistle vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]
-      Partick Thistle: 1X + GOAL (7) 🔴 Stenhousemuir
       Stenhousemuir: 12 + GOAL (6) 🔴 Stenhousemuir
 16:00  Queen's Park vs Dunfermline Athletic   [SCOZIA - CHAMPIONSHIP]
       Queen's Park: X2 + GOAL (9) 🟢 89% 🔴 Queen's Park 🔴 Dunfermline Athletic
-      Dunfermline Athletic: 12 + GOAL (15) 🟢 67% 🔴 Dunfermline Athletic
+      Dunfermline Athletic: 12 + GOAL (16) 🟢 69% 🔴 Dunfermline Athletic
 16:15  Leganés vs Mallorca   [SPAGNA - LALIGA 2]
       Leganés: X2 + GOAL (9) 🟢 56%
 16:30  Estrela da Amadora vs Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]

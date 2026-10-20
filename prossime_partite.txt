@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 20/10/2026 22:21 (ora italiana)
+Aggiornato: 20/10/2026 23:23 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -72,12 +72,11 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] Östersunds FK: 12 + GOAL (17) 🟢 59% 🔴 Östersunds FK
 13:30  Esbjerg fB vs Fredericia   [DANIMARCA - 1. DIVISION]  [OK 12+GOAL]
       [GOAL] Esbjerg fB: 12 + GOAL (6) 🟢 67% 🔴 Fredericia
-13:30  Bristol Rovers vs Swindon Town   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
-      [GOAL] Swindon Town: 12 + GOAL (6) 🟢 50%
 13:30  Huddersfield Town vs Wigan Athletic   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
-      [GOAL] Wigan Athletic: X2 + GOAL (14) 🔴 Wigan Athletic
-13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
-      [GOAL] Northampton Town: 12 + GOAL (9+) 🟢 56% 🔴 Colchester United
+      [GOAL] Wigan Athletic: X2 + GOAL (15) 🔴 Wigan Athletic
+13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+      [GOAL] Northampton Town: 12 + GOAL (10+) 🟢 50% 🔴 Colchester United
+      [GOAL] Colchester United: 12 + GOAL (6) 🟢 67% 🔴 Colchester United
 14:00  Montpellier vs Red Star   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
       [GOAL] Red Star: 1X + GOAL (6) 🟢 67% 🔴 Montpellier
 14:00  Ingolstadt vs MSV Duisburg   [GERMANIA - 3. LIGA]  [OK 1X+GOAL]
@@ -105,25 +104,24 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] Everton: 12 + GOAL (8) 🟢 62% 🔴 Everton
 16:00  Coventry City vs Fulham   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
       [GOAL] Coventry City: X2 + GOAL (7+) 🟢 57% 🔴 Coventry City
-16:00  Exeter City vs Fleetwood Town   [INGHILTERRA - LEAGUE TWO]  [ALT 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
-      [GOAL] Exeter City: 1X + GOAL (7) 🔴 Exeter City; X2 + GOAL (7); 12 + GOAL (8) 🔴 Exeter City
+16:00  Exeter City vs Fleetwood Town   [INGHILTERRA - LEAGUE TWO]  [ALT 1X+GOAL] [ALT X2+GOAL] [ALT 12+GOAL]
+      [GOAL] Exeter City: 1X + GOAL (8) 🔴 Exeter City; X2 + GOAL (8); 12 + GOAL (9) 🔴 Exeter City
 16:00  Oxford United vs Bradford City   [INGHILTERRA - LEAGUE ONE]  [OK 12+GOAL]
-      [GOAL] Bradford City: 12 + GOAL (6)
+      [GOAL] Bradford City: 12 + GOAL (7)
 16:00  West Ham United vs Southampton   [INGHILTERRA - CHAMPIONSHIP]  [OK X2+GOAL]
       [GOAL] Southampton: X2 + GOAL (6) 🟢 50%
-16:00  York City vs Port Vale   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL] [OK X2+GOAL]
-      [GOAL] York City: 12 + GOAL (6) 🟢 100% 🔴 Port Vale
-      [GOAL] Port Vale: X2 + GOAL (7) 🔴 Port Vale
+16:00  York City vs Port Vale   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+      [GOAL] York City: 12 + GOAL (7) 🟢 100% 🔴 Port Vale
+      [GOAL] Port Vale: 12 + GOAL (6) 🔴 Port Vale
 16:00  Dundee United vs Aberdeen   [SCOZIA - PREMIERSHIP]  [ALT 12+GOAL]
       [GOAL] Dundee United: 12 + GOAL (14) 🟢 86% 🔴 Dundee United 🔴 Aberdeen
 16:00  Greenock Morton vs Ayr United   [SCOZIA - CHAMPIONSHIP]  [ALT 1X+GOAL]
       [GOAL] Greenock Morton: 1X + GOAL (6) 🟢 83%
-16:00  Partick Thistle vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]  [ALT 1X+GOAL] [OK 12+GOAL]
-      [GOAL] Partick Thistle: 1X + GOAL (7) 🔴 Stenhousemuir
+16:00  Partick Thistle vs Stenhousemuir   [SCOZIA - CHAMPIONSHIP]  [OK 12+GOAL]
       [GOAL] Stenhousemuir: 12 + GOAL (6) 🔴 Stenhousemuir
 16:00  Queen's Park vs Dunfermline Athletic   [SCOZIA - CHAMPIONSHIP]  [ALT X2+GOAL] [OK 12+GOAL]
       [GOAL] Queen's Park: X2 + GOAL (9) 🟢 89% 🔴 Queen's Park 🔴 Dunfermline Athletic
-      [GOAL] Dunfermline Athletic: 12 + GOAL (15) 🟢 67% 🔴 Dunfermline Athletic
+      [GOAL] Dunfermline Athletic: 12 + GOAL (16) 🟢 69% 🔴 Dunfermline Athletic
 16:15  Leganés vs Mallorca   [SPAGNA - LALIGA 2]  [ALT X2+GOAL]
       [GOAL] Leganés: X2 + GOAL (9) 🟢 56%
 16:30  Estrela da Amadora vs Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]  [ALT 1X+GOAL]

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 20/10/2026 22:21 (ora italiana)
+Aggiornato: 20/10/2026 23:23 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -105,9 +105,9 @@ SOTTOFREQUENZA 1X + GOAL
     1/24 Sheffield United               29/100
     2/24 Swansea City                   31/100
     3/24 Blackburn Rovers               33/100
-    4/24 Wolverhampton Wanderers        34/100
-    5/24 Millwall                       35/100
-    6/24 Stoke City                     35/100
+    4/24 Millwall                       35/100
+    5/24 Stoke City                     35/100
+    6/24 Wolverhampton Wanderers        35/100
      ...
    24/24 Preston North End              50/100  (la fa più spesso)
 
@@ -139,9 +139,10 @@ SOTTOFREQUENZA 1X + GOAL
     2/24 Leyton Orient                  27/100
     3/24 Stevenage                      31/100
     4/24 Notts County                   32/100
-    5/24 Wigan Athletic                 33/100
+    5/24 Doncaster Rovers               34/100
+    6/24 Wigan Athletic                 34/100
      ...
-   24/24 Peterborough United            50/100  (la fa più spesso)
+   24/24 Peterborough United            51/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 AFC Wimbledon                  26/100
@@ -150,17 +151,17 @@ SOTTOFREQUENZA X2 + GOAL
     4/24 Wigan Athletic                 27/100
     5/24 Luton Town                     28/100
      ...
-   24/24 Barnsley                       44/100  (la fa più spesso)
+   24/24 Barnsley                       43/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/24 Wigan Athletic                 20/100
+    1/24 Wigan Athletic                 21/100
     2/24 AFC Wimbledon                  23/100
     3/24 Stevenage                      28/100
     4/24 Cambridge United               29/100
     5/24 Bromley                        31/100
     6/24 Burton Albion                  31/100
-    7/24 Oxford United                  31/100
-    8/24 Sheffield Wednesday            31/100
+    7/24 Sheffield Wednesday            31/100
+    8/24 Wycombe Wanderers              31/100
      ...
    24/24 Barnsley                       45/100  (la fa più spesso)
 
@@ -169,22 +170,21 @@ INGHILTERRA - LEAGUE TWO
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 Exeter City                    30/100
-    2/24 Port Vale                      31/100
-    3/24 Shrewsbury Town                31/100
-    4/24 Bristol Rovers                 32/100
-    5/24 Rochdale                       33/100
+    2/24 Shrewsbury Town                31/100
+    3/24 Bristol Rovers                 32/100
+    4/24 Port Vale                      32/100
+    5/24 Oldham Athletic                33/100
      ...
-   24/24 Cheltenham Town                45/100  (la fa più spesso)
+   24/24 Chesterfield                   45/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Bristol Rovers                 23/100
-    2/24 Newport County                 24/100
-    3/24 Port Vale                      24/100
+    1/24 Bristol Rovers                 24/100
+    2/24 Newport County                 25/100
+    3/24 Port Vale                      25/100
     4/24 Accrington Stanley             28/100
     5/24 Northampton Town               28/100
-    6/24 Rotherham United               28/100
      ...
-   24/24 Fleetwood Town                 39/100  (la fa più spesso)
+   24/24 Gillingham                     39/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/24 Gillingham                     23/100
@@ -192,9 +192,11 @@ SOTTOFREQUENZA 12 + GOAL
     3/24 Exeter City                    25/100
     4/24 Port Vale                      25/100
     5/24 Accrington Stanley             28/100
-    6/24 Oldham Athletic                28/100
+    6/24 Crewe Alexandra                28/100
+    7/24 Oldham Athletic                28/100
+    8/24 Rotherham United               28/100
      ...
-   24/24 Barnet                         40/100  (la fa più spesso)
+   24/24 Bristol Rovers                 40/100  (la fa più spesso)
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -1078,7 +1080,7 @@ SCOZIA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/10 Raith Rovers                   24/100
-    2/10 Dunfermline Athletic           28/100
+    2/10 Dunfermline Athletic           29/100
     3/10 Arbroath                       34/100
     4/10 Queen's Park                   34/100
     5/10 Stenhousemuir                  34/100
@@ -1089,17 +1091,18 @@ SOTTOFREQUENZA X2 + GOAL
     1/10 Raith Rovers                   22/100
     2/10 Dunfermline Athletic           24/100
     3/10 Arbroath                       30/100
-    4/10 Partick Thistle                30/100
-    5/10 Queen's Park                   30/100
+    4/10 Queen's Park                   30/100
+    5/10 Partick Thistle                31/100
+    6/10 Stenhousemuir                  31/100
      ...
    10/10 Ayr United                     38/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 Dunfermline Athletic           20/100
+    1/10 Dunfermline Athletic           19/100
     2/10 Stenhousemuir                  23/100
     3/10 Inverness Caledonian Thistle   24/100
     4/10 Raith Rovers                   26/100
-    5/10 Partick Thistle                29/100
+    5/10 Partick Thistle                28/100
      ...
    10/10 Arbroath                       34/100  (la fa più spesso)
 
