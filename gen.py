@@ -316,6 +316,28 @@ def dbadges(r, lg, names):
             H.append(f'<span class="dz ok">{html.escape(short)}</span>'); T.append(f"[OK {short}]")
     return " ".join(H), " ".join(T)
 
+# bet365: pagine hub ufficiali bet365.it per campionato (le route #/AC/... cambiano ogni stagione,
+# quindi vengono lette dalla pagina hub a ogni aggiornamento). Altri campionati: pagina Calcio.
+BET365_HUB = {55: "serie-a", 86: "serie-b", 47: "premier-league", 87: "la-liga", 54: "bundesliga"}
+BET365_FALLBACK = "https://www.bet365.it/#/AS/B1/"
+_B365 = {}
+
+def bet365_url(lid):
+    if lid in _B365: return _B365[lid]
+    url = BET365_FALLBACK
+    slug = BET365_HUB.get(lid)
+    if slug:
+        hub = f"https://www.bet365.it/hub/it-it/football/football-competitions/{slug}"
+        url = hub
+        try:
+            req = urllib.request.Request(hub, headers={"User-Agent": "Mozilla/5.0"})
+            txt = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "ignore")
+            m = re.search(r"#/AC/B1/C1/D1002/E(\d+)/", txt)
+            if m: url = f"https://www.bet365.it/#/AC/B1/C1/D1002/E{m.group(1)}/G40/"
+        except Exception: pass
+    _B365[lid] = url
+    return url
+
 def tspan(li, a, b, t):
     E = lambda x: html.escape(str(x), quote=True)
     return f'<span class="pt" data-k="{li}" data-a="{E(a)}" data-b="{E(b)}">{E(t)}</span>'
@@ -390,7 +412,7 @@ def _bookmaker_event(site, home, away):
     _BOOKMAKER_CACHE[key] = found
     return found
 
-def bookmaker_badges(home, away):
+def bookmaker_badges(home, away, li=None):
     """Genera le due targhette: verde/blu solo per link evento verificati, grigie altrimenti."""
     out = []
     for site, label, base, css in (
@@ -399,7 +421,12 @@ def bookmaker_badges(home, away):
     ):
         url = _bookmaker_event(site, home, away)
         direct = bool(url)
-        href = html.escape(url if direct else ("https://www.bet365.it/" if site == "bet365" else "https://www.williamhill.it/"), quote=True)
+        fallback = "https://www.bet365.it/" if site == "bet365" else "https://www.williamhill.it/"
+        if not direct and site == "bet365" and li is not None:
+            lid = LEAGUES[li][2]
+            fallback = bet365_url(lid)   # pagina del campionato (o pagina Calcio)
+            if lid in BET365_HUB: direct = True
+        href = html.escape(url or fallback, quote=True)
         state = " direct" if direct else " generic"
         out.append(f'<a class="book {css}{state}" href="{href}" target="_blank" rel="noopener">{label}</a>')
     return " ".join(out)
@@ -498,7 +525,7 @@ def main():
         for KEY, tn, parts, hparts in tags:
             P.append(f"      [{LAB[KEY]}] {tn}: " + "; ".join(parts))
             hb.append(f'<div class="tagrow"><span class="tag {KEY}">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>: ' + "; ".join(hparts) + "</div>")
-        H.append(f'<div class="fx"><div class="fxh"><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} {bookmaker_badges(hn, an)}</div>' + "".join(hb) + "</div>")
+        H.append(f'<div class="fx"><div class="fxh"><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>' + "".join(hb) + "</div>")
     if not cf:
         P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia."); H.append("<p>Nessuna partita nei prossimi giorni con ritardi sopra soglia.</p>")
     sections["prossime"] = "\n".join(P) + "\n"
@@ -512,7 +539,7 @@ def main():
         det = " ".join(f"{a}{b:+g}" for a, b in zip("RCFGAES", comp))
         dh, dt = dbadges(data[LIX][2], f"{c} - {l}", [nm])
         TT += [f"{i:>2}. {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}", f"    {nm}  -  punteggio {sc}  ({det})", f"    {why}", ""]
-        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} {bookmaker_badges(hn, an)}</div><div class="tipc"><span class="tag "goal"">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
+        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div><div class="tipc"><span class="tag "goal"">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
     if not tips:
         TT.append("Nessuna tip convincente oggi."); TH.append("<p>Nessuna tip convincente oggi.</p>")
     TT += ["", "REGOLE DEL PUNTEGGIO"] + ["  " + x for x in TIPS_RULES]
