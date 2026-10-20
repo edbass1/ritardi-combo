@@ -349,7 +349,6 @@ _BOOKMAKER_CACHE = {}
 _BOOKMAKER_PAGE_CACHE = {}
 _BOOKMAKER_PAGES = {
     "bet365": ("https://www.bet365.it/hub/it-it/football", re.compile(r"https?://(?:www\.)?bet365\.it/[^\s\"'<>]*E\d+[^\s\"'<>]*", re.I)),
-    "william": ("https://sports.williamhill.it/betting/it-it/calcio", re.compile(r"https?://sports\.williamhill\.it/betting/it-it/[^\s\"'<>]+", re.I)),
 }
 
 def _norm_team(s):
@@ -417,11 +416,10 @@ def bookmaker_badges(home, away, li=None):
     out = []
     for site, label, base, css in (
         ("bet365", "bet365", "https://www.bet365.it/", "book-b365"),
-        ("william", "William Hill", "https://sports.williamhill.it/betting/it-it/calcio", "book-wh"),
     ):
         url = _bookmaker_event(site, home, away)
         direct = bool(url)
-        fallback = "https://www.bet365.it/" if site == "bet365" else "https://www.williamhill.it/"
+        fallback = "https://www.bet365.it/"
         if not direct and site == "bet365" and li is not None:
             lid = LEAGUES[li][2]
             fallback = bet365_url(lid)   # pagina del campionato (o pagina Calcio)
@@ -593,7 +591,7 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 #hamb{{display:none;position:fixed;left:10px;top:10px;z-index:130;width:44px;height:44px;border-radius:10px;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.4rem;cursor:pointer}}
 @media (min-width:901px){{body{{margin-left:max(210px,calc((100vw - 1100px)/2))}}}}
 @media (max-width:900px){{#hamb{{display:block}}#side{{transform:translateX(-105%);transition:transform .2s;width:220px;padding-top:4rem}}#side.open{{transform:none}}h1{{margin-top:3.6rem}}}}
-.dz{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;color:#000;margin-left:.3rem;vertical-align:middle}}.dz.bad{{background:#ff5c5c;cursor:pointer}}.dz.ok{{background:#2e9e5b}}#side a.sbig,#side a.sbig:link,#side a.sbig:visited,#side a.sbig:hover,#side a.sbig:active,#side a.sbig:focus,#side a.sbig *{{color:#000 !important}}.book,.book:link,.book:visited{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;text-decoration:none;margin-left:.3rem;vertical-align:middle}}.book-b365.direct,.book-b365.direct:link,.book-b365.direct:visited{{background:#20b957;color:#fff !important}}.book-wh.direct,.book-wh.direct:link,.book-wh.direct:visited{{background:#1769d2;color:#fff !important}}.book.generic,.book.generic:link,.book.generic:visited{{background:#c5c5c5;color:#111 !important}}.book:hover{{filter:brightness(1.12)}}#side a.ssm.active{{background:#00ff88;color:#000 !important;font-weight:800}}#side a.sbig.active{{outline:3px solid #fff;outline-offset:2px}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
+.dz{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;color:#000;margin-left:.3rem;vertical-align:middle}}.dz.bad{{background:#ff5c5c;cursor:pointer}}.dz.ok{{background:#2e9e5b}}#side a.sbig,#side a.sbig:link,#side a.sbig:visited,#side a.sbig:hover,#side a.sbig:active,#side a.sbig:focus,#side a.sbig *{{color:#000 !important}}.book,.book:link,.book:visited{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;text-decoration:none;margin-left:.3rem;vertical-align:middle}}.book-b365.direct,.book-b365.direct:link,.book-b365.direct:visited{{background:#20b957;color:#fff !important}}.book.generic,.book.generic:link,.book.generic:visited{{background:#c5c5c5;color:#111 !important}}.book:hover{{filter:brightness(1.12)}}#side a.ssm.active{{background:#00ff88;color:#000 !important;font-weight:800}}#side a.sbig.active{{outline:3px solid #fff;outline-offset:2px}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){{document.querySelectorAll('pre').forEach(function(p){{p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'}});document.querySelectorAll('.fxlist').forEach(function(f){{f.style.fontSize=(Z*100)+'%'}})}}function z(d){{Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>{now}</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
