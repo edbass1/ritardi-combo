@@ -326,7 +326,7 @@ def tspan(li, a, b, t):
 _BOOKMAKER_CACHE = {}
 _BOOKMAKER_PAGE_CACHE = {}
 _BOOKMAKER_PAGES = {
-    "bet365": ("https://www.bet365.it/", re.compile(r"https?://(?:www\.)?bet365\.it/[^\s\"'<>]*E\d+[^\s\"'<>]*", re.I)),
+    "bet365": ("https://www.bet365.it/hub/it-it/football", re.compile(r"https?://(?:www\.)?bet365\.it/[^\s\"'<>]*E\d+[^\s\"'<>]*", re.I)),
     "william": ("https://sports.williamhill.it/betting/it-it/calcio", re.compile(r"https?://sports\.williamhill\.it/betting/it-it/[^\s\"'<>]+", re.I)),
 }
 
