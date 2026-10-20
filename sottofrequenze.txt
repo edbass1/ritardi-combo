@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 20/10/2026 20:26 (ora italiana)
+Aggiornato: 20/10/2026 21:27 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -899,7 +899,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/13 GIF Sundsvall                  30/100
     2/13 Örebro                         30/100
     3/13 Helsingborg                    31/100
-    4/13 IFK Norrköping                 32/100
+    4/13 IFK Norrköping                 33/100
     5/13 Östersunds FK                  33/100
      ...
    13/13 IFK Värnamo                    40/100  (la fa più spesso)

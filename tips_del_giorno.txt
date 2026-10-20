@@ -1,34 +1,7 @@
 TIPS DEL GIORNO - 20/10/2026
-Aggiornato: 20/10/2026 20:26 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 20/10/2026 21:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:45  Dunfermline Athletic vs Partick Thistle   [SCOZIA - CHAMPIONSHIP]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 65.8  (R+30 C+10 F+8.2 G+3.4 A-0.8 E+0 S+15)
-    Dunfermline Athletic non fa 12 + GOAL da 15 partite (ritardo massimo del campionato 15, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Dunfermline Athletic è in sottofrequenza (20/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 20:45  Oxford United vs Wigan Athletic   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 61.0  (R+30 C+10 F+7 G+0 A-1 E+0 S+15)
-    Wigan Athletic non fa X2 + GOAL da 14 partite (ritardo massimo del campionato 14, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Wigan Athletic è in sottofrequenza (27/100), deve recuperare.
-
- 3. 20:45  Exeter City vs Crewe Alexandra   [INGHILTERRA - LEAGUE TWO]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 58.2  (R+30 C+10 F+7.6 G+0 A-4.4 E+0 S+15)
-    Exeter City non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Exeter City è in sottofrequenza (30/100), deve recuperare.
-
- 4. 21:00  Gillingham vs Port Vale   [INGHILTERRA - LEAGUE TWO]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 57.7  (R+30 C+10 F+8.3 G+0 A-5.7 E+0 S+15)
-    Port Vale non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Port Vale è in sottofrequenza (24/100), deve recuperare. Attenzione: Gillingham la fa già spesso (38/100).
-
- 5. 20:45  Burton Albion vs Bradford City   [INGHILTERRA - LEAGUE ONE]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 43.8  (R+30 C+10 F+0.9 G+0 A+2.9 E+0 S+0)
-    Bradford City non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato.
-
- 6. 20:45  Walsall vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 37.9  (R+23.3 C+5 F+1.2 G+4.2 A+4.2 E+0 S+0)
-    Walsall non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 9, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 7. 20:45  Northampton Town vs Tranmere Rovers   [INGHILTERRA - LEAGUE TWO]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 37.5  (R+30 C+10 F-2.8 G+1.2 A-0.8 E+0 S+0)
-    Northampton Town non fa 12 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 56% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
