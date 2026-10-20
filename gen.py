@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Genera ritardi combo (1X/X2/12 + Goal) da FotMob."""
-import json, time, urllib.request, datetime, html, re, unicodedata
+import json, time, urllib.request, datetime, html, re, unicodedata, urllib.parse
 from zoneinfo import ZoneInfo
 
 LEAGUES = [
@@ -324,9 +324,10 @@ def tspan(li, a, b, t):
 # che contiene riferimenti verificabili a entrambe le squadre. In caso contrario
 # resta il collegamento generico, grigio.
 _BOOKMAKER_CACHE = {}
+_BOOKMAKER_PAGE_CACHE = {}
 _BOOKMAKER_PAGES = {
-    "bet365": ("https://www.bet365.it/", re.compile(r"https?://(?:www\\.)?bet365\\.it/[^\\s\"'<>]*E\\d+[^\\s\"'<>]*", re.I)),
-    "william": ("https://sports.williamhill.it/betting/it-it/calcio", re.compile(r"https?://sports\\.williamhill\\.it/betting/it-it/[^\\s\"'<>]+", re.I)),
+    "bet365": ("https://www.bet365.it/", re.compile(r"https?://(?:www\.)?bet365\.it/[^\s\"'<>]*E\d+[^\s\"'<>]*", re.I)),
+    "william": ("https://sports.williamhill.it/betting/it-it/calcio", re.compile(r"https?://sports\.williamhill\.it/betting/it-it/[^\s\"'<>]+", re.I)),
 }
 
 def _norm_team(s):
@@ -341,24 +342,22 @@ def _bookmaker_event(site, home, away):
     base, url_re = _BOOKMAKER_PAGES[site]
     found = ""
     try:
-        req = urllib.request.Request(base, headers={
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36",
-            "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
-        })
-        with urllib.request.urlopen(req, timeout=12) as response:
-            page = response.read(3_000_000).decode("utf-8", "ignore")
+        if site not in _BOOKMAKER_PAGE_CACHE:
+            req = urllib.request.Request(base, headers={
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36",
+                "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+            })
+            with urllib.request.urlopen(req, timeout=12) as response:
+                _BOOKMAKER_PAGE_CACHE[site] = response.read(3_000_000).decode("utf-8", "ignore")
+        page = _BOOKMAKER_PAGE_CACHE[site]
         nh, na = _norm_team(home), _norm_team(away)
-        # Cerca entrambi i nomi nella stessa porzione di pagina, poi accetta
-        # esclusivamente un URL di evento specifico, mai la homepage.
-        for needle in (nh, na):
-            if not needle:
-                break
         if nh and na:
-            for m in re.finditer(re.escape(nh), _norm_team(page)):
-                pass
-            # Manteniamo HTML grezzo per poter legare i nomi alle URL vicine.
-            for m in re.finditer(r"https?://[^\\s\"'<>]+", page):
-                url = html.unescape(m.group(0)).replace("&amp;", "&")
+            # Esamina i link del sito e il contesto testuale attorno a ciascuno.
+            # Un link viene promosso a "diretto" soltanto se entrambi i nomi
+            # compaiono vicino all'URL specifico dell'evento.
+            for m in re.finditer(r"""(?:href|url)\s*=\s*["']([^"']+)["']""", page, re.I):
+                raw_url = html.unescape(m.group(1)).replace("&amp;", "&")
+                url = urllib.parse.urljoin(base, raw_url)
                 if not url_re.fullmatch(url) or url.rstrip("/") == base.rstrip("/"):
                     continue
                 lo, hi = max(0, m.start()-1800), min(len(page), m.end()+1800)
