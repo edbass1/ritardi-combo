@@ -29,6 +29,11 @@ jobs:
         if: steps.fascia.outputs.esegui == 'true'
         with:
           python-version: '3.12'
+      - name: Installa browser per leggere gli eventi renderizzati
+        if: steps.fascia.outputs.esegui == 'true'
+        run: |
+          python -m pip install playwright
+          python -m playwright install chromium --with-deps
       - run: python3 gen.py
         if: steps.fascia.outputs.esegui == 'true'
       - name: Salva aggiornamenti
