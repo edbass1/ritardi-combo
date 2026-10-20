@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Genera ritardi combo (1X/X2/12 + Goal) da FotMob."""
-import json, time, urllib.request, datetime, html
+import json, time, urllib.request, datetime, html, re, unicodedata
 from zoneinfo import ZoneInfo
 
 LEAGUES = [
@@ -320,6 +320,71 @@ def tspan(li, a, b, t):
     E = lambda x: html.escape(str(x), quote=True)
     return f'<span class="pt" data-k="{li}" data-a="{E(a)}" data-b="{E(b)}">{E(t)}</span>'
 
+# Collegamenti ai bookmaker: si colorano solo se viene trovato un URL di evento
+# che contiene riferimenti verificabili a entrambe le squadre. In caso contrario
+# resta il collegamento generico, grigio.
+_BOOKMAKER_CACHE = {}
+_BOOKMAKER_PAGES = {
+    "bet365": ("https://www.bet365.it/", re.compile(r"https?://(?:www\\.)?bet365\\.it/[^\\s\"'<>]*E\\d+[^\\s\"'<>]*", re.I)),
+    "william": ("https://sports.williamhill.it/betting/it-it/calcio", re.compile(r"https?://sports\\.williamhill\\.it/betting/it-it/[^\\s\"'<>]+", re.I)),
+}
+
+def _norm_team(s):
+    s = html.unescape(re.sub(r"<[^>]+>", " ", s))
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii").lower()
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+def _bookmaker_event(site, home, away):
+    key = (site, _norm_team(home), _norm_team(away))
+    if key in _BOOKMAKER_CACHE:
+        return _BOOKMAKER_CACHE[key]
+    base, url_re = _BOOKMAKER_PAGES[site]
+    found = ""
+    try:
+        req = urllib.request.Request(base, headers={
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36",
+            "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+        })
+        with urllib.request.urlopen(req, timeout=12) as response:
+            page = response.read(3_000_000).decode("utf-8", "ignore")
+        nh, na = _norm_team(home), _norm_team(away)
+        # Cerca entrambi i nomi nella stessa porzione di pagina, poi accetta
+        # esclusivamente un URL di evento specifico, mai la homepage.
+        for needle in (nh, na):
+            if not needle:
+                break
+        if nh and na:
+            for m in re.finditer(re.escape(nh), _norm_team(page)):
+                pass
+            # Manteniamo HTML grezzo per poter legare i nomi alle URL vicine.
+            for m in re.finditer(r"https?://[^\\s\"'<>]+", page):
+                url = html.unescape(m.group(0)).replace("&amp;", "&")
+                if not url_re.fullmatch(url) or url.rstrip("/") == base.rstrip("/"):
+                    continue
+                lo, hi = max(0, m.start()-1800), min(len(page), m.end()+1800)
+                chunk = _norm_team(page[lo:hi])
+                if nh in chunk and na in chunk:
+                    found = url
+                    break
+    except Exception:
+        pass
+    _BOOKMAKER_CACHE[key] = found
+    return found
+
+def bookmaker_badges(home, away):
+    """Genera le due targhette: verde/blu solo per link evento verificati, grigie altrimenti."""
+    out = []
+    for site, label, base, css in (
+        ("bet365", "bet365", "https://www.bet365.it/", "book-b365"),
+        ("william", "William Hill", "https://sports.williamhill.it/betting/it-it/calcio", "book-wh"),
+    ):
+        url = _bookmaker_event(site, home, away)
+        direct = bool(url)
+        href = html.escape(url if direct else ("https://www.bet365.it/" if site == "bet365" else "https://www.williamhill.it/"), quote=True)
+        state = " direct" if direct else " generic"
+        out.append(f'<a class="book {css}{state}" href="{href}" target="_blank" rel="noopener">{label}</a>')
+    return " ".join(out)
+
 def main():
     now = datetime.datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
     data = []
@@ -414,7 +479,7 @@ def main():
         for KEY, tn, parts, hparts in tags:
             P.append(f"      [{LAB[KEY]}] {tn}: " + "; ".join(parts))
             hb.append(f'<div class="tagrow"><span class="tag {KEY}">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>: ' + "; ".join(hparts) + "</div>")
-        H.append(f'<div class="fx"><div class="fxh"><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} <a class="b365" href="https://www.bet365.it/" target="_blank" rel="noopener">bet365</a></div>' + "".join(hb) + "</div>")
+        H.append(f'<div class="fx"><div class="fxh"><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} {bookmaker_badges(hn, an)}</div>' + "".join(hb) + "</div>")
     if not cf:
         P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia."); H.append("<p>Nessuna partita nei prossimi giorni con ritardi sopra soglia.</p>")
     sections["prossime"] = "\n".join(P) + "\n"
@@ -428,7 +493,7 @@ def main():
         det = " ".join(f"{a}{b:+g}" for a, b in zip("RCFGAES", comp))
         dh, dt = dbadges(data[LIX][2], f"{c} - {l}", [nm])
         TT += [f"{i:>2}. {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}", f"    {nm}  -  punteggio {sc}  ({det})", f"    {why}", ""]
-        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} <a class="b365" href="https://www.bet365.it/" target="_blank" rel="noopener">bet365</a></div><div class="tipc"><span class="tag "goal"">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
+        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time copy-time" data-copy="{html.escape(hn + " vs " + an, quote=True)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{html.escape(c)} - {html.escape(l)}</span> {dh} {bookmaker_badges(hn, an)}</div><div class="tipc"><span class="tag "goal"">{html.escape(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{html.escape(why)}</p></div>')
     if not tips:
         TT.append("Nessuna tip convincente oggi."); TH.append("<p>Nessuna tip convincente oggi.</p>")
     TT += ["", "REGOLE DEL PUNTEGGIO"] + ["  " + x for x in TIPS_RULES]
@@ -482,7 +547,7 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 #hamb{{display:none;position:fixed;left:10px;top:10px;z-index:130;width:44px;height:44px;border-radius:10px;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.4rem;cursor:pointer}}
 @media (min-width:901px){{body{{margin-left:max(210px,calc((100vw - 1100px)/2))}}}}
 @media (max-width:900px){{#hamb{{display:block}}#side{{transform:translateX(-105%);transition:transform .2s;width:220px;padding-top:4rem}}#side.open{{transform:none}}h1{{margin-top:3.6rem}}}}
-.dz{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;color:#000;margin-left:.3rem;vertical-align:middle}}.dz.bad{{background:#ff5c5c;cursor:pointer}}.dz.ok{{background:#2e9e5b}}#side a.sbig,#side a.sbig:link,#side a.sbig:visited,#side a.sbig:hover,#side a.sbig:active,#side a.sbig:focus,#side a.sbig *{{color:#000 !important}}.b365,.b365:link,.b365:visited{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;background:#ffdf1b;color:#000 !important;text-decoration:none;margin-left:.3rem;vertical-align:middle}}.b365:hover{{background:#fff176}}#side a.ssm.active{{background:#00ff88;color:#000 !important;font-weight:800}}#side a.sbig.active{{outline:3px solid #fff;outline-offset:2px}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
+.dz{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;color:#000;margin-left:.3rem;vertical-align:middle}}.dz.bad{{background:#ff5c5c;cursor:pointer}}.dz.ok{{background:#2e9e5b}}#side a.sbig,#side a.sbig:link,#side a.sbig:visited,#side a.sbig:hover,#side a.sbig:active,#side a.sbig:focus,#side a.sbig *{{color:#000 !important}}.book,.book:link,.book:visited{{display:inline-block;padding:.05rem .45rem;border-radius:6px;font-size:.72em;font-weight:800;text-decoration:none;margin-left:.3rem;vertical-align:middle}}.book-b365.direct,.book-b365.direct:link,.book-b365.direct:visited{{background:#20b957;color:#fff !important}}.book-wh.direct,.book-wh.direct:link,.book-wh.direct:visited{{background:#1769d2;color:#fff !important}}.book.generic,.book.generic:link,.book.generic:visited{{background:#c5c5c5;color:#111 !important}}.book:hover{{filter:brightness(1.12)}}#side a.ssm.active{{background:#00ff88;color:#000 !important;font-weight:800}}#side a.sbig.active{{outline:3px solid #fff;outline-offset:2px}}#zoom{{position:fixed;top:10px;right:10px;z-index:99;display:flex;gap:6px}}#zoom button{{width:44px;height:44px;border-radius:50%;border:2px solid #00ff88;background:#000c;color:#00ff88;font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff8855}}#zoom button:active{{background:#00ff88;color:#000}}</style></head><body>
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){{document.querySelectorAll('pre').forEach(function(p){{p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'}});document.querySelectorAll('.fxlist').forEach(function(f){{f.style.fontSize=(Z*100)+'%'}})}}function z(d){{Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1><p>Ultimo aggiornamento: <b>{now}</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
