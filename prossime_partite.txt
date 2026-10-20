@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 20/10/2026 14:26 (ora italiana)
+Aggiornato: 20/10/2026 14:58 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -58,7 +58,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] FC Stade Lausanne-Ouchy: 12 + GOAL (6) 🟢 83% 🔴 FC Stade Lausanne-Ouchy
 19:30  Wil vs FC Rapperswil-Jona   [SVIZZERA - CHALLENGE LEAGUE]  [OK 12+GOAL]
       [GOAL] Wil: 12 + GOAL (8) 🟢 100% 🔴 Wil
-19:45  Chaves vs Vizela   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 12+GOAL]
+19:45  Chaves vs Vizela   [PORTOGALLO - LIGA PORTUGAL 2]  [OK 12+GOAL]
       [GOAL] Vizela: 12 + GOAL (13) 🔴 Vizela
 20:00  Francs Borains vs FCV Dender EH   [BELGIO - FIRST DIVISION B]  [OK 1X+GOAL]
       [GOAL] FCV Dender EH: 1X + GOAL (7+) 🟢 57% 🔴 FCV Dender EH
@@ -178,5 +178,15 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
 ==================================================
 12:00  Odra Opole vs Pogoń Siedlce   [POLONIA - I LIGA]  [ALT 12+GOAL]
       [GOAL] Odra Opole: 12 + GOAL (7) 🔴 Odra Opole
-12:00  AVS Futebol SAD vs Tondela   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 1X+GOAL] [OK X2+GOAL] [ALT 12+GOAL]
+12:00  AVS Futebol SAD vs Tondela   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
       [GOAL] Tondela: 1X + GOAL (6) 🟢 67%; X2 + GOAL (7+) 🟢 71%; 12 + GOAL (6) 🟢 67% 🔴 AVS Futebol SAD 🔴 Tondela
+13:30  Genk vs Standard Liège   [BELGIO - FIRST DIVISION A]  [ALT 12+GOAL]
+      [GOAL] Genk: 12 + GOAL (6) 🟢 83% 🔴 Standard Liège
+13:30  Holstein Kiel vs Dynamo Dresden   [GERMANIA - 2. BUNDESLIGA]  [OK 12+GOAL]
+      [GOAL] Holstein Kiel: 12 + GOAL (8) 🟢 62%
+14:00  Silkeborg vs Nordsjælland   [DANIMARCA - SUPERLIGAEN]  [OK 12+GOAL]
+      [GOAL] Silkeborg: 12 + GOAL (6) 🟢 100% 🔴 Silkeborg
+14:00  HJK vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]  [ALT 12+GOAL]
+      [GOAL] KuPS: 12 + GOAL (7) 🔴 KuPS
+14:00  GAIS vs IFK Göteborg   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
+      [GOAL] GAIS: X2 + GOAL (9) 🟢 67% 🔴 GAIS
