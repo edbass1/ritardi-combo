@@ -343,12 +343,32 @@ def _bookmaker_event(site, home, away):
     found = ""
     try:
         if site not in _BOOKMAKER_PAGE_CACHE:
-            req = urllib.request.Request(base, headers={
-                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36",
-                "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
-            })
-            with urllib.request.urlopen(req, timeout=12) as response:
-                _BOOKMAKER_PAGE_CACHE[site] = response.read(3_000_000).decode("utf-8", "ignore")
+            # Prima prova una pagina realmente renderizzata: i bookmaker caricano
+            # spesso gli eventi via JavaScript, quindi urllib da solo non basta.
+            rendered = ""
+            try:
+                from playwright.sync_api import sync_playwright
+                with sync_playwright() as p:
+                    browser = p.chromium.launch(headless=True)
+                    context = browser.new_context(
+                        locale="it-IT",
+                        user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36",
+                    )
+                    tab = context.new_page()
+                    tab.goto(base, wait_until="domcontentloaded", timeout=25000)
+                    tab.wait_for_timeout(5000)
+                    rendered = tab.content()
+                    browser.close()
+            except Exception:
+                rendered = ""
+            if not rendered:
+                req = urllib.request.Request(base, headers={
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36",
+                    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+                })
+                with urllib.request.urlopen(req, timeout=12) as response:
+                    rendered = response.read(3_000_000).decode("utf-8", "ignore")
+            _BOOKMAKER_PAGE_CACHE[site] = rendered
         page = _BOOKMAKER_PAGE_CACHE[site]
         nh, na = _norm_team(home), _norm_team(away)
         if nh and na:
