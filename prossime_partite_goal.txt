@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 21/10/2026 18:25 (ora italiana)
+Aggiornato: 21/10/2026 19:23 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -188,3 +188,9 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Anderlecht: 1X + GOAL (7) 🔴 Anderlecht
 19:30  Waldhof Mannheim vs Hoffenheim II   [GERMANIA - 3. LIGA]
       Waldhof Mannheim: 1X + GOAL (7) 🟢 71%
+
+==================================================
+26/10/2026
+==================================================
+18:00  Warta Poznań vs ŁKS Łódź   [POLONIA - I LIGA]
+      Warta Poznań: X2 + GOAL (8) 🟢 62% 🔴 Warta Poznań
