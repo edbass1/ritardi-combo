@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 21/10/2026 21:27 (ora italiana)
+Aggiornato: 21/10/2026 22:21 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -360,8 +360,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/20 Getafe                         23/100
     2/20 Barcelona                      33/100
     3/20 Real Sociedad                  37/100
-    4/20 Athletic Club                  38/100
-    5/20 Atlético Madrid                38/100
+    4/20 Atlético Madrid                38/100
+    5/20 Athletic Club                  39/100
      ...
    20/20 Real Betis                     49/100  (la fa più spesso)
 

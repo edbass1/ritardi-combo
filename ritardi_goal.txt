@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 21/10/2026 21:27 (ora italiana)
+Aggiornato: 21/10/2026 22:21 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -448,43 +448,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Elche                             4  🟢 50%
    2. Barcelona                         3  🟢 100%  🔴
-   3. Athletic Club                     2
-   4. Atlético Madrid                   2  🟢 50%
-   5. Villarreal                        2
-   6. Espanyol                          1
-   7. Málaga                            1  🟢 100%
-   8. Osasuna                           1  🟢 100%
-   9. Racing Santander                  1  🟢 100%
-  10. Real Betis                        1  🟢 100%
+   3. Atlético Madrid                   2  🟢 50%
+   4. Villarreal                        2
+   5. Espanyol                          1
+   6. Málaga                            1  🟢 100%
+   7. Osasuna                           1  🟢 100%
+   8. Racing Santander                  1  🟢 100%
+   9. Real Betis                        1  🟢 100%
+  10. Real Sociedad                     1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
-   1. Celta Vigo                        3  🟢 67%
-   2. Real Madrid                       3  🟢 67%  🔴
-   3. Villarreal                        3
-   4. Athletic Club                     2  🔴
+   1. Athletic Club                     3  🔴
+   2. Celta Vigo                        3  🟢 67%
+   3. Real Madrid                       3  🟢 67%  🔴
+   4. Villarreal                        3
    5. Elche                             2
    6. Osasuna                           2  🟢 100%
    7. Atlético Madrid                   1  🔴
    8. Deportivo Alavés                  1  🟢 100%
    9. Espanyol                          1
-  10. Racing Santander                  1  🟢 100%
+  10. Levante                           1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Getafe                           11  🔴
-   2. Athletic Club                     6  🟢 67%
-   3. Racing Santander                  3  🟢 100%
-   4. Elche                             2
-   5. Espanyol                          2  🟢 50%
-   6. Levante                           2  🟢 100%
-   7. Rayo Vallecano                    2  🟢 100%  🔴
-   8. Valencia                          2  🟢 50%
-   9. Villarreal                        2
-  10. Atlético Madrid                   1
+   2. Racing Santander                  3  🟢 100%
+   3. Elche                             2
+   4. Espanyol                          2  🟢 50%
+   5. Rayo Vallecano                    2  🟢 100%  🔴
+   6. Valencia                          2  🟢 50%
+   7. Villarreal                        2
+   8. Atlético Madrid                   1
+   9. Deportivo A Coruña                1  🟢 100%
+  10. Osasuna                           1  🟢 100%
 
 ==================================================
 SPAGNA - LALIGA 2
