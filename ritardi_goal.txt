@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 21/10/2026 20:24 (ora italiana)
+Aggiornato: 21/10/2026 21:27 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -968,7 +968,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
-Stagione 2026 (215 partite giocate) + 2025
+Stagione 2026 (216 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Moss                              8  🟢 75%
@@ -988,23 +988,23 @@ RITARDI X2 + GOAL
    3. FK Haugesund                      2  🟢 100%  🔴
    4. Lyn                               2  🟢 50%
    5. Moss                              2
-   6. Sandnes Ulf                       2  🟢 100%
-   7. Stabæk                            2  🟢 50%
-   8. Strømsgodset                      2  🟢 100%
-   9. Bryne                             1  🟢 100%  🔴
-  10. Hødd                              1  🟢 100%  🔴
+   6. Raufoss                           2  🟢 100%
+   7. Sandnes Ulf                       2  🟢 100%
+   8. Stabæk                            2  🟢 50%
+   9. Strømsgodset                      2  🟢 100%
+  10. Bryne                             1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. FK Haugesund                      4  🟢 100%
    2. Egersund                          2  🟢 50%
    3. Lyn                               2  🟢 50%
    4. Moss                              2
-   5. Sogndal                           2  🟢 50%
-   6. Kongsvinger                       1  🟢 100%
-   7. Sandnes Ulf                       1  🟢 100%  🔴
-   8. Stabæk                            1  🔴
-   9. Strømsgodset                      1  🟢 100%
-  10. Åsane                             1
+   5. Kongsvinger                       1  🟢 100%
+   6. Sandnes Ulf                       1  🟢 100%  🔴
+   7. Stabæk                            1  🔴
+   8. Strømsgodset                      1  🟢 100%
+   9. Åsane                             1
+  10. Bryne                             0  🔴
 
 ==================================================
 DANIMARCA - SUPERLIGAEN

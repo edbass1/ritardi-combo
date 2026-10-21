@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 21/10/2026 20:24 (ora italiana)
+Aggiornato: 21/10/2026 21:27 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -783,9 +783,8 @@ SOTTOFREQUENZA 12 + GOAL
     2/16 Bryne                          37/100
     3/16 Stabæk                         39/100
     4/16 FK Haugesund                   41/100
-    5/16 Sogndal                        41/100
-    6/16 Strømsgodset                   41/100
-    7/16 Åsane                          41/100
+    5/16 Strømsgodset                   41/100
+    6/16 Åsane                          41/100
      ...
    16/16 Ranheim                        52/100  (la fa più spesso)
 
