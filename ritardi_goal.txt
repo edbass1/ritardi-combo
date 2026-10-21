@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 21/10/2026 22:21 (ora italiana)
+Aggiornato: 21/10/2026 23:23 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -168,36 +168,36 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - LEAGUE ONE
-Stagione 2026/2027 (125 partite giocate) + 2025/2026
+Stagione 2026/2027 (126 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Leyton Orient                     5  🟢 60%  🔴
+   1. Leyton Orient                     6  🟢 50%  🔴
    2. Notts County                      5  🟢 80%
    3. Blackpool                         4  🟢 75%
    4. Stevenage                         4  🟢 50%  🔴
    5. Bradford City                     3
-   6. AFC Wimbledon                     2  🟢 100%  🔴
-   7. Bromley                           2  🟢 50%
-   8. Plymouth Argyle                   2  🟢 100%
-   9. Reading                           2  🟢 50%
+   6. Reading                           3
+   7. AFC Wimbledon                     2  🟢 100%  🔴
+   8. Bromley                           2  🟢 50%
+   9. Plymouth Argyle                   2  🟢 100%
   10. Sheffield Wednesday               2  🟢 100%
 
 RITARDI X2 + GOAL
    1. Wigan Athletic                   15  🔴
    2. Doncaster Rovers                  5  🟢 60%
-   3. Plymouth Argyle                   5  🟢 80%
-   4. Stevenage                         5  🟢 60%  🔴
-   5. Stockport County                  5
-   6. Bromley                           4  🟢 75%
-   7. Leyton Orient                     4  🟢 50%
+   3. Leyton Orient                     5
+   4. Plymouth Argyle                   5  🟢 80%
+   5. Stevenage                         5  🟢 60%  🔴
+   6. Stockport County                  5
+   7. Bromley                           4  🟢 75%
    8. AFC Wimbledon                     3  🟢 100%  🔴
    9. Blackpool                         3  🟢 67%
   10. Bradford City                     3  🔴
 
 RITARDI 12 + GOAL
    1. Bradford City                     7
-   2. Sheffield Wednesday               5  🟢 60%
-   3. Leyton Orient                     4  🟢 50%
+   2. Leyton Orient                     5
+   3. Sheffield Wednesday               5  🟢 60%
    4. Stevenage                         4  🟢 50%  🔴
    5. Blackpool                         3  🟢 67%
    6. Burton Albion                     3
