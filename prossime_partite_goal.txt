@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 21/10/2026 01:20 (ora italiana)
+Aggiornato: 21/10/2026 12:25 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -77,8 +77,6 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]
       Northampton Town: 12 + GOAL (10+) 🟢 50% 🔴 Colchester United
       Colchester United: 12 + GOAL (6) 🟢 67% 🔴 Colchester United
-14:00  Montpellier vs Red Star   [FRANCIA - LIGUE 2]
-      Red Star: 1X + GOAL (6) 🟢 67% 🔴 Montpellier
 14:00  Ingolstadt vs MSV Duisburg   [GERMANIA - 3. LIGA]
       Ingolstadt: 1X + GOAL (8) 🟢 75%
 14:00  Wehen Wiesbaden vs Sonnenhof Großaspach   [GERMANIA - 3. LIGA]
@@ -126,8 +124,6 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Leganés: X2 + GOAL (9) 🟢 56%
 16:30  Estrela da Amadora vs Casa Pia AC   [PORTOGALLO - LIGA PORTUGAL]
       Casa Pia AC: 1X + GOAL (8) 🟢 50%
-17:15  Toulouse vs Troyes   [FRANCIA - LIGUE 1]
-      Troyes: 1X + GOAL (7+) 🟢 86% 🔴 Toulouse 🔴 Troyes
 17:30  Djurgården vs Örgryte   [SVEZIA - ALLSVENSKAN]
       Djurgården: 1X + GOAL (19) 🟢 74% 🔴 Djurgården
 17:30  Kalmar FF vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]
@@ -184,6 +180,8 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       TS Podbeskidzie Bielsko-Biała: 12 + GOAL (11+) 🟢 73%
 17:15  Marseille vs Le Havre   [FRANCIA - LIGUE 1]
       Marseille: 1X + GOAL (7) 🟢 86%
+17:15  Toulouse vs Troyes   [FRANCIA - LIGUE 1]
+      Troyes: 1X + GOAL (7+) 🟢 86% 🔴 Toulouse 🔴 Troyes
 18:00  AGF vs Viborg   [DANIMARCA - SUPERLIGAEN]
       AGF: 12 + GOAL (6) 🟢 100%
 18:30  Gent vs Anderlecht   [BELGIO - FIRST DIVISION A]
