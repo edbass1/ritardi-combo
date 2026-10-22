@@ -1,7 +1,46 @@
-TIPS DEL GIORNO - 22/10/2026
-Aggiornato: 22/10/2026 23:24 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 23/10/2026
+Aggiornato: 23/10/2026 00:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 20:00  TOP Oss vs Jong Ajax   [OLANDA - EERSTE DIVISIE]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 78.6  (R+30 C+10 F+2.6 G+6 A+10 E+10 S+10)
+    TOP Oss non fa X2 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Jong Ajax è in sottofrequenza su questa combo (23/100), deve recuperare; anche Jong Ajax è in ritardo sulla stessa combo (6); nel ritardo il 80% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 2. 19:00  Västerås SK vs Halmstads BK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 67.5  (R+25.3 C+5 F+4.9 G+2.4 A+4.9 E+0 S+25)
+    Västerås SK non fa 1X + GOAL da 16 partite (ritardo massimo del campionato 19, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre Västerås SK è in sottofrequenza (31/100), deve recuperare; anche Halmstads BK è in sottofrequenza su questa combo (31/100), deve recuperare; nel ritardo il 62% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 3. 19:00  Randers FC vs Brøndby IF   [DANIMARCA - SUPERLIGAEN]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 65.8  (R+30 C+10 F+3.4 G+6 A+1.4 E+0 S+15)
+    Brøndby IF non fa X2 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Brøndby IF è in sottofrequenza (34/100), deve recuperare; nel ritardo il 80% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 20:45  Galway United FC vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 65.0  (R+30 C+10 F+7.5 G+5 A-2.5 E+0 S+15)
+    St. Patrick's Athletic non fa 1X + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 0), ed è il ritardo più lungo del campionato. Inoltre St. Patrick's Athletic è in sottofrequenza (31/100), deve recuperare; nel ritardo il 75% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 5. 18:30  Darmstadt vs St. Pauli   [GERMANIA - 2. BUNDESLIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 64.6  (R+30 C+10 F+4.7 G+4.2 A+5.7 E+0 S+10)
+    Darmstadt non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche St. Pauli è in sottofrequenza su questa combo (30/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 6. 21:00  Shamrock Rovers vs Sligo Rovers   [IRLANDA - PREMIER DIVISION]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 64.2  (R+30 C+10 F+1.3 G+6.6 A+6.3 E+0 S+10)
+    Shamrock Rovers non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Sligo Rovers è in sottofrequenza su questa combo (29/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 7. 20:00  Nancy vs Laval   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 63.1  (R+30 C+10 F+8.1 G+0 A+0.1 E+0 S+15)
+    Nancy non fa 1X + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Nancy è in sottofrequenza (30/100), deve recuperare.
+
+ 8. 19:30  Wil vs FC Rapperswil-Jona   [SVIZZERA - CHALLENGE LEAGUE]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 62.1  (R+30 C+10 F+6.6 G+8 A-7.4 E+0 S+15)
+    Wil non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Wil è in sottofrequenza (34/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: FC Rapperswil-Jona la fa già spesso (48/100).
+
+ 9. 20:00  Francs Borains vs FCV Dender EH   [BELGIO - FIRST DIVISION B]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 59.6  (R+30 C+10 F+3.2 G+1.4 A+0 E+0 S+15)
+    FCV Dender EH non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre FCV Dender EH è in sottofrequenza (36/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+10. 19:00  IK Oddevold vs GIF Sundsvall   [SVEZIA - SUPERETTAN]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 59.5  (R+30 C+10 F+4.5 G+0 A+0 E+0 S+15)
+    GIF Sundsvall non fa X2 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 2), ed è il ritardo più lungo del campionato. Inoltre GIF Sundsvall è in sottofrequenza (30/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
