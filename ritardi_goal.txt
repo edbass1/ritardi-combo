@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 23/10/2026 18:28 (ora italiana)
+Aggiornato: 23/10/2026 19:37 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -1208,13 +1208,13 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Třinec                            3  🟢 67%
-   2. FC Vlašim                         2  🟢 50%
-   3. Hanácká Slavia Kromeriz           2  🟢 50%
-   4. Karviná                           2  🟢 50%  🔴
+   1. Karviná                           3  🟢 67%  🔴
+   2. Třinec                            3  🟢 67%
+   3. FC Vlašim                         2  🟢 50%
+   4. Hanácká Slavia Kromeriz           2  🟢 50%
    5. Kladno                            2  🟢 50%
    6. Opava                             2  🟢 100%
    7. Příbram                           2  🟢 100%  🔴
@@ -1223,13 +1223,13 @@ RITARDI 1X + GOAL
   10. Vysočina Jihlava                  1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Karviná                           7  🟢 86%
-   2. FC Vlašim                         6  🟢 83%
-   3. Slavia Prague B                   4  🟢 75%
-   4. Baník Ostrava B                   3  🟢 100%
-   5. Dukla Praha                       2  🟢 100%
-   6. Hanácká Slavia Kromeriz           1
-   7. FC Silon Táborsko                 0  🔴
+   1. FC Vlašim                         6  🟢 83%
+   2. Slavia Prague B                   4  🟢 75%
+   3. Baník Ostrava B                   3  🟢 100%
+   4. Dukla Praha                       2  🟢 100%
+   5. Hanácká Slavia Kromeriz           1
+   6. FC Silon Táborsko                 0  🔴
+   7. Karviná                           0
    8. Kladno                            0
    9. Opava                             0  🔴
   10. Příbram                           0
@@ -1238,13 +1238,13 @@ RITARDI 12 + GOAL
    1. SK Prostějov                      5  🟢 80%
    2. FC Silon Táborsko                 2  🟢 50%
    3. FC Vlašim                         2  🟢 50%  🔴
-   4. Karviná                           2  🟢 50%
-   5. Dukla Praha                       1  🟢 100%
-   6. Hanácká Slavia Kromeriz           1
-   7. Ústí nad Labem                    1  🟢 100%
-   8. Žižkov                            1  🟢 100%
-   9. Baník Ostrava B                   0
-  10. Kladno                            0
+   4. Dukla Praha                       1  🟢 100%
+   5. Hanácká Slavia Kromeriz           1
+   6. Žižkov                            1  🟢 100%
+   7. Baník Ostrava B                   0
+   8. Karviná                           0
+   9. Kladno                            0
+  10. Opava                             0  🔴
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
