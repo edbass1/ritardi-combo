@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 23/10/2026 22:29 (ora italiana)
+Aggiornato: 23/10/2026 23:22 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -75,7 +75,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/20 Everton                        34/100
     2/20 Sunderland                     34/100
     3/20 Arsenal                        35/100
-    4/20 Nottingham Forest              36/100
+    4/20 Nottingham Forest              37/100
     5/20 Leeds United                   38/100
      ...
    20/20 Liverpool                      54/100  (la fa più spesso)
@@ -93,8 +93,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/20 Everton                        20/100
     2/20 Leeds United                   24/100
     3/20 Sunderland                     27/100
-    4/20 Arsenal                        31/100
-    5/20 Nottingham Forest              31/100
+    4/20 Nottingham Forest              30/100
+    5/20 Arsenal                        31/100
      ...
    20/20 Newcastle United               48/100  (la fa più spesso)
 
@@ -378,7 +378,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Deportivo Alavés               27/100
     3/20 Rayo Vallecano                 27/100
     4/20 Valencia                       28/100
-    5/20 Málaga                         30/100
+    5/20 Málaga                         29/100
      ...
    20/20 Barcelona                      50/100  (la fa più spesso)
 
@@ -1115,27 +1115,29 @@ SOTTOFREQUENZA 1X + GOAL
     2/10 Sligo Rovers                   34/100
     3/10 Bohemian FC                    36/100
     4/10 Shamrock Rovers                37/100
-    5/10 Waterford FC                   40/100
+    5/10 Galway United FC               41/100
+    6/10 Shelbourne                     41/100
+    7/10 Waterford FC                   41/100
      ...
-   10/10 Shelbourne                     42/100  (la fa più spesso)
+   10/10 Drogheda United                43/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 St. Patrick's Athletic         24/100
     2/10 Sligo Rovers                   29/100
-    3/10 Waterford FC                   33/100
-    4/10 Drogheda United                34/100
-    5/10 Shamrock Rovers                34/100
+    3/10 Shamrock Rovers                33/100
+    4/10 Waterford FC                   33/100
+    5/10 Drogheda United                34/100
      ...
    10/10 Shelbourne                     45/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 St. Patrick's Athletic         27/100
-    2/10 Derry City                     30/100
-    3/10 Galway United FC               30/100
+    2/10 Galway United FC               30/100
+    3/10 Derry City                     31/100
     4/10 Sligo Rovers                   31/100
-    5/10 Drogheda United                32/100
+    5/10 Drogheda United                33/100
      ...
-   10/10 Waterford FC                   39/100  (la fa più spesso)
+   10/10 Waterford FC                   40/100  (la fa più spesso)
 
 ==================================================
 IRLANDA - FIRST DIVISION
