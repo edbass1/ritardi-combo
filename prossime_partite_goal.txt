@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 23/10/2026 21:27 (ora italiana)
+Aggiornato: 23/10/2026 22:29 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -173,3 +173,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Djurgården: 1X + GOAL (19) 🟢 74% 🔴 Djurgården
 20:00  Carrarese vs Arezzo   [ITALIA - SERIE B]
       Arezzo: 1X + GOAL (7+) 🟢 71% 🔴 Arezzo
+20:45  Celtic vs Dundee United   [SCOZIA - PREMIERSHIP]
+      Dundee United: 12 + GOAL (14) 🟢 86% 🔴 Dundee United
+20:45  St. Johnstone vs Motherwell   [SCOZIA - PREMIERSHIP]
+      Motherwell: X2 + GOAL (6) 🟢 83%
