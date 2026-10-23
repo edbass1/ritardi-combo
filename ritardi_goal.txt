@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 23/10/2026 23:22 (ora italiana)
+Aggiornato: 24/10/2026 00:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -848,7 +848,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Casa Pia AC                       8  🟢 50%
@@ -858,9 +858,9 @@ RITARDI 1X + GOAL
    5. Estrela da Amadora                2  🟢 50%
    6. Famalicão                         2  🟢 100%
    7. Gil Vicente                       2  🟢 50%
-   8. Arouca                            1
-   9. Benfica                           1  🟢 100%
-  10. FC Porto                          1  🟢 100%  🔴
+   8. Marítimo                          2  🟢 100%
+   9. Vitória de Guimarães              2  🟢 100%  🔴
+  10. Arouca                            1
 
 RITARDI X2 + GOAL
    1. Benfica                           7  🟢 100%
@@ -869,22 +869,22 @@ RITARDI X2 + GOAL
    4. Nacional                          2  🟢 100%
    5. Rio Ave                           2  🟢 50%
    6. Santa Clara                       2  🔴
-   7. Arouca                            1
-   8. Casa Pia AC                       1
-   9. Estoril                           1  🟢 100%
-  10. Moreirense                        1  🔴
+   7. Vitória de Guimarães              2  🟢 100%
+   8. Arouca                            1
+   9. Casa Pia AC                       1
+  10. Estoril                           1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Estrela da Amadora                3  🟢 67%  🔴
-   2. Arouca                            2  🟢 50%
-   3. Moreirense                        2  🟢 50%
-   4. Santa Clara                       2
-   5. Vitória de Guimarães              2  🟢 100%
+   2. Vitória de Guimarães              3  🟢 100%
+   3. Arouca                            2  🟢 50%
+   4. Moreirense                        2  🟢 50%
+   5. Santa Clara                       2
    6. Benfica                           1  🟢 100%
    7. Casa Pia AC                       1
-   8. Académico Viseu                   0
-   9. Alverca                           0
-  10. Braga                             0
+   8. Marítimo                          1  🟢 100%
+   9. Académico Viseu                   0
+  10. Alverca                           0
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2

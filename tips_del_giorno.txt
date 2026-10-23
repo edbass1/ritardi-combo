@@ -1,7 +1,46 @@
-TIPS DEL GIORNO - 23/10/2026
-Aggiornato: 23/10/2026 23:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 24/10/2026
+Aggiornato: 24/10/2026 00:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 16:00  Dundee United vs Aberdeen   [SCOZIA - PREMIERSHIP]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 88.2  (R+30 C+10 F+9.5 G+7.2 A+6.5 E+0 S+25)
+    Dundee United non fa 12 + GOAL da 14 partite (ritardo massimo del campionato 14, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Dundee United è in sottofrequenza (26/100), deve recuperare; anche Aberdeen è in sottofrequenza su questa combo (29/100), deve recuperare; nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 2. 16:00  Queen's Park vs Dunfermline Athletic   [SCOZIA - CHAMPIONSHIP]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 80.0  (R+30 C+10 F+0.6 G+7.8 A+6.6 E+0 S+25)
+    Queen's Park non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Queen's Park è in sottofrequenza (30/100), deve recuperare; anche Dunfermline Athletic è in sottofrequenza su questa combo (24/100), deve recuperare; nel ritardo il 89% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 3. 16:00  Arsenal vs Everton   [INGHILTERRA - PREMIER LEAGUE]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 77.5  (R+30 C+10 F+15 G+2.4 A+5.1 E+0 S+15)
+    Everton non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Everton è in sottofrequenza (20/100), deve recuperare; nel ritardo il 62% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 19:30  Arezzo vs Benevento   [ITALIA - SERIE B]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 72.7  (R+30 C+10 F+10.7 G+4.2 A+2.8 E+0 S+15)
+    Arezzo non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Arezzo è in sottofrequenza (28/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 5. 15:30  RB Leipzig vs Elversberg   [GERMANIA - BUNDESLIGA]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 69.9  (R+30 C+10 F+5.9 G+8 A+0.9 E+0 S+15)
+    RB Leipzig non fa X2 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 1), ed è il ritardo più lungo del campionato. Inoltre RB Leipzig è in sottofrequenza (32/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 6. 16:00  Burton Albion vs Leyton Orient   [INGHILTERRA - LEAGUE ONE]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 65.8  (R+30 C+10 F+12.4 G+0 A-1.6 E+0 S+15)
+    Leyton Orient non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Leyton Orient è in sottofrequenza (27/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 7. 19:30  Rapid Wien vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 65.7  (R+30 C+10 F+3.3 G+8 A+4.3 E+0 S+10)
+    Rapid Wien non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 3), ed è il ritardo più lungo del campionato. Inoltre anche Austria Lustenau è in sottofrequenza su questa combo (29/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 8. 17:30  Djurgården vs Örgryte   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 65.4  (R+30 C+10 F+9.8 G+4.8 A-4.2 E+0 S+15)
+    Djurgården non fa 1X + GOAL da 19 partite (ritardo massimo del campionato 19, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Djurgården è in sottofrequenza (26/100), deve recuperare; nel ritardo il 74% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 9. 13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 65.2  (R+30 C+10 F-1.9 G+0 A+7.1 E+10 S+10)
+    Northampton Town non fa 12 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 1), ed è il ritardo più lungo del campionato. Inoltre anche Colchester United è in sottofrequenza su questa combo (25/100), deve recuperare; anche Colchester United è in ritardo sulla stessa combo (6); nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+10. 14:45  Baník Lehota pod Vtacnikom vs FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 65.0  (R+30 C+10 F+6.6 G+3.4 A+0 E+0 S+15)
+    FC Petržalka 1898 non fa 12 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre FC Petržalka 1898 è in sottofrequenza (32/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
