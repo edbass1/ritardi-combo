@@ -1,6 +1,9 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 23/10/2026 20:29 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 23/10/2026 21:27 (ora italiana). Dal più recente. Fonte: FotMob
 
+23/10 19:30  [GOAL] Altach: 1X + GOAL uscita, era a 7  -  Altach 2-1 Austria Wien   [AUSTRIA - BUNDESLIGA]
+23/10 19:00  [GOAL] Brøndby IF: X2 + GOAL uscita, era a 10  -  Randers FC 1-3 Brøndby IF   [DANIMARCA - SUPERLIGAEN]
+23/10 19:00  [GOAL] Halmstads BK: X2 + GOAL uscita, era a 6  -  Västerås SK 1-2 Halmstads BK   [SVEZIA - ALLSVENSKAN]
 23/10 17:30  [GOAL] Karviná: X2 + GOAL uscita, era a 7  -  Ústí nad Labem 1-3 Karviná   [REP. CECA - FNL]
 21/10 20:00  [GOAL] Athletic Club: 12 + GOAL uscita, era a 6  -  Levante 3-1 Athletic Club   [SPAGNA - LALIGA]
 20/10 21:00  [GOAL] Port Vale: X2 + GOAL uscita, era a 7  -  Gillingham 1-1 Port Vale   [INGHILTERRA - LEAGUE TWO]
@@ -36,4 +39,3 @@ Aggiornato: 23/10/2026 20:29 (ora italiana). Dal più recente. Fonte: FotMob
 17/10 14:00  [GOAL] Sochaux: 12 + GOAL uscita, era a 8  -  Metz 3-2 Sochaux   [FRANCIA - LIGUE 2]
 17/10 14:00  [GOAL] Almería: X2 + GOAL uscita, era a 9  -  Real Sociedad B 2-4 Almería   [SPAGNA - LALIGA 2]
 17/10 13:00  [GOAL] TPS: 12 + GOAL uscita, era a 6  -  FC Lahti 5-1 TPS   [FINLANDIA - VEIKKAUSLIIGA]
-16/10 20:45  [GOAL] Kerry FC: 1X + GOAL uscita, era a 6  -  Kerry FC 1-1 Cork City   [IRLANDA - FIRST DIVISION]

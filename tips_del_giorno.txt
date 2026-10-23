@@ -1,22 +1,7 @@
 TIPS DEL GIORNO - 23/10/2026
-Aggiornato: 23/10/2026 20:29 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 23/10/2026 21:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:45  Galway United FC vs St. Patrick's Athletic   [IRLANDA - PREMIER DIVISION]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 65.0  (R+30 C+10 F+7.5 G+5 A-2.5 E+0 S+15)
-    St. Patrick's Athletic non fa 1X + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 0), ed è il ritardo più lungo del campionato. Inoltre St. Patrick's Athletic è in sottofrequenza (31/100), deve recuperare; nel ritardo il 75% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 21:00  Shamrock Rovers vs Sligo Rovers   [IRLANDA - PREMIER DIVISION]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 64.2  (R+30 C+10 F+1.3 G+6.6 A+6.3 E+0 S+10)
-    Shamrock Rovers non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 2), ed è il ritardo più lungo del campionato. Inoltre anche Sligo Rovers è in sottofrequenza su questa combo (29/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 3. 20:45  Derry City vs Dundalk   [IRLANDA - PREMIER DIVISION]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 58.0  (R+30 C+10 F+3 G+0 A-0 E+0 S+15)
-    Derry City non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Derry City è in sottofrequenza (30/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 4. 21:00  Bolton Wanderers vs Middlesbrough   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 35.8  (R+30 C+10 F-5.7 G+4.2 A-2.7 E+0 S+0)
-    Bolton Wanderers non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Bolton Wanderers la fa già più della media (46% vs 40%).
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
