@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 23/10/2026
-Aggiornato: 23/10/2026 13:25 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 23/10/2026 14:23 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 20:00  TOP Oss vs Jong Ajax   [OLANDA - EERSTE DIVISIE]  [ALT X2+GOAL]
     X2 + GOAL  -  punteggio 78.6  (R+30 C+10 F+2.6 G+6 A+10 E+10 S+10)
@@ -33,13 +33,13 @@ Aggiornato: 23/10/2026 13:25 (ora italiana). Calcolo automatico, nessuna garanzi
     12 + GOAL  -  punteggio 62.1  (R+30 C+10 F+6.6 G+8 A-7.4 E+0 S+15)
     Wil non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Wil è in sottofrequenza (34/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: FC Rapperswil-Jona la fa già spesso (48/100).
 
- 9. 20:00  Francs Borains vs FCV Dender EH   [BELGIO - FIRST DIVISION B]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 59.6  (R+30 C+10 F+3.2 G+1.4 A+0 E+0 S+15)
-    FCV Dender EH non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre FCV Dender EH è in sottofrequenza (36/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
-10. 19:00  IK Oddevold vs GIF Sundsvall   [SVEZIA - SUPERETTAN]  [OK X2+GOAL]
+ 9. 19:00  IK Oddevold vs GIF Sundsvall   [SVEZIA - SUPERETTAN]  [OK X2+GOAL]
     X2 + GOAL  -  punteggio 59.5  (R+30 C+10 F+4.5 G+0 A+0 E+0 S+15)
     GIF Sundsvall non fa X2 + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 2), ed è il ritardo più lungo del campionato. Inoltre GIF Sundsvall è in sottofrequenza (30/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+10. 19:45  Chaves vs Vizela   [PORTOGALLO - LIGA PORTUGAL 2]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 58.4  (R+30 C+10 F+3.2 G+0 A+0.2 E+0 S+15)
+    Vizela non fa 12 + GOAL da 13 partite (ritardo massimo del campionato 13, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Vizela è in sottofrequenza (28/100), deve recuperare.
 
 
 REGOLE DEL PUNTEGGIO
