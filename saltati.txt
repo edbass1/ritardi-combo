@@ -1,6 +1,9 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 24/10/2026 14:22 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 24/10/2026 15:25 (ora italiana). Dal più recente. Fonte: FotMob
 
+24/10 13:30  [GOAL] Esbjerg fB: 12 + GOAL uscita, era a 6  -  Esbjerg fB 2-1 Fredericia   [DANIMARCA - 1. DIVISION]
+24/10 13:00  [GOAL] AaB: 12 + GOAL uscita, era a 6  -  Hillerød 2-1 AaB   [DANIMARCA - 1. DIVISION]
+24/10 13:00  [GOAL] Östersunds FK: 12 + GOAL uscita, era a 17  -  Östersunds FK 4-1 Nordic United FC   [SVEZIA - SUPERETTAN]
 23/10 20:45  [GOAL] Derry City: 12 + GOAL uscita, era a 6  -  Derry City 2-1 Dundalk   [IRLANDA - PREMIER DIVISION]
 23/10 20:30  [GOAL] VfB Stuttgart: X2 + GOAL uscita, era a 6  -  VfB Stuttgart 2-3 Borussia Mönchengladbach   [GERMANIA - BUNDESLIGA]
 23/10 20:00  [GOAL] Almere City FC: X2 + GOAL uscita, era a 7  -  Almere City FC 2-3 Roda JC Kerkrade   [OLANDA - EERSTE DIVISIE]
@@ -37,8 +40,3 @@ Aggiornato: 24/10/2026 14:22 (ora italiana). Dal più recente. Fonte: FotMob
 17/10 16:00  [GOAL] Aberdeen: 12 + GOAL uscita, era a 7  -  Aberdeen 3-1 St. Mirren   [SCOZIA - PREMIERSHIP]
 17/10 16:00  [GOAL] Raith Rovers: 1X + GOAL uscita, era a 9  -  Stenhousemuir 1-1 Raith Rovers   [SCOZIA - CHAMPIONSHIP]
 17/10 16:00  [GOAL] Stenhousemuir: X2 + GOAL uscita, era a 8  -  Stenhousemuir 1-1 Raith Rovers   [SCOZIA - CHAMPIONSHIP]
-17/10 15:30  [GOAL] Chrobry Głogów: 12 + GOAL uscita, era a 7  -  Polonia Bytom 3-2 Chrobry Głogów   [POLONIA - I LIGA]
-17/10 15:30  [GOAL] Polonia Bytom: 12 + GOAL uscita, era a 6  -  Polonia Bytom 3-2 Chrobry Głogów   [POLONIA - I LIGA]
-17/10 15:00  [GOAL] EIF: 12 + GOAL uscita, era a 12  -  EIF 3-2 KäPa   [FINLANDIA - YKKOSLIIGA]
-17/10 15:00  [GOAL] MP: 12 + GOAL uscita, era a 6  -  MP 1-2 JäPS   [FINLANDIA - YKKOSLIIGA]
-17/10 15:00  [GOAL] PK-35: 1X + GOAL uscita, era a 7  -  PK-35 3-2 SJK Akatemia   [FINLANDIA - YKKOSLIIGA]
