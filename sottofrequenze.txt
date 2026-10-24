@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 24/10/2026 15:25 (ora italiana)
+Aggiornato: 24/10/2026 16:19 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -102,7 +102,7 @@ SOTTOFREQUENZA 12 + GOAL
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/24 Sheffield United               29/100
+    1/24 Sheffield United               30/100
     2/24 Swansea City                   31/100
     3/24 Blackburn Rovers               33/100
     4/24 Millwall                       35/100
@@ -167,8 +167,8 @@ INGHILTERRA - LEAGUE TWO
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 Exeter City                    30/100
-    2/24 Shrewsbury Town                31/100
-    3/24 Bristol Rovers                 32/100
+    2/24 Bristol Rovers                 31/100
+    3/24 Shrewsbury Town                31/100
     4/24 Port Vale                      32/100
     5/24 Oldham Athletic                33/100
      ...
@@ -176,7 +176,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 Bristol Rovers                 24/100
-    2/24 Newport County                 25/100
+    2/24 Newport County                 24/100
     3/24 Port Vale                      25/100
     4/24 Northampton Town               27/100
     5/24 Accrington Stanley             28/100
@@ -193,7 +193,7 @@ SOTTOFREQUENZA 12 + GOAL
     7/24 Oldham Athletic                28/100
     8/24 Rotherham United               28/100
      ...
-   24/24 Bristol Rovers                 40/100  (la fa più spesso)
+   24/24 Barnet                         40/100  (la fa più spesso)
 
 ==================================================
 GERMANIA - BUNDESLIGA
@@ -261,11 +261,12 @@ SOTTOFREQUENZA 12 + GOAL
 GERMANIA - 3. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Viktoria Köln 1904             32/100
-    2/20 Hansa Rostock                  35/100
+    1/20 Viktoria Köln 1904             33/100
+    2/20 Hansa Rostock                  36/100
     3/20 Jahn Regensburg                36/100
     4/20 Würzburger Kickers             37/100
     5/20 Hoffenheim II                  38/100
+    6/20 Meppen                         38/100
      ...
    20/20 VfB Stuttgart II               50/100  (la fa più spesso)
 
@@ -275,15 +276,16 @@ SOTTOFREQUENZA X2 + GOAL
     3/20 Meppen                         28/100
     4/20 Fortuna Köln                   32/100
     5/20 Waldhof Mannheim               32/100
+    6/20 Wehen Wiesbaden                32/100
      ...
    20/20 Ingolstadt                     45/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Würzburger Kickers             24/100
+    1/20 Würzburger Kickers             23/100
     2/20 Jahn Regensburg                29/100
     3/20 Hansa Rostock                  33/100
     4/20 Fortuna Köln                   34/100
-    5/20 Meppen                         35/100
+    5/20 Meppen                         34/100
      ...
    20/20 TSV Havelse                    49/100  (la fa più spesso)
 
@@ -332,11 +334,11 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Saint-Étienne                  24/100
     2/18 Grenoble                       27/100
-    3/18 Dijon                          31/100
+    3/18 Dijon                          32/100
     4/18 Guingamp                       32/100
     5/18 Montpellier                    32/100
      ...
-   18/18 Rodez                          47/100  (la fa più spesso)
+   18/18 Rodez                          48/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Sochaux                        24/100
@@ -371,8 +373,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/20 Getafe                         20/100
-    2/20 Deportivo Alavés               27/100
-    3/20 Rayo Vallecano                 27/100
+    2/20 Rayo Vallecano                 26/100
+    3/20 Deportivo Alavés               27/100
     4/20 Valencia                       28/100
     5/20 Málaga                         29/100
      ...
@@ -392,12 +394,12 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/22 Real Valladolid                22/100
-    2/22 Eibar                          24/100
+    2/22 Eibar                          23/100
     3/22 Burgos CF                      25/100
     4/22 Tenerife                       25/100
     5/22 Leganés                        26/100
      ...
-   22/22 Córdoba                        41/100  (la fa più spesso)
+   22/22 Córdoba                        40/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/22 Tenerife                       22/100
@@ -820,7 +822,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/12 Aarhus Fremad                  34/100
     2/12 Fredericia                     34/100
     3/12 AB                             35/100
-    4/12 Kolding IF                     37/100
+    4/12 Kolding IF                     36/100
     5/12 Hobro                          38/100
      ...
    12/12 Vendsyssel FF                  45/100  (la fa più spesso)
@@ -836,12 +838,12 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Aarhus Fremad                  32/100
-    2/12 AaB                            34/100
-    3/12 Fredericia                     34/100
-    4/12 Hillerød                       34/100
-    5/12 Hobro                          34/100
-    6/12 Hvidovre                       34/100
-    7/12 Kolding IF                     34/100
+    2/12 Kolding IF                     33/100
+    3/12 AaB                            34/100
+    4/12 Fredericia                     34/100
+    5/12 Hillerød                       34/100
+    6/12 Hobro                          34/100
+    7/12 Hvidovre                       34/100
      ...
    12/12 Esbjerg fB                     43/100  (la fa più spesso)
 
@@ -1018,7 +1020,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/12 Zlaté Moravce                  39/100
     5/12 Žilina B                       39/100
      ...
-   12/12 Považská Bystrica              55/100  (la fa più spesso)
+   12/12 Považská Bystrica              56/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Tatran Prešov                  25/100
