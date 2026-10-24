@@ -1,18 +1,7 @@
 TIPS DEL GIORNO - 24/10/2026
-Aggiornato: 24/10/2026 20:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 24/10/2026 21:19 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:45  Westerlo vs SK Beveren   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 53.5  (R+26.2 C+5 F+6 G+4.2 A-3 E+0 S+15)
-    SK Beveren non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre SK Beveren è in sottofrequenza (31/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 20:30  1. FC Nürnberg vs Kaiserslautern   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 40.2  (R+30 C+10 F+2.2 G+1.8 A-3.8 E+0 S+0)
-    Kaiserslautern non fa 1X + GOAL da 17 partite (ritardo massimo del campionato 17, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 59% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 3. 20:45  RAAL La Louvière vs Zulte Waregem   [BELGIO - FIRST DIVISION A]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 37.2  (R+30 C+10 F-7 G+4.2 A+0 E+0 S+0)
-    Zulte Waregem non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Zulte Waregem la fa già più della media (42% vs 35%).
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.

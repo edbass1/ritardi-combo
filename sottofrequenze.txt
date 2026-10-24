@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 24/10/2026 20:18 (ora italiana)
+Aggiornato: 24/10/2026 21:19 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -210,7 +210,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 Union Berlin                   32/100
     5/18 Schalke 04                     33/100
      ...
-   18/18 Eintracht Frankfurt            51/100  (la fa più spesso)
+   18/18 Eintracht Frankfurt            50/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Union Berlin                   31/100
@@ -370,8 +370,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/20 Getafe                         20/100
     2/20 Rayo Vallecano                 26/100
     3/20 Deportivo Alavés               27/100
-    4/20 Valencia                       28/100
-    5/20 Málaga                         29/100
+    4/20 Málaga                         29/100
+    5/20 Valencia                       29/100
      ...
    20/20 Barcelona                      50/100  (la fa più spesso)
 
@@ -476,7 +476,7 @@ OLANDA - EREDIVISIE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Feyenoord                      34/100
-    2/18 Cambuur                        39/100
+    2/18 Cambuur                        38/100
     3/18 FC Groningen                   39/100
     4/18 Excelsior                      40/100
     5/18 Fortuna Sittard                40/100
@@ -704,10 +704,10 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Académica                      43/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Penafiel                       27/100
-    2/18 Sporting CP B                  27/100
-    3/18 Amarante FC                    28/100
-    4/18 Feirense                       28/100
+    1/18 Sporting CP B                  27/100
+    2/18 Amarante FC                    28/100
+    3/18 Feirense                       28/100
+    4/18 Penafiel                       28/100
     5/18 Torreense                      30/100
      ...
    18/18 Académica                      42/100  (la fa più spesso)
@@ -991,15 +991,13 @@ SOTTOFREQUENZA X2 + GOAL
     2/12 Skalica                        28/100
     3/12 DAC 1904 Dunajska Streda       29/100
     4/12 Zemplín Michalovce             30/100
-    5/12 Ružomberok                     33/100
-    6/12 Spartak Trnava                 33/100
-    7/12 Žilina                         33/100
+    5/12 Ružomberok                     32/100
      ...
    12/12 Komárno                        41/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 Spartak Trnava                 32/100
-    2/12 Ružomberok                     34/100
+    2/12 Ružomberok                     33/100
     3/12 DAC 1904 Dunajska Streda       35/100
     4/12 Dukla Banská Bystrica          35/100
     5/12 Trenčín                        35/100
