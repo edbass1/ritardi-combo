@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 24/10/2026 22:15 (ora italiana)
+Aggiornato: 24/10/2026 23:18 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -229,13 +229,12 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 VfL Osnabrück                  35/100
     3/18 Eintracht Braunschweig         37/100
     4/18 St. Pauli                      38/100
-    5/18 Kaiserslautern                 40/100
-    6/18 Wolfsburg                      40/100
+    5/18 Kaiserslautern                 39/100
      ...
    18/18 Darmstadt                      49/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Kaiserslautern                 27/100
+    1/18 Kaiserslautern                 26/100
     2/18 St. Pauli                      30/100
     3/18 VfL Osnabrück                  30/100
     4/18 Arminia Bielefeld              31/100
@@ -290,8 +289,8 @@ FRANCIA - LIGUE 1
 SOTTOFREQUENZA 1X + GOAL
     1/18 Troyes                         30/100
     2/18 Angers                         31/100
-    3/18 Lens                           32/100
-    4/18 Toulouse                       32/100
+    3/18 Toulouse                       32/100
+    4/18 Lens                           33/100
     5/18 Lorient                        34/100
      ...
    18/18 Strasbourg                     50/100  (la fa più spesso)
@@ -320,8 +319,8 @@ FRANCIA - LIGUE 2
 SOTTOFREQUENZA 1X + GOAL
     1/18 Nancy                          29/100
     2/18 Montpellier                    30/100
-    3/18 Annecy FC                      31/100
-    4/18 Nantes                         31/100
+    3/18 Nantes                         30/100
+    4/18 Annecy FC                      31/100
     5/18 Guingamp                       34/100
      ...
    18/18 Rodez                          49/100  (la fa più spesso)
@@ -379,7 +378,7 @@ SOTTOFREQUENZA 12 + GOAL
 SPAGNA - LALIGA 2
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/22 Real Oviedo                    28/100
+    1/22 Real Oviedo                    29/100
     2/22 Cádiz                          32/100
     3/22 Burgos CF                      33/100
     4/22 Sabadell                       33/100
@@ -393,8 +392,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/22 Burgos CF                      25/100
     4/22 Tenerife                       25/100
     5/22 Leganés                        27/100
-    6/22 Real Oviedo                    27/100
-    7/22 Sabadell                       27/100
+    6/22 Sabadell                       27/100
      ...
    22/22 Córdoba                        40/100  (la fa più spesso)
 
@@ -415,17 +413,17 @@ SOTTOFREQUENZA 1X + GOAL
     1/17 Standard Liège                 30/100
     2/17 Anderlecht                     31/100
     3/17 Kortrijk                       31/100
-    4/17 SK Beveren                     31/100
+    4/17 SK Beveren                     32/100
     5/17 Union St.Gilloise              32/100
      ...
    17/17 St.Truiden                     45/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/17 Anderlecht                     25/100
-    2/17 SK Beveren                     28/100
+    2/17 SK Beveren                     29/100
     3/17 Union St.Gilloise              29/100
     4/17 Kortrijk                       30/100
-    5/17 Zulte Waregem                  31/100
+    5/17 Zulte Waregem                  30/100
      ...
    17/17 Cercle Brugge                  47/100  (la fa più spesso)
 
@@ -485,8 +483,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 FC Groningen                   32/100
-    2/18 SC Heerenveen                  34/100
-    3/18 Cambuur                        35/100
+    2/18 Cambuur                        35/100
+    3/18 SC Heerenveen                  35/100
     4/18 PSV Eindhoven                  37/100
     5/18 Telstar                        37/100
      ...
@@ -496,8 +494,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 Go Ahead Eagles                30/100
     2/18 Sparta Rotterdam               32/100
     3/18 Ajax                           34/100
-    4/18 SC Heerenveen                  34/100
-    5/18 PEC Zwolle                     35/100
+    4/18 PEC Zwolle                     35/100
+    5/18 SC Heerenveen                  35/100
     6/18 Telstar                        35/100
      ...
    18/18 PSV Eindhoven                  57/100  (la fa più spesso)
@@ -1140,21 +1138,20 @@ SOTTOFREQUENZA 1X + GOAL
     4/10 UCD                            40/100
     5/10 Finn Harps                     41/100
      ...
-   10/10 Longford Town                  49/100  (la fa più spesso)
+   10/10 Longford Town                  48/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/10 Bray Wanderers                 27/100
+    1/10 Bray Wanderers                 28/100
     2/10 Kerry FC                       29/100
     3/10 Cork City                      31/100
-    4/10 Treaty United                  31/100
-    5/10 Athlone Town                   32/100
-    6/10 Longford Town                  32/100
+    4/10 Longford Town                  31/100
+    5/10 Treaty United                  31/100
      ...
    10/10 Wexford FC                     38/100  (la fa più spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 Treaty United                  27/100
-    2/10 Kerry FC                       28/100
+    2/10 Kerry FC                       29/100
     3/10 Finn Harps                     30/100
     4/10 UCD                            32/100
     5/10 Athlone Town                   34/100
