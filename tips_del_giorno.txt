@@ -1,7 +1,46 @@
-TIPS DEL GIORNO - 24/10/2026
-Aggiornato: 24/10/2026 23:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 25/10/2026
+Aggiornato: 25/10/2026 00:17 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 17:15  Toulouse vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 85.5  (R+30 C+10 F+7.7 G+7.2 A+5.7 E+0 S+25)
+    Troyes non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Troyes è in sottofrequenza (30/100), deve recuperare; anche Toulouse è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 2. 16:00  Eupen vs Beerschot   [BELGIO - FIRST DIVISION B]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 80.6  (R+30 C+10 F+6.7 G+4.2 A+4.7 E+0 S+25)
+    Beerschot non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Beerschot è in sottofrequenza (28/100), deve recuperare; anche Eupen è in sottofrequenza su questa combo (30/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 3. 12:00  AVS Futebol SAD vs Tondela   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 80.1  (R+30 C+10 F+8.3 G+3.4 A+3.3 E+0 S+25)
+    Tondela non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Tondela è in sottofrequenza (23/100), deve recuperare; anche AVS Futebol SAD è in sottofrequenza su questa combo (28/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 14:00  Athletic Club vs Getafe   [SPAGNA - LALIGA]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 73.2  (R+30 C+10 F+15 G+0 A+3.2 E+0 S+15)
+    Getafe non fa 12 + GOAL da 11 partite (ritardo massimo del campionato 11, mediano 0), ed è il ritardo più lungo del campionato. Inoltre Getafe è in sottofrequenza (20/100), deve recuperare.
+
+ 5. 14:00  Silkeborg vs Nordsjælland   [DANIMARCA - SUPERLIGAEN]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 69.8  (R+30 C+10 F+5.9 G+8 A+0.9 E+0 S+15)
+    Silkeborg non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Silkeborg è in sottofrequenza (34/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 6. 14:00  GAIS vs IFK Göteborg   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 63.6  (R+30 C+10 F+10.1 G+3.4 A-4.9 E+0 S+15)
+    GAIS non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre GAIS è in sottofrequenza (23/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 7. 15:00  Helsingborg vs Ljungskile   [SVEZIA - SUPERETTAN]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 61.1  (R+30 C+10 F+5.5 G+0 A+0.5 E+0 S+15)
+    Helsingborg non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Helsingborg è in sottofrequenza (35/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 8. 15:00  Motherwell vs Heart of Midlothian   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 58.8  (R+30 C+10 F-1.4 G+6.6 A+3.6 E+0 S+10)
+    Motherwell non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre anche Heart of Midlothian è in sottofrequenza su questa combo (30/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 9. 18:30  Gent vs Anderlecht   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 54.5  (R+26.2 C+5 F+6.1 G+0 A+2.1 E+0 S+15)
+    Anderlecht non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre Anderlecht è in sottofrequenza (31/100), deve recuperare.
+
+10. 13:30  Genk vs Standard Liège   [BELGIO - FIRST DIVISION A]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 51.0  (R+22.5 C+5 F-2.1 G+6.6 A+8.9 E+0 S+10)
+    Genk non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche Standard Liège è in sottofrequenza su questa combo (26/100), deve recuperare; nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.

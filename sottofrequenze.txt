@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 24/10/2026 23:18 (ora italiana)
+Aggiornato: 25/10/2026 00:17 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -672,10 +672,11 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Moreirense                     24/100
-    2/18 FC Porto                       26/100
+    2/18 FC Porto                       25/100
     3/18 Santa Clara                    29/100
     4/18 Casa Pia AC                    30/100
-    5/18 Nacional                       30/100
+    5/18 Gil Vicente                    30/100
+    6/18 Nacional                       30/100
      ...
    18/18 Rio Ave                        41/100  (la fa più spesso)
 

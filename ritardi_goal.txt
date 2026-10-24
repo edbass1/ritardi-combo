@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 24/10/2026 23:18 (ora italiana)
+Aggiornato: 25/10/2026 00:17 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -848,7 +848,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (75 partite giocate) + 2025/2026
+Stagione 2026/2027 (76 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Casa Pia AC                       9  🟢 56%
@@ -856,11 +856,11 @@ RITARDI 1X + GOAL
    3. Braga                             4  🟢 50%
    4. Santa Clara                       4  🟢 50%  🔴
    5. Estrela da Amadora                3  🟢 67%
-   6. Arouca                            2
-   7. Famalicão                         2  🟢 100%
-   8. Gil Vicente                       2  🟢 50%
-   9. Marítimo                          2  🟢 100%
-  10. Vitória de Guimarães              2  🟢 100%  🔴
+   6. Gil Vicente                       3
+   7. Arouca                            2
+   8. FC Porto                          2  🟢 50%  🔴
+   9. Famalicão                         2  🟢 100%
+  10. Marítimo                          2  🟢 100%
 
 RITARDI X2 + GOAL
    1. Benfica                           7  🟢 100%
@@ -883,8 +883,8 @@ RITARDI 12 + GOAL
    6. Santa Clara                       2
    7. Alverca                           1
    8. Benfica                           1  🟢 100%
-   9. Marítimo                          1  🟢 100%
-  10. Académico Viseu                   0
+   9. FC Porto                          1
+  10. Gil Vicente                       1  🔴
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
