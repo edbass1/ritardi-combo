@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 24/10/2026 18:19 (ora italiana)
+Aggiornato: 24/10/2026 19:18 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -54,8 +54,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/20 Arezzo                         29/100
     3/20 LR Vicenza                     29/100
     4/20 Padova                         30/100
-    5/20 Ascoli                         31/100
-    6/20 Avellino                       31/100
+    5/20 Avellino                       31/100
      ...
    20/20 Modena                         41/100  (la fa più spesso)
 
@@ -483,7 +482,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/18 Excelsior                      40/100
     5/18 Fortuna Sittard                40/100
      ...
-   18/18 PEC Zwolle                     49/100  (la fa più spesso)
+   18/18 PEC Zwolle                     50/100  (la fa più spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 FC Groningen                   32/100
@@ -519,7 +518,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Jong Ajax                      24/100
-    2/20 VVV-Venlo                      29/100
+    2/20 VVV-Venlo                      30/100
     3/20 Helmond Sport                  32/100
     4/20 Heracles                       33/100
     5/20 FC Eindhoven                   34/100
@@ -530,7 +529,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 FC Eindhoven                   34/100
     2/20 NAC Breda                      34/100
-    3/20 FC Dordrecht                   35/100
+    3/20 FC Dordrecht                   36/100
     4/20 MVV Maastricht                 36/100
     5/20 Roda JC Kerkrade               36/100
     6/20 TOP Oss                        36/100
@@ -606,7 +605,7 @@ AUSTRIA - BUNDESLIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 Austria Lustenau               30/100
     2/12 LASK                           32/100
-    3/12 WSG Tirol                      32/100
+    3/12 WSG Tirol                      33/100
     4/12 Ried                           34/100
     5/12 Wolfsberger AC                 34/100
      ...
@@ -619,6 +618,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/12 Rapid Wien                     30/100
     5/12 LASK                           33/100
     6/12 WSG Tirol                      33/100
+    7/12 Wolfsberger AC                 33/100
      ...
    12/12 Sturm Graz                     41/100  (la fa più spesso)
 
@@ -855,9 +855,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/16 Halmstads BK                   30/100
     3/16 Västerås SK                    31/100
     4/16 Degerfors                      33/100
-    5/16 Hammarby                       34/100
-    6/16 IFK Göteborg                   34/100
-    7/16 Kalmar FF                      34/100
+    5/16 Kalmar FF                      33/100
      ...
    16/16 Sirius                         43/100  (la fa più spesso)
 
@@ -906,9 +904,9 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/13 Östersunds FK                  30/100
-    2/13 IK Brage                       32/100
-    3/13 Ljungskile                     32/100
-    4/13 Norrby                         32/100
+    2/13 Ljungskile                     32/100
+    3/13 Norrby                         32/100
+    4/13 IK Brage                       33/100
     5/13 GIF Sundsvall                  34/100
     6/13 Helsingborg                    34/100
      ...
