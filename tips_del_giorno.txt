@@ -1,25 +1,17 @@
 TIPS DEL GIORNO - 24/10/2026
-Aggiornato: 24/10/2026 19:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 24/10/2026 20:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 19:30  Arezzo vs Benevento   [ITALIA - SERIE B]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 72.7  (R+30 C+10 F+10.7 G+4.2 A+2.8 E+0 S+15)
-    Arezzo non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Arezzo è in sottofrequenza (28/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 19:30  Rapid Wien vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 65.7  (R+30 C+10 F+3.3 G+8 A+4.3 E+0 S+10)
-    Rapid Wien non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 3), ed è il ritardo più lungo del campionato. Inoltre anche Austria Lustenau è in sottofrequenza su questa combo (29/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 3. 20:45  Westerlo vs SK Beveren   [BELGIO - FIRST DIVISION A]  [OK 1X+GOAL]
+ 1. 20:45  Westerlo vs SK Beveren   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
     1X + GOAL  -  punteggio 53.5  (R+26.2 C+5 F+6 G+4.2 A-3 E+0 S+15)
     SK Beveren non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre SK Beveren è in sottofrequenza (31/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 4. 20:30  1. FC Nürnberg vs Kaiserslautern   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
+ 2. 20:30  1. FC Nürnberg vs Kaiserslautern   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 40.2  (R+30 C+10 F+2.2 G+1.8 A-3.8 E+0 S+0)
     Kaiserslautern non fa 1X + GOAL da 17 partite (ritardo massimo del campionato 17, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 59% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 5. 20:45  RAAL La Louvière vs Zulte Waregem   [BELGIO - FIRST DIVISION A]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 37.3  (R+30 C+10 F-6.9 G+4.2 A+0 E+0 S+0)
-    Zulte Waregem non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Zulte Waregem la fa già più della media (42% vs 35%).
+ 3. 20:45  RAAL La Louvière vs Zulte Waregem   [BELGIO - FIRST DIVISION A]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 37.2  (R+30 C+10 F-7 G+4.2 A+0 E+0 S+0)
+    Zulte Waregem non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Zulte Waregem la fa già più della media (42% vs 35%).
 
 
 REGOLE DEL PUNTEGGIO

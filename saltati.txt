@@ -1,6 +1,11 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 24/10/2026 19:18 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 24/10/2026 20:18 (ora italiana). Dal più recente. Fonte: FotMob
 
+24/10 18:15  [GOAL] Lommel: 1X + GOAL uscita, era a 7  -  OH Leuven 2-2 Lommel   [BELGIO - FIRST DIVISION A]
+24/10 18:00  [GOAL] Mladá Boleslav: 1X + GOAL uscita, era a 6  -  Slavia Prague 1-1 Mladá Boleslav   [REP. CECA - 1. LIGA]
+24/10 18:00  [GOAL] Mladá Boleslav: X2 + GOAL uscita, era a 7  -  Slavia Prague 1-1 Mladá Boleslav   [REP. CECA - 1. LIGA]
+24/10 18:00  [GOAL] Slavia Prague: X2 + GOAL uscita, era a 6  -  Slavia Prague 1-1 Mladá Boleslav   [REP. CECA - 1. LIGA]
+24/10 17:30  [GOAL] Djurgården: 1X + GOAL uscita, era a 19  -  Djurgården 2-2 Örgryte   [SVEZIA - ALLSVENSKAN]
 24/10 16:15  [GOAL] Leganés: X2 + GOAL uscita, era a 9  -  Leganés 1-1 Mallorca   [SPAGNA - LALIGA 2]
 24/10 16:00  [GOAL] Exeter City: 1X + GOAL uscita, era a 8  -  Exeter City 2-1 Fleetwood Town   [INGHILTERRA - LEAGUE TWO]
 24/10 16:00  [GOAL] Exeter City: 12 + GOAL uscita, era a 9  -  Exeter City 2-1 Fleetwood Town   [INGHILTERRA - LEAGUE TWO]
@@ -41,5 +46,3 @@ Aggiornato: 24/10/2026 19:18 (ora italiana). Dal più recente. Fonte: FotMob
 18/10 14:00  [GOAL] Sirius: 1X + GOAL uscita, era a 6  -  Sirius 2-2 Elfsborg   [SVEZIA - ALLSVENSKAN]
 18/10 13:00  [GOAL] FC Zbrojovka Brno: X2 + GOAL uscita, era a 8  -  Slovácko 1-2 FC Zbrojovka Brno   [REP. CECA - 1. LIGA]
 18/10 12:15  [GOAL] FC Volendam: X2 + GOAL uscita, era a 10  -  RKC Waalwijk 1-1 FC Volendam   [OLANDA - EERSTE DIVISIE]
-17/10 20:15  [GOAL] Cracovia: X2 + GOAL uscita, era a 10  -  Cracovia 1-1 Legia Warszawa   [POLONIA - EKSTRAKLASA]
-17/10 20:00  [GOAL] Telstar: 12 + GOAL uscita, era a 6  -  Telstar 3-4 Feyenoord   [OLANDA - EREDIVISIE]
