@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 24/10/2026 13:19 (ora italiana)
+Aggiornato: 24/10/2026 14:22 (ora italiana)
 Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -723,7 +723,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/18 Vizela                         29/100
     5/18 Amarante FC                    30/100
      ...
-   18/18 Portimonense                   36/100  (la fa più spesso)
+   18/18 Lusitânia Lourosa              36/100  (la fa più spesso)
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -1240,7 +1240,7 @@ SOTTOFREQUENZA 12 + GOAL
 POLONIA - EKSTRAKLASA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/17 Piast Gliwice                  33/100
+    1/17 Piast Gliwice                  34/100
     2/17 Zagłębie Lubin                 36/100
     3/17 Raków Częstochowa              37/100
     4/17 GKS Katowice                   39/100
@@ -1261,8 +1261,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/17 Korona Kielce                  29/100
     2/17 Legia Warszawa                 31/100
-    3/17 Piast Gliwice                  31/100
-    4/17 Pogoń Szczecin                 31/100
+    3/17 Pogoń Szczecin                 31/100
+    4/17 Piast Gliwice                  32/100
     5/17 Zagłębie Lubin                 34/100
      ...
    17/17 Śląsk Wrocław                  43/100  (la fa più spesso)

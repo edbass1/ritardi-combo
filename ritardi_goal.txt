@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 24/10/2026 13:19 (ora italiana)
+Aggiornato: 24/10/2026 14:22 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.
@@ -888,43 +888,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
-Stagione 2026/2027 (64 partite giocate) + 2025/2026
+Stagione 2026/2027 (66 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Tondela                           6  🟢 67%
-   2. Benfica B                         4  🟢 50%
-   3. Portimonense                      4  🟢 75%
-   4. Torreense                         4  🟢 50%  🔴
-   5. Felgueiras 1932                   3
-   6. Sporting CP B                     3  🟢 100%  🔴
-   7. AVS Futebol SAD                   2  🟢 50%
-   8. Académica                         2  🟢 100%
-   9. Leixões                           2  🟢 50%
+   2. Portimonense                      5  🟢 80%
+   3. Benfica B                         4  🟢 50%
+   4. Sporting CP B                     4  🟢 100%  🔴
+   5. Torreense                         4  🟢 50%  🔴
+   6. Académica                         3  🟢 100%
+   7. Felgueiras 1932                   3
+   8. Leixões                           3  🟢 67%
+   9. AVS Futebol SAD                   2  🟢 50%
   10. Penafiel                          2  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Tondela                          7+  🟢 71%
-   2. Académica                         6  🟢 83%
+   1. Académica                         7  🟢 86%
+   2. Tondela                          7+  🟢 71%
    3. Benfica B                         4  🟢 50%
    4. Farense                           4  🟢 75%
    5. Torreense                         4  🟢 50%
    6. Feirense                          2  🟢 50%  🔴
-   7. Vizela                            2  🟢 100%
-   8. Chaves                            1  🟢 100%
-   9. Felgueiras 1932                   1
-  10. Sporting CP B                     1  🟢 100%  🔴
+   7. Sporting CP B                     2  🟢 100%  🔴
+   8. Vizela                            2  🟢 100%
+   9. Chaves                            1  🟢 100%
+  10. Felgueiras 1932                   1
 
 RITARDI 12 + GOAL
    1. Tondela                           6  🟢 67%  🔴
    2. Torreense                         6  🟢 67%
    3. Benfica B                         5  🟢 60%
    4. União de Leiria                   4  🟢 75%
-   5. Académica                         2  🟢 100%
-   6. Felgueiras 1932                   1  🔴
-   7. Lusitânia Lourosa                 1  🟢 100%
-   8. Sporting CP B                     1  🟢 100%
-   9. AVS Futebol SAD                   0  🔴
-  10. Amarante FC                       0
+   5. Académica                         3  🟢 100%
+   6. Sporting CP B                     2  🟢 100%
+   7. Felgueiras 1932                   1  🔴
+   8. Leixões                           1  🟢 100%
+   9. Lusitânia Lourosa                 1  🟢 100%
+  10. Portimonense                      1  🟢 100%
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -1568,7 +1568,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (99 partite giocate) + 2025/2026
+Stagione 2026/2027 (100 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Jagiellonia Białystok             4  🟢 75%
@@ -1588,11 +1588,11 @@ RITARDI X2 + GOAL
    3. Wisła Płock                       4  🟢 75%
    4. GKS Katowice                      2  🟢 50%  🔴
    5. Pogoń Szczecin                    2  🟢 50%  🔴
-   6. Jagiellonia Białystok             1
-   7. Lech Poznań                       1  🟢 100%
-   8. Radomiak Radom                    1
-   9. Śląsk Wrocław                     1  🟢 100%
-  10. Cracovia                          0
+   6. Cracovia                          1  🟢 100%
+   7. Jagiellonia Białystok             1
+   8. Lech Poznań                       1  🟢 100%
+   9. Piast Gliwice                     1  🟢 100%
+  10. Radomiak Radom                    1
 
 RITARDI 12 + GOAL
    1. Wisła Płock                       3  🟢 67%
@@ -1602,9 +1602,9 @@ RITARDI 12 + GOAL
    5. Widzew Łódź                       2  🟢 50%
    6. Wisła Kraków                      2  🟢 50%
    7. Zagłębie Lubin                    2  🟢 50%
-   8. Cracovia                          1  🟢 100%
-   9. GKS Katowice                      1
-  10. Jagiellonia Białystok             1
+   8. GKS Katowice                      1
+   9. Jagiellonia Białystok             1
+  10. Motor Lublin                      1  🟢 100%
 
 ==================================================
 POLONIA - I LIGA

@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 24/10/2026
-Aggiornato: 24/10/2026 13:19 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 24/10/2026 14:22 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 16:00  Dundee United vs Aberdeen   [SCOZIA - PREMIERSHIP]  [ALT 12+GOAL]
     12 + GOAL  -  punteggio 88.2  (R+30 C+10 F+9.5 G+7.2 A+6.5 E+0 S+25)
@@ -33,13 +33,13 @@ Aggiornato: 24/10/2026 13:19 (ora italiana). Calcolo automatico, nessuna garanzi
     1X + GOAL  -  punteggio 65.4  (R+30 C+10 F+9.8 G+4.8 A-4.2 E+0 S+15)
     Djurgården non fa 1X + GOAL da 19 partite (ritardo massimo del campionato 19, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Djurgården è in sottofrequenza (26/100), deve recuperare; nel ritardo il 74% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 9. 13:30  Northampton Town vs Colchester United   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 65.2  (R+30 C+10 F-1.9 G+0 A+7.1 E+10 S+10)
-    Northampton Town non fa 12 + GOAL da 10 partite (ritardo massimo del campionato 10, mediano 1), ed è il ritardo più lungo del campionato. Inoltre anche Colchester United è in sottofrequenza su questa combo (25/100), deve recuperare; anche Colchester United è in ritardo sulla stessa combo (6); nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
-10. 14:45  Baník Lehota pod Vtacnikom vs FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
+ 9. 14:45  Baník Lehota pod Vtacnikom vs FC Petržalka 1898   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
     12 + GOAL  -  punteggio 65.0  (R+30 C+10 F+6.6 G+3.4 A+0 E+0 S+15)
     FC Petržalka 1898 non fa 12 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 1), ed è il ritardo più lungo del campionato. Inoltre FC Petržalka 1898 è in sottofrequenza (32/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+10. 16:00  Coventry City vs Fulham   [INGHILTERRA - PREMIER LEAGUE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 60.0  (R+30 C+10 F+7.3 G+1.4 A-3.7 E+0 S+15)
+    Coventry City non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Coventry City è in sottofrequenza (27/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
 
 REGOLE DEL PUNTEGGIO
