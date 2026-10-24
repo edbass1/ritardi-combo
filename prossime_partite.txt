@@ -1,20 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 24/10/2026 17:19 (ora italiana)
+Aggiornato: 24/10/2026 18:19 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 24/10/2026
 ==================================================
-17:30  Djurgården vs Örgryte   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-      [GOAL] Djurgården: 1X + GOAL (19) 🟢 74% 🔴 Djurgården
-17:30  Kalmar FF vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-      [GOAL] Kalmar FF: 1X + GOAL (8)
-18:00  Slavia Prague vs Mladá Boleslav   [REP. CECA - 1. LIGA]  [ALT X2+GOAL] [OK 1X+GOAL] [OK 12+GOAL]
-      [GOAL] Slavia Prague: X2 + GOAL (6) 🟢 67% 🔴 Slavia Prague
-      [GOAL] Mladá Boleslav: 1X + GOAL (6) 🟢 67%; X2 + GOAL (7) 🟢 71% 🔴 Slavia Prague; 12 + GOAL (6) 🟢 67%
-18:15  OH Leuven vs Lommel   [BELGIO - FIRST DIVISION A]  [OK 1X+GOAL]
-      [GOAL] Lommel: 1X + GOAL (7)
 19:30  Rapid Wien vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]  [OK X2+GOAL]
       [GOAL] Rapid Wien: X2 + GOAL (7) 🟢 100% 🔴 Austria Lustenau
 19:30  Arezzo vs Benevento   [ITALIA - SERIE B]  [OK 1X+GOAL]
@@ -92,19 +83,23 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
 20:00  Cesena vs Empoli   [ITALIA - SERIE B]  [OK 12+GOAL]
       [GOAL] Cesena: 12 + GOAL (6) 🟢 100%
 20:45  Barnet vs York City   [INGHILTERRA - LEAGUE TWO]  [ALT 12+GOAL]
-      [GOAL] York City: 12 + GOAL (7) 🟢 100%
+      [GOAL] York City: 12 + GOAL (8) 🟢 100%
 20:45  Leicester City vs Wigan Athletic   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
       [GOAL] Wigan Athletic: X2 + GOAL (16) 🟢 50% 🔴 Wigan Athletic
+20:45  Luton Town vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
+      [GOAL] Doncaster Rovers: X2 + GOAL (6) 🟢 67%
+20:45  Sheffield Wednesday vs Cambridge United   [INGHILTERRA - LEAGUE ONE]  [OK 12+GOAL]
+      [GOAL] Sheffield Wednesday: 12 + GOAL (6) 🟢 67%
 20:45  Stenhousemuir vs Dunfermline Athletic   [SCOZIA - CHAMPIONSHIP]  [OK 12+GOAL]
-      [GOAL] Stenhousemuir: 12 + GOAL (6) 🔴 Stenhousemuir 🔴 Dunfermline Athletic
-      [GOAL] Dunfermline Athletic: 12 + GOAL (16) 🟢 69% 🔴 Stenhousemuir 🔴 Dunfermline Athletic
+      [GOAL] Stenhousemuir: 12 + GOAL (7) 🔴 Stenhousemuir 🔴 Dunfermline Athletic
+      [GOAL] Dunfermline Athletic: 12 + GOAL (17) 🟢 65% 🔴 Stenhousemuir 🔴 Dunfermline Athletic
 
 ==================================================
 28/10/2026
 ==================================================
 17:00  AC Oulu vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL] [ALT X2+GOAL] [ALT 12+GOAL]
-      [GOAL] AC Oulu: 1X + GOAL (11) 🔴 VPS
-      [GOAL] VPS: 1X + GOAL (12) 🔴 VPS; X2 + GOAL (9); 12 + GOAL (9)
+      [GOAL] AC Oulu: 1X + GOAL (12) 🔴 AC Oulu 🔴 VPS
+      [GOAL] VPS: 1X + GOAL (12) 🔴 AC Oulu 🔴 VPS; X2 + GOAL (9); 12 + GOAL (9)
 19:00  Brommapojkarna vs Häcken   [SVEZIA - ALLSVENSKAN]  [ALT 12+GOAL]
       [GOAL] Häcken: 12 + GOAL (6) 🟢 67%
 19:00  Degerfors vs Västerås SK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
@@ -117,7 +112,11 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] Arezzo: 1X + GOAL (7+) 🟢 71% 🔴 Arezzo
 20:00  Juve Stabia vs Hellas Verona   [ITALIA - SERIE B]  [OK 12+GOAL]
       [GOAL] Juve Stabia: 12 + GOAL (6) 🟢 83%
-20:45  Celtic vs Dundee United   [SCOZIA - PREMIERSHIP]  [ALT 12+GOAL]
-      [GOAL] Dundee United: 12 + GOAL (14) 🟢 86% 🔴 Dundee United
 20:45  St. Johnstone vs Motherwell   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
-      [GOAL] Motherwell: X2 + GOAL (6) 🟢 83%
+      [GOAL] Motherwell: X2 + GOAL (6) 🟢 83% 🔴 St. Johnstone
+
+==================================================
+29/10/2026
+==================================================
+17:00  FC Inter Turku vs HJK   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
+      [GOAL] FC Inter Turku: 1X + GOAL (6) 🔴 HJK
