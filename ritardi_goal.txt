@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 13:22 (ora italiana)
+Aggiornato: 25/10/2026 14:25 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -608,37 +608,37 @@ RITARDI 12 + GOAL
 
 ==================================================
 OLANDA - EREDIVISIE
-Stagione 2026/2027 (85 partite giocate) + 2025/2026
+Stagione 2026/2027 (86 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. SC Heerenveen                     6  🟢 83%
    2. Feyenoord                         5  🟢 100%
-   3. FC Groningen                      3  🟢 100%
-   4. Excelsior                         2  🟢 100%
+   3. Excelsior                         3  🟢 67%
+   4. FC Groningen                      3  🟢 100%
    5. ADO Den Haag                      1  🟢 100%
    6. Ajax                              1  🟢 100%  🔴
    7. Cambuur                           1  🟢 100%
    8. FC Twente                         1  🟢 100%  🔴
-   9. Willem II                         1  🟢 100%
-  10. AZ Alkmaar                        0
+   9. Fortuna Sittard                   1
+  10. Willem II                         1  🟢 100%
 
 RITARDI X2 + GOAL
    1. PSV Eindhoven                     4  🟢 100%
-   2. Go Ahead Eagles                   2  🟢 100%
-   3. Excelsior                         1  🟢 100%
-   4. Sparta Rotterdam                  1  🟢 100%
-   5. Telstar                           1  🟢 100%
-   6. ADO Den Haag                      0
-   7. AZ Alkmaar                        0
-   8. Ajax                              0  🔴
-   9. Cambuur                           0
-  10. FC Groningen                      0
+   2. Excelsior                         2  🟢 50%
+   3. Go Ahead Eagles                   2  🟢 100%
+   4. Fortuna Sittard                   1
+   5. Sparta Rotterdam                  1  🟢 100%
+   6. Telstar                           1  🟢 100%
+   7. ADO Den Haag                      0
+   8. AZ Alkmaar                        0
+   9. Ajax                              0  🔴
+  10. Cambuur                           0
 
 RITARDI 12 + GOAL
    1. NEC Nijmegen                      5  🟢 100%  🔴
    2. AZ Alkmaar                        4  🟢 75%
-   3. Fortuna Sittard                   3  🟢 67%
-   4. Excelsior                         1  🟢 100%
+   3. Fortuna Sittard                   4  🟢 50%
+   4. Excelsior                         2  🟢 50%
    5. FC Utrecht                        1  🟢 100%
    6. PEC Zwolle                        1  🟢 100%
    7. ADO Den Haag                      0  🔴
@@ -888,43 +888,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
-Stagione 2026/2027 (68 partite giocate) + 2025/2026
+Stagione 2026/2027 (69 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Tondela                           6  🟢 67%
-   2. Benfica B                         5  🔴
-   3. Portimonense                      5  🟢 80%
-   4. Sporting CP B                     4  🟢 100%
-   5. Torreense                         4  🟢 50%
-   6. Académica                         3  🟢 100%  🔴
-   7. Felgueiras 1932                   3
-   8. Leixões                           3  🟢 67%
-   9. Penafiel                          3  🟢 100%
-  10. AVS Futebol SAD                   2  🟢 50%
+   1. Benfica B                         5  🔴
+   2. Portimonense                      5  🟢 80%
+   3. Sporting CP B                     4  🟢 100%
+   4. Torreense                         4  🟢 50%
+   5. Académica                         3  🟢 100%  🔴
+   6. Felgueiras 1932                   3
+   7. Leixões                           3  🟢 67%
+   8. Penafiel                          3  🟢 100%
+   9. Amarante FC                       1  🟢 100%
+  10. FC Porto B                        1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Académica                         7  🟢 86%  🔴
-   2. Tondela                          7+  🟢 71%  🔴
+   1. Tondela                          8+  🟢 75%
+   2. Académica                         7  🟢 86%  🔴
    3. Benfica B                         5  🔴
    4. Torreense                         4  🟢 50%
    5. Feirense                          3
    6. Sporting CP B                     2  🟢 100%
    7. Vizela                            2  🟢 100%
-   8. Chaves                            1  🟢 100%
-   9. Felgueiras 1932                   1
-  10. Leixões                           1  🟢 100%
+   8. AVS Futebol SAD                   1  🟢 100%
+   9. Chaves                            1  🟢 100%
+  10. Felgueiras 1932                   1
 
 RITARDI 12 + GOAL
    1. Benfica B                         6  🟢 50%
-   2. Tondela                           6  🟢 67%
-   3. Torreense                         6  🟢 67%
-   4. União de Leiria                   4  🟢 75%
-   5. Académica                         3  🟢 100%
-   6. Sporting CP B                     2  🟢 100%
-   7. Feirense                          1
-   8. Felgueiras 1932                   1
-   9. Leixões                           1  🟢 100%
-  10. Lusitânia Lourosa                 1  🟢 100%  🔴
+   2. Torreense                         6  🟢 67%
+   3. União de Leiria                   4  🟢 75%
+   4. Académica                         3  🟢 100%
+   5. Sporting CP B                     2  🟢 100%
+   6. Feirense                          1
+   7. Felgueiras 1932                   1
+   8. Leixões                           1  🟢 100%
+   9. Lusitânia Lourosa                 1  🟢 100%  🔴
+  10. Portimonense                      1  🟢 100%  🔴
 
 ==================================================
 NORVEGIA - ELITESERIEN
@@ -1568,19 +1568,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (103 partite giocate) + 2025/2026
+Stagione 2026/2027 (104 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Jagiellonia Białystok             4  🟢 75%
    2. Wisła Płock                       3  🟢 67%
    3. GKS Katowice                      2
-   4. Korona Kielce                     1
-   5. Wieczysta Kraków                  1  🟢 100%
-   6. Cracovia                          0
-   7. Górnik Zabrze                     0
-   8. Lech Poznań                       0
-   9. Legia Warszawa                    0  🔴
-  10. Motor Lublin                      0
+   4. Wieczysta Kraków                  2  🟢 100%
+   5. Korona Kielce                     1
+   6. Śląsk Wrocław                     1  🟢 100%  🔴
+   7. Cracovia                          0
+   8. Górnik Zabrze                     0
+   9. Lech Poznań                       0
+  10. Legia Warszawa                    0  🔴
 
 RITARDI X2 + GOAL
    1. Korona Kielce                     5  🟢 80%
@@ -1589,10 +1589,10 @@ RITARDI X2 + GOAL
    4. GKS Katowice                      3
    5. Pogoń Szczecin                    3  🟢 67%
    6. Radomiak Radom                    2  🟢 50%
-   7. Cracovia                          1  🟢 100%
-   8. Jagiellonia Białystok             1  🔴
-   9. Lech Poznań                       1  🟢 100%
-  10. Piast Gliwice                     1  🟢 100%
+   7. Śląsk Wrocław                     2  🟢 100%
+   8. Cracovia                          1  🟢 100%
+   9. Jagiellonia Białystok             1  🔴
+  10. Lech Poznań                       1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Wisła Płock                       3  🟢 67%
@@ -1604,18 +1604,18 @@ RITARDI 12 + GOAL
    7. Jagiellonia Białystok             1
    8. Korona Kielce                     1
    9. Motor Lublin                      1  🟢 100%
-  10. Cracovia                          0
+  10. Wieczysta Kraków                  1  🟢 100%
 
 ==================================================
 POLONIA - I LIGA
-Stagione 2026/2027 (104 partite giocate) + 2025/2026
+Stagione 2026/2027 (105 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Odra Opole                        4
-   2. Stal Rzeszów                      4  🟢 75%
-   3. ŁKS Łódź                          4  🟢 75%
-   4. Pogoń Grodzisk Mazowiecki         3  🟢 67%
-   5. Pogoń Siedlce                     3  🟢 67%
+   1. Odra Opole                        5
+   2. Pogoń Siedlce                     4  🟢 50%
+   3. Stal Rzeszów                      4  🟢 75%
+   4. ŁKS Łódź                          4  🟢 75%
+   5. Pogoń Grodzisk Mazowiecki         3  🟢 67%
    6. Ruch Chorzów                      3  🟢 67%
    7. Skierniewice                      2  🟢 50%
    8. Stal Mielec                       2  🟢 50%  🔴
@@ -1625,8 +1625,8 @@ RITARDI 1X + GOAL
 RITARDI X2 + GOAL
    1. Warta Poznań                      8  🟢 62%
    2. Chrobry Głogów                    5  🟢 60%
-   3. Pogoń Grodzisk Mazowiecki         5  🟢 60%
-   4. Odra Opole                        4
+   3. Odra Opole                        5
+   4. Pogoń Grodzisk Mazowiecki         5  🟢 60%
    5. Stal Mielec                       4  🟢 75%
    6. Ruch Chorzów                      3  🟢 67%
    7. ŁKS Łódź                          3  🟢 67%
@@ -1636,7 +1636,7 @@ RITARDI X2 + GOAL
 
 RITARDI 12 + GOAL
    1. TS Podbeskidzie Bielsko-Biała   11+  🟢 73%
-   2. Odra Opole                        7
+   2. Odra Opole                        8
    3. Ruch Chorzów                      4  🟢 75%
    4. Miedź Legnica                     3  🟢 67%
    5. Pogoń Grodzisk Mazowiecki         3  🟢 67%
@@ -1644,5 +1644,5 @@ RITARDI 12 + GOAL
    7. Polonia Warszawa                  2  🟢 50%
    8. Stal Mielec                       2  🟢 50%  🔴
    9. Chrobry Głogów                    1
-  10. Warta Poznań                      1
+  10. Pogoń Siedlce                     1
 

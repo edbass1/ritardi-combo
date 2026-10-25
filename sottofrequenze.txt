@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 25/10/2026 13:22 (ora italiana)
+Aggiornato: 25/10/2026 14:25 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -503,10 +503,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/18 PSV Eindhoven                  57/100
     2/18 ADO Den Haag                   44/100
     3/18 NEC Nijmegen                   41/100
-    4/18 Fortuna Sittard                40/100
-    5/18 Feyenoord                      40/100
-    6/18 FC Utrecht                     40/100
-    7/18 Excelsior                      40/100
+    4/18 Feyenoord                      40/100
+    5/18 FC Utrecht                     40/100
+    6/18 Excelsior                      40/100
      ...
    18/18 Go Ahead Eagles                30/100  (la fa meno spesso)
 
@@ -710,7 +709,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/18 Académica                      43/100
     2/18 Lusitânia Lourosa              42/100
     3/18 Benfica B                      41/100
-    4/18 Tondela                        38/100
+    4/18 Tondela                        39/100
     5/18 Penafiel                       37/100
     6/18 Felgueiras 1932                37/100
     7/18 AVS Futebol SAD                37/100
@@ -721,7 +720,7 @@ SOTTOFREQUENZA X2 + GOAL
     1/18 Académica                      42/100
     2/18 Benfica B                      41/100
     3/18 União de Leiria                37/100
-    4/18 Tondela                        37/100
+    4/18 Tondela                        36/100
     5/18 Leixões                        36/100
      ...
    18/18 Sporting CP B                  27/100  (la fa meno spesso)
@@ -1245,8 +1244,8 @@ SOTTOFREQUENZA 12 + GOAL
 POLONIA - EKSTRAKLASA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/17 Śląsk Wrocław                  50/100
-    2/17 Legia Warszawa                 50/100
+    1/17 Legia Warszawa                 50/100
+    2/17 Śląsk Wrocław                  49/100
     3/17 Radomiak Radom                 47/100
     4/17 Wisła Kraków                   46/100
     5/17 Cracovia                       46/100
@@ -1256,8 +1255,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/17 Motor Lublin                   45/100
     2/17 Jagiellonia Białystok          44/100
-    3/17 Śląsk Wrocław                  41/100
-    4/17 Legia Warszawa                 41/100
+    3/17 Legia Warszawa                 41/100
+    4/17 Śląsk Wrocław                  40/100
     5/17 Korona Kielce                  39/100
      ...
    17/17 GKS Katowice                   27/100  (la fa meno spesso)
