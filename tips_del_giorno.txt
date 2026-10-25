@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 25/10/2026
-Aggiornato: 25/10/2026 01:15 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 25/10/2026 11:25 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 17:15  Toulouse vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 85.5  (R+30 C+10 F+7.7 G+7.2 A+5.7 E+0 S+25)
@@ -44,12 +44,12 @@ Aggiornato: 25/10/2026 01:15 (ora italiana). Calcolo automatico, nessuna garanzi
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
-  Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure 🔴 (squadra o avversaria), oppure 🟢 >= 60%, oppure entrambe in ritardo.
+  Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure sottofrequenza (squadra o avversaria tra le 3 con meno uscite), oppure 🟢 >= 60%, oppure entrambe in ritardo.
   R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).
   C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.
   F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.
-  G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del 🔴).
+  G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del bonus sottofrequenza).
   A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.
   E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.
-  S  🔴 Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è top 3 sottofrequenza, +10 se lo è l'avversaria (cumulabili).
+  S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.
   Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.

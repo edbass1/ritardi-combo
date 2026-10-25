@@ -149,11 +149,11 @@ def compute(lid, POOL):
             rows.append((sum(1 for m in seq if f(m[3], m[4])), len(seq), tname))
         freq[name] = {t: (k, n) for k, n, t in rows if n >= SOTTO_MIN}
         rows = [r for r in rows if r[1] >= SOTTO_MIN]
-        rate = lambda r: r[0]
         rows.sort(key=lambda r: (r[0], -r[1], r[2]))
+        rows.reverse()  # ordine invertito: più uscite in cima, meno uscite in fondo
         sinfo[name] = (len(rows), list(rows[-1]) if rows else None)
         if len(rows) > 5:
-            cut = rate(rows[4]); rows = [r for r in rows if rate(r) <= cut]
+            cut = rows[4][0]; rows = [r for r in rows if r[0] >= cut]
         sotto.append((name, rows))
     res, allr, salt, danger = {}, {}, [], {}
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=SALTATI_GIORNI)
@@ -214,8 +214,8 @@ def build_tips(data, today):
     cands = []
     for LI, (c, l, r, err) in enumerate(data):
         if not r: continue
-        up, teams, allr, sotto, freq = r[4], r[5], r[6], r[7], r[8]
-        red = red_sets(sotto)
+        up, teams, allr, freq = r[4], r[5], r[6], r[8]
+        low = under_sets(freq)
         delay = {(t, x[1]): x for t, xs in allr.items() for x in xs}  # (team, combo) -> (key,name,v,team,full,pct)
         lmax = {}
         for (t, nm), x in delay.items(): lmax.setdefault(nm, []).append(x[2])
@@ -246,8 +246,8 @@ def build_tips(data, today):
                 s4 = min(8, (pct - 50) / 5) if pct >= 50 else 0  # 🟢 partite del ritardo con gol
                 s5 = max(-10, min(10, (pL - pO) * 100))         # recupero: avversaria sotto media = positivo
                 s6 = 10 if O[2] >= TIPS_MIN_DELAY else 0        # entrambe in ritardo sulla stessa combo
-                rT, rO = tn in red.get(nm, ()), on in red.get(nm, ())
-                s7 = (15 if rT else 0) + (10 if rO else 0)       # 🔴 sottofrequenza = deve recuperare
+                rT, rO = tn in low.get(nm, ()), on in low.get(nm, ())
+                s7 = (15 if rT else 0) + (10 if rO else 0)       # meno uscite = deve recuperare (non è il pallino rosso)
                 sc = s1 + s2 + s3 + s4 + s5 + s6 + s7
                 if not (top3 or rT or rO or pct >= 60 or s6) or sc < TIPS_MIN_SCORE: continue
                 why = [f"{tn} non fa {nm} da {v} partite (ritardo massimo del campionato {srt[0]}, mediano {med})"]
@@ -273,14 +273,14 @@ def build_tips(data, today):
 
 TIPS_RULES = [
  "Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.",
- "Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure 🔴 (squadra o avversaria), oppure 🟢 >= 60%, oppure entrambe in ritardo.",
+ "Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure sottofrequenza (squadra o avversaria tra le 3 con meno uscite), oppure 🟢 >= 60%, oppure entrambe in ritardo.",
  "R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).",
  "C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.",
  "F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.",
- "G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del 🔴).",
+ "G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del bonus sottofrequenza).",
  "A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.",
  "E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.",
- "S  🔴 Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è top 3 sottofrequenza, +10 se lo è l'avversaria (cumulabili).",
+ "S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.",
  "Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.",
 ]
 
@@ -297,10 +297,27 @@ def tables(d, teams):
     return out
 
 def red_sets(sotto):
+    # Pallino rosso = prime 3 della classifica (più uscite in cima), pari merito inclusi.
     out = {}
     for name, rows in sotto:
         if not rows: out[name] = set(); continue
-        cut = round(rows[min(2, len(rows)-1)][0] / rows[min(2, len(rows)-1)][1], 4)
+        i = min(2, len(rows) - 1)
+        cut = round(rows[i][0] / rows[i][1], 4)
+        out[name] = {t for k, n, t in rows if round(k / n, 4) >= cut}
+    return out
+
+def under_sets(freq):
+    # Tips: ancora le 3 con meno uscite. Non segue il pallino rosso.
+    out = {}
+    for name, fr in freq.items():
+        rows = [(k, n, t) for t, (k, n) in fr.items()]
+        rows.sort(key=lambda r: (r[0], -r[1], r[2]))
+        if len(rows) > 5:
+            cut = rows[4][0]
+            rows = [r for r in rows if r[0] <= cut]
+        if not rows: out[name] = set(); continue
+        i = min(2, len(rows) - 1)
+        cut = round(rows[i][0] / rows[i][1], 4)
         out[name] = {t for k, n, t in rows if round(k / n, 4) <= cut}
     return out
 
@@ -444,7 +461,7 @@ def main():
         L = [titles[key], f"Aggiornato: {now} (ora italiana)",
              "Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).",
              "Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.",
-             "🔴 = squadra tra le prime 3 (pari merito inclusi) della Sottofrequenza del suo campionato per la stessa combo.",
+             "🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.",
              "🟢 xx% = nelle partite del ritardo attuale, % con almeno 2 gol totali o entrambe a segno (mostrato se >= 50%).",
              "Fonte: FotMob", ""]
         for c, l, r, err in data:
@@ -479,7 +496,7 @@ def main():
               if info: fx.append((t, c, l, teams[h], teams[a], info))
       fx.sort(key=lambda x: (x[0], x[1], x[3]))
       P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - {TIT} - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_GOAL}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+           f"Soglia ritardo >= {SOGLIA_GOAL if KEY == 'goal' else SOGLIA_GOAL}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
       day = None
       for t, c, l, hn, an, info in fx:
           lt = t.astimezone(ROME)
@@ -510,7 +527,7 @@ def main():
             if tags: cf.append((t, c, l, teams[h], teams[a], tags, LI))
     cf.sort(key=lambda x: (x[0], x[1], x[3]))
     P = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO", f"Aggiornato: {now} (ora italiana)",
-         f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è top 3 Sottofrequenza per quella combo. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+         f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
     H = []; day = None
     for t, c, l, hn, an, tags, LIX in cf:
         lt = t.astimezone(ROME); d0 = lt.strftime("%d/%m/%Y")
@@ -564,7 +581,7 @@ def main():
     sections["saltati_html"] = "\n".join(SH)
     open("saltati.txt", "w").write(sections["saltati"])
     S = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali valide)", f"Aggiornato: {now} (ora italiana)",
-         "Le 5 squadre con meno uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob", ""]
+         "Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob", ""]
     for c, l, r, err in data:
         S += ["="*50, f"{c} - {l}", "="*50]
         if not r: S += ["  dati non disponibili", ""]; continue
@@ -575,7 +592,7 @@ def main():
                 S.append(f"  {f'{i}/{N}':>6} {t:<30} {k}/{n}")
             if last and N > len(rows):
                 S.append(f"     ...")
-                S.append(f"  {f'{N}/{N}':>6} {last[2]:<30} {last[0]}/{last[1]}  (la fa più spesso)")
+                S.append(f"  {f'{N}/{N}':>6} {last[2]:<30} {last[0]}/{last[1]}  (la fa meno spesso)")
             S.append("")
     sections["sotto"] = "\n".join(S) + "\n"
     open("sottofrequenze.txt","w").write(sections["sotto"])
@@ -604,7 +621,7 @@ nav.sec{{position:sticky;top:0;z-index:50;display:flex;flex-wrap:wrap;gap:.45rem
 </aside>
 <h2 id="tips">TIPS DEL GIORNO</h2><div class="fxlist">{sections['tips_html']}</div><details class="rules"><summary>Come viene calcolato il punteggio</summary><ul>{sections['tips_rules']}</ul></details>
 <h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2><pre>{html.escape(sections['sotto'])}</pre>
-<h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> &middot; 🔴 = top 3 Sottofrequenza</p><div class="fxlist">{sections['prossime_html']}</div>
+<h2 id="prossime">Prossime partite (5 giorni)</h2><p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) &middot; orari italiani &middot; <span class="tag goal">GOAL</span> &middot; 🔴 = prime 3 per frequenza (più uscite)</p><div class="fxlist">{sections['prossime_html']}</div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2><pre>{html.escape(sections['goal'])}</pre>
 <h2 id="saltati">Saltati (ritardi &ge; {SALTATI_MIN} spezzati, ultimi {SALTATI_GIORNI} giorni)</h2><div class="fxlist">{sections['saltati_html']}</div><button id="totop" aria-label="Torna su" title="Torna su" onclick="window.scrollTo({{top:0,behavior:'smooth'}})">↑</button><script>window.addEventListener("scroll",function(){{document.getElementById("totop").classList.toggle("on",window.scrollY>400)}},{{passive:true}});</script><div id="pop"></div><script>var POP={sections['popjson']};(function(){{var pop=document.getElementById('pop'),cur=null;function esc(x){{return String(x).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]}})}}
 function show(el){{if(el.classList.contains('dz')){{pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}}var d=POP[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){{var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){{return x.some(function(r){{return r[1]==A||r[1]==B}})}});if(!tb.length){{h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}}else{{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){{var N=x.length;h+='<div>'+x.filter(function(r){{return r[1]==A||r[1]==B}}).map(function(r){{return '<b style="color:#00ff88">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:#00ff88;cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){{return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}}).join('')+'</table></details>'}})}}}}else if(el.classList.contains('pp')){{var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}}).join('')+'</table>'}}else{{var rows=d.sotto[c]||[];var st=(d.stot||{{}})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){{return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:#8a9">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}}
