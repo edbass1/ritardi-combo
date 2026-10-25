@@ -1,5 +1,5 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 25/10/2026 14:25 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 25/10/2026 15:19 (ora italiana). Dal più recente. Fonte: FotMob
 
 25/10 12:00  [GOAL] Tondela: 1X + GOAL uscita, era a 6  -  AVS Futebol SAD 2-1 Tondela   [PORTOGALLO - LIGA PORTUGAL 2]
 25/10 12:00  [GOAL] Tondela: 12 + GOAL uscita, era a 6  -  AVS Futebol SAD 2-1 Tondela   [PORTOGALLO - LIGA PORTUGAL 2]
@@ -44,4 +44,3 @@ Aggiornato: 25/10/2026 14:25 (ora italiana). Dal più recente. Fonte: FotMob
 18/10 18:00  [GOAL] FC København: X2 + GOAL uscita, era a 8  -  FC København 1-1 AGF   [DANIMARCA - SUPERLIGAEN]
 18/10 16:30  [GOAL] GAIS: 1X + GOAL uscita, era a 8  -  Örgryte 4-2 GAIS   [SVEZIA - ALLSVENSKAN]
 18/10 16:30  [GOAL] GAIS: 12 + GOAL uscita, era a 13  -  Örgryte 4-2 GAIS   [SVEZIA - ALLSVENSKAN]
-18/10 16:15  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 6  -  Celta Vigo 2-1 Deportivo Alavés   [SPAGNA - LALIGA]

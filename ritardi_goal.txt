@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 14:25 (ora italiana)
+Aggiornato: 25/10/2026 15:19 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8,19 +8,19 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (75 partite giocate) + 2025/2026
+Stagione 2026/2027 (76 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              4  🟢 75%
    2. Bologna                           3  🟢 100%
    3. Lecce                             3  🟢 100%
    4. Cagliari                          2  🟢 100%
-   5. Inter                             2  🟢 100%
-   6. Fiorentina                        1  🟢 100%  🔴
-   7. Genoa                             1  🟢 100%
-   8. Juventus                          1  🟢 100%  🔴
-   9. Sassuolo                          1  🟢 100%  🔴
-  10. Udinese                           1  🟢 100%
+   5. Genoa                             1  🟢 100%
+   6. Juventus                          1  🟢 100%  🔴
+   7. Sassuolo                          1  🟢 100%  🔴
+   8. Udinese                           1  🟢 100%
+   9. Venezia                           1  🔴
+  10. Atalanta                          0  🔴
 
 RITARDI X2 + GOAL
    1. Monza                             5  🟢 100%
@@ -968,29 +968,29 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
-Stagione 2026 (217 partite giocate) + 2025
+Stagione 2026 (218 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Moss                              8  🟢 75%
    2. Lyn                               6  🟢 67%
    3. FK Haugesund                      2  🟢 100%
    4. Odds Ballklubb                    2  🟢 50%
-   5. Kongsvinger                       1  🟢 100%  🔴
-   6. Ranheim                           1  🟢 100%
-   7. Raufoss                           1  🟢 100%
-   8. Sandnes Ulf                       1  🟢 100%
-   9. Stabæk                            1
-  10. Strømmen                          1  🟢 100%
+   5. Strømmen                          2  🟢 50%
+   6. Strømsgodset                      2  🟢 50%
+   7. Kongsvinger                       1  🟢 100%  🔴
+   8. Ranheim                           1  🟢 100%
+   9. Raufoss                           1  🟢 100%
+  10. Sandnes Ulf                       1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Kongsvinger                       5  🟢 100%  🔴
    2. Åsane                             5  🟢 60%
-   3. FK Haugesund                      2  🟢 100%
-   4. Lyn                               2  🟢 50%
-   5. Moss                              2
-   6. Sandnes Ulf                       2  🟢 100%
-   7. Stabæk                            2  🟢 50%  🔴
-   8. Strømsgodset                      2  🟢 100%
+   3. Strømsgodset                      3  🟢 67%
+   4. FK Haugesund                      2  🟢 100%
+   5. Lyn                               2  🟢 50%
+   6. Moss                              2
+   7. Sandnes Ulf                       2  🟢 100%
+   8. Stabæk                            2  🟢 50%  🔴
    9. Bryne                             1  🟢 100%
   10. Hødd                              1  🟢 100%
 
@@ -999,12 +999,12 @@ RITARDI 12 + GOAL
    2. Egersund                          2  🟢 50%
    3. Lyn                               2  🟢 50%
    4. Moss                              2  🔴
-   5. Kongsvinger                       1  🟢 100%
-   6. Sandnes Ulf                       1  🟢 100%
-   7. Stabæk                            1
-   8. Strømsgodset                      1  🟢 100%
-   9. Åsane                             1
-  10. Bryne                             0
+   5. Strømsgodset                      2  🟢 50%
+   6. Kongsvinger                       1  🟢 100%
+   7. Sandnes Ulf                       1  🟢 100%
+   8. Stabæk                            1
+   9. Strømmen                          1  🔴
+  10. Åsane                             1
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
@@ -1128,7 +1128,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (219 partite giocate) + 2025
+Stagione 2026 (220 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Helsingborg                       6  🟢 50%
@@ -1136,19 +1136,19 @@ RITARDI 1X + GOAL
    3. GIF Sundsvall                     3  🟢 67%
    4. IK Brage                          3  🟢 100%
    5. Sandvikens IF                     2
-   6. IK Oddevold                       1  🟢 100%
-   7. Ljungskile                        1  🟢 100%
-   8. Varbergs BoIS FC                  1  🔴
-   9. Östers IF                         1  🟢 100%
-  10. Falkenbergs FF                    0  🔴
+   6. IFK Norrköping                    1  🟢 100%
+   7. IK Oddevold                       1  🟢 100%
+   8. Ljungskile                        1  🟢 100%
+   9. Norrby                            1  🟢 100%
+  10. Varbergs BoIS FC                  1  🔴
 
 RITARDI X2 + GOAL
    1. GIF Sundsvall                     9  🟢 56%
    2. Helsingborg                       4
-   3. Sandvikens IF                     4  🟢 50%
-   4. IK Oddevold                       3  🟢 100%
-   5. Nordic United FC                  3  🟢 100%
-   6. Norrby                            3  🟢 67%
+   3. Norrby                            4  🟢 75%
+   4. Sandvikens IF                     4  🟢 50%
+   5. IK Oddevold                       3  🟢 100%
+   6. Nordic United FC                  3  🟢 100%
    7. IFK Värnamo                       2  🔴
    8. Landskrona BoIS                   2  🟢 100%  🔴
    9. Östersunds FK                     2  🟢 50%
@@ -1157,26 +1157,26 @@ RITARDI X2 + GOAL
 RITARDI 12 + GOAL
    1. Helsingborg                       4
    2. GIF Sundsvall                     3  🟢 67%
-   3. IFK Norrköping                    2  🟢 100%  🔴
+   3. IFK Norrköping                    3  🟢 100%  🔴
    4. IFK Värnamo                       2
    5. Ljungskile                        2  🟢 100%
    6. Sandvikens IF                     2
    7. Varbergs BoIS FC                  2  🟢 50%
    8. Örebro                            2  🟢 100%  🔴
    9. IK Oddevold                       1  🟢 100%
-  10. Falkenbergs FF                    0  🔴
+  10. Norrby                            1  🟢 100%
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (91 partite giocate) + 2025/2026
+Stagione 2026/2027 (92 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Slovan Liberec                    7  🟢 57%
-   2. Hradec Králové                    5  🟢 60%
+   2. Hradec Králové                    6  🟢 67%
    3. Sparta Prague                     4  🟢 75%  🔴
    4. Artis Brno                        3
-   5. Baník Ostrava                     2
-   6. Jablonec                          2  🟢 50%
+   5. Jablonec                          3  🟢 67%
+   6. Baník Ostrava                     2
    7. Pardubice                         2  🟢 100%
    8. Slovácko                          2  🟢 100%
    9. Teplice                           2
@@ -1189,10 +1189,10 @@ RITARDI X2 + GOAL
    4. Baník Ostrava                     2
    5. Teplice                           2  🔴
    6. Artis Brno                        1  🔴
-   7. Hradec Králové                    1
-   8. Bohemians 1905                    0  🔴
-   9. FC Zbrojovka Brno                 0
-  10. FC Zlín                           0
+   7. Bohemians 1905                    0  🔴
+   8. FC Zbrojovka Brno                 0
+   9. FC Zlín                           0
+  10. Hradec Králové                    0
 
 RITARDI 12 + GOAL
    1. Mladá Boleslav                    7  🟢 71%
@@ -1328,16 +1328,16 @@ RITARDI 12 + GOAL
 
 ==================================================
 SCOZIA - PREMIERSHIP
-Stagione 2026/2027 (58 partite giocate) + 2025/2026
+Stagione 2026/2027 (59 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Falkirk                           3  🟢 100%
-   2. Hibernian                         2  🟢 50%  🔴
-   3. Kilmarnock                        1  🟢 100%  🔴
-   4. Rangers                           1  🟢 100%  🔴
-   5. St. Johnstone                     1  🟢 100%
-   6. Aberdeen                          0
-   7. Celtic                            0
+   2. Hibernian                         3  🟢 67%  🔴
+   3. Celtic                            1  🟢 100%
+   4. Kilmarnock                        1  🟢 100%  🔴
+   5. Rangers                           1  🟢 100%  🔴
+   6. St. Johnstone                     1  🟢 100%
+   7. Aberdeen                          0
    8. Dundee FC                         0  🔴
    9. Dundee United                     0  🔴
   10. Heart of Midlothian               0
@@ -1345,14 +1345,14 @@ RITARDI 1X + GOAL
 RITARDI X2 + GOAL
    1. Motherwell                        6  🟢 83%
    2. St. Mirren                        5  🟢 80%
-   3. Celtic                            4  🟢 50%
-   4. Aberdeen                          3  🟢 67%
-   5. Kilmarnock                        3  🟢 100%
-   6. Heart of Midlothian               2  🟢 100%
-   7. Dundee FC                         1  🟢 100%  🔴
-   8. Dundee United                     1  🟢 100%
-   9. Falkirk                           1  🟢 100%
-  10. Rangers                           1  🟢 100%  🔴
+   3. Aberdeen                          3  🟢 67%
+   4. Kilmarnock                        3  🟢 100%
+   5. Heart of Midlothian               2  🟢 100%
+   6. Dundee FC                         1  🟢 100%  🔴
+   7. Dundee United                     1  🟢 100%
+   8. Falkirk                           1  🟢 100%
+   9. Rangers                           1  🟢 100%  🔴
+  10. St. Johnstone                     1  🟢 100%
 
 RITARDI 12 + GOAL
    1. St. Johnstone                     5  🟢 60%
