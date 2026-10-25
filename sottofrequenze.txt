@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 25/10/2026 12:19 (ora italiana)
+Aggiornato: 25/10/2026 13:22 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1028,8 +1028,8 @@ SLOVACCHIA - 2. LIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 Považská Bystrica              56/100
     2/12 Liptovský Mikuláš              51/100
-    3/12 Slovan Bratislava B            46/100
-    4/12 Inter Bratislava               45/100
+    3/12 Slovan Bratislava B            47/100
+    4/12 Inter Bratislava               46/100
     5/12 FK Pohronie                    45/100
      ...
    12/12 FC Petržalka 1898              34/100  (la fa meno spesso)
@@ -1039,8 +1039,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/12 FC STK 1914 Šamorín            37/100
     3/12 Liptovský Mikuláš              33/100
     4/12 Zlaté Moravce                  32/100
-    5/12 Slovan Bratislava B            31/100
-    6/12 MFK Zvolen                     31/100
+    5/12 Slovan Bratislava B            32/100
      ...
    12/12 Tatran Prešov                  25/100  (la fa meno spesso)
 
