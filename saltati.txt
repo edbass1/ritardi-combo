@@ -1,6 +1,7 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 25/10/2026 16:19 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 25/10/2026 17:20 (ora italiana). Dal più recente. Fonte: FotMob
 
+25/10 15:00  [GOAL] Helsingborg: 1X + GOAL uscita, era a 6  -  Helsingborg 1-1 Ljungskile   [SVEZIA - SUPERETTAN]
 25/10 14:30  [GOAL] Lyn: 1X + GOAL uscita, era a 6  -  Sandnes Ulf 2-1 Lyn   [NORVEGIA - OBOS-LIGAEN]
 25/10 14:00  [GOAL] GAIS: X2 + GOAL uscita, era a 9  -  GAIS 1-1 IFK Göteborg   [SVEZIA - ALLSVENSKAN]
 25/10 13:30  [GOAL] Genk: 12 + GOAL uscita, era a 6  -  Genk 2-1 Standard Liège   [BELGIO - FIRST DIVISION A]
@@ -44,4 +45,3 @@ Aggiornato: 25/10/2026 16:19 (ora italiana). Dal più recente. Fonte: FotMob
 19/10 19:00  [GOAL] Degerfors: 12 + GOAL uscita, era a 7  -  Degerfors 1-2 Kalmar FF   [SVEZIA - ALLSVENSKAN]
 19/10 19:00  [GOAL] Kalmar FF: X2 + GOAL uscita, era a 8  -  Degerfors 1-2 Kalmar FF   [SVEZIA - ALLSVENSKAN]
 19/10 19:00  [GOAL] Kalmar FF: 12 + GOAL uscita, era a 7  -  Degerfors 1-2 Kalmar FF   [SVEZIA - ALLSVENSKAN]
-18/10 18:00  [GOAL] FC København: X2 + GOAL uscita, era a 8  -  FC København 1-1 AGF   [DANIMARCA - SUPERLIGAEN]

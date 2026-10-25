@@ -1,29 +1,13 @@
 TIPS DEL GIORNO - 25/10/2026
-Aggiornato: 25/10/2026 16:19 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 25/10/2026 17:20 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 17:15  Toulouse vs Troyes   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 85.5  (R+30 C+10 F+7.7 G+7.2 A+5.7 E+0 S+25)
-    Troyes non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Troyes è in sottofrequenza (30/100), deve recuperare; anche Toulouse è in sottofrequenza su questa combo (32/100), deve recuperare; nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 18:30  Gent vs Anderlecht   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
+ 1. 18:30  Gent vs Anderlecht   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
     1X + GOAL  -  punteggio 54.6  (R+26.2 C+5 F+6.2 G+0 A+2.2 E+0 S+15)
     Anderlecht non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 0), tra i 3 ritardi più lunghi del campionato. Inoltre Anderlecht è in sottofrequenza (31/100), deve recuperare.
 
- 3. 17:15  Marseille vs Le Havre   [FRANCIA - LIGUE 1]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 44.5  (R+30 C+10 F-2.3 G+7.2 A-0.3 E+0 S+0)
-    Marseille non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 4. 19:30  Waldhof Mannheim vs Hoffenheim II   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]
+ 2. 19:30  Waldhof Mannheim vs Hoffenheim II   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]
     1X + GOAL  -  punteggio 43.4  (R+30 C+10 F-5.4 G+4.2 A+4.6 E+0 S+0)
     Waldhof Mannheim non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Waldhof Mannheim la fa già più della media (48% vs 43%).
-
- 5. 17:00  Moss vs Åsane   [NORVEGIA - OBOS-LIGAEN]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 42.4  (R+30 C+10 F-0.8 G+5 A-1.8 E+0 S+0)
-    Moss non fa 1X + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 75% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 6. 17:00  TS Podbeskidzie Bielsko-Biała vs Stal Rzeszów   [POLONIA - I LIGA]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 40.2  (R+30 C+10 F+3.3 G+4.6 A-7.7 E+0 S+0)
-    TS Podbeskidzie Bielsko-Biała non fa 12 + GOAL da 11 partite (ritardo massimo del campionato 11, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 73% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Stal Rzeszów la fa già spesso (46/100).
 
 
 REGOLE DEL PUNTEGGIO
