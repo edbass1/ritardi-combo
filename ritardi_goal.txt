@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 20:19 (ora italiana)
+Aggiornato: 25/10/2026 21:15 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -448,7 +448,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
+Stagione 2026/2027 (97 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Elche                             5  🟢 60%  🔴
@@ -469,10 +469,10 @@ RITARDI X2 + GOAL
    4. Real Madrid                       3  🟢 67%
    5. Atlético Madrid                   2
    6. Espanyol                          2  🟢 50%
-   7. Osasuna                           2  🟢 100%
-   8. Racing Santander                  2  🟢 100%
-   9. Deportivo A Coruña                1  🔴
-  10. Getafe                            1  🟢 100%
+   7. Levante                           2  🟢 100%
+   8. Osasuna                           2  🟢 100%
+   9. Racing Santander                  2  🟢 100%
+  10. Deportivo A Coruña                1  🔴
 
 RITARDI 12 + GOAL
    1. Getafe                           12  🟢 50%
@@ -488,34 +488,34 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (119 partite giocate) + 2025/2026
+Stagione 2026/2027 (120 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. FC Andorra                        8  🟢 50%
-   2. Burgos CF                         2
-   3. Castellón                         2  🟢 50%
+   2. Castellón                         3  🟢 67%
+   3. Burgos CF                         2
    4. Córdoba                           2  🟢 50%
    5. Eldense                           2  🟢 100%
    6. Las Palmas                        2  🟢 50%
    7. Real Sociedad B                   2  🟢 50%
    8. Albacete                          1  🟢 100%
    9. Eibar                             1  🟢 100%
-  10. AD Ceuta FC                       0  🔴
+  10. Sporting Gijón                    1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Córdoba                           5  🟢 80%  🔴
-   2. Burgos CF                         4
-   3. Cádiz                             4  🟢 75%
-   4. Sporting Gijón                    4  🟢 75%
+   2. Sporting Gijón                    5  🟢 80%
+   3. Burgos CF                         4
+   4. Cádiz                             4  🟢 75%
    5. Albacete                          3  🟢 100%
-   6. FC Andorra                        3
-   7. Granada                           3  🟢 67%
-   8. Las Palmas                        3  🟢 67%  🔴
-   9. Castellón                         2  🟢 50%  🔴
+   6. Castellón                         3  🟢 67%
+   7. FC Andorra                        3
+   8. Granada                           3  🟢 67%
+   9. Las Palmas                        3  🟢 67%  🔴
   10. Girona                            2  🟢 100%  🔴
 
 RITARDI 12 + GOAL
-   1. Castellón                         5  🟢 80%  🔴
+   1. Castellón                         6  🟢 83%  🔴
    2. Leganés                           5  🟢 80%
    3. FC Andorra                        3
    4. Tenerife                          3  🟢 100%
@@ -528,17 +528,17 @@ RITARDI 12 + GOAL
 
 ==================================================
 BELGIO - FIRST DIVISION A
-Stagione 2026/2027 (78 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Kortrijk                         8+  🟢 75%
-   2. Anderlecht                        7
+   1. Anderlecht                        8  🟢 50%
+   2. Kortrijk                         8+  🟢 75%
    3. RAAL La Louvière                  5  🟢 100%
    4. Zulte Waregem                     5  🟢 80%
-   5. Sporting Charleroi                2  🟢 50%
-   6. Cercle Brugge                     1  🟢 100%  🔴
-   7. Gent                              1  🟢 100%
-   8. Royal Antwerp                     1  🟢 100%
+   5. Gent                              2  🟢 100%
+   6. Sporting Charleroi                2  🟢 50%
+   7. Royal Antwerp                     1  🟢 100%
+   8. Cercle Brugge                     0  🔴
    9. Club Brugge                       0
   10. Genk                              0
 
@@ -551,16 +551,16 @@ RITARDI X2 + GOAL
    6. KV Mechelen                       4  🟢 50%  🔴
    7. Sporting Charleroi                4  🟢 50%
    8. Genk                              3  🟢 100%
-   9. Gent                              2  🟢 100%
-  10. Club Brugge                       1  🟢 100%
+   9. Gent                              3  🟢 100%
+  10. Anderlecht                        1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Zulte Waregem                     8  🟢 75%  🔴
    2. OH Leuven                         6  🟢 83%
    3. Kortrijk                          5  🟢 60%
-   4. Union St.Gilloise                 3  🟢 100%
+   4. Gent                              2  🟢 100%
    5. Sporting Charleroi                2  🟢 50%
-   6. Gent                              1  🟢 100%
+   6. Anderlecht                        1  🟢 100%
    7. Lommel                            1  🟢 100%
    8. RAAL La Louvière                  1  🟢 100%
    9. Royal Antwerp                     1  🟢 100%
@@ -568,19 +568,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 BELGIO - FIRST DIVISION B
-Stagione 2026/2027 (53 partite giocate) + 2025/2026
+Stagione 2026/2027 (54 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. FCV Dender EH                    7+  🟢 57%
    2. Sporting Hasselt                 7+  🟢 57%
-   3. Patro Eisden                      3
+   3. Patro Eisden                      4  🟢 50%
    4. Club Brugge NXT                   2  🟢 50%
    5. Eupen                             2  🟢 100%
-   6. Genk U23                          2  🔴
+   6. Genk U23                          2
    7. Anderlecht Futures                1  🟢 100%  🔴
    8. Beerschot                         1  🟢 100%
-   9. Francs Borains                    1  🟢 100%
-  10. Gent U23                          1  🟢 100%
+   9. FC Liège                          1  🟢 100%  🔴
+  10. Francs Borains                    1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Francs Borains                    5  🟢 60%
@@ -588,23 +588,23 @@ RITARDI X2 + GOAL
    3. K. Lierse SK                      3  🟢 67%
    4. Anderlecht Futures                2  🟢 100%  🔴
    5. Club Brugge NXT                   2  🟢 50%
-   6. FC Liège                          2  🟢 100%
-   7. Genk U23                          2  🔴
-   8. Gent U23                          2  🟢 100%
-   9. Patro Eisden                      2
-  10. RFC Seraing                       2  🟢 100%  🔴
+   6. Genk U23                          2  🔴
+   7. Gent U23                          2  🟢 100%
+   8. RFC Seraing                       2  🟢 100%  🔴
+   9. KSC Lokeren                       1  🟢 100%
+  10. Virton                            1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Club Brugge NXT                   5  🟢 60%
    2. Genk U23                          5  🟢 60%  🔴
    3. FCV Dender EH                     4  🟢 50%
    4. KSC Lokeren                       2  🟢 100%
-   5. Patro Eisden                      2
-   6. Anderlecht Futures                1  🟢 100%
-   7. Francs Borains                    1  🟢 100%
-   8. Gent U23                          1  🟢 100%
-   9. K. Lierse SK                      1  🟢 100%  🔴
-  10. Beerschot                         0  🔴
+   5. Anderlecht Futures                1  🟢 100%
+   6. Francs Borains                    1  🟢 100%
+   7. Gent U23                          1  🟢 100%
+   8. K. Lierse SK                      1  🟢 100%  🔴
+   9. Beerschot                         0  🔴
+  10. Eupen                             0
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -848,28 +848,28 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (77 partite giocate) + 2025/2026
+Stagione 2026/2027 (79 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Casa Pia AC                       9  🟢 56%
    2. Alverca                           5  🟢 60%  🔴
-   3. Braga                             4  🟢 50%
+   3. Braga                             5
    4. Santa Clara                       4  🟢 50%
    5. Estrela da Amadora                3  🟢 67%
-   6. Gil Vicente                       3
-   7. Arouca                            2
-   8. FC Porto                          2  🟢 50%
-   9. Famalicão                         2  🟢 100%
+   6. Famalicão                         3  🟢 100%
+   7. Gil Vicente                       3
+   8. Arouca                            2
+   9. FC Porto                          2  🟢 50%
   10. Marítimo                          2  🟢 100%
 
 RITARDI X2 + GOAL
    1. Benfica                           7  🟢 100%
    2. Académico Viseu                   5  🟢 80%
    3. Estrela da Amadora                3  🟢 67%
-   4. Arouca                            2
-   5. Casa Pia AC                       2  🟢 50%
-   6. Nacional                          2  🟢 100%
-   7. Rio Ave                           2  🟢 50%  🔴
+   4. Nacional                          3  🟢 67%
+   5. Rio Ave                           3  🟢 67%  🔴
+   6. Arouca                            2
+   7. Casa Pia AC                       2  🟢 50%
    8. Santa Clara                       2
    9. Vitória de Guimarães              2  🟢 100%
   10. Alverca                           1  🔴
@@ -882,9 +882,9 @@ RITARDI 12 + GOAL
    5. Santa Clara                       2
    6. Alverca                           1
    7. Benfica                           1  🟢 100%
-   8. FC Porto                          1
-   9. Gil Vicente                       1
-  10. Marítimo                          1  🟢 100%
+   8. Braga                             1
+   9. FC Porto                          1
+  10. Famalicão                         1  🟢 100%
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -928,7 +928,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - ELITESERIEN
-Stagione 2026 (191 partite giocate) + 2025
+Stagione 2026 (192 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Hamarkameratene                   3  🟢 100%
@@ -947,12 +947,12 @@ RITARDI X2 + GOAL
    2. Brann                             5  🟢 100%
    3. Viking                            5  🟢 100%
    4. Vålerenga                         3  🟢 67%
-   5. Hamarkameratene                   2  🟢 100%
-   6. Lillestrøm                        2  🟢 100%
-   7. Rosenborg                         2  🟢 100%
-   8. Sandefjord                        2  🟢 50%
-   9. Sarpsborg 08                      2  🟢 100%  🔴
-  10. Start                             2  🟢 50%
+   5. Fredrikstad                       2  🟢 100%
+   6. Hamarkameratene                   2  🟢 100%
+   7. Lillestrøm                        2  🟢 100%
+   8. Molde                             2  🟢 100%
+   9. Rosenborg                         2  🟢 100%
+  10. Sandefjord                        2  🟢 50%
 
 RITARDI 12 + GOAL
    1. Sandefjord                        4  🟢 75%

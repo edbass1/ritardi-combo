@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 25/10/2026 20:19 (ora italiana)
+Aggiornato: 25/10/2026 21:15 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -393,7 +393,6 @@ SOTTOFREQUENZA 1X + GOAL
     3/22 Celta Fortuna                  45/100
     4/22 Girona                         44/100
     5/22 Córdoba                        44/100
-    6/22 Castellón                      44/100
      ...
    22/22 Real Oviedo                    29/100  (la fa meno spesso)
 
@@ -402,15 +401,18 @@ SOTTOFREQUENZA X2 + GOAL
     2/22 Las Palmas                     36/100
     3/22 Girona                         35/100
     4/22 Eldense                        35/100
-    5/22 Castellón                      35/100
+    5/22 Celta Fortuna                  34/100
+    6/22 Castellón                      34/100
+    7/22 Almería                        34/100
+    8/22 Albacete                       34/100
      ...
    22/22 Real Valladolid                22/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/22 Almería                        49/100
     2/22 Córdoba                        46/100
-    3/22 Sporting Gijón                 43/100
-    4/22 Castellón                      43/100
+    3/22 Castellón                      43/100
+    4/22 Sporting Gijón                 42/100
     5/22 Celta Fortuna                  41/100
      ...
    22/22 Tenerife                       21/100  (la fa meno spesso)
@@ -429,7 +431,7 @@ SOTTOFREQUENZA 1X + GOAL
    17/17 Standard Liège                 30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/17 Cercle Brugge                  47/100
+    1/17 Cercle Brugge                  46/100
     2/17 Lommel                         41/100
     3/17 KV Mechelen                    40/100
     4/17 Westerlo                       39/100
@@ -444,8 +446,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/17 Club Brugge                    44/100
     2/17 Zulte Waregem                  41/100
     3/17 St.Truiden                     41/100
-    4/17 Genk                           38/100
-    5/17 Cercle Brugge                  38/100
+    4/17 Cercle Brugge                  39/100
+    5/17 Genk                           38/100
      ...
    17/17 OH Leuven                      24/100  (la fa meno spesso)
 
@@ -453,33 +455,32 @@ SOTTOFREQUENZA 12 + GOAL
 BELGIO - FIRST DIVISION B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/10 Anderlecht Futures             44/100
-    2/10 RFC Seraing                    43/100
-    3/10 Genk U23                       42/100
-    4/10 K. Lierse SK                   40/100
-    5/10 Virton                         39/100
-    6/10 Club Brugge NXT                39/100
+    1/11 Anderlecht Futures             44/100
+    2/11 RFC Seraing                    43/100
+    3/11 FC Liège                       43/100
+    4/11 Genk U23                       42/100
+    5/11 K. Lierse SK                   40/100
      ...
-   10/10 FCV Dender EH                  36/100  (la fa meno spesso)
+   11/11 Patro Eisden                   35/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/10 RFC Seraing                    43/100
-    2/10 Genk U23                       42/100
-    3/10 Anderlecht Futures             41/100
-    4/10 K. Lierse SK                   35/100
-    5/10 FCV Dender EH                  33/100
-    6/10 Club Brugge NXT                33/100
+    1/11 RFC Seraing                    43/100
+    2/11 Genk U23                       42/100
+    3/11 Anderlecht Futures             41/100
+    4/11 K. Lierse SK                   35/100
+    5/11 FCV Dender EH                  33/100
+    6/11 Club Brugge NXT                33/100
      ...
-   10/10 Beerschot                      29/100  (la fa meno spesso)
+   11/11 FC Liège                       28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 Genk U23                       46/100
-    2/10 K. Lierse SK                   41/100
-    3/10 Beerschot                      41/100
-    4/10 Club Brugge NXT                40/100
-    5/10 FCV Dender EH                  39/100
+    1/11 Genk U23                       46/100
+    2/11 FC Liège                       43/100
+    3/11 K. Lierse SK                   41/100
+    4/11 Beerschot                      41/100
+    5/11 Club Brugge NXT                40/100
      ...
-   10/10 Virton                         33/100  (la fa meno spesso)
+   11/11 Virton                         33/100  (la fa meno spesso)
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -681,7 +682,7 @@ SOTTOFREQUENZA 12 + GOAL
 PORTOGALLO - LIGA PORTUGAL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Rio Ave                        46/100
+    1/18 Rio Ave                        45/100
     2/18 Alverca                        44/100
     3/18 Académico Viseu                44/100
     4/18 Estoril                        41/100
@@ -691,7 +692,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Santa Clara                    27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Rio Ave                        41/100
+    1/18 Rio Ave                        40/100
     2/18 Marítimo                       40/100
     3/18 Alverca                        38/100
     4/18 Estoril                        37/100
@@ -765,7 +766,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/16 Viking                         49/100
     3/16 Vålerenga                      47/100
     4/16 Sarpsborg 08                   47/100
-    5/16 Molde                          45/100
+    5/16 Molde                          46/100
      ...
    16/16 Hamarkameratene                28/100  (la fa meno spesso)
 
