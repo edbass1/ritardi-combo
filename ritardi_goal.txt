@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 21:15 (ora italiana)
+Aggiornato: 25/10/2026 22:23 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -328,31 +328,31 @@ RITARDI 12 + GOAL
 
 ==================================================
 GERMANIA - 3. LIGA
-Stagione 2026/2027 (109 partite giocate) + 2025/2026
+Stagione 2026/2027 (110 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Waldhof Mannheim                  7  🟢 71%  🔴
-   2. Alemannia Aachen                  6  🟢 67%
-   3. Fortuna Köln                      6  🟢 50%
-   4. RW Essen                          3
-   5. Jahn Regensburg                   2
-   6. VfB Stuttgart II                  2  🟢 50%  🔴
-   7. Würzburger Kickers                2  🟢 100%
-   8. Meppen                            1  🟢 100%
-   9. Preussen Münster                  1
-  10. Fortuna Düsseldorf                0
+   1. Alemannia Aachen                  6  🟢 67%
+   2. Fortuna Köln                      6  🟢 50%
+   3. RW Essen                          3
+   4. Jahn Regensburg                   2
+   5. VfB Stuttgart II                  2  🟢 50%  🔴
+   6. Würzburger Kickers                2  🟢 100%
+   7. Meppen                            1  🟢 100%
+   8. Preussen Münster                  1
+   9. Fortuna Düsseldorf                0
+  10. Hansa Rostock                     0
 
 RITARDI X2 + GOAL
-   1. Fortuna Köln                      4
-   2. Hoffenheim II                     4  🟢 75%
+   1. Hoffenheim II                     5  🟢 80%
+   2. Fortuna Köln                      4
    3. Ingolstadt                        3  🟢 67%  🔴
    4. RW Essen                          3  🔴
-   5. Wehen Wiesbaden                   3  🟢 67%
-   6. Jahn Regensburg                   2
-   7. Preussen Münster                  2  🟢 50%  🔴
-   8. SC Verl                           2  🟢 100%  🔴
-   9. Sonnenhof Großaspach              2  🟢 100%
-  10. Waldhof Mannheim                  2  🟢 100%
+   5. Waldhof Mannheim                  3  🟢 100%
+   6. Wehen Wiesbaden                   3  🟢 67%
+   7. Jahn Regensburg                   2
+   8. Preussen Münster                  2  🟢 50%  🔴
+   9. SC Verl                           2  🟢 100%  🔴
+  10. Sonnenhof Großaspach              2  🟢 100%
 
 RITARDI 12 + GOAL
    1. Hansa Rostock                     5  🟢 100%
@@ -361,10 +361,10 @@ RITARDI 12 + GOAL
    4. RW Essen                          5  🟢 60%
    5. Fortuna Köln                      4
    6. Würzburger Kickers                4  🟢 100%
-   7. Waldhof Mannheim                  2  🟢 100%
-   8. Fortuna Düsseldorf                1  🟢 100%
-   9. Preussen Münster                  1
-  10. Alemannia Aachen                  0
+   7. Fortuna Düsseldorf                1  🟢 100%
+   8. Preussen Münster                  1
+   9. Alemannia Aachen                  0
+  10. Hoffenheim II                     0  🔴
 
 ==================================================
 FRANCIA - LIGUE 1
@@ -608,43 +608,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 OLANDA - EREDIVISIE
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. SC Heerenveen                     6  🟢 83%
    2. Excelsior                         3  🟢 67%
    3. Ajax                              2  🟢 100%  🔴
-   4. ADO Den Haag                      1  🟢 100%
-   5. Cambuur                           1  🟢 100%
-   6. FC Twente                         1  🟢 100%  🔴
-   7. Fortuna Sittard                   1
-   8. Sparta Rotterdam                  1  🟢 100%
-   9. Willem II                         1  🟢 100%
-  10. AZ Alkmaar                        0
+   4. FC Twente                         2  🟢 100%  🔴
+   5. ADO Den Haag                      1  🟢 100%
+   6. AZ Alkmaar                        1  🟢 100%
+   7. Cambuur                           1  🟢 100%
+   8. Fortuna Sittard                   1
+   9. Sparta Rotterdam                  1  🟢 100%
+  10. Willem II                         1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Excelsior                         2  🟢 50%
    2. Go Ahead Eagles                   2  🟢 100%
-   3. Fortuna Sittard                   1
-   4. Telstar                           1  🟢 100%
-   5. ADO Den Haag                      0
-   6. AZ Alkmaar                        0
-   7. Ajax                              0  🔴
-   8. Cambuur                           0
-   9. FC Groningen                      0
-  10. FC Twente                         0
+   3. AZ Alkmaar                        1  🟢 100%
+   4. FC Twente                         1  🟢 100%
+   5. Fortuna Sittard                   1
+   6. Telstar                           1  🟢 100%
+   7. ADO Den Haag                      0
+   8. Ajax                              0  🔴
+   9. Cambuur                           0
+  10. FC Groningen                      0
 
 RITARDI 12 + GOAL
    1. NEC Nijmegen                      6  🟢 100%  🔴
-   2. AZ Alkmaar                        4  🟢 75%
+   2. AZ Alkmaar                        5  🟢 80%
    3. Fortuna Sittard                   4  🟢 50%
    4. Excelsior                         2  🟢 50%  🔴
    5. FC Groningen                      1  🟢 100%
-   6. FC Utrecht                        1  🟢 100%  🔴
-   7. Feyenoord                         1  🟢 100%  🔴
-   8. PEC Zwolle                        1  🟢 100%
-   9. PSV Eindhoven                     1  🟢 100%  🔴
-  10. ADO Den Haag                      0  🔴
+   6. FC Twente                         1  🟢 100%
+   7. FC Utrecht                        1  🟢 100%  🔴
+   8. Feyenoord                         1  🟢 100%  🔴
+   9. PEC Zwolle                        1  🟢 100%
+  10. PSV Eindhoven                     1  🟢 100%  🔴
 
 ==================================================
 OLANDA - EERSTE DIVISIE

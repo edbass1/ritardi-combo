@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 25/10/2026 21:15 (ora italiana)
+Aggiornato: 25/10/2026 22:23 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -283,8 +283,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 TSV Havelse                    49/100
     2/20 VfB Stuttgart II               48/100
-    3/20 MSV Duisburg                   47/100
-    4/20 Hoffenheim II                  47/100
+    3/20 Hoffenheim II                  48/100
+    4/20 MSV Duisburg                   47/100
     5/20 Viktoria Köln 1904             44/100
     6/20 Alemannia Aachen               44/100
      ...
