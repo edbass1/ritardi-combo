@@ -1,5 +1,5 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 25/10/2026 11:43 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 25/10/2026 12:19 (ora italiana). Dal più recente. Fonte: FotMob
 
 24/10 20:45  [GOAL] SK Beveren: 1X + GOAL uscita, era a 7  -  Westerlo 4-4 SK Beveren   [BELGIO - FIRST DIVISION A]
 24/10 18:15  [GOAL] Lommel: 1X + GOAL uscita, era a 7  -  OH Leuven 2-2 Lommel   [BELGIO - FIRST DIVISION A]
@@ -45,4 +45,3 @@ Aggiornato: 25/10/2026 11:43 (ora italiana). Dal più recente. Fonte: FotMob
 18/10 16:15  [GOAL] Celta Vigo: 12 + GOAL uscita, era a 6  -  Celta Vigo 2-1 Deportivo Alavés   [SPAGNA - LALIGA]
 18/10 14:00  [GOAL] Real Oviedo: X2 + GOAL uscita, era a 9  -  AD Ceuta FC 1-2 Real Oviedo   [SPAGNA - LALIGA 2]
 18/10 14:00  [GOAL] Sirius: 1X + GOAL uscita, era a 6  -  Sirius 2-2 Elfsborg   [SVEZIA - ALLSVENSKAN]
-18/10 13:00  [GOAL] FC Zbrojovka Brno: X2 + GOAL uscita, era a 8  -  Slovácko 1-2 FC Zbrojovka Brno   [REP. CECA - 1. LIGA]

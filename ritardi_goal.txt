@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 11:43 (ora italiana)
+Aggiornato: 25/10/2026 12:19 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1208,7 +1208,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (95 partite giocate) + 2025/2026
+Stagione 2026/2027 (96 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. FC Vlašim                         3  🟢 67%  🔴
@@ -1224,27 +1224,27 @@ RITARDI 1X + GOAL
 
 RITARDI X2 + GOAL
    1. FC Vlašim                         7  🟢 86%  🔴
-   2. Slavia Prague B                   4  🟢 75%
+   2. Slavia Prague B                   5  🟢 80%
    3. Hanácká Slavia Kromeriz           2  🟢 50%
-   4. Vysočina Jihlava                  1  🟢 100%
-   5. Žižkov                            1  🟢 100%
-   6. Baník Ostrava B                   0
-   7. Dukla Praha                       0
-   8. FC Silon Táborsko                 0
-   9. Karviná                           0  🔴
-  10. Kladno                            0
+   4. SK Prostějov                      1  🟢 100%  🔴
+   5. Vysočina Jihlava                  1  🟢 100%
+   6. Žižkov                            1  🟢 100%
+   7. Baník Ostrava B                   0
+   8. Dukla Praha                       0
+   9. FC Silon Táborsko                 0
+  10. Karviná                           0  🔴
 
 RITARDI 12 + GOAL
-   1. SK Prostějov                      5  🟢 80%  🔴
-   2. FC Silon Táborsko                 3  🟢 67%
-   3. FC Vlašim                         3  🟢 67%
-   4. Dukla Praha                       2  🟢 100%
-   5. Baník Ostrava B                   1  🟢 100%
-   6. Kladno                            1  🟢 100%
-   7. Opava                             1  🟢 100%
-   8. Příbram                           1  🟢 100%
-   9. Třinec                            1  🟢 100%
-  10. Vysočina Jihlava                  1  🟢 100%
+   1. FC Silon Táborsko                 3  🟢 67%
+   2. FC Vlašim                         3  🟢 67%
+   3. Dukla Praha                       2  🟢 100%
+   4. Baník Ostrava B                   1  🟢 100%
+   5. Kladno                            1  🟢 100%
+   6. Opava                             1  🟢 100%
+   7. Příbram                           1  🟢 100%
+   8. Třinec                            1  🟢 100%
+   9. Vysočina Jihlava                  1  🟢 100%
+  10. Česká Lípa                        1  🟢 100%
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -1288,43 +1288,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (109 partite giocate) + 2025/2026
+Stagione 2026/2027 (111 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Baník Lehota pod Vtacnikom        3
-   2. Malženice                         2  🟢 50%
+   2. Malženice                         3  🟢 67%
    3. FC Petržalka 1898                 1
    4. MFK Bytca                         1  🟢 100%
    5. Tatran Prešov                     1  🟢 100%
-   6. FC STK 1914 Šamorín               0
-   7. FK Pohronie                       0
-   8. Humenné                           0
-   9. Inter Bratislava                  0
-  10. Liptovský Mikuláš                 0  🔴
+   6. Zlaté Moravce                     1  🟢 100%
+   7. FC STK 1914 Šamorín               0
+   8. FK Pohronie                       0
+   9. Humenné                           0
+  10. Inter Bratislava                  0
 
 RITARDI X2 + GOAL
-   1. Baník Lehota pod Vtacnikom        4
-   2. Liptovský Mikuláš                 4  🟢 75%  🔴
-   3. MFK Zvolen                        4  🟢 75%
+   1. MFK Zvolen                        5  🟢 80%
+   2. Baník Lehota pod Vtacnikom        4
+   3. Liptovský Mikuláš                 4  🟢 75%  🔴
    4. MFK Bytca                         3  🟢 100%
    5. FK Pohronie                       2  🟢 50%
-   6. Považská Bystrica                 2  🟢 100%  🔴
-   7. FC Petržalka 1898                 1
-   8. FC STK 1914 Šamorín               1  🟢 100%  🔴
-   9. Malženice                         1
-  10. Tatran Prešov                     1  🟢 100%
+   6. Malženice                         2  🟢 50%
+   7. Považská Bystrica                 2  🟢 100%  🔴
+   8. Zlaté Moravce                     2  🟢 100%
+   9. FC Petržalka 1898                 1
+  10. FC STK 1914 Šamorín               1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. FC Petržalka 1898                10  🟢 60%
    2. Slovan Bratislava B               4  🟢 100%
    3. Baník Lehota pod Vtacnikom        3
    4. Tatran Prešov                     3  🟢 100%
-   5. Humenné                           1  🟢 100%
-   6. Inter Bratislava                  1  🟢 100%
-   7. MFK Bytca                         1  🟢 100%
-   8. Malženice                         1
+   5. Malženice                         2  🟢 50%
+   6. Humenné                           1  🟢 100%
+   7. Inter Bratislava                  1  🟢 100%
+   8. MFK Bytca                         1  🟢 100%
    9. Slovan Galanta                    1  🟢 100%
-  10. Žilina B                          1  🟢 100%  🔴
+  10. Zlaté Moravce                     1  🟢 100%
 
 ==================================================
 SCOZIA - PREMIERSHIP
