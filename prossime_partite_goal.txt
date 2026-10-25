@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 25/10/2026 15:19 (ora italiana)
+Aggiornato: 25/10/2026 16:19 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 25/10/2026
 ==================================================
-16:00  Eupen vs Beerschot   [BELGIO - FIRST DIVISION B]
-      Beerschot: X2 + GOAL (7) 🟢 71%
 17:00  Moss vs Åsane   [NORVEGIA - OBOS-LIGAEN]
       Moss: 1X + GOAL (8) 🟢 75%
 17:00  TS Podbeskidzie Bielsko-Biała vs Stal Rzeszów   [POLONIA - I LIGA]
@@ -81,7 +79,6 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 17:00  FC Inter Turku vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
       FC Inter Turku: 1X + GOAL (6)
 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      KuPS: 12 + GOAL (7)
+      KuPS: 12 + GOAL (8) 🟢 50%
 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]
       Kalmar FF: 1X + GOAL (9)
-      GAIS: X2 + GOAL (9) 🟢 67%
