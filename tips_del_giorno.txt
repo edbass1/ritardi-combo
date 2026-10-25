@@ -1,10 +1,7 @@
 TIPS DEL GIORNO - 25/10/2026
-Aggiornato: 25/10/2026 19:19 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 25/10/2026 20:19 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 19:30  Waldhof Mannheim vs Hoffenheim II   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 43.3  (R+30 C+10 F-5.4 G+4.2 A+4.5 E+0 S+0)
-    Waldhof Mannheim non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Waldhof Mannheim la fa già più della media (48% vs 43%).
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.

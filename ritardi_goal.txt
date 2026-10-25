@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 19:19 (ora italiana)
+Aggiornato: 25/10/2026 20:19 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8,16 +8,16 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (78 partite giocate) + 2025/2026
+Stagione 2026/2027 (79 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              4  🟢 75%
-   2. Bologna                           3  🟢 100%
-   3. Lecce                             3  🟢 100%
+   2. Lecce                             4  🟢 100%
+   3. Bologna                           3  🟢 100%
    4. Cagliari                          2  🟢 100%
    5. Genoa                             2  🟢 50%
-   6. Venezia                           2  🔴
-   7. Juventus                          1  🟢 100%  🔴
+   6. Juventus                          2  🟢 100%
+   7. Venezia                           2  🔴
    8. Sassuolo                          1  🟢 100%  🔴
    9. Udinese                           1  🟢 100%
   10. Atalanta                          0  🔴
@@ -31,20 +31,20 @@ RITARDI X2 + GOAL
    6. Venezia                           4  🟢 50%
    7. Torino                            3  🟢 100%
    8. Cagliari                          2  🟢 100%
-   9. Sassuolo                          2  🟢 100%
-  10. Bologna                           1  🟢 100%  🔴
+   9. Juventus                          2  🟢 100%
+  10. Lecce                             2  🟢 100%
 
 RITARDI 12 + GOAL
    1. Napoli                            5  🟢 60%
    2. Roma                              5  🟢 80%
    3. Cagliari                          4  🟢 75%
-   4. Juventus                          3  🟢 100%
+   4. Juventus                          4  🟢 100%
    5. Genoa                             2  🟢 50%
-   6. Venezia                           2
-   7. Atalanta                          1  🟢 100%
-   8. Bologna                           1  🟢 100%
-   9. Como                              1  🟢 100%
-  10. Frosinone                         1  🟢 100%
+   6. Lecce                             2  🟢 100%
+   7. Venezia                           2
+   8. Atalanta                          1  🟢 100%
+   9. Bologna                           1  🟢 100%
+  10. Como                              1  🟢 100%
 
 ==================================================
 ITALIA - SERIE B
@@ -88,19 +88,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
-Stagione 2026/2027 (79 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Liverpool                         6  🟢 67%  🔴
    2. Brighton & Hove Albion            5  🟢 100%  🔴
-   3. AFC Bournemouth                   2  🟢 100%  🔴
-   4. Arsenal                           2  🟢 50%
-   5. Chelsea                           2  🟢 100%
-   6. Crystal Palace                    2  🟢 100%
-   7. Everton                           2  🟢 100%
-   8. Fulham                            2
-   9. Newcastle United                  2  🟢 50%
-  10. Sunderland                        2  🟢 100%
+   3. Sunderland                        3  🟢 67%
+   4. AFC Bournemouth                   2  🟢 100%  🔴
+   5. Arsenal                           2  🟢 50%
+   6. Chelsea                           2  🟢 100%
+   7. Crystal Palace                    2  🟢 100%
+   8. Everton                           2  🟢 100%
+   9. Fulham                            2
+  10. Newcastle United                  2  🟢 50%
 
 RITARDI X2 + GOAL
    1. Arsenal                           8  🟢 75%
@@ -108,10 +108,10 @@ RITARDI X2 + GOAL
    3. Manchester City                   6  🟢 67%
    4. Brighton & Hove Albion            5  🟢 100%
    5. Newcastle United                  5  🟢 80%
-   6. AFC Bournemouth                   4  🟢 75%  🔴
-   7. Chelsea                           4  🟢 100%  🔴
-   8. Crystal Palace                    4  🟢 75%
-   9. Sunderland                        4  🟢 100%
+   6. Sunderland                        5  🟢 80%
+   7. AFC Bournemouth                   4  🟢 75%  🔴
+   8. Chelsea                           4  🟢 100%  🔴
+   9. Crystal Palace                    4  🟢 75%
   10. Fulham                            3
 
 RITARDI 12 + GOAL
@@ -119,12 +119,12 @@ RITARDI 12 + GOAL
    2. Brighton & Hove Albion            6  🟢 100%
    3. Manchester United                 6  🟢 83%
    4. Hull City                         3  🟢 67%
-   5. AFC Bournemouth                   2  🟢 100%
-   6. Arsenal                           2  🟢 50%
-   7. Chelsea                           2  🟢 100%  🔴
-   8. Crystal Palace                    2  🟢 100%
-   9. Fulham                            2  🔴
-  10. Newcastle United                  2  🟢 50%  🔴
+   5. Sunderland                        3  🟢 67%
+   6. AFC Bournemouth                   2  🟢 100%
+   7. Arsenal                           2  🟢 50%
+   8. Chelsea                           2  🟢 100%  🔴
+   9. Crystal Palace                    2  🟢 100%
+  10. Fulham                            2  🔴
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -248,7 +248,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 GERMANIA - BUNDESLIGA
-Stagione 2026/2027 (62 partite giocate) + 2025/2026
+Stagione 2026/2027 (63 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Mainz 05                         11  🟢 82%
@@ -270,9 +270,9 @@ RITARDI X2 + GOAL
    5. Eintracht Frankfurt               3  🔴
    6. Bayer Leverkusen                  2  🟢 100%  🔴
    7. Borussia Dortmund                 2
-   8. Freiburg                          2  🟢 100%
-   9. Hamburger SV                      2
-  10. Bayern München                    1  🟢 100%
+   8. Hamburger SV                      2
+   9. Hoffenheim                        1  🟢 100%
+  10. Paderborn                         1
 
 RITARDI 12 + GOAL
    1. Borussia Dortmund                 5
@@ -1008,38 +1008,38 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
-Stagione 2026/2027 (70 partite giocate) + 2025/2026
+Stagione 2026/2027 (71 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Randers FC                        3  🟢 67%
-   2. Viborg                            2  🟢 100%  🔴
-   3. Brøndby IF                        1  🟢 100%
-   4. AC Horsens                        0
-   5. AGF                               0  🔴
-   6. FC København                      0
-   7. FC Midtjylland                    0  🔴
-   8. Lyngby                            0
-   9. Nordsjælland                      0
-  10. OB                                0
+   2. Brøndby IF                        1  🟢 100%
+   3. AC Horsens                        0
+   4. AGF                               0  🔴
+   5. FC København                      0
+   6. FC Midtjylland                    0  🔴
+   7. Lyngby                            0
+   8. Nordsjælland                      0
+   9. OB                                0
+  10. Silkeborg                         0
 
 RITARDI X2 + GOAL
    1. Sønderjyske                       4  🟢 100%
    2. AC Horsens                        2  🟢 50%
    3. OB                                2  🟢 50%  🔴
-   4. FC Midtjylland                    1  🟢 100%  🔴
-   5. Lyngby                            1  🟢 100%
-   6. AGF                               0  🔴
-   7. Brøndby IF                        0
-   8. FC København                      0
-   9. Nordsjælland                      0
-  10. Randers FC                        0
+   4. AGF                               1  🟢 100%  🔴
+   5. FC Midtjylland                    1  🟢 100%  🔴
+   6. Lyngby                            1  🟢 100%
+   7. Viborg                            1  🟢 100%
+   8. Brøndby IF                        0
+   9. FC København                      0
+  10. Nordsjælland                      0
 
 RITARDI 12 + GOAL
    1. Silkeborg                         7  🟢 100%
-   2. AGF                               6  🟢 100%
-   3. Nordsjælland                      3  🟢 67%
-   4. FC København                      1  🟢 100%  🔴
-   5. AC Horsens                        0
+   2. Nordsjælland                      3  🟢 67%
+   3. FC København                      1  🟢 100%  🔴
+   4. AC Horsens                        0
+   5. AGF                               0
    6. Brøndby IF                        0
    7. FC Midtjylland                    0  🔴
    8. Lyngby                            0
@@ -1168,31 +1168,31 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - 1. LIGA
-Stagione 2026/2027 (93 partite giocate) + 2025/2026
+Stagione 2026/2027 (94 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Slovan Liberec                    7  🟢 57%
    2. Hradec Králové                    6  🟢 67%
    3. Artis Brno                        3
    4. Jablonec                          3  🟢 67%
-   5. Baník Ostrava                     2
-   6. Pardubice                         2  🟢 100%
-   7. Teplice                           2
-   8. Viktoria Plzeň                    2  🟢 100%
+   5. Pardubice                         3  🟢 100%
+   6. Viktoria Plzeň                    3  🟢 100%
+   7. Baník Ostrava                     2
+   8. Teplice                           2
    9. Bohemians 1905                    0
   10. FC Zbrojovka Brno                 0  🔴
 
 RITARDI X2 + GOAL
    1. Sparta Prague                    27  🟢 85%
    2. Slovan Liberec                    4  🟢 50%
-   3. Pardubice                         3  🟢 100%
-   4. Baník Ostrava                     2
-   5. Teplice                           2  🔴
-   6. Artis Brno                        1  🔴
-   7. Slovácko                          1  🟢 100%
-   8. Bohemians 1905                    0  🔴
-   9. FC Zbrojovka Brno                 0
-  10. FC Zlín                           0
+   3. Baník Ostrava                     2
+   4. Teplice                           2  🔴
+   5. Artis Brno                        1  🔴
+   6. Slovácko                          1  🟢 100%
+   7. Bohemians 1905                    0  🔴
+   8. FC Zbrojovka Brno                 0
+   9. FC Zlín                           0
+  10. Hradec Králové                    0
 
 RITARDI 12 + GOAL
    1. Mladá Boleslav                    7  🟢 71%
@@ -1203,8 +1203,8 @@ RITARDI 12 + GOAL
    6. Baník Ostrava                     3
    7. Bohemians 1905                    3
    8. Slavia Prague                     3
-   9. Pardubice                         2  🟢 100%  🔴
-  10. Artis Brno                        1
+   9. Artis Brno                        1
+  10. FC Zbrojovka Brno                 1  🟢 100%
 
 ==================================================
 REP. CECA - FNL
@@ -1248,7 +1248,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
-Stagione 2026/2027 (69 partite giocate) + 2025/2026
+Stagione 2026/2027 (70 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Zeleziarne Podbrezová             4  🟢 50%
@@ -1257,10 +1257,10 @@ RITARDI 1X + GOAL
    4. Komárno                           2
    5. Ružomberok                        2  🟢 50%
    6. Zemplín Michalovce                1  🟢 100%  🔴
-   7. Žilina                            1  🟢 100%  🔴
-   8. Dukla Banská Bystrica             0
-   9. FC Košice                         0  🔴
-  10. Skalica                           0
+   7. Dukla Banská Bystrica             0
+   8. FC Košice                         0  🔴
+   9. Skalica                           0
+  10. Slovan Bratislava                 0
 
 RITARDI X2 + GOAL
    1. Trenčín                           4  🟢 50%
@@ -1277,14 +1277,14 @@ RITARDI X2 + GOAL
 RITARDI 12 + GOAL
    1. Ružomberok                        6  🟢 83%
    2. Dukla Banská Bystrica             4
-   3. Skalica                           4  🟢 75%
-   4. FC Košice                         3  🟢 100%  🔴
+   3. FC Košice                         4  🟢 100%  🔴
+   4. Skalica                           4  🟢 75%
    5. Komárno                           3
    6. Slovan Bratislava                 3  🟢 100%  🔴
    7. Trenčín                           3
    8. Spartak Trnava                    2  🟢 100%
    9. DAC 1904 Dunajska Streda          1  🟢 100%
-  10. Zeleziarne Podbrezová             0
+  10. Žilina                            1  🟢 100%  🔴
 
 ==================================================
 SLOVACCHIA - 2. LIGA
@@ -1568,7 +1568,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 POLONIA - EKSTRAKLASA
-Stagione 2026/2027 (105 partite giocate) + 2025/2026
+Stagione 2026/2027 (106 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Jagiellonia Białystok             5  🟢 60%
@@ -1576,11 +1576,11 @@ RITARDI 1X + GOAL
    3. GKS Katowice                      2
    4. Wieczysta Kraków                  2  🟢 100%
    5. Korona Kielce                     1
-   6. Śląsk Wrocław                     1  🟢 100%  🔴
-   7. Cracovia                          0
-   8. Górnik Zabrze                     0
-   9. Lech Poznań                       0
-  10. Legia Warszawa                    0  🔴
+   6. Lech Poznań                       1  🟢 100%
+   7. Legia Warszawa                    1  🟢 100%  🔴
+   8. Śląsk Wrocław                     1  🟢 100%  🔴
+   9. Cracovia                          0
+  10. Górnik Zabrze                     0
 
 RITARDI X2 + GOAL
    1. Korona Kielce                     5  🟢 80%
@@ -1592,19 +1592,19 @@ RITARDI X2 + GOAL
    7. Radomiak Radom                    2  🟢 50%
    8. Śląsk Wrocław                     2  🟢 100%
    9. Cracovia                          1  🟢 100%
-  10. Lech Poznań                       1  🟢 100%
+  10. Piast Gliwice                     1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Wisła Płock                       4  🟢 50%
    2. GKS Katowice                      2
    3. Górnik Zabrze                     2  🟢 100%
    4. Jagiellonia Białystok             2
-   5. Legia Warszawa                    2  🟢 100%
-   6. Widzew Łódź                       2  🟢 50%
-   7. Zagłębie Lubin                    2  🟢 50%
-   8. Korona Kielce                     1
-   9. Motor Lublin                      1  🟢 100%
-  10. Wieczysta Kraków                  1  🟢 100%
+   5. Widzew Łódź                       2  🟢 50%
+   6. Zagłębie Lubin                    2  🟢 50%
+   7. Korona Kielce                     1
+   8. Motor Lublin                      1  🟢 100%
+   9. Wieczysta Kraków                  1  🟢 100%
+  10. Śląsk Wrocław                     1  🟢 100%  🔴
 
 ==================================================
 POLONIA - I LIGA

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 25/10/2026 19:19 (ora italiana)
+Aggiornato: 25/10/2026 20:19 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -9,11 +9,10 @@ SOTTOFREQUENZA 1X + GOAL
     1/20 Sassuolo                       44/100
     2/20 Fiorentina                     43/100
     3/20 Venezia                        42/100
-    4/20 Juventus                       42/100
-    5/20 Frosinone                      42/100
-    6/20 Atalanta                       42/100
+    4/20 Frosinone                      42/100
+    5/20 Atalanta                       42/100
      ...
-   20/20 Lecce                          27/100  (la fa meno spesso)
+   20/20 Lecce                          26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Milan                          40/100
@@ -201,8 +200,8 @@ GERMANIA - BUNDESLIGA
 SOTTOFREQUENZA 1X + GOAL
     1/18 Hoffenheim                     52/100
     2/18 1. FC Köln                     48/100
-    3/18 Freiburg                       47/100
-    4/18 Eintracht Frankfurt            47/100
+    3/18 Eintracht Frankfurt            47/100
+    4/18 Freiburg                       46/100
     5/18 Hamburger SV                   45/100
      ...
    18/18 Union Berlin                   35/100  (la fa meno spesso)
@@ -214,13 +213,13 @@ SOTTOFREQUENZA X2 + GOAL
     4/18 1. FC Köln                     43/100
     5/18 Hoffenheim                     42/100
      ...
-   18/18 Freiburg                       31/100  (la fa meno spesso)
+   18/18 Freiburg                       32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Hoffenheim                     50/100
     2/18 Paderborn                      47/100
-    3/18 Freiburg                       46/100
-    4/18 Bayern München                 46/100
+    3/18 Bayern München                 47/100
+    4/18 Freiburg                       46/100
     5/18 RB Leipzig                     45/100
      ...
    18/18 Union Berlin                   31/100  (la fa meno spesso)
@@ -804,7 +803,7 @@ SOTTOFREQUENZA 12 + GOAL
 DANIMARCA - SUPERLIGAEN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 AGF                            52/100
+    1/12 AGF                            53/100
     2/12 FC Midtjylland                 49/100
     3/12 Viborg                         48/100
     4/12 Nordsjælland                   46/100
@@ -825,11 +824,11 @@ SOTTOFREQUENZA X2 + GOAL
    12/12 Nordsjælland                   31/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 Viborg                         47/100
+    1/12 Viborg                         48/100
     2/12 FC Midtjylland                 46/100
     3/12 FC København                   46/100
     4/12 OB                             42/100
-    5/12 AGF                            41/100
+    5/12 AGF                            42/100
      ...
    12/12 Silkeborg                      34/100  (la fa meno spesso)
 
@@ -952,17 +951,18 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/16 Sigma Olomouc                  43/100
     2/16 Mladá Boleslav                 37/100
-    3/16 Teplice                        36/100
-    4/16 Bohemians 1905                 36/100
-    5/16 Artis Brno                     36/100
+    3/16 Viktoria Plzeň                 36/100
+    4/16 Teplice                        36/100
+    5/16 Bohemians 1905                 36/100
+    6/16 Artis Brno                     36/100
      ...
    16/16 Slavia Prague                  24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/16 Sparta Prague                  48/100
     2/16 Sigma Olomouc                  43/100
-    3/16 Pardubice                      36/100
-    4/16 Viktoria Plzeň                 35/100
+    3/16 Pardubice                      37/100
+    4/16 Viktoria Plzeň                 36/100
     5/16 FC Zbrojovka Brno              35/100
      ...
    16/16 Bohemians 1905                 28/100  (la fa meno spesso)
@@ -1001,8 +1001,8 @@ SOTTOFREQUENZA 12 + GOAL
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 FC Košice                      47/100
-    2/12 Žilina                         45/100
+    1/12 FC Košice                      48/100
+    2/12 Žilina                         46/100
     3/12 Zemplín Michalovce             42/100
     4/12 DAC 1904 Dunajska Streda       42/100
     5/12 Ružomberok                     41/100
@@ -1012,9 +1012,10 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Komárno                        40/100
     2/12 Slovan Bratislava              37/100
-    3/12 FC Košice                      36/100
-    4/12 Zeleziarne Podbrezová          34/100
-    5/12 Dukla Banská Bystrica          34/100
+    3/12 FC Košice                      37/100
+    4/12 Žilina                         34/100
+    5/12 Zeleziarne Podbrezová          34/100
+    6/12 Dukla Banská Bystrica          34/100
      ...
    12/12 Trenčín                        26/100  (la fa meno spesso)
 
@@ -1258,7 +1259,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/17 Motor Lublin                   45/100
     2/17 Jagiellonia Białystok          44/100
-    3/17 Legia Warszawa                 41/100
+    3/17 Legia Warszawa                 42/100
     4/17 Śląsk Wrocław                  40/100
     5/17 Korona Kielce                  39/100
      ...
@@ -1266,8 +1267,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/17 Radomiak Radom                 44/100
-    2/17 Śląsk Wrocław                  43/100
-    3/17 Lech Poznań                    43/100
+    2/17 Lech Poznań                    44/100
+    3/17 Śląsk Wrocław                  43/100
     4/17 Jagiellonia Białystok          41/100
     5/17 Widzew Łódź                    40/100
     6/17 Raków Częstochowa              40/100
