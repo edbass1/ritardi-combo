@@ -1,12 +1,8 @@
 TIPS DEL GIORNO - 25/10/2026
-Aggiornato: 25/10/2026 18:20 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 25/10/2026 19:19 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 18:30  Gent vs Anderlecht   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 54.7  (R+26.2 C+5 F+6.2 G+0 A+2.2 E+0 S+15)
-    Anderlecht non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 8, mediano 0), tra i 3 ritardi più lunghi del campionato. Inoltre Anderlecht è in sottofrequenza (31/100), deve recuperare.
-
- 2. 19:30  Waldhof Mannheim vs Hoffenheim II   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 43.4  (R+30 C+10 F-5.4 G+4.2 A+4.6 E+0 S+0)
+ 1. 19:30  Waldhof Mannheim vs Hoffenheim II   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 43.3  (R+30 C+10 F-5.4 G+4.2 A+4.5 E+0 S+0)
     Waldhof Mannheim non fa 1X + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 0), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Waldhof Mannheim la fa già più della media (48% vs 43%).
 
 
