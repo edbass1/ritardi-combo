@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 25/10/2026 22:23 (ora italiana)
+Aggiornato: 25/10/2026 23:24 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8,7 +8,7 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (79 partite giocate) + 2025/2026
+Stagione 2026/2027 (80 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              4  🟢 75%
@@ -17,17 +17,17 @@ RITARDI 1X + GOAL
    4. Cagliari                          2  🟢 100%
    5. Genoa                             2  🟢 50%
    6. Juventus                          2  🟢 100%
-   7. Venezia                           2  🔴
-   8. Sassuolo                          1  🟢 100%  🔴
-   9. Udinese                           1  🟢 100%
-  10. Atalanta                          0  🔴
+   7. Udinese                           2  🟢 100%
+   8. Venezia                           2  🔴
+   9. Milan                             1  🟢 100%
+  10. Sassuolo                          1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
    1. Monza                             5  🟢 100%
    2. Parma                             5  🟢 100%
-   3. Genoa                             4  🟢 75%
-   4. Lazio                             4  🟢 100%
-   5. Udinese                           4  🟢 75%
+   3. Udinese                           5  🟢 80%
+   4. Genoa                             4  🟢 75%
+   5. Lazio                             4  🟢 100%
    6. Venezia                           4  🟢 50%
    7. Torino                            3  🟢 100%
    8. Cagliari                          2  🟢 100%
@@ -41,10 +41,10 @@ RITARDI 12 + GOAL
    4. Juventus                          4  🟢 100%
    5. Genoa                             2  🟢 50%
    6. Lecce                             2  🟢 100%
-   7. Venezia                           2
-   8. Atalanta                          1  🟢 100%
-   9. Bologna                           1  🟢 100%
-  10. Como                              1  🟢 100%
+   7. Udinese                           2  🟢 100%
+   8. Venezia                           2
+   9. Atalanta                          1  🟢 100%
+  10. Bologna                           1  🟢 100%
 
 ==================================================
 ITALIA - SERIE B
@@ -448,12 +448,12 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA
-Stagione 2026/2027 (97 partite giocate) + 2025/2026
+Stagione 2026/2027 (98 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Elche                             5  🟢 60%  🔴
-   2. Atlético Madrid                   3
-   3. Barcelona                         3  🟢 100%
+   2. Barcelona                         4  🟢 100%
+   3. Atlético Madrid                   3
    4. Villarreal                        3
    5. Real Betis                        2  🟢 50%  🔴
    6. Valencia                          2  🟢 50%
@@ -466,13 +466,13 @@ RITARDI X2 + GOAL
    1. Athletic Club                     4  🟢 50%
    2. Celta Vigo                        4  🟢 50%
    3. Elche                             3
-   4. Real Madrid                       3  🟢 67%
-   5. Atlético Madrid                   2
-   6. Espanyol                          2  🟢 50%
-   7. Levante                           2  🟢 100%
-   8. Osasuna                           2  🟢 100%
-   9. Racing Santander                  2  🟢 100%
-  10. Deportivo A Coruña                1  🔴
+   4. Atlético Madrid                   2
+   5. Espanyol                          2  🟢 50%
+   6. Levante                           2  🟢 100%
+   7. Osasuna                           2  🟢 100%
+   8. Racing Santander                  2  🟢 100%
+   9. Deportivo A Coruña                1  🔴
+  10. Getafe                            1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Getafe                           12  🟢 50%
