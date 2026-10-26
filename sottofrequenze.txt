@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 26/10/2026 22:34 (ora italiana)
+Aggiornato: 26/10/2026 23:25 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -176,11 +176,12 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 Gillingham                     40/100
-    2/24 Fleetwood Town                 38/100
-    3/24 Walsall                        37/100
+    2/24 Walsall                        38/100
+    3/24 Fleetwood Town                 38/100
     4/24 Tranmere Rovers                37/100
-    5/24 Grimsby Town                   37/100
-    6/24 Chesterfield                   37/100
+    5/24 Salford City                   37/100
+    6/24 Grimsby Town                   37/100
+    7/24 Chesterfield                   37/100
      ...
    24/24 Bristol Rovers                 24/100  (la fa meno spesso)
 
@@ -331,16 +332,16 @@ SOTTOFREQUENZA 1X + GOAL
     2/18 Clermont Foot                  48/100
     3/18 Pau                            44/100
     4/18 Sochaux                        43/100
-    5/18 Red Star                       41/100
+    5/18 Red Star                       42/100
      ...
    18/18 Nancy                          29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Rodez                          48/100
-    2/18 Sochaux                        39/100
-    3/18 Pau                            39/100
-    4/18 Laval                          39/100
-    5/18 Boulogne                       39/100
+    2/18 Boulogne                       40/100
+    3/18 Sochaux                        39/100
+    4/18 Pau                            39/100
+    5/18 Laval                          39/100
      ...
    18/18 Saint-Étienne                  24/100  (la fa meno spesso)
 
