@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 26/10/2026 19:39 (ora italiana)
+Aggiornato: 26/10/2026 20:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1293,9 +1293,8 @@ SOTTOFREQUENZA X2 + GOAL
     2/17 Polonia Warszawa               43/100
     3/17 Termalica Nieciecza            42/100
     4/17 Pogoń Siedlce                  42/100
-    5/17 ŁKS Łódź                       37/100
-    6/17 Stal Mielec                    37/100
-    7/17 Puszcza Niepołomice            37/100
+    5/17 Stal Mielec                    37/100
+    6/17 Puszcza Niepołomice            37/100
      ...
    17/17 Arka Gdynia                    25/100  (la fa meno spesso)
 

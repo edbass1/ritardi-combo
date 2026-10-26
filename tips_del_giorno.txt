@@ -1,19 +1,11 @@
 TIPS DEL GIORNO - 26/10/2026
-Aggiornato: 26/10/2026 19:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 26/10/2026 20:34 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 19:45  Santa Clara vs Benfica   [PORTOGALLO - LIGA PORTUGAL]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 62.1  (R+30 C+10 F+0.1 G+8 A+4.1 E+0 S+10)
-    Benfica non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre anche Santa Clara è in sottofrequenza su questa combo (29/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 20:30  FC Andorra vs Burgos CF   [SPAGNA - LALIGA 2]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 58.0  (R+30 C+10 F+2 G+0 A+6 E+0 S+10)
-    FC Andorra non fa 1X + GOAL da 8 partite (ritardo massimo del campionato 8, mediano 0), ed è il ritardo più lungo del campionato. Inoltre anche Burgos CF è in sottofrequenza su questa combo (33/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 3. 21:45  Torreense vs Amarante FC   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 12+GOAL]
+ 1. 21:45  Torreense vs Amarante FC   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 12+GOAL]
     12 + GOAL  -  punteggio 42.8  (R+30 C+10 F-1.8 G+3.4 A+1.2 E+0 S+0)
     Torreense non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
- 4. 20:45  Montpellier vs Red Star   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
+ 2. 20:45  Montpellier vs Red Star   [FRANCIA - LIGUE 2]  [OK 1X+GOAL]
     1X + GOAL  -  punteggio 41.1  (R+18 C+5 F-3.2 G+3.4 A+7.8 E+0 S+10)
     Red Star non fa 1X + GOAL da 6 partite (ritardo massimo del campionato 10, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre anche Montpellier è in sottofrequenza su questa combo (30/100), deve recuperare; nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
