@@ -1,5 +1,5 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 26/10/2026 17:51 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 26/10/2026 18:31 (ora italiana). Dal più recente. Fonte: FotMob
 
 25/10 19:30  [GOAL] Waldhof Mannheim: 1X + GOAL uscita, era a 7  -  Waldhof Mannheim 4-1 Hoffenheim II   [GERMANIA - 3. LIGA]
 25/10 18:00  [GOAL] AGF: 12 + GOAL uscita, era a 6  -  AGF 2-1 Viborg   [DANIMARCA - SUPERLIGAEN]
@@ -47,6 +47,3 @@ Aggiornato: 26/10/2026 17:51 (ora italiana). Dal più recente. Fonte: FotMob
 20/10 20:45  [GOAL] Swindon Town: 12 + GOAL uscita, era a 6  -  Barnet 1-3 Swindon Town   [INGHILTERRA - LEAGUE TWO]
 20/10 20:45  [GOAL] Partick Thistle: 1X + GOAL uscita, era a 7  -  Dunfermline Athletic 1-1 Partick Thistle   [SCOZIA - CHAMPIONSHIP]
 19/10 20:00  [GOAL] Roda JC Kerkrade: 12 + GOAL uscita, era a 8  -  Jong FC Utrecht 1-2 Roda JC Kerkrade   [OLANDA - EERSTE DIVISIE]
-19/10 19:00  [GOAL] Degerfors: 12 + GOAL uscita, era a 7  -  Degerfors 1-2 Kalmar FF   [SVEZIA - ALLSVENSKAN]
-19/10 19:00  [GOAL] Kalmar FF: X2 + GOAL uscita, era a 8  -  Degerfors 1-2 Kalmar FF   [SVEZIA - ALLSVENSKAN]
-19/10 19:00  [GOAL] Kalmar FF: 12 + GOAL uscita, era a 7  -  Degerfors 1-2 Kalmar FF   [SVEZIA - ALLSVENSKAN]

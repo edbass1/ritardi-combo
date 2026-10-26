@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 26/10/2026 17:51 (ora italiana)
+Aggiornato: 26/10/2026 18:31 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 26/10/2026
 ==================================================
-18:00  Warta Poznań vs ŁKS Łódź   [POLONIA - I LIGA]
-      Warta Poznań: X2 + GOAL (8) 🟢 62%
 19:45  Santa Clara vs Benfica   [PORTOGALLO - LIGA PORTUGAL]
       Benfica: X2 + GOAL (7) 🟢 100%
 20:30  FC Andorra vs Burgos CF   [SPAGNA - LALIGA 2]
@@ -162,3 +160,5 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Greenock Morton: 1X + GOAL (6) 🟢 83% 🔴 Partick Thistle 🔴 Greenock Morton
 16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]
       Fortuna Köln: 1X + GOAL (6) 🟢 50%
+18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
+      Kortrijk: 1X + GOAL (8+) 🟢 75%
