@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 26/10/2026 20:34 (ora italiana)
+Aggiornato: 26/10/2026 21:23 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1008,7 +1008,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
-Stagione 2026/2027 (71 partite giocate) + 2025/2026
+Stagione 2026/2027 (72 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Randers FC                        3  🟢 67%
@@ -1025,25 +1025,25 @@ RITARDI 1X + GOAL
 RITARDI X2 + GOAL
    1. Sønderjyske                       4  🟢 100%
    2. AC Horsens                        2  🟢 50%
-   3. OB                                2  🟢 50%  🔴
-   4. AGF                               1  🟢 100%  🔴
-   5. FC Midtjylland                    1  🟢 100%  🔴
-   6. Lyngby                            1  🟢 100%
-   7. Viborg                            1  🟢 100%
-   8. Brøndby IF                        0
-   9. FC København                      0
-  10. Nordsjælland                      0
+   3. AGF                               1  🟢 100%  🔴
+   4. FC Midtjylland                    1  🟢 100%  🔴
+   5. Lyngby                            1  🟢 100%
+   6. Viborg                            1  🟢 100%
+   7. Brøndby IF                        0
+   8. FC København                      0
+   9. Nordsjælland                      0
+  10. OB                                0  🔴
 
 RITARDI 12 + GOAL
    1. Silkeborg                         7  🟢 100%
    2. Nordsjælland                      3  🟢 67%
-   3. FC København                      1  🟢 100%  🔴
-   4. AC Horsens                        0
-   5. AGF                               0
-   6. Brøndby IF                        0
-   7. FC Midtjylland                    0  🔴
-   8. Lyngby                            0
-   9. OB                                0
+   3. FC København                      2  🟢 100%  🔴
+   4. OB                                1  🟢 100%
+   5. AC Horsens                        0
+   6. AGF                               0
+   7. Brøndby IF                        0
+   8. FC Midtjylland                    0  🔴
+   9. Lyngby                            0
   10. Randers FC                        0
 
 ==================================================
@@ -1128,19 +1128,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (221 partite giocate) + 2025
+Stagione 2026 (222 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. IFK Värnamo                       6  🟢 67%
    2. GIF Sundsvall                     3  🟢 67%
    3. IK Brage                          3  🟢 100%
    4. Sandvikens IF                     2
-   5. IFK Norrköping                    1  🟢 100%
-   6. IK Oddevold                       1  🟢 100%
-   7. Norrby                            1  🟢 100%
-   8. Varbergs BoIS FC                  1  🔴
-   9. Östers IF                         1  🟢 100%
-  10. Falkenbergs FF                    0  🔴
+   5. Falkenbergs FF                    1  🔴
+   6. IFK Norrköping                    1  🟢 100%
+   7. IK Oddevold                       1  🟢 100%
+   8. Norrby                            1  🟢 100%
+   9. Varbergs BoIS FC                  1  🔴
+  10. Örebro                            1  🔴
 
 RITARDI X2 + GOAL
    1. GIF Sundsvall                     9  🟢 56%
@@ -1148,10 +1148,10 @@ RITARDI X2 + GOAL
    3. Sandvikens IF                     4  🟢 50%
    4. IK Oddevold                       3  🟢 100%
    5. Nordic United FC                  3  🟢 100%
-   6. IFK Värnamo                       2  🔴
-   7. Landskrona BoIS                   2  🟢 100%  🔴
-   8. Östersunds FK                     2  🟢 50%
-   9. Falkenbergs FF                    1  🟢 100%
+   6. Falkenbergs FF                    2  🟢 50%
+   7. IFK Värnamo                       2  🔴
+   8. Landskrona BoIS                   2  🟢 100%  🔴
+   9. Östersunds FK                     2  🟢 50%
   10. IFK Norrköping                    1  🟢 100%
 
 RITARDI 12 + GOAL
@@ -1159,12 +1159,12 @@ RITARDI 12 + GOAL
    2. GIF Sundsvall                     3  🟢 67%
    3. IFK Norrköping                    3  🟢 100%  🔴
    4. Ljungskile                        3  🟢 100%
-   5. IFK Värnamo                       2
-   6. Sandvikens IF                     2
-   7. Varbergs BoIS FC                  2  🟢 50%
-   8. Örebro                            2  🟢 100%  🔴
-   9. IK Oddevold                       1  🟢 100%
-  10. Norrby                            1  🟢 100%
+   5. Örebro                            3  🟢 67%  🔴
+   6. IFK Värnamo                       2
+   7. Sandvikens IF                     2
+   8. Varbergs BoIS FC                  2  🟢 50%
+   9. Falkenbergs FF                    1  🔴
+  10. IK Oddevold                       1  🟢 100%
 
 ==================================================
 REP. CECA - 1. LIGA

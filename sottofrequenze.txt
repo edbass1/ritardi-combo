@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 26/10/2026 20:34 (ora italiana)
+Aggiornato: 26/10/2026 21:23 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -808,18 +808,17 @@ SOTTOFREQUENZA 1X + GOAL
     3/12 Viborg                         48/100
     4/12 Nordsjælland                   46/100
     5/12 Silkeborg                      45/100
-    6/12 Lyngby                         45/100
+    6/12 OB                             45/100
+    7/12 Lyngby                         45/100
      ...
    12/12 AC Horsens                     33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 OB                             46/100
+    1/12 OB                             47/100
     2/12 AGF                            45/100
     3/12 Silkeborg                      39/100
     4/12 FC Midtjylland                 39/100
-    5/12 Randers FC                     37/100
-    6/12 FC København                   37/100
-    7/12 AC Horsens                     37/100
+    5/12 FC København                   38/100
      ...
    12/12 Nordsjælland                   31/100  (la fa meno spesso)
 
@@ -908,8 +907,8 @@ SVEZIA - SUPERETTAN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/13 Örebro                         56/100
-    2/13 Falkenbergs FF                 48/100
-    3/13 Varbergs BoIS FC               47/100
+    2/13 Varbergs BoIS FC               47/100
+    3/13 Falkenbergs FF                 47/100
     4/13 Östersunds FK                  46/100
     5/13 Norrby                         41/100
     6/13 Ljungskile                     41/100
@@ -926,7 +925,7 @@ SOTTOFREQUENZA X2 + GOAL
    13/13 GIF Sundsvall                  29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/13 Falkenbergs FF                 46/100
+    1/13 Falkenbergs FF                 45/100
     2/13 IFK Norrköping                 43/100
     3/13 Örebro                         42/100
     4/13 Varbergs BoIS FC               41/100
