@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 26/10/2026 23:25 (ora italiana)
+Aggiornato: 27/10/2026 00:21 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -888,17 +888,17 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
-Stagione 2026/2027 (71 partite giocate) + 2025/2026
+Stagione 2026/2027 (72 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Benfica B                         5  🔴
    2. Portimonense                      5  🟢 80%
-   3. Sporting CP B                     4  🟢 100%
-   4. Torreense                         4  🟢 50%
+   3. Torreense                         5
+   4. Sporting CP B                     4  🟢 100%
    5. Académica                         3  🟢 100%  🔴
    6. Leixões                           3  🟢 67%
    7. Penafiel                          3  🟢 100%
-   8. Amarante FC                       1  🟢 100%
+   8. Amarante FC                       2  🟢 50%
    9. Farense                           1  🟢 100%
   10. Feirense                          1
 
@@ -906,25 +906,25 @@ RITARDI X2 + GOAL
    1. Tondela                          8+  🟢 75%
    2. Académica                         7  🟢 86%  🔴
    3. Benfica B                         5  🔴
-   4. Torreense                         4  🟢 50%
+   4. Torreense                         5
    5. Feirense                          3
    6. Sporting CP B                     2  🟢 100%
    7. Vizela                            2  🟢 100%
    8. AVS Futebol SAD                   1  🟢 100%
-   9. Chaves                            1  🟢 100%
-  10. Leixões                           1  🟢 100%
+   9. Amarante FC                       1
+  10. Chaves                            1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Benfica B                         6  🟢 50%
-   2. Torreense                         6  🟢 67%
+   1. Torreense                         7  🟢 57%
+   2. Benfica B                         6  🟢 50%
    3. União de Leiria                   5  🟢 80%
    4. Académica                         3  🟢 100%
    5. Felgueiras 1932                   2  🟢 50%
    6. Lusitânia Lourosa                 2  🟢 100%  🔴
    7. Sporting CP B                     2  🟢 100%
-   8. FC Porto B                        1  🟢 100%
-   9. Feirense                          1
-  10. Leixões                           1  🟢 100%
+   8. Amarante FC                       1
+   9. FC Porto B                        1  🟢 100%
+  10. Feirense                          1
 
 ==================================================
 NORVEGIA - ELITESERIEN
