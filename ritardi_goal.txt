@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 26/10/2026 21:23 (ora italiana)
+Aggiornato: 26/10/2026 22:34 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -368,22 +368,22 @@ RITARDI 12 + GOAL
 
 ==================================================
 FRANCIA - LIGUE 1
-Stagione 2026/2027 (71 partite giocate) + 2025/2026
+Stagione 2026/2027 (72 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Troyes                           8+  🟢 75%
    2. Lorient                           3
    3. Angers                            2  🟢 50%
-   4. Strasbourg                        2  🟢 100%  🔴
-   5. Toulouse                          2  🟢 50%
-   6. Brest                             1  🟢 100%
-   7. Nice                              1  🟢 100%  🔴
-   8. Paris Saint-Germain               1  🟢 100%
-   9. Rennes                            1  🟢 100%
-  10. Auxerre                           0
+   4. Paris Saint-Germain               2  🟢 100%
+   5. Strasbourg                        2  🟢 100%  🔴
+   6. Toulouse                          2  🟢 50%
+   7. Brest                             1  🟢 100%
+   8. Lyon                              1  🟢 100%
+   9. Nice                              1  🟢 100%  🔴
+  10. Rennes                            1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Lyon                              5  🟢 80%
+   1. Lyon                              6  🟢 83%
    2. Paris FC                          5  🟢 60%
    3. Rennes                            5  🟢 80%
    4. Lorient                           4
@@ -392,7 +392,7 @@ RITARDI X2 + GOAL
    7. Le Havre                          1  🟢 100%
    8. Lens                              1  🟢 100%
    9. Marseille                         1  🟢 100%
-  10. Strasbourg                        1  🟢 100%
+  10. Paris Saint-Germain               1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. Lille                             3  🟢 67%
@@ -402,9 +402,9 @@ RITARDI 12 + GOAL
    5. Le Mans                           2  🟢 100%
    6. Angers                            1
    7. Auxerre                           1  🟢 100%
-   8. Rennes                            1  🟢 100%
-   9. Strasbourg                        1  🟢 100%  🔴
-  10. Troyes                            1
+   8. Lyon                              1  🟢 100%  🔴
+   9. Paris Saint-Germain               1  🟢 100%
+  10. Rennes                            1  🟢 100%
 
 ==================================================
 FRANCIA - LIGUE 2
@@ -488,12 +488,12 @@ RITARDI 12 + GOAL
 
 ==================================================
 SPAGNA - LALIGA 2
-Stagione 2026/2027 (120 partite giocate) + 2025/2026
+Stagione 2026/2027 (121 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Andorra                        8  🟢 50%
-   2. Castellón                         3  🟢 67%
-   3. Burgos CF                         2
+   1. FC Andorra                        9  🟢 56%
+   2. Burgos CF                         3
+   3. Castellón                         3  🟢 67%
    4. Córdoba                           2  🟢 50%
    5. Eldense                           2  🟢 100%
    6. Las Palmas                        2  🟢 50%
@@ -505,26 +505,26 @@ RITARDI 1X + GOAL
 RITARDI X2 + GOAL
    1. Córdoba                           5  🟢 80%  🔴
    2. Sporting Gijón                    5  🟢 80%
-   3. Burgos CF                         4
-   4. Cádiz                             4  🟢 75%
-   5. Albacete                          3  🟢 100%
-   6. Castellón                         3  🟢 67%
-   7. FC Andorra                        3
-   8. Granada                           3  🟢 67%
-   9. Las Palmas                        3  🟢 67%  🔴
-  10. Girona                            2  🟢 100%  🔴
+   3. Cádiz                             4  🟢 75%
+   4. Albacete                          3  🟢 100%
+   5. Castellón                         3  🟢 67%
+   6. Granada                           3  🟢 67%
+   7. Las Palmas                        3  🟢 67%  🔴
+   8. Girona                            2  🟢 100%  🔴
+   9. AD Ceuta FC                       1  🟢 100%
+  10. Celta Fortuna                     1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Castellón                         6  🟢 83%  🔴
    2. Leganés                           5  🟢 80%
-   3. FC Andorra                        3
-   4. Tenerife                          3  🟢 100%
-   5. Burgos CF                         2
-   6. Córdoba                           2  🟢 50%  🔴
-   7. Eibar                             2  🟢 100%
-   8. Las Palmas                        2  🟢 50%
-   9. Mallorca                          2  🟢 100%
-  10. Sabadell                          2  🟢 50%
+   3. Tenerife                          3  🟢 100%
+   4. Córdoba                           2  🟢 50%  🔴
+   5. Eibar                             2  🟢 100%
+   6. Las Palmas                        2  🟢 50%
+   7. Mallorca                          2  🟢 100%
+   8. Sabadell                          2  🟢 50%
+   9. Albacete                          1  🟢 100%
+  10. Almería                           1  🟢 100%  🔴
 
 ==================================================
 BELGIO - FIRST DIVISION A
@@ -848,43 +848,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL
-Stagione 2026/2027 (80 partite giocate) + 2025/2026
+Stagione 2026/2027 (81 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Casa Pia AC                       9  🟢 56%
    2. Alverca                           5  🟢 60%  🔴
    3. Braga                             5
-   4. Santa Clara                       4  🟢 50%
+   4. Santa Clara                       5  🟢 60%
    5. Estrela da Amadora                3  🟢 67%
    6. Famalicão                         3  🟢 100%
    7. Gil Vicente                       3
    8. Arouca                            2
-   9. FC Porto                          2  🟢 50%
-  10. Marítimo                          2  🟢 100%
+   9. Benfica                           2  🟢 100%
+  10. FC Porto                          2  🟢 50%
 
 RITARDI X2 + GOAL
-   1. Benfica                           7  🟢 100%
-   2. Estrela da Amadora                3  🟢 67%
-   3. Nacional                          3  🟢 67%
-   4. Rio Ave                           3  🟢 67%  🔴
-   5. Arouca                            2
-   6. Casa Pia AC                       2  🟢 50%
-   7. Santa Clara                       2
-   8. Vitória de Guimarães              2  🟢 100%
-   9. Alverca                           1  🔴
-  10. Braga                             1
+   1. Estrela da Amadora                3  🟢 67%
+   2. Nacional                          3  🟢 67%
+   3. Rio Ave                           3  🟢 67%  🔴
+   4. Arouca                            2
+   5. Casa Pia AC                       2  🟢 50%
+   6. Vitória de Guimarães              2  🟢 100%
+   7. Alverca                           1  🔴
+   8. Braga                             1
+   9. FC Porto                          1
+  10. Famalicão                         1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Estrela da Amadora                4  🟢 75%
    2. Arouca                            3  🔴
    3. Vitória de Guimarães              3  🟢 100%
    4. Casa Pia AC                       2  🟢 50%
-   5. Santa Clara                       2
-   6. Alverca                           1
-   7. Benfica                           1  🟢 100%
-   8. Braga                             1
-   9. FC Porto                          1
-  10. Famalicão                         1  🟢 100%
+   5. Alverca                           1
+   6. Braga                             1
+   7. FC Porto                          1
+   8. Famalicão                         1  🟢 100%
+   9. Gil Vicente                       1
+  10. Marítimo                          1  🟢 100%
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
