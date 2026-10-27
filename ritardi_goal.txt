@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 27/10/2026 21:29 (ora italiana)
+Aggiornato: 27/10/2026 22:26 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -48,43 +48,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE B
-Stagione 2026/2027 (81 partite giocate) + 2025/2026
+Stagione 2026/2027 (87 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Arezzo                           8+  🟢 75%
-   2. Mantova                           3  🟢 67%  🔴
-   3. Padova                            3  🟢 67%
-   4. Juve Stabia                       2  🟢 50%  🔴
-   5. Virtus Entella                    2  🟢 50%  🔴
-   6. Ascoli                            1  🟢 100%
-   7. Avellino                          1
-   8. Cesena                            1  🟢 100%
-   9. Cremonese                         1
-  10. Empoli                            1  🟢 100%
+   2. Mantova                           4  🟢 75%
+   3. Padova                            4  🟢 75%
+   4. Ascoli                            2  🟢 100%
+   5. Cremonese                         2  🟢 50%
+   6. Juve Stabia                       2  🟢 50%  🔴
+   7. LR Vicenza                        2  🟢 100%
+   8. Modena                            2  🟢 100%
+   9. Sampdoria                         1  🟢 100%
+  10. Südtirol                          1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Carrarese                         6  🟢 50%
-   2. Cremonese                         4
-   3. Modena                            4  🟢 100%  🔴
-   4. Juve Stabia                       2  🟢 50%  🔴
-   5. Mantova                           2  🟢 50%
-   6. Palermo                           2  🟢 100%
-   7. Arezzo                            1  🟢 100%
-   8. Avellino                          1
-   9. Cesena                            1  🟢 100%
-  10. Empoli                            1  🟢 100%
+   2. Cremonese                         5
+   3. Mantova                           3  🟢 67%
+   4. Cesena                            2  🟢 100%
+   5. Empoli                            2  🟢 100%
+   6. Juve Stabia                       2  🟢 50%  🔴
+   7. Padova                            2  🟢 50%
+   8. Palermo                           2  🟢 100%
+   9. Arezzo                            1  🟢 100%
+  10. Ascoli                            1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Cesena                            6  🟢 100%  🔴
-   2. Juve Stabia                       6  🟢 83%
-   3. Benevento                         5  🟢 80%
-   4. LR Vicenza                        3  🟢 100%
-   5. Südtirol                          3  🟢 67%
-   6. Avellino                          2  🟢 50%
-   7. Empoli                            2  🟢 100%
-   8. Hellas Verona                     2  🟢 100%  🔴
-   9. Mantova                           2  🟢 50%  🔴
-  10. Arezzo                            1  🟢 100%
+   1. Juve Stabia                       6  🟢 83%
+   2. Benevento                         5  🟢 80%
+   3. Südtirol                          4  🟢 75%
+   4. Avellino                          3  🟢 67%
+   5. Mantova                           3  🟢 67%
+   6. Cremonese                         2  🟢 50%  🔴
+   7. Hellas Verona                     2  🟢 100%
+   8. Padova                            2  🟢 50%
+   9. Sampdoria                         2  🟢 100%
+  10. Virtus Entella                    2  🟢 50%
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE

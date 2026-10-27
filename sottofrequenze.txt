@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 27/10/2026 21:29 (ora italiana)
+Aggiornato: 27/10/2026 22:26 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -38,10 +38,11 @@ ITALIA - SERIE B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/20 Catanzaro                      48/100
-    2/20 Virtus Entella                 44/100
-    3/20 Mantova                        44/100
-    4/20 Juve Stabia                    44/100
-    5/20 Avellino                       43/100
+    2/20 Virtus Entella                 45/100
+    3/20 Juve Stabia                    44/100
+    4/20 Mantova                        43/100
+    5/20 Empoli                         43/100
+    6/20 Avellino                       43/100
      ...
    20/20 Arezzo                         27/100  (la fa meno spesso)
 
@@ -58,11 +59,13 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 Pisa                           36/100
     2/20 Cremonese                      35/100
-    3/20 Mantova                        34/100
+    3/20 Cesena                         35/100
     4/20 Hellas Verona                  34/100
-    5/20 Cesena                         34/100
+    5/20 Modena                         33/100
+    6/20 Mantova                        33/100
+    7/20 Catanzaro                      33/100
      ...
-   20/20 Benevento                      26/100  (la fa meno spesso)
+   20/20 Virtus Entella                 25/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
