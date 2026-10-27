@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 27/10/2026 22:26 (ora italiana)
+Aggiornato: 27/10/2026 23:12 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -22,10 +22,20 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Juve Stabia: 12 + GOAL (6) 🟢 83%
 20:45  St. Johnstone vs Motherwell   [SCOZIA - PREMIERSHIP]
       Motherwell: X2 + GOAL (7) 🟢 86%
+23:30  Santos vs Palmeiras   [BRASILE - SÉRIE A]
+      Palmeiras: X2 + GOAL (7) 🟢 57% 🔴 Santos
 
 ==================================================
 29/10/2026
 ==================================================
+00:30  New England Revolution vs Red Bull New York   [USA/CANADA - MLS]
+      Red Bull New York: X2 + GOAL (9) 🟢 67%
+01:30  FC Dallas vs Columbus Crew   [USA/CANADA - MLS]
+      Columbus Crew: X2 + GOAL (9) 🟢 89%
+01:30  St. Louis City vs Portland Timbers   [USA/CANADA - MLS]
+      St. Louis City: X2 + GOAL (7) 🟢 86%
+03:30  Seattle Sounders FC vs Houston Dynamo FC   [USA/CANADA - MLS]
+      Houston Dynamo FC: 12 + GOAL (7) 🟢 71%
 17:00  FC Inter Turku vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
       FC Inter Turku: 1X + GOAL (6)
 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
@@ -48,10 +58,12 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Xamax: 1X + GOAL (6) 🟢 83% 🔴 Xamax 🔴 Aarau
 20:30  Elversberg vs Mainz 05   [GERMANIA - BUNDESLIGA]
       Mainz 05: 1X + GOAL (11) 🟢 82%
+20:30  Reggiana vs Sambenedettese   [ITALIA - SERIE C]
+      Reggiana: 1X + GOAL (7) 🟢 57%; X2 + GOAL (6) 🟢 50% 🔴 Sambenedettese; 12 + GOAL (6) 🟢 50%
 20:30  Pogoń Grodzisk Mazowiecki vs Stal Mielec   [POLONIA - I LIGA]
       Pogoń Grodzisk Mazowiecki: X2 + GOAL (6) 🟢 67%
 20:30  Stenhousemuir vs Livingston   [SCOZIA - CHAMPIONSHIP]
-      Stenhousemuir: 12 + GOAL (7) 🔴 Livingston
+      Stenhousemuir: 12 + GOAL (8) 🔴 Livingston
 20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
       Zulte Waregem: 12 + GOAL (8) 🟢 75% 🔴 Zulte Waregem 🔴 Club Brugge
 20:45  Dundalk vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]
@@ -64,6 +76,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 ==================================================
 31/10/2026
 ==================================================
+00:00  Corinthians vs Mirassol   [BRASILE - SÉRIE A]
+      Mirassol: 12 + GOAL (6) 🟢 83% 🔴 Corinthians
+05:00  Newcastle Jets vs Wellington Phoenix   [AUSTRALIA - A-LEAGUE MEN]
+      Newcastle Jets: 12 + GOAL (7) 🟢 100%
+      Wellington Phoenix: X2 + GOAL (6) 🟢 83% 🔴 Newcastle Jets
+09:40  Macarthur FC vs Western Sydney Wanderers FC   [AUSTRALIA - A-LEAGUE MEN]
+      Western Sydney Wanderers FC: X2 + GOAL (6) 🟢 83% 🔴 Macarthur FC
 13:00  Darmstadt vs Magdeburg   [GERMANIA - 2. BUNDESLIGA]
       Darmstadt: X2 + GOAL (8) 🟢 62%
 13:00  Kaiserslautern vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
@@ -74,12 +93,12 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Bradford City: 12 + GOAL (8)
 13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
       Manchester United: 12 + GOAL (6) 🟢 83% 🔴 Chelsea
-13:30  Grimsby Town vs York City   [INGHILTERRA - LEAGUE TWO]
-      York City: 12 + GOAL (8) 🟢 100%
 13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
       Leyton Orient: X2 + GOAL (6) 🟢 50%
 13:30  Port Vale vs Rochdale   [INGHILTERRA - LEAGUE TWO]
       Port Vale: 12 + GOAL (7)
+14:30  Giugliano vs Casertana   [ITALIA - SERIE C]
+      Giugliano: X2 + GOAL (10) 🟢 80%
 15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
       Torreense: 12 + GOAL (7) 🟢 57% 🔴 Portimonense
 15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
@@ -109,23 +128,25 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Manchester City: X2 + GOAL (6) 🟢 67%
       Brighton & Hove Albion: 12 + GOAL (6) 🟢 100%
 16:00  Milton Keynes Dons vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
-      Doncaster Rovers: X2 + GOAL (6) 🟢 67% 🔴 Doncaster Rovers
+      Doncaster Rovers: X2 + GOAL (7) 🟢 71%
 16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
       Exeter City: X2 + GOAL (9)
 16:00  Tranmere Rovers vs Cheltenham Town   [INGHILTERRA - LEAGUE TWO]
       Cheltenham Town: X2 + GOAL (6) 🟢 83%
 16:00  Wigan Athletic vs Bromley   [INGHILTERRA - LEAGUE ONE]
-      Wigan Athletic: X2 + GOAL (16) 🟢 50%
+      Wigan Athletic: X2 + GOAL (17) 🟢 53%
 16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
       Queen's Park: X2 + GOAL (10) 🟢 80% 🔴 Ayr United
 16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Dunfermline Athletic: 12 + GOAL (17) 🟢 65%
+      Dunfermline Athletic: 12 + GOAL (18) 🟢 61%
 16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
       Motherwell: X2 + GOAL (7) 🟢 86%
 16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
       Greenock Morton: 1X + GOAL (6) 🟢 83% 🔴 Partick Thistle 🔴 Greenock Morton
 16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]
       Fortuna Köln: 1X + GOAL (6) 🟢 50%
+17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]
+      Perugia: 1X + GOAL (8) 🟢 88%
 18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
       Kortrijk: 1X + GOAL (8+) 🟢 75%
 18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
@@ -133,12 +154,20 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       NEC Nijmegen: 12 + GOAL (6) 🟢 100% 🔴 NEC Nijmegen
 19:00  Benfica B vs Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
       Benfica B: 12 + GOAL (6) 🟢 50%
+19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]
+      Columbus Crew: X2 + GOAL (9) 🟢 89% 🔴 DC United
 20:00  Club Brugge NXT vs Sporting Hasselt   [BELGIO - FIRST DIVISION B]
       Sporting Hasselt: 1X + GOAL (7+) 🟢 57%
+20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]
+      Coritiba: 12 + GOAL (6) 🟢 67%
+20:00  St. Louis City vs San Diego FC   [USA/CANADA - MLS]
+      St. Louis City: X2 + GOAL (7) 🟢 86%
 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
       Anderlecht: 1X + GOAL (8) 🟢 50%
 20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]
       Troyes: 1X + GOAL (8+) 🟢 75%
+21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
+      Deportivo Riestra: 12 + GOAL (12) 🟢 58%
 
 ==================================================
 01/11/2026
@@ -167,8 +196,17 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Wil: 12 + GOAL (9) 🟢 100%
 14:30  Salzburg vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]
       Austria Lustenau: X2 + GOAL (6) 🟢 100%
+14:30  Cittadella vs Treviso   [ITALIA - SERIE C]
+      Treviso: X2 + GOAL (6)
+14:30  Dolomiti Bellunesi vs Lecco   [ITALIA - SERIE C]
+      Lecco: 12 + GOAL (6) 🟢 83%
+14:30  Gubbio vs Vis Pesaro   [ITALIA - SERIE C]
+      Gubbio: 1X + GOAL (6) 🟢 83%
+14:30  Ravenna vs Pineto   [ITALIA - SERIE C]
+      Ravenna: X2 + GOAL (10) 🟢 70%
+      Pineto: 12 + GOAL (7) 🟢 57%
 15:00  Sheffield Wednesday vs Blackpool   [INGHILTERRA - LEAGUE ONE]
-      Sheffield Wednesday: 12 + GOAL (6) 🟢 67%
+      Sheffield Wednesday: 12 + GOAL (7) 🟢 71%
 15:00  Arezzo vs Ascoli   [ITALIA - SERIE B]
       Arezzo: 1X + GOAL (8+) 🟢 75%
 15:00  Empoli vs Juve Stabia   [ITALIA - SERIE B]
@@ -201,6 +239,8 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
       Liverpool: 1X + GOAL (6) 🟢 67% 🔴 Liverpool
       Arsenal: X2 + GOAL (8) 🟢 75%
+17:30  Latina vs Pianese   [ITALIA - SERIE C]
+      Latina: 12 + GOAL (7) 🟢 71%
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
       Sparta Prague: X2 + GOAL (27) 🟢 85% 🔴 Bohemians 1905
 18:30  Burgos CF vs Castellón   [SPAGNA - LALIGA 2]
@@ -209,3 +249,5 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Alemannia Aachen: 1X + GOAL (6) 🟢 67%
 21:00  Tenerife vs FC Andorra   [SPAGNA - LALIGA 2]
       FC Andorra: 1X + GOAL (9) 🟢 56%
+22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
+      Red Bull New York: X2 + GOAL (9) 🟢 67%

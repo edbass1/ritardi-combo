@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 27/10/2026 22:26 (ora italiana)
+Aggiornato: 27/10/2026 23:12 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -20,6 +20,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/20 Bologna                        39/100
     4/20 Udinese                        38/100
     5/20 Fiorentina                     38/100
+    6/20 Como                           38/100
      ...
    20/20 Lecce                          21/100  (la fa meno spesso)
 
@@ -27,8 +28,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/20 Sassuolo                       41/100
     2/20 Fiorentina                     41/100
     3/20 Monza                          36/100
-    4/20 Venezia                        35/100
-    5/20 Como                           35/100
+    4/20 Como                           36/100
+    5/20 Venezia                        35/100
     6/20 Atalanta                       35/100
      ...
    20/20 Juventus                       17/100  (la fa meno spesso)
@@ -66,6 +67,39 @@ SOTTOFREQUENZA 12 + GOAL
     7/20 Catanzaro                      33/100
      ...
    20/20 Virtus Entella                 25/100  (la fa meno spesso)
+
+==================================================
+ITALIA - SERIE C
+==================================================
+SOTTOFREQUENZA 1X + GOAL
+    1/43 Cosenza                        47/100
+    2/43 Potenza                        45/100
+    3/43 Torres                         44/100
+    4/43 Spezia                         43/100
+    5/43 Novara                         43/100
+    6/43 Bari                           43/100
+    7/43 Atalanta U23                   43/100
+     ...
+   43/43 Catania                        30/100  (la fa meno spesso)
+
+SOTTOFREQUENZA X2 + GOAL
+    1/43 Pescara                        41/100
+    2/43 Lumezzane                      40/100
+    3/43 Sambenedettese                 39/100
+    4/43 Trento                         38/100
+    5/43 Atalanta U23                   37/100
+    6/43 AlbinoLeffe                    37/100
+     ...
+   43/43 Ravenna                        23/100  (la fa meno spesso)
+
+SOTTOFREQUENZA 12 + GOAL
+    1/43 Atalanta U23                   40/100
+    2/43 Giugliano                      39/100
+    3/43 Salernitana                    37/100
+    4/43 Pescara                        37/100
+    5/43 Crotone                        37/100
+     ...
+   43/43 Novara                         21/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - PREMIER LEAGUE
@@ -139,9 +173,9 @@ INGHILTERRA - LEAGUE ONE
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/24 Peterborough United            52/100
-    2/24 Barnsley                       48/100
-    3/24 Luton Town                     47/100
-    4/24 Bromley                        46/100
+    2/24 Luton Town                     48/100
+    3/24 Barnsley                       48/100
+    4/24 Bromley                        47/100
     5/24 Reading                        45/100
      ...
    24/24 Leyton Orient                  27/100  (la fa meno spesso)
@@ -150,8 +184,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/24 Barnsley                       42/100
     2/24 Reading                        41/100
     3/24 Leicester City                 39/100
-    4/24 Doncaster Rovers               39/100
-    5/24 Notts County                   38/100
+    4/24 Notts County                   38/100
+    5/24 Doncaster Rovers               38/100
      ...
    24/24 AFC Wimbledon                  27/100  (la fa meno spesso)
 
@@ -162,7 +196,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/24 Leyton Orient                  40/100
     5/24 Mansfield Town                 39/100
      ...
-   24/24 Wigan Athletic                 22/100  (la fa meno spesso)
+   24/24 Wigan Athletic                 21/100  (la fa meno spesso)
 
 ==================================================
 INGHILTERRA - LEAGUE TWO
@@ -193,8 +227,9 @@ SOTTOFREQUENZA 12 + GOAL
     2/24 Bristol Rovers                 39/100
     3/24 Salford City                   38/100
     4/24 Newport County                 38/100
-    5/24 Swindon Town                   37/100
-    6/24 Rochdale                       37/100
+    5/24 York City                      37/100
+    6/24 Swindon Town                   37/100
+    7/24 Rochdale                       37/100
      ...
    24/24 Gillingham                     24/100  (la fa meno spesso)
 
@@ -1172,16 +1207,137 @@ SOTTOFREQUENZA X2 + GOAL
     4/10 Cobh Ramblers                  33/100
     5/10 Athlone Town                   32/100
      ...
-   10/10 Bray Wanderers                 28/100  (la fa meno spesso)
+   10/10 Bray Wanderers                 27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/10 Bray Wanderers                 42/100
-    2/10 Longford Town                  39/100
+    1/10 Bray Wanderers                 41/100
+    2/10 Longford Town                  38/100
     3/10 Cobh Ramblers                  38/100
     4/10 Wexford FC                     35/100
     5/10 Cork City                      35/100
      ...
    10/10 Treaty United                  27/100  (la fa meno spesso)
+
+==================================================
+BRASILE - SÉRIE A
+==================================================
+SOTTOFREQUENZA 1X + GOAL
+    1/18 RB Bragantino                  47/100
+    2/18 Grêmio                         47/100
+    3/18 Corinthians                    46/100
+    4/18 Bahia                          44/100
+    5/18 Santos                         43/100
+    6/18 Athletico Paranaense           43/100
+     ...
+   18/18 Palmeiras                      35/100  (la fa meno spesso)
+
+SOTTOFREQUENZA X2 + GOAL
+    1/18 Internacional                  42/100
+    2/18 Athletico Paranaense           40/100
+    3/18 Santos                         39/100
+    4/18 Chapecoense                    39/100
+    5/18 Bahia                          34/100
+     ...
+   18/18 Fluminense                     24/100  (la fa meno spesso)
+
+SOTTOFREQUENZA 12 + GOAL
+    1/18 RB Bragantino                  37/100
+    2/18 Palmeiras                      37/100
+    3/18 Corinthians                    37/100
+    4/18 Santos                         36/100
+    5/18 Coritiba                       36/100
+     ...
+   18/18 Athletico Paranaense           27/100  (la fa meno spesso)
+
+==================================================
+ARGENTINA - PRIMERA DIVISIÓN
+==================================================
+SOTTOFREQUENZA 1X + GOAL
+    1/26 Defensa y Justicia             40/100
+    2/26 Lanús                          38/100
+    3/26 Banfield                       38/100
+    4/26 Rosario Central                37/100
+    5/26 Estudiantes                    35/100
+     ...
+   26/26 Gimnasia LP                    24/100  (la fa meno spesso)
+
+SOTTOFREQUENZA X2 + GOAL
+    1/26 Barracas Central               35/100
+    2/26 Defensa y Justicia             34/100
+    3/26 Talleres                       33/100
+    4/26 Newell's Old Boys              33/100
+    5/26 Banfield                       32/100
+     ...
+   26/26 Aldosivi                       17/100  (la fa meno spesso)
+
+SOTTOFREQUENZA 12 + GOAL
+    1/26 Racing Club                    35/100
+    2/26 Banfield                       32/100
+    3/26 Instituto                      30/100
+    4/26 Defensa y Justicia             30/100
+    5/26 Atlético Tucumán               30/100
+     ...
+   26/26 Vélez Sarsfield                16/100  (la fa meno spesso)
+
+==================================================
+USA/CANADA - MLS
+==================================================
+SOTTOFREQUENZA 1X + GOAL
+    1/29 Portland Timbers               55/100
+    2/29 LA Galaxy                      55/100
+    3/29 St. Louis City                 49/100
+    4/29 Inter Miami CF                 49/100
+    5/29 Columbus Crew                  49/100
+     ...
+   29/29 Vancouver Whitecaps            36/100  (la fa meno spesso)
+
+SOTTOFREQUENZA X2 + GOAL
+    1/29 Inter Miami CF                 47/100
+    2/29 DC United                      46/100
+    3/29 Minnesota United               45/100
+    4/29 Atlanta United                 45/100
+    5/29 Orlando City                   42/100
+     ...
+   29/29 Nashville SC                   25/100  (la fa meno spesso)
+
+SOTTOFREQUENZA 12 + GOAL
+    1/29 Inter Miami CF                 58/100
+    2/29 Sporting Kansas City           54/100
+    3/29 San Jose Earthquakes           52/100
+    4/29 Chicago Fire FC                52/100
+    5/29 FC Cincinnati                  50/100
+     ...
+   29/29 Seattle Sounders FC            30/100  (la fa meno spesso)
+
+==================================================
+AUSTRALIA - A-LEAGUE MEN
+==================================================
+SOTTOFREQUENZA 1X + GOAL
+    1/11 Adelaide United                51/100
+    2/11 Perth Glory                    48/100
+    3/11 Macarthur FC                   47/100
+    4/11 Newcastle Jets                 46/100
+    5/11 Wellington Phoenix             44/100
+     ...
+   11/11 Sydney FC                      38/100  (la fa meno spesso)
+
+SOTTOFREQUENZA X2 + GOAL
+    1/11 Adelaide United                50/100
+    2/11 Newcastle Jets                 48/100
+    3/11 Macarthur FC                   44/100
+    4/11 Central Coast Mariners         43/100
+    5/11 Western Sydney Wanderers FC    42/100
+     ...
+   11/11 Wellington Phoenix             32/100  (la fa meno spesso)
+
+SOTTOFREQUENZA 12 + GOAL
+    1/11 Adelaide United                51/100
+    2/11 Macarthur FC                   45/100
+    3/11 Brisbane Roar FC               44/100
+    4/11 Perth Glory                    43/100
+    5/11 Newcastle Jets                 42/100
+     ...
+   11/11 Melbourne City FC              33/100  (la fa meno spesso)
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
