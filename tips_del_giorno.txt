@@ -1,7 +1,38 @@
-TIPS DEL GIORNO - 27/10/2026
-Aggiornato: 27/10/2026 23:28 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 28/10/2026
+Aggiornato: 28/10/2026 00:23 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
-Nessuna tip convincente oggi.
+ 1. 20:00  Carrarese vs Arezzo   [ITALIA - SERIE B]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 80.9  (R+30 C+10 F+9.4 G+0 A+6.4 E+0 S+25)
+    Carrarese non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Carrarese è in sottofrequenza (25/100), deve recuperare; anche Arezzo è in sottofrequenza su questa combo (28/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 2. 17:00  AC Oulu vs VPS   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 78.0  (R+30 C+10 F+1.5 G+0 A+1.5 E+10 S+25)
+    AC Oulu non fa 1X + GOAL da 12 partite (ritardo massimo del campionato 12, mediano 0), ed è il ritardo più lungo del campionato. Inoltre AC Oulu è in sottofrequenza (40/100), deve recuperare; anche VPS è in sottofrequenza su questa combo (40/100), deve recuperare; anche VPS è in ritardo sulla stessa combo (12).
+
+ 3. 19:00  Degerfors vs Västerås SK   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 66.0  (R+30 C+10 F+5 G+3 A+3 E+0 S+15)
+    Västerås SK non fa 1X + GOAL da 17 partite (ritardo massimo del campionato 17, mediano 2), ed è il ritardo più lungo del campionato. Inoltre Västerås SK è in sottofrequenza (31/100), deve recuperare; nel ritardo il 65% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 4. 19:00  Halmstads BK vs Malmö FF   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 60.4  (R+30 C+10 F+2.2 G+0 A+8.2 E+0 S+10)
+    Malmö FF non fa X2 + GOAL da 9 partite (ritardo massimo del campionato 9, mediano 0), ed è il ritardo più lungo del campionato. Inoltre anche Halmstads BK è in sottofrequenza su questa combo (25/100), deve recuperare.
+
+ 5. 23:30  Santos vs Palmeiras   [BRASILE - SÉRIE A]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 54.5  (R+30 C+10 F+5.6 G+1.4 A-7.4 E+0 S+15)
+    Palmeiras non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Palmeiras è in sottofrequenza (26/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Santos la fa già spesso (39/100).
+
+ 6. 20:45  St. Johnstone vs Motherwell   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 49.2  (R+30 C+10 F-1.5 G+7.2 A+3.5 E+0 S+0)
+    Motherwell non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 7. 20:00  Juve Stabia vs Hellas Verona   [ITALIA - SERIE B]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 45.2  (R+30 C+10 F+1.8 G+6.6 A-3.2 E+0 S+0)
+    Juve Stabia non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 8. 19:00  Brommapojkarna vs Häcken   [SVEZIA - ALLSVENSKAN]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 36.3  (R+30 C+10 F-1.6 G+3.4 A-5.6 E+0 S+0)
+    Häcken non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 67% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Brommapojkarna la fa già spesso (41/100).
+
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
