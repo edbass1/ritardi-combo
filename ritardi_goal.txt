@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 27/10/2026 19:40 (ora italiana)
+Aggiornato: 27/10/2026 20:35 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8,7 +8,7 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (80 partite giocate) + 2025/2026
+Stagione 2026/2027 (81 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              4  🟢 75%
@@ -17,22 +17,22 @@ RITARDI 1X + GOAL
    4. Cagliari                          2  🟢 100%
    5. Genoa                             2  🟢 50%
    6. Juventus                          2  🟢 100%
-   7. Udinese                           2  🟢 100%
-   8. Venezia                           2  🔴
-   9. Milan                             1  🟢 100%
-  10. Sassuolo                          1  🟢 100%  🔴
+   7. Sassuolo                          2  🟢 100%  🔴
+   8. Udinese                           2  🟢 100%
+   9. Venezia                           2  🔴
+  10. Lazio                             1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Monza                             5  🟢 100%
    2. Parma                             5  🟢 100%
    3. Udinese                           5  🟢 80%
    4. Genoa                             4  🟢 75%
-   5. Lazio                             4  🟢 100%
-   6. Venezia                           4  🟢 50%
-   7. Torino                            3  🟢 100%
-   8. Cagliari                          2  🟢 100%
-   9. Juventus                          2  🟢 100%
-  10. Lecce                             2  🟢 100%
+   5. Venezia                           4  🟢 50%
+   6. Torino                            3  🟢 100%
+   7. Cagliari                          2  🟢 100%
+   8. Juventus                          2  🟢 100%
+   9. Lecce                             2  🟢 100%
+  10. Milan                             2  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. Napoli                            5  🟢 60%
