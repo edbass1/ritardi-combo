@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 27/10/2026 20:35 (ora italiana)
+Aggiornato: 27/10/2026 21:29 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -37,7 +37,7 @@ SOTTOFREQUENZA 12 + GOAL
 ITALIA - SERIE B
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Catanzaro                      47/100
+    1/20 Catanzaro                      48/100
     2/20 Virtus Entella                 44/100
     3/20 Mantova                        44/100
     4/20 Juve Stabia                    44/100
@@ -48,8 +48,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/20 Modena                         41/100
     2/20 Juve Stabia                    41/100
-    3/20 Cesena                         40/100
-    4/20 Catanzaro                      40/100
+    3/20 Catanzaro                      41/100
+    4/20 Cesena                         40/100
     5/20 Empoli                         37/100
     6/20 Cremonese                      37/100
      ...
@@ -877,9 +877,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/16 Brommapojkarna                 42/100
     3/16 Örgryte                        41/100
     4/16 Häcken                         40/100
-    5/16 GAIS                           38/100
-    6/16 Elfsborg                       38/100
-    7/16 AIK                            38/100
+    5/16 Elfsborg                       39/100
+    6/16 AIK                            39/100
      ...
    16/16 Djurgården                     27/100  (la fa meno spesso)
 
@@ -908,7 +907,7 @@ SVEZIA - SUPERETTAN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/13 Örebro                         56/100
-    2/13 Varbergs BoIS FC               47/100
+    2/13 Varbergs BoIS FC               48/100
     3/13 Falkenbergs FF                 47/100
     4/13 Östersunds FK                  46/100
     5/13 Norrby                         41/100
@@ -917,11 +916,11 @@ SOTTOFREQUENZA 1X + GOAL
    13/13 GIF Sundsvall                  29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/13 IFK Värnamo                    40/100
-    2/13 Landskrona BoIS                39/100
+    1/13 Landskrona BoIS                40/100
+    2/13 IFK Värnamo                    40/100
     3/13 Östers IF                      38/100
-    4/13 IK Brage                       37/100
-    5/13 Varbergs BoIS FC               36/100
+    4/13 Varbergs BoIS FC               37/100
+    5/13 IK Brage                       37/100
      ...
    13/13 GIF Sundsvall                  29/100  (la fa meno spesso)
 
@@ -930,8 +929,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/13 IFK Norrköping                 43/100
     3/13 Örebro                         42/100
     4/13 Varbergs BoIS FC               41/100
-    5/13 Landskrona BoIS                40/100
-    6/13 IFK Värnamo                    40/100
+    5/13 IFK Värnamo                    40/100
      ...
    13/13 Östersunds FK                  30/100  (la fa meno spesso)
 

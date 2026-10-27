@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 27/10/2026 20:35 (ora italiana)
+Aggiornato: 27/10/2026 21:29 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -48,7 +48,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE B
-Stagione 2026/2027 (80 partite giocate) + 2025/2026
+Stagione 2026/2027 (81 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Arezzo                           8+  🟢 75%
@@ -58,9 +58,9 @@ RITARDI 1X + GOAL
    5. Virtus Entella                    2  🟢 50%  🔴
    6. Ascoli                            1  🟢 100%
    7. Avellino                          1
-   8. Benevento                         1  🟢 100%
-   9. Catanzaro                         1  🟢 100%  🔴
-  10. Cesena                            1  🟢 100%
+   8. Cesena                            1  🟢 100%
+   9. Cremonese                         1
+  10. Empoli                            1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Carrarese                         6  🟢 50%
@@ -71,13 +71,13 @@ RITARDI X2 + GOAL
    6. Palermo                           2  🟢 100%
    7. Arezzo                            1  🟢 100%
    8. Avellino                          1
-   9. Benevento                         1  🟢 100%
-  10. Cesena                            1  🟢 100%  🔴
+   9. Cesena                            1  🟢 100%
+  10. Empoli                            1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Cesena                            6  🟢 100%  🔴
    2. Juve Stabia                       6  🟢 83%
-   3. Benevento                         4  🟢 75%
+   3. Benevento                         5  🟢 80%
    4. LR Vicenza                        3  🟢 100%
    5. Südtirol                          3  🟢 67%
    6. Avellino                          2  🟢 50%
@@ -1088,7 +1088,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (200 partite giocate) + 2025
+Stagione 2026 (201 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Västerås SK                      17  🟢 65%
@@ -1100,7 +1100,7 @@ RITARDI 1X + GOAL
    7. Halmstads BK                      3  🟢 67%
    8. Degerfors                         2  🟢 100%
    9. Mjällby                           2  🟢 50%
-  10. AIK                               1  🟢 100%
+  10. Sirius                            1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
    1. Malmö FF                          9
@@ -1109,26 +1109,26 @@ RITARDI X2 + GOAL
    4. Brommapojkarna                    2  🟢 100%  🔴
    5. Mjällby                           2  🟢 50%
    6. Degerfors                         1  🟢 100%  🔴
-   7. Elfsborg                          1
-   8. Kalmar FF                         1  🟢 100%
-   9. AIK                               0
-  10. Djurgården                        0
+   7. Kalmar FF                         1  🟢 100%
+   8. AIK                               0
+   9. Djurgården                        0
+  10. Elfsborg                          0
 
 RITARDI 12 + GOAL
    1. Häcken                            6  🟢 67%
    2. Mjällby                           6  🟢 83%
-   3. Hammarby                          4
-   4. IFK Göteborg                      4  🟢 50%
-   5. Malmö FF                          4
-   6. Djurgården                        3  🟢 67%
-   7. Elfsborg                          3  🟢 67%
+   3. Elfsborg                          4  🟢 75%
+   4. Hammarby                          4
+   5. IFK Göteborg                      4  🟢 50%
+   6. Malmö FF                          4
+   7. Djurgården                        3  🟢 67%
    8. Brommapojkarna                    2  🟢 100%  🔴
-   9. Degerfors                         1  🟢 100%
-  10. GAIS                              1  🟢 100%
+   9. AIK                               1  🟢 100%
+  10. Degerfors                         1  🟢 100%
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (222 partite giocate) + 2025
+Stagione 2026 (223 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. IFK Värnamo                       6  🟢 67%
@@ -1139,8 +1139,8 @@ RITARDI 1X + GOAL
    6. IFK Norrköping                    1  🟢 100%
    7. IK Oddevold                       1  🟢 100%
    8. Norrby                            1  🟢 100%
-   9. Varbergs BoIS FC                  1  🔴
-  10. Örebro                            1  🔴
+   9. Örebro                            1  🔴
+  10. Östers IF                         1  🟢 100%
 
 RITARDI X2 + GOAL
    1. GIF Sundsvall                     9  🟢 56%
@@ -1150,19 +1150,19 @@ RITARDI X2 + GOAL
    5. Nordic United FC                  3  🟢 100%
    6. Falkenbergs FF                    2  🟢 50%
    7. IFK Värnamo                       2  🔴
-   8. Landskrona BoIS                   2  🟢 100%  🔴
-   9. Östersunds FK                     2  🟢 50%
-  10. IFK Norrköping                    1  🟢 100%
+   8. Östersunds FK                     2  🟢 50%
+   9. IFK Norrköping                    1  🟢 100%
+  10. Örebro                            1
 
 RITARDI 12 + GOAL
    1. Helsingborg                       5
    2. GIF Sundsvall                     3  🟢 67%
    3. IFK Norrköping                    3  🟢 100%  🔴
    4. Ljungskile                        3  🟢 100%
-   5. Örebro                            3  🟢 67%  🔴
-   6. IFK Värnamo                       2
-   7. Sandvikens IF                     2
-   8. Varbergs BoIS FC                  2  🟢 50%
+   5. Varbergs BoIS FC                  3  🟢 67%
+   6. Örebro                            3  🟢 67%  🔴
+   7. IFK Värnamo                       2
+   8. Sandvikens IF                     2
    9. Falkenbergs FF                    1  🔴
   10. IK Oddevold                       1  🟢 100%
 
