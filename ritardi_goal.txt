@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 28/10/2026 20:39 (ora italiana)
+Aggiornato: 28/10/2026 21:31 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -48,7 +48,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE B
-Stagione 2026/2027 (87 partite giocate) + 2025/2026
+Stagione 2026/2027 (88 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Arezzo                           8+  🟢 75%
@@ -70,9 +70,9 @@ RITARDI X2 + GOAL
    5. Empoli                            2  🟢 100%
    6. Juve Stabia                       2  🟢 50%  🔴
    7. Padova                            2  🟢 50%
-   8. Palermo                           2  🟢 100%
-   9. Arezzo                            1  🟢 100%
-  10. Ascoli                            1  🟢 100%
+   8. Arezzo                            1  🟢 100%
+   9. Ascoli                            1  🟢 100%
+  10. Sampdoria                         1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Juve Stabia                       6  🟢 83%
@@ -83,8 +83,8 @@ RITARDI 12 + GOAL
    6. Cremonese                         2  🟢 50%  🔴
    7. Hellas Verona                     2  🟢 100%
    8. Padova                            2  🟢 50%
-   9. Sampdoria                         2  🟢 100%
-  10. Virtus Entella                    2  🟢 50%
+   9. Pisa                              2  🟢 100%  🔴
+  10. Sampdoria                         2  🟢 100%
 
 ==================================================
 ITALIA - SERIE C
@@ -1128,43 +1128,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (201 partite giocate) + 2025
+Stagione 2026 (205 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
-   1. Västerås SK                      17  🟢 65%
+   1. Västerås SK                      18  🟢 67%
    2. Kalmar FF                         9
-   3. Brommapojkarna                    4  🟢 75%  🔴
-   4. Hammarby                          4
-   5. Häcken                            4  🟢 75%
-   6. Malmö FF                          4
-   7. Halmstads BK                      3  🟢 67%
-   8. Degerfors                         2  🟢 100%
+   3. Brommapojkarna                    5  🟢 60%  🔴
+   4. Häcken                            5  🟢 60%
+   5. Malmö FF                          5
+   6. Halmstads BK                      4  🟢 75%
+   7. Hammarby                          4
+   8. Degerfors                         3  🟢 100%
    9. Mjällby                           2  🟢 50%
   10. Sirius                            1  🟢 100%  🔴
 
 RITARDI X2 + GOAL
-   1. Malmö FF                          9
+   1. Malmö FF                         10
    2. Hammarby                          5
-   3. Häcken                            4  🟢 75%
-   4. Brommapojkarna                    2  🟢 100%  🔴
-   5. Mjällby                           2  🟢 50%
-   6. Degerfors                         1  🟢 100%  🔴
-   7. Kalmar FF                         1  🟢 100%
-   8. AIK                               0
-   9. Djurgården                        0
-  10. Elfsborg                          0
+   3. Häcken                            5  🟢 60%
+   4. Brommapojkarna                    3  🟢 67%  🔴
+   5. Degerfors                         2  🟢 100%  🔴
+   6. Mjällby                           2  🟢 50%
+   7. Halmstads BK                      1  🟢 100%
+   8. Kalmar FF                         1  🟢 100%
+   9. Västerås SK                       1  🟢 100%
+  10. AIK                               0
 
 RITARDI 12 + GOAL
-   1. Häcken                            6  🟢 67%
+   1. Häcken                            7  🟢 57%
    2. Mjällby                           6  🟢 83%
-   3. Elfsborg                          4  🟢 75%
-   4. Hammarby                          4
-   5. IFK Göteborg                      4  🟢 50%
-   6. Malmö FF                          4
-   7. Djurgården                        3  🟢 67%
-   8. Brommapojkarna                    2  🟢 100%  🔴
-   9. AIK                               1  🟢 100%
-  10. Degerfors                         1  🟢 100%
+   3. IFK Göteborg                      5  🟢 60%
+   4. Malmö FF                          5
+   5. Djurgården                        4  🟢 75%
+   6. Elfsborg                          4  🟢 75%
+   7. Hammarby                          4
+   8. Brommapojkarna                    3  🟢 67%  🔴
+   9. Degerfors                         2  🟢 100%
+  10. AIK                               1  🟢 100%
 
 ==================================================
 SVEZIA - SUPERETTAN

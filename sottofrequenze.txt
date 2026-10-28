@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 28/10/2026 20:39 (ora italiana)
+Aggiornato: 28/10/2026 21:31 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -58,7 +58,7 @@ SOTTOFREQUENZA X2 + GOAL
    20/20 Carrarese                      25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Pisa                           36/100
+    1/20 Pisa                           35/100
     2/20 Cremonese                      35/100
     3/20 Cesena                         35/100
     4/20 Hellas Verona                  34/100
@@ -914,17 +914,17 @@ SOTTOFREQUENZA 1X + GOAL
     1/16 Sirius                         43/100
     2/16 Brommapojkarna                 42/100
     3/16 Örgryte                        41/100
-    4/16 Häcken                         40/100
+    4/16 Häcken                         39/100
     5/16 Elfsborg                       39/100
     6/16 AIK                            39/100
      ...
-   16/16 Djurgården                     27/100  (la fa meno spesso)
+   16/16 Djurgården                     28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 Örgryte                        41/100
     2/16 Degerfors                      41/100
-    3/16 Brommapojkarna                 39/100
-    4/16 IFK Göteborg                   38/100
+    3/16 IFK Göteborg                   39/100
+    4/16 Brommapojkarna                 39/100
     5/16 Mjällby                        37/100
     6/16 Häcken                         37/100
      ...
@@ -935,8 +935,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/16 Brommapojkarna                 41/100
     3/16 Örgryte                        40/100
     4/16 AIK                            39/100
-    5/16 Häcken                         37/100
-    6/16 Elfsborg                       37/100
+    5/16 Elfsborg                       37/100
      ...
    16/16 Halmstads BK                   29/100  (la fa meno spesso)
 
