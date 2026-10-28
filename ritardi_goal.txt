@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 28/10/2026 00:23 (ora italiana)
+Aggiornato: 28/10/2026 01:34 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1568,7 +1568,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (209 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (210 partite giocate) + 2026 - Apertura
 ==================================================
 RITARDI 1X + GOAL
    1. Gimnasia Mendoza                  6  🟢 50%
@@ -1578,9 +1578,9 @@ RITARDI 1X + GOAL
    5. Defensa y Justicia                4  🟢 75%  🔴
    6. Rosario Central                   3  🟢 100%
    7. Vélez Sarsfield                   3  🟢 67%
-   8. Atlético Tucumán                  2  🟢 50%
-   9. Club Atlético Platense            2  🟢 50%
-  10. Gimnasia LP                       2  🟢 100%
+   8. Argentinos Juniors                2
+   9. Atlético Tucumán                  2  🟢 50%
+  10. Club Atlético Platense            2  🟢 50%
 
 RITARDI X2 + GOAL
    1. Belgrano                          5  🟢 60%
@@ -1588,23 +1588,23 @@ RITARDI X2 + GOAL
    3. Estudiantes de Río Cuarto         3  🟢 67%
    4. Vélez Sarsfield                   3  🟢 67%
    5. Aldosivi                          2  🟢 50%
-   6. Boca Juniors                      2  🟢 50%
-   7. Central Córdoba de Santiago       2  🟢 100%
-   8. Instituto                         2
-   9. River Plate                       2  🟢 50%
-  10. Argentinos Juniors                1
+   6. Argentinos Juniors                2
+   7. Boca Juniors                      2  🟢 50%
+   8. Central Córdoba de Santiago       2  🟢 100%
+   9. Instituto                         2
+  10. River Plate                       2  🟢 50%
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra                12  🟢 58%
-   2. Belgrano                          4  🟢 50%
-   3. Independiente Rivadavia           4  🟢 75%
+   2. Independiente Rivadavia           5  🟢 60%
+   3. Belgrano                          4  🟢 50%
    4. Lanús                             4  🟢 50%
    5. River Plate                       4  🟢 50%
    6. Vélez Sarsfield                   4  🟢 75%
-   7. Independiente                     3
-   8. Instituto                         3  🔴
-   9. Racing Club                       3  🟢 67%  🔴
-  10. Sarmiento                         3  🟢 100%
+   7. Argentinos Juniors                3
+   8. Independiente                     3
+   9. Instituto                         3  🔴
+  10. Racing Club                       3  🟢 67%  🔴
 
 ==================================================
 USA/CANADA - MLS
