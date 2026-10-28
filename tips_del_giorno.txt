@@ -1,21 +1,13 @@
 TIPS DEL GIORNO - 28/10/2026
-Aggiornato: 28/10/2026 19:34 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 28/10/2026 20:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 20:00  Carrarese vs Arezzo   [ITALIA - SERIE B]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 80.9  (R+30 C+10 F+9.4 G+0 A+6.4 E+0 S+25)
-    Carrarese non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Carrarese è in sottofrequenza (25/100), deve recuperare; anche Arezzo è in sottofrequenza su questa combo (28/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 23:30  Santos vs Palmeiras   [BRASILE - SÉRIE A]  [OK X2+GOAL]
+ 1. 23:30  Santos vs Palmeiras   [BRASILE - SÉRIE A]  [OK X2+GOAL]
     X2 + GOAL  -  punteggio 54.5  (R+30 C+10 F+5.6 G+1.4 A-7.4 E+0 S+15)
     Palmeiras non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Palmeiras è in sottofrequenza (26/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Santos la fa già spesso (39/100).
 
- 3. 20:45  St. Johnstone vs Motherwell   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
+ 2. 20:45  St. Johnstone vs Motherwell   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
     X2 + GOAL  -  punteggio 49.2  (R+30 C+10 F-1.5 G+7.2 A+3.5 E+0 S+0)
     Motherwell non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 86% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 4. 20:00  Juve Stabia vs Hellas Verona   [ITALIA - SERIE B]  [ALT 12+GOAL]
-    12 + GOAL  -  punteggio 45.2  (R+30 C+10 F+1.8 G+6.6 A-3.2 E+0 S+0)
-    Juve Stabia non fa 12 + GOAL da 6 partite (ritardo massimo del campionato 6, mediano 1), ed è il ritardo più lungo del campionato. Inoltre nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
 
 
 REGOLE DEL PUNTEGGIO

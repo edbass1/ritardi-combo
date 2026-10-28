@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 28/10/2026 19:34 (ora italiana)
+Aggiornato: 28/10/2026 20:39 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8,43 +8,43 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (83 partite giocate) + 2025/2026
+Stagione 2026/2027 (86 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              5  🟢 80%
-   2. Lecce                             4  🟢 100%
-   3. Bologna                           3  🟢 100%
-   4. Genoa                             2  🟢 50%
-   5. Juventus                          2  🟢 100%
-   6. Sassuolo                          2  🟢 100%  🔴
-   7. Udinese                           2  🟢 100%
-   8. Venezia                           2  🔴
-   9. Lazio                             1  🟢 100%
-  10. Milan                             1  🟢 100%
+   2. Bologna                           4  🟢 100%
+   3. Lecce                             4  🟢 100%
+   4. Udinese                           3  🟢 67%
+   5. Venezia                           3  🔴
+   6. Genoa                             2  🟢 50%
+   7. Juventus                          2  🟢 100%
+   8. Milan                             2  🟢 100%
+   9. Sassuolo                          2  🟢 100%  🔴
+  10. Inter                             1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Monza                             5  🟢 100%
-   2. Parma                             5  🟢 100%
-   3. Udinese                           5  🟢 80%
-   4. Genoa                             4  🟢 75%
-   5. Venezia                           4  🟢 50%
+   1. Parma                             6  🟢 83%
+   2. Udinese                           6  🟢 67%
+   3. Monza                             5  🟢 100%
+   4. Venezia                           5  🟢 60%
+   5. Genoa                             4  🟢 75%
    6. Cagliari                          3  🟢 100%
-   7. Juventus                          2  🟢 100%
-   8. Lecce                             2  🟢 100%
-   9. Milan                             2  🟢 100%  🔴
-  10. Bologna                           1  🟢 100%  🔴
+   7. Inter                             2  🟢 100%
+   8. Juventus                          2  🟢 100%
+   9. Lecce                             2  🟢 100%
+  10. Fiorentina                        1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Napoli                            5  🟢 60%
    2. Juventus                          4  🟢 100%
-   3. Genoa                             2  🟢 50%
-   4. Lecce                             2  🟢 100%
-   5. Udinese                           2  🟢 100%
-   6. Venezia                           2
+   3. Udinese                           3  🟢 67%
+   4. Venezia                           3
+   5. Genoa                             2  🟢 50%
+   6. Lecce                             2  🟢 100%
    7. Atalanta                          1  🟢 100%
-   8. Bologna                           1  🟢 100%
-   9. Frosinone                         1  🟢 100%
-  10. Milan                             1  🟢 100%
+   8. Frosinone                         1  🟢 100%
+   9. Inter                             1  🟢 100%
+  10. Parma                             1
 
 ==================================================
 ITALIA - SERIE B
@@ -88,7 +88,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ITALIA - SERIE C
-Stagione 2026/2027 (329 partite giocate) + 2025/2026
+Stagione 2026/2027 (330 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Perugia                           8  🟢 88%
@@ -97,10 +97,10 @@ RITARDI 1X + GOAL
    4. Pineto                            5
    5. Audace Cerignola                  4  🟢 75%
    6. AZ Picerno                        3  🟢 67%
-   7. Atalanta U23                      3  🟢 100%
-   8. Crotone                           3
-   9. Ostia Mare                        3  🟢 67%
-  10. Pianese                           3
+   7. Crotone                           3
+   8. Ostia Mare                        3  🟢 67%
+   9. Pianese                           3
+  10. Arzignano Valchiampo              2  🟢 50%
 
 RITARDI X2 + GOAL
    1. Giugliano                        10  🟢 80%
@@ -1288,42 +1288,42 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
-Stagione 2026/2027 (70 partite giocate) + 2025/2026
+Stagione 2026/2027 (72 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Zeleziarne Podbrezová             4  🟢 50%
-   2. DAC 1904 Dunajska Streda          3  🟢 100%  🔴
-   3. Trenčín                           3
+   1. DAC 1904 Dunajska Streda          4  🟢 75%
+   2. Trenčín                           4  🟢 50%
+   3. Zeleziarne Podbrezová             4  🟢 50%
    4. Komárno                           2
    5. Ružomberok                        2  🟢 50%
-   6. Zemplín Michalovce                1  🟢 100%  🔴
-   7. Dukla Banská Bystrica             0
-   8. FC Košice                         0  🔴
-   9. Skalica                           0
-  10. Slovan Bratislava                 0
+   6. FC Košice                         1  🔴
+   7. Slovan Bratislava                 1  🟢 100%
+   8. Zemplín Michalovce                1  🟢 100%  🔴
+   9. Dukla Banská Bystrica             0
+  10. Skalica                           0
 
 RITARDI X2 + GOAL
-   1. Trenčín                           4  🟢 50%
-   2. Komárno                           2  🔴
-   3. Ružomberok                        2  🟢 50%
-   4. DAC 1904 Dunajska Streda          1  🟢 100%
-   5. Dukla Banská Bystrica             0
-   6. FC Košice                         0  🔴
-   7. Skalica                           0
-   8. Slovan Bratislava                 0  🔴
+   1. Trenčín                           5  🟢 60%
+   2. DAC 1904 Dunajska Streda          2  🟢 50%
+   3. Komárno                           2  🔴
+   4. Ružomberok                        2  🟢 50%
+   5. FC Košice                         1  🔴
+   6. Slovan Bratislava                 1  🟢 100%  🔴
+   7. Dukla Banská Bystrica             0
+   8. Skalica                           0
    9. Spartak Trnava                    0
   10. Zeleziarne Podbrezová             0
 
 RITARDI 12 + GOAL
    1. Ružomberok                        6  🟢 83%
-   2. Dukla Banská Bystrica             4
-   3. FC Košice                         4  🟢 100%  🔴
+   2. FC Košice                         5  🟢 80%  🔴
+   3. Dukla Banská Bystrica             4
    4. Skalica                           4  🟢 75%
-   5. Komárno                           3
-   6. Slovan Bratislava                 3  🟢 100%  🔴
-   7. Trenčín                           3
-   8. Spartak Trnava                    2  🟢 100%
-   9. DAC 1904 Dunajska Streda          1  🟢 100%
+   5. Slovan Bratislava                 4  🟢 100%  🔴
+   6. Trenčín                           4  🟢 50%
+   7. Komárno                           3
+   8. DAC 1904 Dunajska Streda          2  🟢 50%
+   9. Spartak Trnava                    2  🟢 100%
   10. Žilina                            1  🟢 100%  🔴
 
 ==================================================
