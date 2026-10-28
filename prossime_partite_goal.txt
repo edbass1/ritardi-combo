@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 28/10/2026 21:31 (ora italiana)
+Aggiornato: 28/10/2026 22:29 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -193,10 +193,8 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
       Pineto: 12 + GOAL (7) 🟢 57%
 15:00  Sheffield Wednesday vs Blackpool   [INGHILTERRA - LEAGUE ONE]
       Sheffield Wednesday: 12 + GOAL (7) 🟢 71%
-15:00  Arezzo vs Ascoli   [ITALIA - SERIE B]
-      Arezzo: 1X + GOAL (8+) 🟢 75%
 15:00  Empoli vs Juve Stabia   [ITALIA - SERIE B]
-      Juve Stabia: 12 + GOAL (6) 🟢 83%
+      Juve Stabia: 12 + GOAL (7) 🟢 71%
 15:00  Tondela vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
       Tondela: X2 + GOAL (8+) 🟢 75%
 15:30  Ružomberok vs Skalica   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
@@ -221,7 +219,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della 
 17:15  Lyon vs Angers   [FRANCIA - LIGUE 1]
       Lyon: X2 + GOAL (6) 🟢 83%
 17:15  Hellas Verona vs Carrarese   [ITALIA - SERIE B]
-      Carrarese: X2 + GOAL (6) 🟢 50%
+      Carrarese: X2 + GOAL (7) 🟢 57%
 17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
       Liverpool: 1X + GOAL (6) 🟢 67% 🔴 Liverpool
       Arsenal: X2 + GOAL (8) 🟢 75%
