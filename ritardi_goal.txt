@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 28/10/2026 22:29 (ora italiana)
+Aggiornato: 28/10/2026 23:29 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8,16 +8,16 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (86 partite giocate) + 2025/2026
+Stagione 2026/2027 (88 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              5  🟢 80%
    2. Bologna                           4  🟢 100%
    3. Lecce                             4  🟢 100%
-   4. Udinese                           3  🟢 67%
-   5. Venezia                           3  🔴
-   6. Genoa                             2  🟢 50%
-   7. Juventus                          2  🟢 100%
+   4. Genoa                             3  🟢 67%
+   5. Juventus                          3  🟢 100%
+   6. Udinese                           3  🟢 67%
+   7. Venezia                           3  🔴
    8. Milan                             2  🟢 100%
    9. Sassuolo                          2  🟢 100%  🔴
   10. Inter                             1  🟢 100%
@@ -25,26 +25,26 @@ RITARDI 1X + GOAL
 RITARDI X2 + GOAL
    1. Parma                             6  🟢 83%
    2. Udinese                           6  🟢 67%
-   3. Monza                             5  🟢 100%
+   3. Genoa                             5  🟢 80%
    4. Venezia                           5  🟢 60%
-   5. Genoa                             4  🟢 75%
-   6. Cagliari                          3  🟢 100%
+   5. Cagliari                          3  🟢 100%
+   6. Juventus                          3  🟢 100%
    7. Inter                             2  🟢 100%
-   8. Juventus                          2  🟢 100%
-   9. Lecce                             2  🟢 100%
-  10. Fiorentina                        1  🟢 100%
+   8. Lecce                             2  🟢 100%
+   9. Fiorentina                        1  🟢 100%
+  10. Roma                              1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Napoli                            5  🟢 60%
-   2. Juventus                          4  🟢 100%
+   1. Juventus                          5  🟢 100%
+   2. Genoa                             3  🟢 67%
    3. Udinese                           3  🟢 67%
    4. Venezia                           3
-   5. Genoa                             2  🟢 50%
-   6. Lecce                             2  🟢 100%
-   7. Atalanta                          1  🟢 100%
-   8. Frosinone                         1  🟢 100%
-   9. Inter                             1  🟢 100%
-  10. Parma                             1
+   5. Lecce                             2  🟢 100%
+   6. Atalanta                          1  🟢 100%
+   7. Frosinone                         1  🟢 100%
+   8. Inter                             1  🟢 100%
+   9. Parma                             1
+  10. Bologna                           0
 
 ==================================================
 ITALIA - SERIE B
@@ -1368,43 +1368,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 SCOZIA - PREMIERSHIP
-Stagione 2026/2027 (60 partite giocate) + 2025/2026
+Stagione 2026/2027 (66 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Falkirk                           3  🟢 100%
-   2. Hibernian                         3  🟢 67%  🔴
-   3. Celtic                            1  🟢 100%
-   4. Heart of Midlothian               1  🟢 100%
-   5. Kilmarnock                        1  🟢 100%  🔴
-   6. Motherwell                        1  🟢 100%
-   7. Rangers                           1  🟢 100%  🔴
-   8. St. Johnstone                     1  🟢 100%
-   9. Aberdeen                          0
-  10. Dundee FC                         0  🔴
+   1. Falkirk                           4  🟢 75%
+   2. Aberdeen                          1
+   3. Celtic                            0
+   4. Dundee FC                         0  🔴
+   5. Dundee United                     0
+   6. Heart of Midlothian               0
+   7. Hibernian                         0
+   8. Kilmarnock                        0  🔴
+   9. Motherwell                        0
+  10. Rangers                           0  🔴
 
 RITARDI X2 + GOAL
-   1. Motherwell                        7  🟢 86%
-   2. St. Mirren                        5  🟢 80%
-   3. Aberdeen                          3  🟢 67%
-   4. Heart of Midlothian               3  🟢 100%
-   5. Kilmarnock                        3  🟢 100%
-   6. Dundee FC                         1  🟢 100%  🔴
-   7. Dundee United                     1  🟢 100%
-   8. Falkirk                           1  🟢 100%
-   9. Rangers                           1  🟢 100%  🔴
-  10. St. Johnstone                     1  🟢 100%
+   1. Aberdeen                          4  🟢 50%
+   2. Kilmarnock                        4  🟢 100%
+   3. Dundee FC                         2  🟢 100%  🔴
+   4. Falkirk                           2  🟢 50%
+   5. Celtic                            0
+   6. Dundee United                     0
+   7. Heart of Midlothian               0
+   8. Hibernian                         0  🔴
+   9. Motherwell                        0
+  10. Rangers                           0  🔴
 
 RITARDI 12 + GOAL
-   1. St. Johnstone                     5  🟢 60%
-   2. Rangers                           2  🟢 100%  🔴
-   3. Falkirk                           1  🟢 100%
-   4. Heart of Midlothian               1  🟢 100%
-   5. Kilmarnock                        1  🟢 100%
-   6. Motherwell                        1  🟢 100%
-   7. Aberdeen                          0
-   8. Celtic                            0  🔴
-   9. Dundee FC                         0  🔴
-  10. Dundee United                     0
+   1. St. Johnstone                     6  🟢 67%
+   2. Rangers                           3  🟢 100%  🔴
+   3. Falkirk                           2  🟢 50%
+   4. Heart of Midlothian               2  🟢 100%
+   5. Motherwell                        2  🟢 100%  🔴
+   6. Aberdeen                          1
+   7. Celtic                            1  🟢 100%  🔴
+   8. Dundee United                     1  🟢 100%
+   9. Hibernian                         1  🟢 100%
+  10. St. Mirren                        1  🟢 100%
 
 ==================================================
 SCOZIA - CHAMPIONSHIP

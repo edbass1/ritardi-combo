@@ -1,13 +1,7 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 28/10/2026 22:29 (ora italiana)
+Aggiornato: 28/10/2026 23:29 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
-
-==================================================
-28/10/2026
-==================================================
-23:30  Santos vs Palmeiras   [BRASILE - SÉRIE A]  [OK X2+GOAL]
-      [GOAL] Palmeiras: X2 + GOAL (7) 🟢 57% 🔴 Santos
 
 ==================================================
 29/10/2026
@@ -123,8 +117,8 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] Queen's Park: X2 + GOAL (10) 🟢 80% 🔴 Ayr United
 16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]  [OK 12+GOAL]
       [GOAL] Dunfermline Athletic: 12 + GOAL (18) 🟢 61%
-16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]  [OK X2+GOAL]
-      [GOAL] Motherwell: X2 + GOAL (7) 🟢 86%
+16:00  Kilmarnock vs St. Johnstone   [SCOZIA - PREMIERSHIP]  [ALT 12+GOAL]
+      [GOAL] St. Johnstone: 12 + GOAL (6) 🟢 67%
 16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]  [ALT 1X+GOAL]
       [GOAL] Greenock Morton: 1X + GOAL (6) 🟢 83% 🔴 Partick Thistle 🔴 Greenock Morton
 16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]

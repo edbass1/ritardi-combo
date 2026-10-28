@@ -1,10 +1,7 @@
 TIPS DEL GIORNO - 28/10/2026
-Aggiornato: 28/10/2026 22:29 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 28/10/2026 23:29 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 23:30  Santos vs Palmeiras   [BRASILE - SÉRIE A]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 54.5  (R+30 C+10 F+5.6 G+1.4 A-7.4 E+0 S+15)
-    Palmeiras non fa X2 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Palmeiras è in sottofrequenza (26/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno. Attenzione: Santos la fa già spesso (39/100).
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
