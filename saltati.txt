@@ -1,5 +1,5 @@
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI
-Aggiornato: 28/10/2026 18:36 (ora italiana). Dal più recente. Fonte: FotMob
+Aggiornato: 28/10/2026 19:34 (ora italiana). Dal più recente. Fonte: FotMob
 
 27/10 20:45  [GOAL] York City: 12 + GOAL uscita, era a 8  -  Barnet 3-1 York City   [INGHILTERRA - LEAGUE TWO]
 27/10 20:00  [GOAL] Cesena: 12 + GOAL uscita, era a 6  -  Cesena 2-1 Empoli   [ITALIA - SERIE B]
@@ -58,4 +58,3 @@ Aggiornato: 28/10/2026 18:36 (ora italiana). Dal più recente. Fonte: FotMob
 23/10 19:00  [GOAL] Brøndby IF: X2 + GOAL uscita, era a 10  -  Randers FC 1-3 Brøndby IF   [DANIMARCA - SUPERLIGAEN]
 23/10 19:00  [GOAL] Halmstads BK: X2 + GOAL uscita, era a 6  -  Västerås SK 1-2 Halmstads BK   [SVEZIA - ALLSVENSKAN]
 23/10 17:30  [GOAL] Karviná: X2 + GOAL uscita, era a 7  -  Ústí nad Labem 1-3 Karviná   [REP. CECA - FNL]
-21/10 20:00  [GOAL] Athletic Club: 12 + GOAL uscita, era a 6  -  Levante 3-1 Athletic Club   [SPAGNA - LALIGA]

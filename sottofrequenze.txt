@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 28/10/2026 18:36 (ora italiana)
+Aggiornato: 28/10/2026 19:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1362,7 +1362,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 VPS                            45/100
-    2/12 AC Oulu                        43/100
+    2/12 AC Oulu                        42/100
     3/12 SJK                            41/100
     4/12 TPS                            40/100
     5/12 HJK                            39/100
