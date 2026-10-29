@@ -3,15 +3,13 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 17:51 (ora italiana)
+Aggiornato: 29/10/2026 18:01 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 29/10/2026
 ==================================================
-18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      KuPS 🟢 GG 40%: 12 + GOAL (8)
 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]
       xG: Kalmar FF xG 2,64 (1,37+1,27) · GAIS xG 3,01 (1,61+1,40)
       Kalmar FF 🟢 GG 20%: 1X + GOAL (9)
@@ -318,7 +316,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 17:51 (ora italiana)
+Aggiornato: 29/10/2026 18:01 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -539,13 +537,15 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
       xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,44 (1,26+1,18)
       Atlético Tucumán 🟢 GG 50%: 1X + GOAL (7)
+18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]
+      Chrobry Głogów 🟢 GG 50%: 12 + GOAL (7)
 
 ##################################################
 # TRASFERTA
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 17:51 (ora italiana)
+Aggiornato: 29/10/2026 18:01 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -727,4 +727,8 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
       xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,44 (1,26+1,18)
       Argentinos Juniors 🟢 GG 40%: 12 + GOAL (7)
+18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]
+      Arka Gdynia 🟢 GG 33% (2/6): X2 + GOAL (6+)
+18:00  Pogoń Siedlce vs Ruch Chorzów   [POLONIA - I LIGA]
+      Ruch Chorzów 🟢 GG 40%: 12 + GOAL (6)
 
