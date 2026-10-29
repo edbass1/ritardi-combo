@@ -3,7 +3,7 @@
 ##################################################
 
 TIPS DEL GIORNO - 29/10/2026 — TOTALI
-Aggiornato: 29/10/2026 18:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 19:45 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
 Nessuna tip convincente oggi.
 
@@ -25,7 +25,7 @@ REGOLE DEL PUNTEGGIO
 ##################################################
 
 TIPS DEL GIORNO - 29/10/2026 — CASA
-Aggiornato: 29/10/2026 18:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 19:45 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
 Nessuna tip convincente oggi.
 
@@ -47,12 +47,9 @@ REGOLE DEL PUNTEGGIO
 ##################################################
 
 TIPS DEL GIORNO - 29/10/2026 — TRASFERTA
-Aggiornato: 29/10/2026 18:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 19:45 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 56.0  (R+22.5 C+5 F+7.3 G+8 A-1.7 E+0 S+15)
-    GAIS non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre GAIS è in sottofrequenza (27/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.

@@ -52,7 +52,13 @@ EXTRA = {"ITALIA":[147],"INGHILTERRA":[117],"GERMANIA":[512],"FRANCIA":[8970],"S
 _CACHE = {}
 SOGLIA_GOAL = 6   # ritardo minimo per 'Prossime partite' (combo Goal)
 GIORNI = 5
+MIN_GIORNATE = 7  # giornate giocate minime per la frequenza di campionato
 ROME = ZoneInfo('Europe/Rome')
+# (campionato, combo) -> "🔥 2/16" oppure "" ; riempito a ogni aggiornamento
+LEAGUE_BADGES = {}
+# combo -> classifica campionati; league -> statistiche stagione
+LEAGUE_FREQ = {}
+LEAGUE_FREQ_META = {}
 
 def get(url):
     err = None
@@ -172,6 +178,140 @@ def _seq_for(tid, cur, prev_m, prev_teams, venue):
     if tid in prev_teams:
         seq = [m for m in prev_m if _in_venue(m, tid, venue)] + seq
     return seq
+
+def season_combo_stats(d):
+    """Frequenza delle combo sulla stagione corrente (tutte le partite, non casa/trasferta)."""
+    ms = (d.get("fixtures") or {}).get("allMatches") or []
+    rounds, played, unfinished = set(), 0, 0
+    hits = {name: 0 for name, _ in COMBOS["goal"]}
+    for m in ms:
+        st = m.get("status") or {}
+        if st.get("cancelled") or st.get("awarded"):
+            continue
+        if not st.get("finished"):
+            unfinished += 1
+            continue
+        try:
+            h, a = [int(x) for x in st["scoreStr"].split("-")]
+        except Exception:
+            continue
+        played += 1
+        rnd = m.get("round")
+        if rnd is None:
+            rnd = m.get("roundName")
+        if rnd is not None and str(rnd).strip():
+            rounds.add(str(rnd).strip())
+        for name, f in COMBOS["goal"]:
+            if f(h, a):
+                hits[name] += 1
+    return {"in_season": unfinished > 0, "rounds": len(rounds), "played": played, "hits": hits}
+
+def ogni_label(played, hits):
+    """'1 ogni 6,0' = partite giocate / uscite. None se non è mai uscita."""
+    if not hits:
+        return None
+    return f"{played / hits:.1f}".replace(".", ",")
+
+def league_badge_txt(league, combo):
+    return LEAGUE_BADGES.get((league, combo), "")
+
+def league_badge_html(league, combo):
+    t = league_badge_txt(league, combo)
+    if not t:
+        return ""
+    hot = t.startswith("🔥")
+    title = ("Campionato tra i 5 in cui questa combo esce più spesso, sul totale di stagione"
+             if hot else
+             "Campionato tra i 5 in cui questa combo esce meno spesso, sul totale di stagione")
+    return f' <span class="fq" title="{esc(title)}">{t}</span>'
+
+def build_league_frequency(data):
+    """Classifiche campionati: solo stagione in corso e almeno MIN_GIORNATE giornate."""
+    global LEAGUE_BADGES, LEAGUE_FREQ, LEAGUE_FREQ_META
+    LEAGUE_BADGES, LEAGUE_FREQ, LEAGUE_FREQ_META = {}, {}, {}
+    eligible, excluded = [], []
+    for (c, l, lid), (_c, _l, r, err) in zip(LEAGUES, data):
+        label = f"{c} - {l}"
+        if err or not r:
+            excluded.append((label, "dati non disponibili"))
+            LEAGUE_FREQ_META[label] = None
+            continue
+        try:
+            d, _, _ = matches(lid)
+            st = season_combo_stats(d)
+        except Exception:
+            excluded.append((label, "dati non disponibili"))
+            LEAGUE_FREQ_META[label] = None
+            continue
+        LEAGUE_FREQ_META[label] = st
+        if not st["in_season"]:
+            excluded.append((label, f"stagione conclusa ({st['rounds']} giornate, {st['played']} partite)"))
+            continue
+        if st["rounds"] < MIN_GIORNATE:
+            excluded.append((label, f"in corso, {st['rounds']} giornate (< {MIN_GIORNATE})"))
+            continue
+        eligible.append((label, st))
+    n = len(eligible)
+    for name, _f in COMBOS["goal"]:
+        rows = []
+        for label, st in eligible:
+            hits = st["hits"][name]
+            ogni = ogni_label(st["played"], hits)
+            rows.append({"league": label, "played": st["played"], "hits": hits,
+                         "rounds": st["rounds"], "ogni": ogni, "sort": (st["played"] / hits) if hits else None})
+        rows.sort(key=lambda x: (x["sort"] is None, x["sort"] if x["sort"] is not None else 0, x["league"]))
+        for i, row in enumerate(rows, 1):
+            row["pos"] = i
+            row["tot"] = n
+            if i <= 5:
+                LEAGUE_BADGES[(row["league"], name)] = f"🔥 {i}/{n}"
+            elif n > 5 and i > n - 5:
+                LEAGUE_BADGES[(row["league"], name)] = f"👻 {i}/{n}"
+        LEAGUE_FREQ[name] = rows
+    return excluded
+
+def render_freq_text(now, excluded):
+    lines = [
+        "FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)",
+        f"Aggiornato: {now} (ora italiana)",
+        "1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.",
+        f"Entrano solo i campionati ancora in corso con almeno {MIN_GIORNATE} giornate già giocate.",
+        "Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 5, 👻 ultimi 5.",
+        "Lo stesso badge è accanto ai ritardi di quella combo, anche nelle viste Casa e Trasferta.",
+        "Fonte: FotMob",
+        "",
+    ]
+    n = 0
+    for name, _f in COMBOS["goal"]:
+        rows = LEAGUE_FREQ.get(name) or []
+        n = len(rows)
+        lines += ["=" * 50, name, "=" * 50]
+        if not rows:
+            lines += ["Nessun campionato idoneo.", ""]
+            continue
+        for row in rows:
+            lab = f"1 ogni {row['ogni']}" if row["ogni"] else "mai uscita"
+            lines.append(f"  {row['pos']:>2}/{n}  {row['league']:<32} {lab:<16} ({row['hits']}/{row['played']}, {row['rounds']} giornate)")
+        lines.append("")
+    lines += ["=" * 50, "FUORI CLASSIFICA", "=" * 50]
+    if not excluded:
+        lines.append("Nessuno.")
+    for label, why in excluded:
+        lines.append(f"  {label:<32} {why}")
+    lines.append("")
+    return "\n".join(lines) + "\n", n
+
+def freq_league_line(league):
+    st = LEAGUE_FREQ_META.get(league)
+    if not st:
+        return ""
+    if not st["in_season"] or st["rounds"] < MIN_GIORNATE:
+        return ""
+    bits = []
+    for name, _f in COMBOS["goal"]:
+        lab = ogni_label(st["played"], st["hits"][name])
+        bits.append(f"{name} {('1 ogni ' + lab) if lab else 'mai uscita'}")
+    return "  Frequenza stagione: " + " · ".join(bits)
 
 def _gg(seq):
     """Percentuale di segnano-entrambe sulle ultime 10 (o meno, se non ce ne sono 10)."""
@@ -390,7 +530,8 @@ def build_tips(data, today, venue):
                 s7 = (15 if rT else 0) + (10 if rO else 0)       # meno uscite = deve recuperare (non è il pallino rosso)
                 sc = s1 + s2 + s3 + s4 + s5 + s6 + s7
                 if not (top3 or rT or rO or pct >= 60 or s6) or sc < TIPS_MIN_SCORE: continue
-                why = [f"{tn} non fa {nm} da {v} partite (ritardo massimo del campionato {srt[0]}, mediano {med})"]
+                bdg = league_badge_txt(f"{c} - {l}", nm)
+                why = [f"{tn} non fa {nm} da {v} partite{(' ' + bdg) if bdg else ''} (ritardo massimo del campionato {srt[0]}, mediano {med})"]
                 if s2 == 10: why[0] += ", ed è il ritardo più lungo del campionato"
                 elif s2: why[0] += ", tra i 3 ritardi più lunghi del campionato"
                 why[0] += "."
@@ -706,7 +847,11 @@ def render_venue(data, venue, now):
         view = r["venues"][venue]
         cs, ps, n = r["cs"], r["ps"], r["n"]
         red = red_sets(view["sotto"])
+        lg = f"{c} - {l}"
         goal_L.append(f"Stagione {cs} ({n} partite giocate)" + (f" + {ps}" if ps else ""))
+        fl = freq_league_line(lg)
+        if fl:
+            goal_L.append(fl)
         goal_L.append("=" * 50)
         for name, rows in view["res"]["goal"]:
             goal_L.append(f"RITARDI {name}")
@@ -714,6 +859,9 @@ def render_venue(data, venue, now):
                 dot = f"  🟢 {pct}%" if streak and pct >= 50 else ""
                 if t in red.get(name, ()):
                     dot += "  🔴"
+                bdg = league_badge_txt(lg, name)
+                if bdg:
+                    dot += f"  {bdg}"
                 goal_L.append(f"  {i:>2}. {t:<30} {str(streak)+('+' if full else ''):>4}{dot}")
             goal_L.append("")
         for name, rows in view["sotto"]:
@@ -725,8 +873,8 @@ def render_venue(data, venue, now):
                 sotto_L += ["     ...", f"  {f'{N}/{N}':>6} {last[2]:<30} {last[0]}/{last[1]}  (la fa meno spesso)"]
             sotto_L.append("")
         up, teams, allr, gg = r["up"], r["teams"], view["allr"], view["gg"]
-        pop[LI] = {"lg": f"{c} - {l}",
-                   "rit": {name: [[t, streak, full, pct] for streak, t, full, pct in rows] for name, rows in view["res"]["goal"]},
+        pop[LI] = {"lg": lg,
+                   "rit": {name: [[t, streak, full, pct, league_badge_txt(lg, name)] for streak, t, full, pct in rows] for name, rows in view["res"]["goal"]},
                    "sotto": {name: [[t, k2, nn] for k2, nn, t in rows] for name, rows in view["sotto"]},
                    "tab": view["tab"],
                    "stot": {k: [val[0], [val[1][2], val[1][0], val[1][1]] if val[1] else None] for k, val in view["sinfo"].items()}}
@@ -739,8 +887,10 @@ def render_venue(data, venue, now):
                     if key != "goal" or streak < SOGLIA_GOAL:
                         continue
                     rr = [x for x in (teams[h], teams[a]) if x in red.get(name, ())]
-                    parts.append(f"{name} ({streak}{'+' if full else ''})" + "".join(f" 🔴 {x}" for x in rr))
-                    hparts.append(f'{esc(name)} <span class="pp" data-k="{LI}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>'
+                    bdg = league_badge_txt(lg, name)
+                    bhtml = league_badge_html(lg, name)
+                    parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + "".join(f" 🔴 {x}" for x in rr))
+                    hparts.append(f'{esc(name)} <span class="pp" data-k="{LI}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
                                   + "".join(f' <span class="pr" data-k="{LI}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
                 if parts:
                     info.append((tn, parts, gg.get(tn)))
@@ -805,8 +955,10 @@ def render_venue(data, venue, now):
     SH = []
     for mt, c, l, hn, an, gh, ga, tn, key, nm, run in sal:
         lt = mt.astimezone(ROME)
-        ST.append(f"{lt:%d/%m %H:%M}  [{LAB2[key]}] {tn}: {nm} uscita, era a {run}  -  {hn} {gh}-{ga} {an}   [{c} - {l}]")
-        SH.append(f'<div class="fx"><div class="fxh"><span class="time">{lt:%d/%m %H:%M}</span> {esc(hn)} <b>{gh}-{ga}</b> {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div><div class="tagrow"><span class="tag goal">{LAB2[key]}</span> <b>{esc(tn)}</b>: {esc(nm)} uscita, <b>era a {run}</b></div></div>')
+        bdg = league_badge_txt(f"{c} - {l}", nm)
+        bhtml = league_badge_html(f"{c} - {l}", nm)
+        ST.append(f"{lt:%d/%m %H:%M}  [{LAB2[key]}] {tn}: {nm} uscita, era a {run}{(' ' + bdg) if bdg else ''}  -  {hn} {gh}-{ga} {an}   [{c} - {l}]")
+        SH.append(f'<div class="fx"><div class="fxh"><span class="time">{lt:%d/%m %H:%M}</span> {esc(hn)} <b>{gh}-{ga}</b> {esc(an)} <span class="lg">{esc(c)} - {esc(l)}</span></div><div class="tagrow"><span class="tag goal">{LAB2[key]}</span> <b>{esc(tn)}</b>: {esc(nm)} uscita, <b>era a {run}</b>{bhtml}</div></div>')
     if not sal:
         ST.append("Nessun ritardo spezzato negli ultimi giorni.")
         SH.append("<p>Nessun ritardo spezzato negli ultimi giorni.</p>")
@@ -932,8 +1084,8 @@ PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name
 <aside id="side" onclick="if(event.target.closest('a.sbig,a.ssm'))this.classList.remove('open')">
 <a class="sbig" href="#tips">🎯<span>TIPS DEL GIORNO</span></a>
 <a class="sbig" href="#prossime">📅<span>PROSSIME PARTITE</span></a>
-<a class="ssm" href="#goal">Ritardi + GOAL</a><a class="ssm" href="#sotto">Sottofrequenze</a><a class="ssm" href="#saltati">Saltati</a>
-<details class="stext"><summary>TEXT</summary><a href="tips_del_giorno.txt">tips_del_giorno.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a><a href="saltati.txt">saltati.txt</a></details>
+<a class="ssm" href="#goal">Ritardi + GOAL</a><a class="ssm" href="#frequenza">Frequenza campionati</a><a class="ssm" href="#sotto">Sottofrequenze</a><a class="ssm" href="#saltati">Saltati</a>
+<details class="stext"><summary>TEXT</summary><a href="tips_del_giorno.txt">tips_del_giorno.txt</a><a href="prossime_partite.txt">prossime_partite.txt</a><a href="ritardi_goal.txt">ritardi_goal.txt</a><a href="frequenza_campionati.txt">frequenza_campionati.txt</a><a href="sottofrequenze.txt">sottofrequenze.txt</a><a href="saltati.txt">saltati.txt</a></details>
 </aside>
 <h2 id="tips">TIPS DEL GIORNO</h2>
 ___TIPS___
@@ -944,6 +1096,9 @@ ___SOTTO___
 ___PROSSIME___
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2>
 ___GOAL___
+<h2 id="frequenza">Frequenza campionati</h2>
+<p class="leg">Solo stagione in corso, tutte le partite (non casa/trasferta). 1 ogni N = partite giocate / uscite. Servono almeno 7 giornate. 🔥 = primi 5, 👻 = ultimi 5: lo stesso badge compare accanto ai ritardi, anche in Casa e Trasferta.</p>
+<pre>___FREQUENZA___</pre>
 <h2 id="saltati">Saltati (ritardi &ge; ___SALTMIN___ spezzati, ultimi ___SALTDAYS___ giorni)</h2>
 ___SALTATI___
 <button id="totop" aria-label="Torna su" title="Torna su" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
@@ -951,7 +1106,7 @@ ___SALTATI___
 <div id="pop"></div>
 <script>var POP=___POP___;(function(){var pop=document.getElementById('pop'),cur=null;function esc(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function pack(){return POP[document.documentElement.getAttribute('data-venue')]||POP.all||{}}
-function show(el){if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack()[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
+function show(el){if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack()[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}
 function hide(){pop.style.display='none';cur=null}
 document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
@@ -986,6 +1141,13 @@ def main():
             xg_rows.append((c, l, "err", 0))
             print(f"  ERRORE {e}", flush=True)
         time.sleep(1)
+    excluded = build_league_frequency(data)
+    freq_text, n_freq = render_freq_text(now, excluded)
+    print(f"Frequenza campionati: {n_freq} idonei, {len(excluded)} esclusi", flush=True)
+    for label, why in excluded:
+        print(f"  FUORI  {label}: {why}", flush=True)
+    for name, rows in LEAGUE_FREQ.items():
+        print(f"  {name}: " + ", ".join(f"{r['pos']}.{r['league']}={r['ogni'] or 'mai'}" for r in rows[:3]), flush=True)
     chunks = {venue: render_venue(data, venue, now) for venue, _label, _desc in VENUES}
     open("tips_del_giorno.txt", "w").write(_bundle(chunks, "tips"))
     open("saltati.txt", "w").write(_bundle(chunks, "saltati"))
@@ -993,6 +1155,7 @@ def main():
     open("prossime_partite.txt", "w").write(_bundle(chunks, "prossime"))
     open("prossime_partite_goal.txt", "w").write(_bundle(chunks, "prossime_goal"))
     open("ritardi_goal.txt", "w").write(_bundle(chunks, "goal"))
+    open("frequenza_campionati.txt", "w").write(freq_text)
     pop = {venue: chunks[venue]["pop"] for venue, _l, _d in VENUES}
     popjson = json.dumps(pop, ensure_ascii=False).replace("</", "<\\/")
     opts = "".join(f'<option value="{esc(tid)}">{esc(label)}</option>' for tid, label, _s in THEMES)
@@ -1006,6 +1169,7 @@ def main():
         "___SOTTO___": "".join(chunks[v]["sotto_html"] for v, _l, _d in VENUES),
         "___PROSSIME___": "".join(chunks[v]["prossime_html"] for v, _l, _d in VENUES),
         "___GOAL___": "".join(chunks[v]["goal_html"] for v, _l, _d in VENUES),
+        "___FREQUENZA___": html.escape(freq_text),
         "___SALTATI___": "".join(chunks[v]["saltati_html"] for v, _l, _d in VENUES),
         "___POP___": popjson,
         "___SALTMIN___": str(SALTATI_MIN),
