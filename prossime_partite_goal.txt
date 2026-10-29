@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 18:02 (ora italiana)
+Aggiornato: 29/10/2026 18:39 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -316,16 +316,9 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 18:02 (ora italiana)
+Aggiornato: 29/10/2026 18:39 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
-
-==================================================
-29/10/2026
-==================================================
-18:30  Hammarby vs Sirius   [SVEZIA - ALLSVENSKAN]
-      xG: Hammarby xG 3,21 (2,23+0,98) · Sirius xG 3,05 (1,91+1,14)
-      Hammarby 🟢 GG 40%: X2 + GOAL (6)
 
 ==================================================
 30/10/2026
@@ -545,16 +538,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 18:02 (ora italiana)
+Aggiornato: 29/10/2026 18:39 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 29/10/2026
 ==================================================
-18:30  Frosinone vs Lecce   [ITALIA - SERIE A]
-      xG: Frosinone xG 4,08 (1,64+2,44) · Lecce xG 3,29 (1,39+1,90)
-      Lecce 🟢 GG 30%: 1X + GOAL (9)
 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]
       xG: Kalmar FF xG 2,64 (1,37+1,27) · GAIS xG 3,01 (1,61+1,40)
       GAIS 🟢 GG 40%: X2 + GOAL (6)
@@ -666,7 +656,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:30  Latina vs Pianese   [ITALIA - SERIE C]
       Pianese 🟢 GG 50%: X2 + GOAL (6)
 18:00  Lecce vs Genoa   [ITALIA - SERIE A]
-      xG: Lecce xG 3,29 (1,39+1,90) · Genoa xG 2,20 (0,86+1,34)
+      xG: Lecce xG 2,92 (1,23+1,69) · Genoa xG 2,20 (0,86+1,34)
       Genoa 🟢 GG 20%: X2 + GOAL (6)
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
       Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague
