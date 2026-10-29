@@ -148,11 +148,24 @@ def _matches(lid, season=None):
     return d, out, teams
 
 def _in_venue(m, tid, venue):
+    """True se la partita entra nella vista. 1/X/2 restano quelli della partita:
+    1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio.
+    12 (non pareggio) è lo stesso dai due lati. In casa 1X è 'non perde la squadra';
+    in trasferta X2 è 'non perde la squadra'."""
     if venue == "home":
         return m[1] == tid
     if venue == "away":
         return m[2] == tid
     return tid in (m[1], m[2])
+
+def _fixture_sides(venue, home_id, away_id):
+    """Nelle prossime partite la vista Casa vale solo per chi gioca in casa,
+    la vista Trasferta solo per chi gioca fuori. Totali resta su entrambe."""
+    if venue == "home":
+        return (home_id,)
+    if venue == "away":
+        return (away_id,)
+    return (home_id, away_id)
 
 def _seq_for(tid, cur, prev_m, prev_teams, venue):
     seq = [m for m in cur if _in_venue(m, tid, venue)]
@@ -353,7 +366,12 @@ def build_tips(data, today, venue):
                 pL = sum(rates) / len(rates)
                 dh, da = delay.get((hn, nm)), delay.get((an, nm))
                 if not dh or not da: continue
-                T, O = (dh, da) if dh[2] >= da[2] else (da, dh)
+                if venue == "home":
+                    T, O = dh, da   # solo la squadra che oggi gioca in casa
+                elif venue == "away":
+                    T, O = da, dh   # solo la squadra che oggi gioca in trasferta
+                else:
+                    T, O = (dh, da) if dh[2] >= da[2] else (da, dh)
                 tn, on, v, pct = T[3], O[3], T[2], T[5]
                 k, n = fr.get(tn, (0, 0)); ko, no = fr.get(on, (0, 0))
                 if v < TIPS_MIN_DELAY or n < TIPS_MIN_N: continue
@@ -404,7 +422,7 @@ TIPS_RULES = [
  "E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.",
  "S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.",
  "Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.",
- "Vista: Totali, Casa o Trasferta usano gli stessi punteggi, ma solo sulle partite di quella vista.",
+ "Vista: Totali considera entrambe le squadre. Casa usa solo la squadra che gioca in casa e i suoi ritardi in casa; Trasferta solo chi gioca fuori e i suoi ritardi in trasferta.",
 ]
 
 def tables(d, teams, which="all"):
@@ -660,17 +678,22 @@ def render_venue(data, venue, now):
     sotto_L = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali {scope})",
                f"Aggiornato: {now} (ora italiana)",
                "Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali " + scope + " (N<100 = storico insufficiente). Fonte: FotMob", ""]
+    side_note = {
+        "all": "Si mostrano entrambe le squadre.",
+        "home": "Si mostra solo la squadra che in quella partita gioca in casa, con i ritardi delle sue gare in casa. Il numero tra parentesi è quante partite in casa mancano alla combo, non il segno 12.",
+        "away": "Si mostra solo la squadra che in quella partita gioca in trasferta, con i ritardi delle sue gare in trasferta. Il numero tra parentesi è quante trasferte mancano alla combo, non il segno 12.",
+    }[venue]
     pros_h_leg = (f'<p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) &middot; orari italiani '
                   f'&middot; <span class="tag goal">GOAL</span> &middot; 🔴 = prime 3 per frequenza (più uscite) '
                   f'&middot; <span class="gg">🟢 GG</span> = segnano entrambe nelle ultime 10 partite della squadra '
                   f'(se sono meno di 10 si vede il rapporto) &middot; xG = media a partita, fatti + subiti, '
-                  f'della fase o stagione FotMob. Se il campionato non pubblica l&rsquo;xG, la riga non compare. L&rsquo;xG è di stagione e non è diviso tra casa e trasferta.</p>')
+                  f'della fase o stagione FotMob. Se il campionato non pubblica l&rsquo;xG, la riga non compare. L&rsquo;xG è di stagione e non è diviso tra casa e trasferta. {esc(side_note)}</p>')
     goal_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — {label.upper()}",
                    f"Aggiornato: {now} (ora italiana)",
                    f"Soglia ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob", ""]
     full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO — {label.upper()}",
                    f"Aggiornato: {now} (ora italiana)",
-                   f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista {label}). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+                   f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista {label}). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. {side_note} 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob", ""]
     pop = {}
     cf = []
     for LI, (c, l, r, err) in enumerate(data):
@@ -709,7 +732,7 @@ def render_venue(data, venue, now):
                    "stot": {k: [val[0], [val[1][2], val[1][0], val[1][1]] if val[1] else None] for k, val in view["sinfo"].items()}}
         for t, h, a in up:
             info, tags = [], []
-            for tid in (h, a):
+            for tid in _fixture_sides(venue, h, a):
                 tn = teams[tid]
                 parts, hparts = [], []
                 for key, name, streak, _, full, pct in allr.get(tn, []):
