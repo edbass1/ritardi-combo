@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 29/10/2026 20:41 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -917,7 +917,7 @@ SVEZIA - ALLSVENSKAN
 SOTTOFREQUENZA 1X + GOAL
     1/16 Sirius                         43/100
     2/16 Brommapojkarna                 42/100
-    3/16 Örgryte                        41/100
+    3/16 Örgryte                        40/100
     4/16 Häcken                         39/100
     5/16 Elfsborg                       39/100
     6/16 AIK                            39/100
@@ -936,8 +936,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/16 Sirius                         47/100
-    2/16 Brommapojkarna                 41/100
-    3/16 Örgryte                        40/100
+    2/16 Örgryte                        41/100
+    3/16 Brommapojkarna                 41/100
     4/16 AIK                            39/100
     5/16 Elfsborg                       37/100
      ...
@@ -1477,7 +1477,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 29/10/2026 20:41 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2347,7 +2347,7 @@ SOTTOFREQUENZA 1X + GOAL
    16/16 Halmstads BK                   27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/16 Örgryte                        43/100
+    1/16 Örgryte                        44/100
     2/16 IFK Göteborg                   41/100
     3/16 Häcken                         37/100
     4/16 Brommapojkarna                 36/100
@@ -2893,7 +2893,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 29/10/2026 20:41 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3772,8 +3772,9 @@ SOTTOFREQUENZA X2 + GOAL
     2/16 Sirius                         42/100
     3/16 AIK                            39/100
     4/16 Elfsborg                       37/100
-    5/16 Kalmar FF                      36/100
-    6/16 Degerfors                      36/100
+    5/16 Mjällby                        36/100
+    6/16 Kalmar FF                      36/100
+    7/16 Degerfors                      36/100
      ...
    16/16 GAIS                           27/100  (la fa meno spesso)
 
@@ -3784,7 +3785,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/16 Örgryte                        37/100
     5/16 Västerås SK                    37/100
      ...
-   16/16 Mjällby                        27/100  (la fa meno spesso)
+   16/16 Häcken                         28/100  (la fa meno spesso)
 
 ==================================================
 SVEZIA - SUPERETTAN

@@ -1,8 +1,8 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 29/10/2026 20:41 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
-Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 5, 👻 ultimi 5.
+Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
 Lo stesso badge è accanto ai ritardi di quella combo, anche nelle viste Casa e Trasferta.
 Fonte: FotMob
 
@@ -47,7 +47,7 @@ Fonte: FotMob
   36/44  SPAGNA - LALIGA 2                1 ogni 2,8       (43/121, 11 giornate)
   37/44  REP. CECA - 1. LIGA              1 ogni 2,8       (33/94, 12 giornate)
   38/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 2,9       (60/171, 22 giornate)
-  39/44  SVEZIA - ALLSVENSKAN             1 ogni 2,9       (71/206, 26 giornate)
+  39/44  SVEZIA - ALLSVENSKAN             1 ogni 2,9       (71/208, 26 giornate)
   40/44  BELGIO - FIRST DIVISION A        1 ogni 3,0       (27/80, 9 giornate)
   41/44  BELGIO - FIRST DIVISION B        1 ogni 3,0       (18/54, 8 giornate)
   42/44  PORTOGALLO - LIGA PORTUGAL       1 ogni 3,1       (26/81, 9 giornate)
@@ -72,7 +72,7 @@ X2 + GOAL
   13/44  INGHILTERRA - LEAGUE ONE         1 ogni 2,6       (54/143, 13 giornate)
   14/44  DANIMARCA - SUPERLIGAEN          1 ogni 2,7       (27/72, 12 giornate)
   15/44  INGHILTERRA - LEAGUE TWO         1 ogni 2,7       (56/151, 13 giornate)
-  16/44  SVEZIA - ALLSVENSKAN             1 ogni 2,7       (75/206, 26 giornate)
+  16/44  SVEZIA - ALLSVENSKAN             1 ogni 2,7       (76/208, 26 giornate)
   17/44  SPAGNA - LALIGA                  1 ogni 2,8       (36/99, 10 giornate)
   18/44  FRANCIA - LIGUE 1                1 ogni 2,8       (26/72, 8 giornate)
   19/44  OLANDA - EERSTE DIVISIE          1 ogni 2,8       (43/120, 12 giornate)
@@ -142,7 +142,7 @@ X2 + GOAL
   35/44  PORTOGALLO - LIGA PORTUGAL       1 ogni 3,1       (26/81, 9 giornate)
   36/44  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 3,1       (23/72, 12 giornate)
   37/44  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,2       (66/210, 14 giornate)
-  38/44  SVEZIA - ALLSVENSKAN             1 ogni 3,2       (64/206, 26 giornate)
+  38/44  SVEZIA - ALLSVENSKAN             1 ogni 3,2       (65/208, 26 giornate)
   39/44  BELGIO - FIRST DIVISION A        1 ogni 3,3       (24/80, 9 giornate)
   40/44  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,4       (21/72, 8 giornate)
   41/44  INGHILTERRA - LEAGUE TWO         1 ogni 3,4       (44/151, 13 giornate)

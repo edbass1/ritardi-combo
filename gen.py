@@ -219,10 +219,12 @@ def league_badge_html(league, combo):
     t = league_badge_txt(league, combo)
     if not t:
         return ""
-    hot = t.startswith("🔥")
-    title = ("Campionato tra i 5 in cui questa combo esce più spesso, sul totale di stagione"
-             if hot else
-             "Campionato tra i 5 in cui questa combo esce meno spesso, sul totale di stagione")
+    if t.startswith("🔥"):
+        title = "Campionato tra i 7 in cui questa combo esce più spesso, sul totale di stagione"
+    elif t.startswith("❗"):
+        title = "Campionato tra le posizioni 8 e 14 di questa combo, sul totale di stagione"
+    else:
+        title = "Campionato tra i 10 in cui questa combo esce meno spesso, sul totale di stagione"
     return f' <span class="fq" title="{esc(title)}">{t}</span>'
 
 def build_league_frequency(data):
@@ -263,9 +265,11 @@ def build_league_frequency(data):
         for i, row in enumerate(rows, 1):
             row["pos"] = i
             row["tot"] = n
-            if i <= 5:
+            if i <= 7:
                 LEAGUE_BADGES[(row["league"], name)] = f"🔥 {i}/{n}"
-            elif n > 5 and i > n - 5:
+            elif 8 <= i <= 14:
+                LEAGUE_BADGES[(row["league"], name)] = f"❗ {i}/{n}"
+            elif i > n - 10:
                 LEAGUE_BADGES[(row["league"], name)] = f"👻 {i}/{n}"
         LEAGUE_FREQ[name] = rows
     return excluded
@@ -276,7 +280,7 @@ def render_freq_text(now, excluded):
         f"Aggiornato: {now} (ora italiana)",
         "1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.",
         f"Entrano solo i campionati ancora in corso con almeno {MIN_GIORNATE} giornate già giocate.",
-        "Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 5, 👻 ultimi 5.",
+        "Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.",
         "Lo stesso badge è accanto ai ritardi di quella combo, anche nelle viste Casa e Trasferta.",
         "Fonte: FotMob",
         "",
@@ -1097,7 +1101,7 @@ ___PROSSIME___
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2>
 ___GOAL___
 <h2 id="frequenza">Frequenza campionati</h2>
-<p class="leg">Solo stagione in corso, tutte le partite (non casa/trasferta). 1 ogni N = partite giocate / uscite. Servono almeno 7 giornate. 🔥 = primi 5, 👻 = ultimi 5: lo stesso badge compare accanto ai ritardi, anche in Casa e Trasferta.</p>
+<p class="leg">Solo stagione in corso, tutte le partite (non casa/trasferta). 1 ogni N = partite giocate / uscite. Servono almeno 7 giornate. 🔥 = primi 7, ❗ = posizioni 8-14, 👻 = ultimi 10: lo stesso badge compare accanto ai ritardi, anche in Casa e Trasferta.</p>
 <pre>___FREQUENZA___</pre>
 <h2 id="saltati">Saltati (ritardi &ge; ___SALTMIN___ spezzati, ultimi ___SALTDAYS___ giorni)</h2>
 ___SALTATI___
