@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 23:30 (ora italiana)
+Aggiornato: 30/10/2026 00:27 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -322,7 +322,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 23:30 (ora italiana)
+Aggiornato: 30/10/2026 00:27 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -524,7 +524,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 20:30  Novara vs Desenzano   [ITALIA - SERIE C]
       Novara 🟢 GG 50%: 12 + GOAL (6)
 23:00  Club Atlético Platense vs Central Córdoba de Santiago   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Club Atlético Platense xG 2,64 (1,31+1,33) · Central Córdoba de Santiago xG 2,83 (1,08+1,75)
+      xG: Club Atlético Platense xG 2,64 (1,31+1,33) · Central Córdoba de Santiago xG 2,83 (1,07+1,76)
       Club Atlético Platense 🟢 GG 50%: 12 + GOAL (14) 👻 37/44
 23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
       xG: Defensa y Justicia xG 2,70 (1,56+1,14) · Independiente xG 2,03 (0,93+1,10)
@@ -553,7 +553,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 23:30 (ora italiana)
+Aggiornato: 30/10/2026 00:27 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -664,7 +664,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:30  Latina vs Pianese   [ITALIA - SERIE C]
       Pianese 🟢 GG 50%: X2 + GOAL (6)
 18:00  Lecce vs Genoa   [ITALIA - SERIE A]
-      xG: Lecce xG 3,42 (1,39+2,03) · Genoa xG 2,20 (0,86+1,34)
+      xG: Lecce xG 3,45 (1,39+2,06) · Genoa xG 2,20 (0,86+1,34)
       Genoa 🟢 GG 20%: X2 + GOAL (6)
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
       Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague

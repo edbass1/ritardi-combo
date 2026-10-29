@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 23:30 (ora italiana)
+Aggiornato: 30/10/2026 00:27 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Totali). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostrano entrambe le squadre. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -322,7 +322,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 23:30 (ora italiana)
+Aggiornato: 30/10/2026 00:27 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Casa). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostra solo la squadra che in quella partita gioca in casa, con i ritardi delle sue gare in casa. Il numero tra parentesi è quante partite in casa mancano alla combo, non il segno 12. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -524,7 +524,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 20:30  Novara vs Desenzano   [ITALIA - SERIE C]  [ALT 12+GOAL]
       [GOAL] Novara 🟢 GG 50%: 12 + GOAL (6)
 23:00  Club Atlético Platense vs Central Córdoba de Santiago   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 12+GOAL]
-      xG: Club Atlético Platense xG 2,64 (1,31+1,33) · Central Córdoba de Santiago xG 2,83 (1,08+1,75)
+      xG: Club Atlético Platense xG 2,64 (1,31+1,33) · Central Córdoba de Santiago xG 2,83 (1,07+1,76)
       [GOAL] Club Atlético Platense 🟢 GG 50%: 12 + GOAL (14) 👻 37/44
 23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]  [OK X2+GOAL]
       xG: Defensa y Justicia xG 2,70 (1,56+1,14) · Independiente xG 2,03 (0,93+1,10)
@@ -553,7 +553,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 23:30 (ora italiana)
+Aggiornato: 30/10/2026 00:27 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Trasferta). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostra solo la squadra che in quella partita gioca in trasferta, con i ritardi delle sue gare in trasferta. Il numero tra parentesi è quante trasferte mancano alla combo, non il segno 12. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -664,7 +664,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 17:30  Latina vs Pianese   [ITALIA - SERIE C]  [OK X2+GOAL]
       [GOAL] Pianese 🟢 GG 50%: X2 + GOAL (6)
 18:00  Lecce vs Genoa   [ITALIA - SERIE A]  [OK X2+GOAL]
-      xG: Lecce xG 3,42 (1,39+2,03) · Genoa xG 2,20 (0,86+1,34)
+      xG: Lecce xG 3,45 (1,39+2,06) · Genoa xG 2,20 (0,86+1,34)
       [GOAL] Genoa 🟢 GG 20%: X2 + GOAL (6)
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]
       [GOAL] Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague
