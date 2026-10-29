@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 21:04 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -153,7 +153,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Columbus Crew 🟢 GG 50%: X2 + GOAL (10) ❗ 10/44 🔴 DC United
       DC United 🟢 GG 70%: X2 + GOAL (6) ❗ 10/44 🔴 DC United
 20:00  Club Brugge NXT vs Sporting Hasselt   [BELGIO - FIRST DIVISION B]
-      xG: Club Brugge NXT xG 2,80 (1,06+1,74) · Sporting Hasselt xG 3,97 (1,95+2,02)
+      xG: Club Brugge NXT xG 2,82 (1,06+1,76) · Sporting Hasselt xG 3,97 (1,95+2,02)
       Sporting Hasselt 🟢 GG 29% (2/7): 1X + GOAL (7+) 👻 41/44
 20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]
       xG: Coritiba xG 2,71 (1,07+1,64) · Vitória xG 2,48 (1,06+1,42)
@@ -222,7 +222,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 15:30  Ružomberok vs Skalica   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
       Ružomberok 🟢 GG 40%: 12 + GOAL (6) 👻 36/44
 16:00  FCV Dender EH vs Genk U23   [BELGIO - FIRST DIVISION B]
-      xG: FCV Dender EH xG 2,63 (1,76+0,87) · Genk U23 xG 3,62 (1,59+2,03)
+      xG: FCV Dender EH xG 2,63 (1,76+0,87) · Genk U23 xG 3,64 (1,61+2,03)
       FCV Dender EH 🟢 GG 14% (1/7): 1X + GOAL (7+) 👻 41/44
 16:00  St.Truiden vs OH Leuven   [BELGIO - FIRST DIVISION A]
       xG: St.Truiden xG 3,82 (1,95+1,87) · OH Leuven xG 3,06 (1,37+1,69)
@@ -295,7 +295,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       Nancy 🟢 GG 30%: 1X + GOAL (10)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,16 (1,32+1,84) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,19 (1,34+1,85) · Parma xG 2,49 (0,82+1,67)
       Parma 🟢 GG 40%: X2 + GOAL (6)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
@@ -319,7 +319,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 21:04 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -550,7 +550,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 21:04 (ora italiana)
+Aggiornato: 29/10/2026 21:14 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -707,7 +707,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       Nancy 🟢 GG 60%: 1X + GOAL (6)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,16 (1,32+1,84) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,19 (1,34+1,85) · Parma xG 2,49 (0,82+1,67)
       Parma 🟢 GG 40%: X2 + GOAL (7)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
