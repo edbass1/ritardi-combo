@@ -3,12 +3,9 @@
 ##################################################
 
 TIPS DEL GIORNO - 29/10/2026 — TOTALI
-Aggiornato: 29/10/2026 17:51 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 18:02 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 49.0  (R+24 C+5 F+5 G+0 A-0 E+0 S+15)
-    KuPS non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 10, mediano 2), tra i 3 ritardi più lunghi del campionato. Inoltre KuPS è in sottofrequenza (33/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
+Nessuna tip convincente oggi.
 
 REGOLE DEL PUNTEGGIO
   Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
@@ -28,7 +25,7 @@ REGOLE DEL PUNTEGGIO
 ##################################################
 
 TIPS DEL GIORNO - 29/10/2026 — CASA
-Aggiornato: 29/10/2026 17:51 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 18:02 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 18:30  Hammarby vs Sirius   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
     X2 + GOAL  -  punteggio 39.4  (R+25.7 C+5 F+2.6 G+6.6 A-0.4 E+0 S+0)
@@ -53,7 +50,7 @@ REGOLE DEL PUNTEGGIO
 ##################################################
 
 TIPS DEL GIORNO - 29/10/2026 — TRASFERTA
-Aggiornato: 29/10/2026 17:51 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 18:02 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
     X2 + GOAL  -  punteggio 56.0  (R+22.5 C+5 F+7.3 G+8 A-1.7 E+0 S+15)
