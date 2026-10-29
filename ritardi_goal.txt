@@ -1,5 +1,5 @@
 RITARDI DOPPIA CHANCE + GOAL
-Aggiornato: 29/10/2026 01:34 (ora italiana)
+Aggiornato: 29/10/2026 12:33 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1528,28 +1528,28 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (322 partite giocate) + 2025
+Stagione 2026 (324 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. Palmeiras                         3  🟢 67%
-   2. Botafogo                          2  🟢 50%
-   3. Coritiba                          2
-   4. Cruzeiro                          2  🟢 50%
-   5. Grêmio                            2  🟢 50%  🔴
-   6. RB Bragantino                     2  🟢 100%  🔴
-   7. Chapecoense                       1  🟢 100%
-   8. Remo                              1
-   9. Santos                            1
-  10. Athletico Paranaense              0
+   2. Coritiba                          2
+   3. Cruzeiro                          2  🟢 50%
+   4. Grêmio                            2  🟢 50%  🔴
+   5. RB Bragantino                     2  🟢 100%  🔴
+   6. Chapecoense                       1  🟢 100%
+   7. Santos                            1
+   8. Athletico Paranaense              0
+   9. Atlético-MG                       0
+  10. Bahia                             0
 
 RITARDI X2 + GOAL
    1. Palmeiras                         8  🟢 50%
    2. Atlético-MG                       3  🟢 67%
-   3. Chapecoense                       3  🟢 67%  🔴
-   4. Flamengo                          3  🟢 67%
-   5. Internacional                     3  🟢 100%  🔴
-   6. Vasco da Gama                     3
-   7. Botafogo                          2  🟢 50%
+   3. Botafogo                          3  🟢 67%
+   4. Chapecoense                       3  🟢 67%  🔴
+   5. Flamengo                          3  🟢 67%
+   6. Internacional                     3  🟢 100%  🔴
+   7. Vasco da Gama                     3
    8. Coritiba                          2
    9. Fluminense                        2  🟢 100%
   10. RB Bragantino                     2  🟢 100%
@@ -1557,14 +1557,14 @@ RITARDI X2 + GOAL
 RITARDI 12 + GOAL
    1. Coritiba                          6  🟢 67%  🔴
    2. Mirassol                          6  🟢 83%
-   3. Bahia                             4  🟢 50%
-   4. Remo                              4  🟢 50%
-   5. Botafogo                          3  🟢 67%
-   6. Palmeiras                         3  🟢 67%  🔴
-   7. RB Bragantino                     3  🟢 100%  🔴
-   8. Athletico Paranaense              2  🟢 100%
-   9. Santos                            2  🟢 50%  🔴
-  10. São Paulo                         2  🟢 50%
+   3. Palmeiras                         3  🟢 67%  🔴
+   4. RB Bragantino                     3  🟢 100%  🔴
+   5. Athletico Paranaense              2  🟢 100%
+   6. Santos                            2  🟢 50%  🔴
+   7. Vitória                           2  🟢 100%
+   8. Chapecoense                       1  🟢 100%
+   9. Cruzeiro                          1
+  10. Grêmio                            1
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
@@ -1608,43 +1608,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 USA/CANADA - MLS
-Stagione 2026 (466 partite giocate) + 2025
+Stagione 2026 (480 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
-   1. New England Revolution            5  🟢 80%
-   2. Atlanta United                    4  🟢 100%
-   3. Inter Miami CF                    4  🟢 100%  🔴
-   4. Chicago Fire FC                   3  🟢 67%
-   5. Sporting Kansas City              3  🟢 100%
-   6. Vancouver Whitecaps               3
-   7. Austin FC                         2  🟢 100%
-   8. Colorado Rapids                   2
-   9. Real Salt Lake                    2  🟢 100%
-  10. Red Bull New York                 2  🟢 100%
+   1. Austin FC                         3  🟢 100%
+   2. Real Salt Lake                    3  🟢 100%
+   3. CF Montréal                       2  🟢 100%
+   4. FC Dallas                         2  🟢 100%
+   5. Houston Dynamo FC                 2
+   6. Nashville SC                      2  🟢 50%
+   7. Philadelphia Union                2  🟢 50%
+   8. St. Louis City                    2  🟢 100%
+   9. Charlotte FC                      1  🟢 100%
+  10. Columbus Crew                     1  🟢 100%
 
 RITARDI X2 + GOAL
-   1. Columbus Crew                     9  🟢 89%
-   2. Red Bull New York                 9  🟢 67%
-   3. St. Louis City                    7  🟢 86%
-   4. DC United                         5  🟢 100%  🔴
-   5. FC Cincinnati                     3  🟢 100%
-   6. Portland Timbers                  3  🟢 67%
-   7. Colorado Rapids                   2
-   8. Minnesota United                  2  🟢 50%  🔴
-   9. Toronto FC                        2  🟢 100%
-  10. CF Montréal                       1  🟢 100%
+   1. Columbus Crew                    10  🟢 90%
+   2. Red Bull New York                10  🟢 70%
+   3. DC United                         6  🟢 100%  🔴
+   4. Minnesota United                  3  🟢 67%
+   5. Toronto FC                        3  🟢 100%
+   6. CF Montréal                       2  🟢 100%
+   7. Charlotte FC                      2  🟢 100%
+   8. FC Dallas                         2  🟢 100%
+   9. Houston Dynamo FC                 2
+  10. Nashville SC                      2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Houston Dynamo FC                 7  🟢 71%
-   2. Colorado Rapids                   4  🟢 50%
-   3. San Jose Earthquakes              4  🟢 100%  🔴
-   4. Seattle Sounders FC               4  🟢 75%
-   5. CF Montréal                       3  🟢 100%
-   6. FC Dallas                         3  🟢 67%
-   7. LA Galaxy                         3  🟢 100%
-   8. Nashville SC                      3  🟢 100%
-   9. New York City FC                  3  🟢 100%
-  10. San Diego FC                      3  🟢 100%
+   1. Houston Dynamo FC                 8  🟢 62%
+   2. Colorado Rapids                   5  🟢 60%
+   3. San Jose Earthquakes              5  🟢 100%  🔴
+   4. Seattle Sounders FC               5  🟢 60%
+   5. CF Montréal                       4  🟢 100%
+   6. FC Dallas                         4  🟢 75%
+   7. Nashville SC                      4  🟢 75%
+   8. LA Galaxy                         3  🟢 100%
+   9. FC Cincinnati                     2  🟢 100%
+  10. Inter Miami CF                    2  🟢 100%  🔴
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN

@@ -1,5 +1,5 @@
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 29/10/2026 01:34 (ora italiana)
+Aggiornato: 29/10/2026 12:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale valido è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1237,7 +1237,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/18 Athletico Paranaense           40/100
     3/18 Chapecoense                    39/100
     4/18 Santos                         38/100
-    5/18 Bahia                          34/100
+    5/18 Bahia                          33/100
      ...
    18/18 Fluminense                     23/100  (la fa meno spesso)
 
@@ -1286,8 +1286,8 @@ USA/CANADA - MLS
 SOTTOFREQUENZA 1X + GOAL
     1/29 Portland Timbers               55/100
     2/29 LA Galaxy                      55/100
-    3/29 St. Louis City                 49/100
-    4/29 Inter Miami CF                 49/100
+    3/29 Inter Miami CF                 50/100
+    4/29 Red Bull New York              49/100
     5/29 Columbus Crew                  49/100
      ...
    29/29 Vancouver Whitecaps            36/100  (la fa meno spesso)
@@ -1295,18 +1295,21 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/29 Inter Miami CF                 47/100
     2/29 DC United                      46/100
-    3/29 Minnesota United               45/100
-    4/29 Atlanta United                 45/100
-    5/29 Orlando City                   42/100
+    3/29 Atlanta United                 45/100
+    4/29 Minnesota United               44/100
+    5/29 San Jose Earthquakes           42/100
+    6/29 Orlando City                   42/100
      ...
-   29/29 Nashville SC                   25/100  (la fa meno spesso)
+   29/29 Nashville SC                   24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/29 Inter Miami CF                 58/100
-    2/29 Sporting Kansas City           54/100
+    1/29 Inter Miami CF                 57/100
+    2/29 Sporting Kansas City           55/100
     3/29 San Jose Earthquakes           52/100
-    4/29 Chicago Fire FC                52/100
-    5/29 FC Cincinnati                  50/100
+    4/29 Chicago Fire FC                51/100
+    5/29 Orlando City                   49/100
+    6/29 FC Cincinnati                  49/100
+    7/29 Columbus Crew                  49/100
      ...
    29/29 Seattle Sounders FC            30/100  (la fa meno spesso)
 

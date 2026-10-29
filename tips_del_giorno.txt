@@ -1,11 +1,7 @@
 TIPS DEL GIORNO - 29/10/2026
-Aggiornato: 29/10/2026 01:34 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 29/10/2026 12:33 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
- 1. 03:30  Seattle Sounders FC vs Houston Dynamo FC   [USA/CANADA - MLS]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 88.2  (R+30 C+10 F+9 G+4.2 A+10 E+0 S+25)
-    Houston Dynamo FC non fa 12 + GOAL da 7 partite (ritardo massimo del campionato 7, mediano 1), ed è il ritardo più lungo del campionato. Inoltre Houston Dynamo FC è in sottofrequenza (34/100), deve recuperare; anche Seattle Sounders FC è in sottofrequenza su questa combo (30/100), deve recuperare; nel ritardo il 71% delle partite ha avuto almeno 2 gol o entrambe a segno.
-
- 2. 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 12+GOAL]
+ 1. 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 12+GOAL]
     12 + GOAL  -  punteggio 49.0  (R+24 C+5 F+5 G+0 A-0 E+0 S+15)
     KuPS non fa 12 + GOAL da 8 partite (ritardo massimo del campionato 10, mediano 2), tra i 3 ritardi più lunghi del campionato. Inoltre KuPS è in sottofrequenza (33/100), deve recuperare; nel ritardo il 50% delle partite ha avuto almeno 2 gol o entrambe a segno.
 

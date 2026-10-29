@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 29/10/2026 01:34 (ora italiana)
+Aggiornato: 29/10/2026 12:33 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
 ==================================================
 29/10/2026
 ==================================================
-03:30  Seattle Sounders FC vs Houston Dynamo FC   [USA/CANADA - MLS]  [OK 12+GOAL]
-      [GOAL] Houston Dynamo FC: 12 + GOAL (7) 🟢 71%
 17:00  FC Inter Turku vs HJK   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
       [GOAL] FC Inter Turku: 1X + GOAL (6)
 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 12+GOAL]
@@ -128,14 +126,13 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] NEC Nijmegen: 12 + GOAL (6) 🟢 100% 🔴 NEC Nijmegen
 19:00  Benfica B vs Chaves   [PORTOGALLO - LIGA PORTUGAL 2]  [ALT 12+GOAL]
       [GOAL] Benfica B: 12 + GOAL (6) 🟢 50%
-19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]  [OK X2+GOAL]
-      [GOAL] Columbus Crew: X2 + GOAL (9) 🟢 89% 🔴 DC United
+19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]  [ALT X2+GOAL]
+      [GOAL] Columbus Crew: X2 + GOAL (10) 🟢 90% 🔴 DC United
+      [GOAL] DC United: X2 + GOAL (6) 🟢 100% 🔴 DC United
 20:00  Club Brugge NXT vs Sporting Hasselt   [BELGIO - FIRST DIVISION B]  [OK 1X+GOAL]
       [GOAL] Sporting Hasselt: 1X + GOAL (7+) 🟢 57%
 20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]  [OK 12+GOAL]
       [GOAL] Coritiba: 12 + GOAL (6) 🟢 67% 🔴 Coritiba
-20:00  St. Louis City vs San Diego FC   [USA/CANADA - MLS]  [OK X2+GOAL]
-      [GOAL] St. Louis City: X2 + GOAL (7) 🟢 86%
 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]  [ALT 1X+GOAL]
       [GOAL] Anderlecht: 1X + GOAL (8) 🟢 50%
 20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]  [ALT 1X+GOAL]
@@ -221,8 +218,8 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
       [GOAL] Alemannia Aachen: 1X + GOAL (6) 🟢 67%
 21:00  Tenerife vs FC Andorra   [SPAGNA - LALIGA 2]  [OK 1X+GOAL]
       [GOAL] FC Andorra: 1X + GOAL (9) 🟢 56%
-22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]  [OK X2+GOAL]
-      [GOAL] Red Bull New York: X2 + GOAL (9) 🟢 67%
+22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]  [ALT X2+GOAL]
+      [GOAL] Red Bull New York: X2 + GOAL (10) 🟢 70%
 
 ==================================================
 02/11/2026
@@ -230,7 +227,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🔴 Squadra = quella sq
 00:45  Lanús vs Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]  [OK 1X+GOAL]
       [GOAL] Gimnasia Mendoza: 1X + GOAL (6) 🟢 50% 🔴 Lanús
 03:45  Portland Timbers vs Houston Dynamo FC   [USA/CANADA - MLS]  [OK 12+GOAL]
-      [GOAL] Houston Dynamo FC: 12 + GOAL (7) 🟢 71%
+      [GOAL] Houston Dynamo FC: 12 + GOAL (8) 🟢 62%
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
       [GOAL] FC Inter Turku: 1X + GOAL (6) 🔴 IF Gnistan
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
