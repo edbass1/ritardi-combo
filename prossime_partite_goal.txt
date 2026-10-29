@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 21:25 (ora italiana)
+Aggiornato: 29/10/2026 22:30 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -194,7 +194,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
       Getafe 🟢 GG 30%: 12 + GOAL (12)
 14:00  Malmö FF vs Hammarby   [SVEZIA - ALLSVENSKAN]
-      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,22 (2,20+1,02)
+      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,23 (2,20+1,03)
       Malmö FF 🟢 GG 10%: X2 + GOAL (10)
       Hammarby 🟢 GG 30%: X2 + GOAL (6)
 14:00  Wil vs Winterthur   [SVIZZERA - CHALLENGE LEAGUE]
@@ -295,7 +295,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       Nancy 🟢 GG 30%: 1X + GOAL (10)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,22 (1,36+1,86) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,39 (1,44+1,95) · Parma xG 2,49 (0,82+1,67)
       Parma 🟢 GG 40%: X2 + GOAL (6)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
@@ -319,7 +319,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 21:25 (ora italiana)
+Aggiornato: 29/10/2026 22:30 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -550,7 +550,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 21:25 (ora italiana)
+Aggiornato: 29/10/2026 22:30 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -707,7 +707,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       Nancy 🟢 GG 60%: 1X + GOAL (6)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,22 (1,36+1,86) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,39 (1,44+1,95) · Parma xG 2,49 (0,82+1,67)
       Parma 🟢 GG 40%: X2 + GOAL (7)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
