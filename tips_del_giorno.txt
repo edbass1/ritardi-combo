@@ -1,5 +1,9 @@
-TIPS DEL GIORNO - 29/10/2026
-Aggiornato: 29/10/2026 16:43 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+##################################################
+# TOTALI
+##################################################
+
+TIPS DEL GIORNO - 29/10/2026 — TOTALI
+Aggiornato: 29/10/2026 17:21 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 
  1. 18:00  KuPS vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 12+GOAL]
     12 + GOAL  -  punteggio 49.0  (R+24 C+5 F+5 G+0 A-0 E+0 S+15)
@@ -17,3 +21,59 @@ REGOLE DEL PUNTEGGIO
   E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.
   S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.
   Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.
+  Vista: Totali, Casa o Trasferta usano gli stessi punteggi, ma solo sulle partite di quella vista.
+
+##################################################
+# CASA
+##################################################
+
+TIPS DEL GIORNO - 29/10/2026 — CASA
+Aggiornato: 29/10/2026 17:21 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+
+ 1. 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 68.5  (R+30 C+10 F+7.1 G+1.4 A+5.1 E+0 S+15)
+    GAIS non fa 12 + GOAL da 14 partite (ritardo massimo del campionato 14, mediano 2), ed è il ritardo più lungo del campionato. Inoltre GAIS è in sottofrequenza (28/100), deve recuperare; nel ritardo il 57% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+ 2. 18:30  Hammarby vs Sirius   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 39.4  (R+25.7 C+5 F+2.6 G+6.6 A-0.4 E+0 S+0)
+    Hammarby non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 7, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre nel ritardo il 83% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+
+REGOLE DEL PUNTEGGIO
+  Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
+  Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure sottofrequenza (squadra o avversaria tra le 3 con meno uscite), oppure 🟢 >= 60%, oppure entrambe in ritardo.
+  R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).
+  C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.
+  F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.
+  G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del bonus sottofrequenza).
+  A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.
+  E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.
+  S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.
+  Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.
+  Vista: Totali, Casa o Trasferta usano gli stessi punteggi, ma solo sulle partite di quella vista.
+
+##################################################
+# TRASFERTA
+##################################################
+
+TIPS DEL GIORNO - 29/10/2026 — TRASFERTA
+Aggiornato: 29/10/2026 17:21 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+
+ 1. 19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 56.0  (R+22.5 C+5 F+7.3 G+8 A-1.7 E+0 S+15)
+    GAIS non fa X2 + GOAL da 6 partite (ritardo massimo del campionato 8, mediano 1), tra i 3 ritardi più lunghi del campionato. Inoltre GAIS è in sottofrequenza (27/100), deve recuperare; nel ritardo il 100% delle partite ha avuto almeno 2 gol o entrambe a segno.
+
+
+REGOLE DEL PUNTEGGIO
+  Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.
+  Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure sottofrequenza (squadra o avversaria tra le 3 con meno uscite), oppure 🟢 >= 60%, oppure entrambe in ritardo.
+  R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).
+  C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.
+  F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.
+  G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del bonus sottofrequenza).
+  A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.
+  E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.
+  S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.
+  Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.
+  Vista: Totali, Casa o Trasferta usano gli stessi punteggi, ma solo sulle partite di quella vista.
+
