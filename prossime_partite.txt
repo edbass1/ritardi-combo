@@ -3,19 +3,9 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 18:39 (ora italiana)
+Aggiornato: 29/10/2026 19:37 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Totali). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostrano entrambe le squadre. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
-
-==================================================
-29/10/2026
-==================================================
-19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-      xG: Kalmar FF xG 2,64 (1,37+1,27) · GAIS xG 3,01 (1,61+1,40)
-      [GOAL] Kalmar FF 🟢 GG 20%: 1X + GOAL (9)
-19:00  Örgryte vs Mjällby   [SVEZIA - ALLSVENSKAN]  [OK 12+GOAL]
-      xG: Örgryte xG 3,17 (1,13+2,04) · Mjällby xG 3,02 (1,15+1,87)
-      [GOAL] Mjällby 🟢 GG 50%: 12 + GOAL (6) 🔴 Örgryte
 
 ==================================================
 30/10/2026
@@ -204,7 +194,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
       [GOAL] Getafe 🟢 GG 30%: 12 + GOAL (12)
 14:00  Malmö FF vs Hammarby   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
-      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,21 (2,23+0,98)
+      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,15 (2,19+0,96)
       [GOAL] Malmö FF 🟢 GG 10%: X2 + GOAL (10)
 14:00  Wil vs Winterthur   [SVIZZERA - CHALLENGE LEAGUE]  [OK 12+GOAL]
       [GOAL] Wil 🟢 GG 60%: 12 + GOAL (9)
@@ -244,10 +234,10 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Västerås SK xG 2,85 (1,29+1,56) · Brommapojkarna xG 2,70 (1,31+1,39)
       [GOAL] Västerås SK 🟢 GG 30%: 1X + GOAL (18) 🔴 Brommapojkarna
 16:30  Lausanne vs Thun   [SVIZZERA - SUPER LEAGUE]  [OK X2+GOAL]
-      xG: Lausanne xG 2,66 (0,95+1,71) · Thun xG 3,70 (1,54+2,16)
+      xG: Lausanne xG 2,66 (0,95+1,71) · Thun xG 3,76 (1,55+2,21)
       [GOAL] Lausanne 🟢 GG 30%: X2 + GOAL (6)
 16:30  Lugano vs Basel   [SVIZZERA - SUPER LEAGUE]  [OK 1X+GOAL]
-      xG: Lugano xG 3,09 (1,79+1,30) · Basel xG 2,95 (1,31+1,64)
+      xG: Lugano xG 3,14 (1,84+1,30) · Basel xG 2,95 (1,31+1,64)
       [GOAL] Basel 🟢 GG 70%: 1X + GOAL (6)
 17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]  [OK X2+GOAL]
       xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
@@ -290,7 +280,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Portland Timbers xG 3,20 (1,54+1,66) · Houston Dynamo FC xG 2,59 (1,16+1,43)
       [GOAL] Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8)
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
-      [GOAL] FC Inter Turku 🟢 GG 30%: 1X + GOAL (6) 🔴 IF Gnistan
+      [GOAL] FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 🔴 IF Gnistan
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
       [GOAL] VPS 🟢 GG 0%: 1X + GOAL (13); X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 🔴 VPS
 18:00  Polonia Bytom vs Odra Opole   [POLONIA - I LIGA]  [ALT 12+GOAL]
@@ -298,7 +288,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]  [OK X2+GOAL]
       [GOAL] Kongsvinger 🟢 GG 70%: X2 + GOAL (6) 🔴 Kongsvinger 🔴 Stabæk
 19:00  Mjällby vs Kalmar FF   [SVEZIA - ALLSVENSKAN]  [OK 12+GOAL] [ALT 1X+GOAL]
-      xG: Mjällby xG 3,02 (1,15+1,87) · Kalmar FF xG 2,64 (1,37+1,27)
+      xG: Mjällby xG 2,94 (1,12+1,82) · Kalmar FF xG 2,56 (1,33+1,23)
       [GOAL] Mjällby 🟢 GG 50%: 12 + GOAL (6)
       [GOAL] Kalmar FF 🟢 GG 20%: 1X + GOAL (9)
 20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]  [ALT 1X+GOAL]
@@ -316,7 +306,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 18:39 (ora italiana)
+Aggiornato: 29/10/2026 19:37 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Casa). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostra solo la squadra che in quella partita gioca in casa, con i ritardi delle sue gare in casa. Il numero tra parentesi è quante partite in casa mancano alla combo, non il segno 12. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -416,7 +406,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]  [OK 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
       [GOAL] Partick Thistle 🟢 GG 20%: 1X + GOAL (6) 🔴 Partick Thistle; X2 + GOAL (6); 12 + GOAL (8) 🔴 Greenock Morton
 17:15  Catanzaro vs Padova   [ITALIA - SERIE B]  [OK 1X+GOAL]
-      xG: Catanzaro xG 3,53 (1,32+2,21) · Padova xG 2,89 (1,01+1,88)
+      xG: Catanzaro xG 3,53 (1,32+2,21) · Padova xG 2,90 (1,02+1,88)
       [GOAL] Catanzaro 🟢 GG 60%: 1X + GOAL (7) 🔴 Padova
 17:30  Lech Poznań vs Wisła Kraków   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
       xG: Lech Poznań xG 3,29 (2,28+1,01) · Wisła Kraków xG 3,12 (1,91+1,21)
@@ -467,7 +457,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Nordsjælland xG 3,60 (2,24+1,36) · FC Midtjylland xG 2,64 (1,48+1,16)
       [GOAL] Nordsjælland 🟢 GG 40%: X2 + GOAL (6)
 16:30  Elfsborg vs Örgryte   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
-      xG: Elfsborg xG 2,64 (1,46+1,18) · Örgryte xG 3,17 (1,13+2,04)
+      xG: Elfsborg xG 2,64 (1,46+1,18) · Örgryte xG 3,08 (1,10+1,98)
       [GOAL] Elfsborg 🟢 GG 40%: 1X + GOAL (7) 🔴 Örgryte
 16:30  Västerås SK vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]  [ALT 1X+GOAL]
       xG: Västerås SK xG 2,85 (1,29+1,56) · Brommapojkarna xG 2,70 (1,31+1,39)
@@ -491,7 +481,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Brøndby IF xG 3,09 (1,62+1,47) · AGF xG 3,09 (1,58+1,51)
       [GOAL] Brøndby IF 🟢 GG 50%: X2 + GOAL (6) 🔴 AGF
 19:30  Palermo vs LR Vicenza   [ITALIA - SERIE B]  [OK X2+GOAL]
-      xG: Palermo xG 3,65 (2,01+1,64) · LR Vicenza xG 2,64 (1,13+1,51)
+      xG: Palermo xG 3,72 (2,04+1,68) · LR Vicenza xG 2,64 (1,13+1,51)
       [GOAL] Palermo 🟢 GG 60%: X2 + GOAL (8)
 20:45  Juventus vs Napoli   [ITALIA - SERIE A]  [OK 12+GOAL]
       xG: Juventus xG 2,01 (1,42+0,59) · Napoli xG 3,23 (1,88+1,35)
@@ -504,14 +494,14 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 02/11/2026
 ==================================================
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
-      [GOAL] FC Inter Turku 🟢 GG 40%: 1X + GOAL (6) 🔴 FC Inter Turku
+      [GOAL] FC Inter Turku 🟢 GG 50%: 1X + GOAL (7)
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
       [GOAL] VPS 🟢 GG 20%: 1X + GOAL (9) 🔴 HJK
 18:00  Zagłębie Lubin vs Korona Kielce   [POLONIA - EKSTRAKLASA]  [OK X2+GOAL]
       xG: Zagłębie Lubin xG 2,90 (1,40+1,50) · Korona Kielce xG 3,06 (1,38+1,68)
       [GOAL] Zagłębie Lubin 🟢 GG 30%: X2 + GOAL (8)
 19:00  GAIS vs AIK   [SVEZIA - ALLSVENSKAN]  [ALT 12+GOAL]
-      xG: GAIS xG 3,01 (1,61+1,40) · AIK xG 3,33 (1,49+1,84)
+      xG: GAIS xG 2,92 (1,56+1,36) · AIK xG 3,33 (1,49+1,84)
       [GOAL] GAIS 🟢 GG 30%: 12 + GOAL (14)
 20:30  Casarano vs Foggia   [ITALIA - SERIE C]  [ALT X2+GOAL]
       [GOAL] Casarano 🟢 GG 40%: X2 + GOAL (7)
@@ -538,16 +528,9 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 18:39 (ora italiana)
+Aggiornato: 29/10/2026 19:37 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Trasferta). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostra solo la squadra che in quella partita gioca in trasferta, con i ritardi delle sue gare in trasferta. Il numero tra parentesi è quante trasferte mancano alla combo, non il segno 12. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
-
-==================================================
-29/10/2026
-==================================================
-19:00  Kalmar FF vs GAIS   [SVEZIA - ALLSVENSKAN]  [ALT X2+GOAL]
-      xG: Kalmar FF xG 2,64 (1,37+1,27) · GAIS xG 3,01 (1,61+1,40)
-      [GOAL] GAIS 🟢 GG 40%: X2 + GOAL (6)
 
 ==================================================
 30/10/2026
@@ -656,7 +639,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 17:30  Latina vs Pianese   [ITALIA - SERIE C]  [OK X2+GOAL]
       [GOAL] Pianese 🟢 GG 50%: X2 + GOAL (6)
 18:00  Lecce vs Genoa   [ITALIA - SERIE A]  [OK X2+GOAL]
-      xG: Lecce xG 2,92 (1,23+1,69) · Genoa xG 2,20 (0,86+1,34)
+      xG: Lecce xG 3,16 (1,31+1,85) · Genoa xG 2,20 (0,86+1,34)
       [GOAL] Genoa 🟢 GG 20%: X2 + GOAL (6)
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]  [OK X2+GOAL]
       [GOAL] Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague

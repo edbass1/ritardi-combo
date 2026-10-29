@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 29/10/2026 18:39 (ora italiana)
+Aggiornato: 29/10/2026 19:37 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1692,18 +1692,18 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (169 partite giocate) + 2025
+Stagione 2026 (170 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. AC Oulu                          13
    2. VPS                              13
-   3. FC Inter Turku                    6
+   3. FC Inter Turku                    7
    4. IF Gnistan                        4  🟢 50%  🔴
    5. SJK                               2  🟢 50%  🔴
-   6. Ilves                             1  🟢 100%
-   7. FC Lahti                          0  🔴
-   8. FF Jaro                           0
-   9. HJK                               0
+   6. HJK                               1  🟢 100%
+   7. Ilves                             1  🟢 100%
+   8. FC Lahti                          0  🔴
+   9. FF Jaro                           0
   10. IFK Mariehamn                     0  🔴
 
 RITARDI X2 + GOAL
@@ -1712,8 +1712,8 @@ RITARDI X2 + GOAL
    3. SJK                               3  🟢 67%  🔴
    4. FC Lahti                          2  🟢 50%
    5. AC Oulu                           1
-   6. FC Inter Turku                    1
-   7. Ilves                             1  🟢 100%
+   6. Ilves                             1  🟢 100%
+   7. FC Inter Turku                    0
    8. FF Jaro                           0
    9. HJK                               0  🔴
   10. IF Gnistan                        0  🔴
@@ -1723,12 +1723,12 @@ RITARDI 12 + GOAL
    2. FF Jaro                           8  🟢 75%
    3. KuPS                              8  🟢 50%
    4. Ilves                             3  🟢 100%
-   5. HJK                               2  🟢 100%
-   6. IFK Mariehamn                     2  🟢 100%
-   7. SJK                               2  🟢 50%  🔴
-   8. AC Oulu                           1  🔴
-   9. FC Inter Turku                    1
-  10. FC Lahti                          0
+   5. IFK Mariehamn                     2  🟢 100%
+   6. SJK                               2  🟢 50%  🔴
+   7. AC Oulu                           1  🔴
+   8. FC Inter Turku                    0
+   9. FC Lahti                          0
+  10. HJK                               0
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
@@ -1855,7 +1855,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 29/10/2026 18:39 (ora italiana)
+Aggiornato: 29/10/2026 19:37 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3544,13 +3544,13 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (169 partite giocate) + 2025
+Stagione 2026 (170 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. AC Oulu                           9
    2. VPS                               9
-   3. TPS                               7  🟢 57%
-   4. FC Inter Turku                    6  🔴
+   3. FC Inter Turku                    7
+   4. TPS                               7  🟢 57%
    5. KuPS                              4  🟢 50%
    6. IF Gnistan                        2  🟢 50%
    7. Ilves                             1  🟢 100%
@@ -3707,7 +3707,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 29/10/2026 18:39 (ora italiana)
+Aggiornato: 29/10/2026 19:37 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -5396,16 +5396,16 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (169 partite giocate) + 2025
+Stagione 2026 (170 partite giocate) + 2025
 ==================================================
 RITARDI 1X + GOAL
    1. VPS                               6  🟢 50%
    2. AC Oulu                           5  🔴
    3. IF Gnistan                        4  🟢 75%
    4. FC Inter Turku                    3
-   5. FC Lahti                          1
-   6. FF Jaro                           1
-   7. HJK                               1  🟢 100%
+   5. HJK                               2  🟢 100%
+   6. FC Lahti                          1
+   7. FF Jaro                           1
    8. SJK                               1  🟢 100%
    9. IFK Mariehamn                     0  🔴
   10. Ilves                             0  🔴
