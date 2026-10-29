@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 19:37 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -11,7 +11,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 30/10/2026
 ==================================================
 17:00  FC Vlašim vs Ústí nad Labem   [REP. CECA - FNL]
-      FC Vlašim 🟢 GG 70%: X2 + GOAL (7) 🔴 FC Vlašim
+      FC Vlašim 🟢 GG 70%: X2 + GOAL (7) 🔥 2/44 🔴 FC Vlašim
 19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
       FC Stade Lausanne-Ouchy 🟢 GG 30%: 1X + GOAL (6) 🔴 Yverdon; X2 + GOAL (6) 🔴 FC Stade Lausanne-Ouchy; 12 + GOAL (7)
 20:00  Nantes vs Clermont Foot   [FRANCIA - LIGUE 2]
@@ -27,7 +27,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 20:30  Pogoń Grodzisk Mazowiecki vs Stal Mielec   [POLONIA - I LIGA]
       Pogoń Grodzisk Mazowiecki 🟢 GG 40%: X2 + GOAL (6)
 20:30  Stenhousemuir vs Livingston   [SCOZIA - CHAMPIONSHIP]
-      Stenhousemuir 🟢 GG 20%: 12 + GOAL (8) 🔴 Livingston
+      Stenhousemuir 🟢 GG 20%: 12 + GOAL (8) 👻 44/44 🔴 Livingston
 20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
       xG: Zulte Waregem xG 2,93 (1,27+1,66) · Club Brugge xG 4,02 (2,71+1,31)
       Zulte Waregem 🟢 GG 30%: 12 + GOAL (8) 🔴 Zulte Waregem 🔴 Club Brugge
@@ -39,7 +39,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       St. Patrick's Athletic 🟢 GG 30%: 1X + GOAL (9)
 21:15  Casa Pia AC vs Sporting CP   [PORTOGALLO - LIGA PORTUGAL]
       xG: Casa Pia AC xG 2,59 (0,94+1,65) · Sporting CP xG 2,86 (1,95+0,91)
-      Casa Pia AC 🟢 GG 30%: 1X + GOAL (9)
+      Casa Pia AC 🟢 GG 30%: 1X + GOAL (9) 👻 42/44
 
 ==================================================
 31/10/2026
@@ -67,17 +67,17 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Bradford City 🟢 GG 20%: 12 + GOAL (8)
 13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
       xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
-      Manchester United 🟢 GG 60%: 12 + GOAL (6) 🔴 Chelsea
+      Manchester United 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Chelsea
 13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
       xG: Leyton Orient xG 2,72 (1,14+1,58) · Cambridge United xG 2,84 (1,36+1,48)
       Leyton Orient 🟢 GG 40%: X2 + GOAL (6)
 13:30  Port Vale vs Rochdale   [INGHILTERRA - LEAGUE TWO]
       xG: Port Vale xG 2,18 (1,15+1,03) · Rochdale xG 2,61 (0,82+1,79)
-      Port Vale 🟢 GG 30%: 12 + GOAL (7)
+      Port Vale 🟢 GG 30%: 12 + GOAL (7) 👻 41/44
 14:30  Giugliano vs Casertana   [ITALIA - SERIE C]
       Giugliano 🟢 GG 30%: X2 + GOAL (10)
 15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
-      Torreense 🟢 GG 40%: 12 + GOAL (7) 🔴 Portimonense
+      Torreense 🟢 GG 40%: 12 + GOAL (7) 👻 40/44 🔴 Portimonense
 15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
       Slovan Liberec 🟢 GG 20%: 1X + GOAL (7)
 15:00  Nordic United FC vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
@@ -85,7 +85,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]
       IFK Värnamo 🟢 GG 70%: 1X + GOAL (6)
 15:30  Floridsdorfer AC vs Kapfenberger SV   [AUSTRIA - 2. LIGA]
-      Floridsdorfer AC 🟢 GG 30%: X2 + GOAL (7)
+      Floridsdorfer AC 🟢 GG 30%: X2 + GOAL (7) 👻 42/44
 15:30  Schalke 04 vs RB Leipzig   [GERMANIA - BUNDESLIGA]
       xG: Schalke 04 xG 2,88 (1,03+1,85) · RB Leipzig xG 3,95 (2,37+1,58)
       RB Leipzig 🟢 GG 50%: X2 + GOAL (11)
@@ -93,14 +93,14 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Warta Poznań 🟢 GG 50%: X2 + GOAL (9)
 16:00  Accrington Stanley vs Northampton Town   [INGHILTERRA - LEAGUE TWO]
       xG: Accrington Stanley xG 2,93 (1,64+1,29) · Northampton Town xG 2,14 (0,92+1,22)
-      Northampton Town 🟢 GG 30%: 12 + GOAL (11+)
+      Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
 16:00  Bolton Wanderers vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]
       xG: Bolton Wanderers xG 3,37 (1,39+1,98) · Bristol City xG 2,62 (1,31+1,31)
       Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8)
       Bristol City 🟢 GG 50%: 12 + GOAL (6)
 16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
       xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
-      Colchester United 🟢 GG 50%: 12 + GOAL (7)
+      Colchester United 🟢 GG 50%: 12 + GOAL (7) 👻 41/44
 16:00  Coventry City vs Sunderland   [INGHILTERRA - PREMIER LEAGUE]
       xG: Coventry City xG 2,43 (0,95+1,48) · Sunderland xG 3,30 (1,42+1,88)
       Coventry City 🟢 GG 25% (2/8): X2 + GOAL (8+)
@@ -110,7 +110,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 16:00  Manchester City vs Brighton & Hove Albion   [INGHILTERRA - PREMIER LEAGUE]
       xG: Manchester City xG 3,42 (2,09+1,33) · Brighton & Hove Albion xG 3,45 (2,03+1,42)
       Manchester City 🟢 GG 70%: X2 + GOAL (6)
-      Brighton & Hove Albion 🟢 GG 20%: 12 + GOAL (6)
+      Brighton & Hove Albion 🟢 GG 20%: 12 + GOAL (6) 👻 42/44
 16:00  Milton Keynes Dons vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
       xG: Milton Keynes Dons xG 3,12 (1,60+1,52) · Doncaster Rovers xG 3,00 (1,37+1,63)
       Doncaster Rovers 🟢 GG 50%: X2 + GOAL (7)
@@ -124,14 +124,14 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Wigan Athletic xG 3,20 (1,30+1,90) · Bromley xG 2,82 (0,77+2,05)
       Wigan Athletic 🟢 GG 30%: X2 + GOAL (17)
 16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park 🟢 GG 30%: X2 + GOAL (10) 🔴 Ayr United
+      Queen's Park 🟢 GG 30%: X2 + GOAL (10) 👻 41/44 🔴 Ayr United
 16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (18)
+      Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (18) 👻 44/44
 16:00  Kilmarnock vs St. Johnstone   [SCOZIA - PREMIERSHIP]
       xG: Kilmarnock xG 3,41 (1,18+2,23) · St. Johnstone xG 3,12 (1,29+1,83)
       St. Johnstone 🟢 GG 60%: 12 + GOAL (6)
 16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
-      Greenock Morton 🟢 GG 60%: 1X + GOAL (6) 🔴 Partick Thistle 🔴 Greenock Morton
+      Greenock Morton 🟢 GG 60%: 1X + GOAL (6) 👻 44/44 🔴 Partick Thistle 🔴 Greenock Morton
 16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]
       Fortuna Köln 🟢 GG 40%: 1X + GOAL (6)
 17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]
@@ -141,26 +141,26 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Udinese 🟢 GG 50%: X2 + GOAL (6)
 18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
       xG: Standard Liège xG 3,69 (1,95+1,74) · Kortrijk xG 2,84 (0,97+1,87)
-      Kortrijk 🟢 GG 12% (1/8): 1X + GOAL (8+)
+      Kortrijk 🟢 GG 12% (1/8): 1X + GOAL (8+) 👻 40/44
 18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
       xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
       SC Heerenveen 🟢 GG 40%: 1X + GOAL (6)
       NEC Nijmegen 🟢 GG 90%: 12 + GOAL (6) 🔴 NEC Nijmegen
 19:00  Benfica B vs Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
-      Benfica B 🟢 GG 20%: 12 + GOAL (6)
+      Benfica B 🟢 GG 20%: 12 + GOAL (6) 👻 40/44
 19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]
       xG: Columbus Crew xG 2,77 (1,47+1,30) · DC United xG 3,00 (1,42+1,58)
       Columbus Crew 🟢 GG 50%: X2 + GOAL (10) 🔴 DC United
       DC United 🟢 GG 70%: X2 + GOAL (6) 🔴 DC United
 20:00  Club Brugge NXT vs Sporting Hasselt   [BELGIO - FIRST DIVISION B]
       xG: Club Brugge NXT xG 2,80 (1,06+1,74) · Sporting Hasselt xG 3,97 (1,95+2,02)
-      Sporting Hasselt 🟢 GG 29% (2/7): 1X + GOAL (7+)
+      Sporting Hasselt 🟢 GG 29% (2/7): 1X + GOAL (7+) 👻 41/44
 20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]
       xG: Coritiba xG 2,71 (1,07+1,64) · Vitória xG 2,48 (1,06+1,42)
       Coritiba 🟢 GG 60%: 12 + GOAL (6) 🔴 Coritiba
 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
       xG: Anderlecht xG 2,68 (1,63+1,05) · Westerlo xG 3,47 (1,65+1,82)
-      Anderlecht 🟢 GG 30%: 1X + GOAL (8)
+      Anderlecht 🟢 GG 30%: 1X + GOAL (8) 👻 40/44
 20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]
       xG: Troyes xG 2,88 (1,22+1,66) · Le Mans xG 3,63 (1,52+2,11)
       Troyes 🟢 GG 38% (3/8): 1X + GOAL (8+)
@@ -188,19 +188,19 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: OB xG 3,19 (1,33+1,86) · Silkeborg xG 2,79 (1,16+1,63)
       Silkeborg 🟢 GG 60%: 12 + GOAL (7)
 14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu 🟢 GG 40%: 1X + GOAL (13)
-      KuPS 🟢 GG 40%: 12 + GOAL (8) 🔴 AC Oulu
+      AC Oulu 🟢 GG 40%: 1X + GOAL (13) 🔴 KuPS
+      KuPS 🟢 GG 40%: 12 + GOAL (9) 👻 43/44 🔴 AC Oulu
 14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
       xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
       Getafe 🟢 GG 30%: 12 + GOAL (12)
 14:00  Malmö FF vs Hammarby   [SVEZIA - ALLSVENSKAN]
-      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,15 (2,19+0,96)
+      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,16 (2,20+0,96)
       Malmö FF 🟢 GG 10%: X2 + GOAL (10)
 14:00  Wil vs Winterthur   [SVIZZERA - CHALLENGE LEAGUE]
       Wil 🟢 GG 60%: 12 + GOAL (9)
 14:30  Salzburg vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]
       xG: Salzburg xG 3,58 (2,50+1,08) · Austria Lustenau xG 3,61 (1,12+2,49)
-      Austria Lustenau 🟢 GG 70%: X2 + GOAL (6)
+      Austria Lustenau 🟢 GG 70%: X2 + GOAL (6) 👻 43/44
 14:30  Cittadella vs Treviso   [ITALIA - SERIE C]
       Treviso 🟢 GG 40%: X2 + GOAL (6)
 14:30  Dolomiti Bellunesi vs Lecco   [ITALIA - SERIE C]
@@ -222,10 +222,10 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Ružomberok 🟢 GG 40%: 12 + GOAL (6)
 16:00  FCV Dender EH vs Genk U23   [BELGIO - FIRST DIVISION B]
       xG: FCV Dender EH xG 2,63 (1,76+0,87) · Genk U23 xG 3,62 (1,59+2,03)
-      FCV Dender EH 🟢 GG 14% (1/7): 1X + GOAL (7+)
+      FCV Dender EH 🟢 GG 14% (1/7): 1X + GOAL (7+) 👻 41/44
 16:00  St.Truiden vs OH Leuven   [BELGIO - FIRST DIVISION A]
       xG: St.Truiden xG 3,82 (1,95+1,87) · OH Leuven xG 3,06 (1,37+1,69)
-      St.Truiden 🟢 GG 50%: X2 + GOAL (6)
+      St.Truiden 🟢 GG 50%: X2 + GOAL (6) 👻 44/44
       OH Leuven 🟢 GG 50%: 12 + GOAL (6) 🔴 St.Truiden
 16:30  Häcken vs IFK Göteborg   [SVEZIA - ALLSVENSKAN]
       xG: Häcken xG 3,01 (1,86+1,15) · IFK Göteborg xG 3,01 (1,57+1,44)
@@ -241,7 +241,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Basel 🟢 GG 70%: 1X + GOAL (6)
 17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
       xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
-      Rapid Wien 🟢 GG 50%: X2 + GOAL (8)
+      Rapid Wien 🟢 GG 50%: X2 + GOAL (8) 👻 43/44
 17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
       Moss 🟢 GG 70%: 1X + GOAL (9)
 17:15  Lyon vs Angers   [FRANCIA - LIGUE 1]
@@ -249,7 +249,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Lyon 🟢 GG 50%: X2 + GOAL (6)
 17:15  Hellas Verona vs Carrarese   [ITALIA - SERIE B]
       xG: Hellas Verona xG 2,95 (1,80+1,15) · Carrarese xG 2,67 (1,39+1,28)
-      Carrarese 🟢 GG 60%: X2 + GOAL (7)
+      Carrarese 🟢 GG 60%: X2 + GOAL (7) 🔥 5/44
 17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
       xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
       Liverpool 🟢 GG 50%: 1X + GOAL (6) 🔴 Liverpool
@@ -282,13 +282,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
       FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 🔴 IF Gnistan
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS 🟢 GG 0%: 1X + GOAL (13); X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 🔴 VPS
+      VPS 🟢 GG 0%: 1X + GOAL (13); X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 👻 43/44 🔴 VPS
 18:00  Polonia Bytom vs Odra Opole   [POLONIA - I LIGA]
       Odra Opole 🟢 GG 40%: 12 + GOAL (8)
 19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]
       Kongsvinger 🟢 GG 70%: X2 + GOAL (6) 🔴 Kongsvinger 🔴 Stabæk
 19:00  Mjällby vs Kalmar FF   [SVEZIA - ALLSVENSKAN]
-      xG: Mjällby xG 2,94 (1,12+1,82) · Kalmar FF xG 2,56 (1,33+1,23)
+      xG: Mjällby xG 2,95 (1,13+1,82) · Kalmar FF xG 2,56 (1,33+1,23)
       Mjällby 🟢 GG 50%: 12 + GOAL (6)
       Kalmar FF 🟢 GG 20%: 1X + GOAL (9)
 20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]
@@ -299,14 +299,14 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Parma 🟢 GG 40%: X2 + GOAL (6)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
-      Everton 🟢 GG 40%: 12 + GOAL (9) 🔴 Newcastle United
+      Everton 🟢 GG 40%: 12 + GOAL (9) 👻 42/44 🔴 Newcastle United
 
 ##################################################
 # CASA
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 19:37 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -318,7 +318,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:00  FK Pohronie vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
       FK Pohronie 🟢 GG 60%: X2 + GOAL (7) 🔴 FK Pohronie 🔴 Slovan Bratislava B
 18:30  SKN St. Pölten vs FC Hertha Wels   [AUSTRIA - 2. LIGA]
-      SKN St. Pölten 🟢 GG 20%: X2 + GOAL (11)
+      SKN St. Pölten 🟢 GG 20%: X2 + GOAL (11) 👻 42/44
 19:00  AaB vs Hobro   [DANIMARCA - 1. DIVISION]
       AaB 🟢 GG 50%: 12 + GOAL (7) 🔴 Hobro
 19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]
@@ -335,13 +335,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Pogoń Grodzisk Mazowiecki 🟢 GG 40%: 12 + GOAL (7)
 20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
       xG: Zulte Waregem xG 2,93 (1,27+1,66) · Club Brugge xG 4,02 (2,71+1,31)
-      Zulte Waregem 🟢 GG 40%: X2 + GOAL (6)
+      Zulte Waregem 🟢 GG 40%: X2 + GOAL (6) 👻 44/44
 20:45  Drogheda United vs Galway United FC   [IRLANDA - PREMIER DIVISION]
       xG: Drogheda United xG 2,68 (1,11+1,57) · Galway United FC xG 2,78 (1,28+1,50)
       Drogheda United 🟢 GG 40%: 1X + GOAL (6)
 21:05  Lille vs Lens   [FRANCIA - LIGUE 1]
       xG: Lille xG 3,07 (1,41+1,66) · Lens xG 3,42 (1,90+1,52)
-      Lille 🟢 GG 40%: 12 + GOAL (11)
+      Lille 🟢 GG 40%: 12 + GOAL (11) 🔥 5/44
 
 ==================================================
 31/10/2026
@@ -368,7 +368,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Bari 🟢 GG 0% (0/6): 1X + GOAL (6+); X2 + GOAL (6+); 12 + GOAL (6+)
 15:00  Modena vs Mantova   [ITALIA - SERIE B]
       xG: Modena xG 2,37 (1,52+0,85) · Mantova xG 2,91 (1,51+1,40)
-      Modena 🟢 GG 50%: X2 + GOAL (6)
+      Modena 🟢 GG 50%: X2 + GOAL (6) 🔥 5/44
 15:00  Südtirol vs Cesena   [ITALIA - SERIE B]
       xG: Südtirol xG 2,25 (0,97+1,28) · Cesena xG 2,26 (1,11+1,15)
       Südtirol 🟢 GG 50%: 12 + GOAL (9)
@@ -382,7 +382,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Lechia Gdańsk 🟢 GG 50% (3/6): X2 + GOAL (6+)
 16:00  AFC Bournemouth vs Leeds United   [INGHILTERRA - PREMIER LEAGUE]
       xG: AFC Bournemouth xG 2,97 (1,81+1,16) · Leeds United xG 2,63 (1,31+1,32)
-      AFC Bournemouth 🟢 GG 60%: 12 + GOAL (11)
+      AFC Bournemouth 🟢 GG 60%: 12 + GOAL (11) 👻 42/44
 16:00  Millwall vs Derby County   [INGHILTERRA - CHAMPIONSHIP]
       xG: Millwall xG 3,12 (1,77+1,35) · Derby County xG 2,83 (1,01+1,82)
       Millwall 🟢 GG 30%: 12 + GOAL (9)
@@ -399,12 +399,12 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Wigan Athletic xG 3,20 (1,30+1,90) · Bromley xG 2,82 (0,77+2,05)
       Wigan Athletic 🟢 GG 20%: X2 + GOAL (14) 🔴 Bromley
 16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (7)
+      Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (7) 👻 44/44
 16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
       xG: Motherwell xG 3,33 (1,59+1,74) · St. Mirren xG 3,46 (1,52+1,94)
       Motherwell 🟢 GG 30%: 1X + GOAL (6)
 16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
-      Partick Thistle 🟢 GG 20%: 1X + GOAL (6) 🔴 Partick Thistle; X2 + GOAL (6); 12 + GOAL (8) 🔴 Greenock Morton
+      Partick Thistle 🟢 GG 20%: 1X + GOAL (6) 👻 44/44 🔴 Partick Thistle; X2 + GOAL (6) 👻 41/44; 12 + GOAL (8) 👻 44/44 🔴 Greenock Morton
 17:15  Catanzaro vs Padova   [ITALIA - SERIE B]
       xG: Catanzaro xG 3,53 (1,32+2,21) · Padova xG 2,90 (1,02+1,88)
       Catanzaro 🟢 GG 60%: 1X + GOAL (7) 🔴 Padova
@@ -434,13 +434,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Colorado Rapids xG 2,65 (1,42+1,23) · Chicago Fire FC xG 3,06 (1,75+1,31)
       Colorado Rapids 🟢 GG 30%: 12 + GOAL (10)
 12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
-      Vizela 🟢 GG 30%: 1X + GOAL (8); X2 + GOAL (7); 12 + GOAL (7)
+      Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 43/44; X2 + GOAL (7); 12 + GOAL (7) 👻 40/44
 13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
       Mladá Boleslav 🟢 GG 40%: X2 + GOAL (6) 🔴 Mladá Boleslav
 13:00  Varbergs BoIS FC vs Ljungskile   [SVEZIA - SUPERETTAN]
       Varbergs BoIS FC 🟢 GG 50%: X2 + GOAL (7)
 14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu 🟢 GG 40%: 1X + GOAL (9)
+      AC Oulu 🟢 GG 40%: 1X + GOAL (9) 🔴 KuPS
 14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
       xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
       Getafe 🟢 GG 40%: 12 + GOAL (6)
@@ -464,7 +464,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Västerås SK 🟢 GG 30%: 1X + GOAL (9)
 17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
       xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
-      Austria Wien 🟢 GG 50%: X2 + GOAL (6)
+      Austria Wien 🟢 GG 50%: X2 + GOAL (6) 👻 43/44
 17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
       Strømsgodset 🟢 GG 60%: X2 + GOAL (6)
 17:15  Paris FC vs Monaco   [FRANCIA - LIGUE 1]
@@ -472,7 +472,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Paris FC 🟢 GG 50%: X2 + GOAL (11)
 17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
       xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
-      Liverpool 🟢 GG 60%: 12 + GOAL (6) 🔴 Arsenal
+      Liverpool 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Arsenal
 17:30  Latina vs Pianese   [ITALIA - SERIE C]
       Latina 🟢 GG 40%: 12 + GOAL (7)
 17:30  Potenza vs Crotone   [ITALIA - SERIE C]
@@ -482,7 +482,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Brøndby IF 🟢 GG 50%: X2 + GOAL (6) 🔴 AGF
 19:30  Palermo vs LR Vicenza   [ITALIA - SERIE B]
       xG: Palermo xG 3,72 (2,04+1,68) · LR Vicenza xG 2,64 (1,13+1,51)
-      Palermo 🟢 GG 60%: X2 + GOAL (8)
+      Palermo 🟢 GG 60%: X2 + GOAL (8) 🔥 5/44
 20:45  Juventus vs Napoli   [ITALIA - SERIE A]
       xG: Juventus xG 2,01 (1,42+0,59) · Napoli xG 3,23 (1,88+1,35)
       Juventus 🟢 GG 30%: 12 + GOAL (15)
@@ -528,7 +528,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 19:37 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -556,14 +556,14 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Melbourne City FC xG 1,91 (1,21+0,70) · Sydney FC xG 2,42 (1,33+1,09)
       Sydney FC 🟢 GG 10%: 12 + GOAL (12)
 12:00  Amarante FC vs FC Porto B   [PORTOGALLO - LIGA PORTUGAL 2]
-      FC Porto B 🟢 GG 40%: 1X + GOAL (6)
+      FC Porto B 🟢 GG 40%: 1X + GOAL (6) 👻 43/44
 13:00  MFK Zvolen vs MFK Bytca   [SLOVACCHIA - 2. LIGA]
       MFK Bytca 🟢 GG 67% (4/6): X2 + GOAL (6+)
 13:00  IFK Norrköping vs Östersunds FK   [SVEZIA - SUPERETTAN]
       Östersunds FK 🟢 GG 50%: 12 + GOAL (10) 🔴 IFK Norrköping
 13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
       xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
-      Manchester United 🟢 GG 50%: 12 + GOAL (8) 🔴 Chelsea
+      Manchester United 🟢 GG 50%: 12 + GOAL (8) 👻 42/44 🔴 Chelsea
 14:30  Ospitaletto vs Trento   [ITALIA - SERIE C]
       Trento 🟢 GG 60%: 12 + GOAL (6)
 15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
@@ -574,7 +574,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       IFK Värnamo 🟢 GG 60%: 1X + GOAL (7)
 16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
       xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
-      Walsall 🟢 GG 80%: 12 + GOAL (6)
+      Walsall 🟢 GG 80%: 12 + GOAL (6) 👻 41/44
 16:00  Fleetwood Town vs Bristol Rovers   [INGHILTERRA - LEAGUE TWO]
       xG: Fleetwood Town xG 3,08 (1,29+1,79) · Bristol Rovers xG 2,88 (1,59+1,29)
       Bristol Rovers 🟢 GG 60%: X2 + GOAL (6)
@@ -585,7 +585,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
       Exeter City 🟢 GG 17% (1/6): X2 + GOAL (6+) 🔴 Salford City
 16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park 🟢 GG 30%: X2 + GOAL (6) 🔴 Ayr United
+      Queen's Park 🟢 GG 30%: X2 + GOAL (6) 👻 41/44 🔴 Ayr United
 16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
       xG: Motherwell xG 3,33 (1,59+1,74) · St. Mirren xG 3,46 (1,52+1,94)
       St. Mirren 🟢 GG 30%: X2 + GOAL (8)
@@ -596,7 +596,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Rayo Vallecano xG 3,15 (1,42+1,73) · Celta Vigo xG 2,11 (0,92+1,19)
       Celta Vigo 🟢 GG 50%: 12 + GOAL (6)
 16:30  Leixões vs Sporting CP B   [PORTOGALLO - LIGA PORTUGAL 2]
-      Sporting CP B 🟢 GG 30%: 1X + GOAL (6)
+      Sporting CP B 🟢 GG 30%: 1X + GOAL (6) 👻 43/44
 17:30  Cavese vs AZ Picerno   [ITALIA - SERIE C]
       AZ Picerno 🟢 GG 60%: X2 + GOAL (6)
 18:00  Grasshopper vs FC Vaduz   [SVIZZERA - SUPER LEAGUE]
@@ -604,13 +604,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       FC Vaduz 🟢 GG 100% (6/6): X2 + GOAL (6+)
 19:30  LASK vs WSG Tirol   [AUSTRIA - BUNDESLIGA]
       xG: LASK xG 3,64 (2,43+1,21) · WSG Tirol xG 3,21 (1,46+1,75)
-      WSG Tirol 🟢 GG 20%: X2 + GOAL (10) 🔴 LASK
+      WSG Tirol 🟢 GG 20%: X2 + GOAL (10) 👻 43/44 🔴 LASK
 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
       xG: Anderlecht xG 2,68 (1,63+1,05) · Westerlo xG 3,47 (1,65+1,82)
-      Westerlo 🟢 GG 20%: X2 + GOAL (8)
+      Westerlo 🟢 GG 20%: X2 + GOAL (8) 👻 44/44
 20:45  SK Beveren vs Union St.Gilloise   [BELGIO - FIRST DIVISION A]
       xG: SK Beveren xG 3,12 (1,15+1,97) · Union St.Gilloise xG 3,23 (2,13+1,10)
-      Union St.Gilloise 🟢 GG 50%: 1X + GOAL (6)
+      Union St.Gilloise 🟢 GG 50%: 1X + GOAL (6) 👻 40/44
 21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
       xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
       Talleres 🟢 GG 60%: X2 + GOAL (6) 🔴 Talleres
@@ -620,7 +620,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ==================================================
 13:30  Cercle Brugge vs Royal Antwerp   [BELGIO - FIRST DIVISION A]
       xG: Cercle Brugge xG 3,41 (1,61+1,80) · Royal Antwerp xG 3,70 (1,35+2,35)
-      Royal Antwerp 🟢 GG 50%: X2 + GOAL (6)
+      Royal Antwerp 🟢 GG 50%: X2 + GOAL (6) 👻 44/44
 14:00  Falkirk vs Celtic   [SCOZIA - PREMIERSHIP]
       xG: Falkirk xG 2,87 (1,15+1,72) · Celtic xG 3,74 (2,68+1,06)
       Celtic 🟢 GG 70%: 1X + GOAL (10)
@@ -639,7 +639,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:30  Latina vs Pianese   [ITALIA - SERIE C]
       Pianese 🟢 GG 50%: X2 + GOAL (6)
 18:00  Lecce vs Genoa   [ITALIA - SERIE A]
-      xG: Lecce xG 3,16 (1,31+1,85) · Genoa xG 2,20 (0,86+1,34)
+      xG: Lecce xG 3,29 (1,36+1,93) · Genoa xG 2,20 (0,86+1,34)
       Genoa 🟢 GG 20%: X2 + GOAL (6)
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
       Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague
@@ -653,7 +653,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Rio Ave 🟢 GG 20%: 12 + GOAL (7)
 19:15  Sporting Charleroi vs RAAL La Louvière   [BELGIO - FIRST DIVISION A]
       xG: Sporting Charleroi xG 3,06 (1,87+1,19) · RAAL La Louvière xG 3,44 (1,31+2,13)
-      RAAL La Louvière 🟢 GG 40%: X2 + GOAL (7)
+      RAAL La Louvière 🟢 GG 40%: X2 + GOAL (7) 👻 44/44
 21:30  Braga vs Famalicão   [PORTOGALLO - LIGA PORTUGAL]
       xG: Braga xG 2,23 (1,41+0,82) · Famalicão xG 2,41 (1,01+1,40)
       Famalicão 🟢 GG 50%: 12 + GOAL (9) 🔴 Braga
@@ -678,7 +678,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 20:00  Heracles vs TOP Oss   [OLANDA - EERSTE DIVISIE]
       TOP Oss 🟢 GG 60%: X2 + GOAL (7)
 20:00  Jong Ajax vs Vitesse   [OLANDA - EERSTE DIVISIE]
-      Vitesse 🟢 GG 30%: 1X + GOAL (6) 🔴 Jong Ajax
+      Vitesse 🟢 GG 30%: 1X + GOAL (6) 🔥 1/44 🔴 Jong Ajax
 20:30  Casarano vs Foggia   [ITALIA - SERIE C]
       Foggia 🟢 GG 20%: X2 + GOAL (15)
 20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]
@@ -689,7 +689,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Parma 🟢 GG 40%: X2 + GOAL (7)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
-      Everton 🟢 GG 60%: 12 + GOAL (6) 🔴 Newcastle United
+      Everton 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Newcastle United
 21:15  Gil Vicente vs Vitória de Guimarães   [PORTOGALLO - LIGA PORTUGAL]
       xG: Gil Vicente xG 2,42 (1,32+1,10) · Vitória de Guimarães xG 2,62 (1,67+0,95)
       Vitória de Guimarães 🟢 GG 40%: X2 + GOAL (7)
