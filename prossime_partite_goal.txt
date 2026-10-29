@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 17:01 (ora italiana)
+Aggiornato: 29/10/2026 17:21 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -318,7 +318,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 17:01 (ora italiana)
+Aggiornato: 29/10/2026 17:21 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -509,7 +509,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Lech Poznań 🟢 GG 60%: X2 + GOAL (6)
       Wisła Kraków 🟢 GG 67% (4/6): X2 + GOAL (6+)
 18:00  Aalesund vs Sandefjord   [NORVEGIA - ELITESERIEN]
-      xG: Aalesund xG 3,90 (1,62+2,28) · Sandefjord xG 3,20 (1,33+1,87)
+      xG: Aalesund xG 3,90 (1,62+2,28) · Sandefjord xG 3,18 (1,33+1,85)
       Sandefjord 🟢 GG 30%: 12 + GOAL (17)
 18:00  Charlotte FC vs Orlando City   [USA/CANADA - MLS]
       xG: Charlotte FC xG 3,23 (1,55+1,68) · Orlando City xG 3,91 (1,64+2,27)
@@ -688,7 +688,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 17:01 (ora italiana)
+Aggiornato: 29/10/2026 17:21 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
