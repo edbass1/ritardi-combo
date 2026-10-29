@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1351,11 +1351,11 @@ SOTTOFREQUENZA 12 + GOAL
 FINLANDIA - VEIKKAUSLIIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 SJK                            46/100
-    2/12 IF Gnistan                     46/100
-    3/12 IFK Mariehamn                  43/100
-    4/12 FC Lahti                       43/100
-    5/12 KuPS                           42/100
+    1/12 IF Gnistan                     47/100
+    2/12 SJK                            46/100
+    3/12 KuPS                           43/100
+    4/12 IFK Mariehamn                  43/100
+    5/12 FC Lahti                       43/100
      ...
    12/12 HJK                            37/100  (la fa meno spesso)
 
@@ -1363,8 +1363,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/12 SJK                            43/100
     2/12 IF Gnistan                     42/100
     3/12 HJK                            37/100
-    4/12 TPS                            35/100
-    5/12 KuPS                           35/100
+    4/12 KuPS                           36/100
+    5/12 TPS                            35/100
      ...
    12/12 IFK Mariehamn                  28/100  (la fa meno spesso)
 
@@ -1477,7 +1477,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2769,8 +2769,8 @@ FINLANDIA - VEIKKAUSLIIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 SJK                            51/100
     2/12 FF Jaro                        48/100
-    3/12 HJK                            43/100
-    4/12 KuPS                           42/100
+    3/12 KuPS                           43/100
+    4/12 HJK                            43/100
     5/12 IF Gnistan                     42/100
     6/12 FC Inter Turku                 42/100
      ...
@@ -2783,7 +2783,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/12 IFK Mariehamn                  34/100
     5/12 IF Gnistan                     32/100
      ...
-   12/12 KuPS                           16/100  (la fa meno spesso)
+   12/12 KuPS                           17/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/12 SJK                            44/100
@@ -2893,7 +2893,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:57 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
