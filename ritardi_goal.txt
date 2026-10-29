@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -163,16 +163,16 @@ RITARDI X2 + GOAL
   10. Fulham                            3
 
 RITARDI 12 + GOAL
-   1. Everton                           9  🟢 67%  👻 43/44
-   2. Brighton & Hove Albion            6  🟢 100%  👻 43/44
-   3. Manchester United                 6  🟢 83%  👻 43/44
-   4. Hull City                         3  🟢 67%  👻 43/44
-   5. Sunderland                        3  🟢 67%  👻 43/44
-   6. AFC Bournemouth                   2  🟢 100%  👻 43/44
-   7. Arsenal                           2  🟢 50%  👻 43/44
-   8. Chelsea                           2  🟢 100%  🔴  👻 43/44
-   9. Crystal Palace                    2  🟢 100%  👻 43/44
-  10. Fulham                            2  🔴  👻 43/44
+   1. Everton                           9  🟢 67%  👻 42/44
+   2. Brighton & Hove Albion            6  🟢 100%  👻 42/44
+   3. Manchester United                 6  🟢 83%  👻 42/44
+   4. Hull City                         3  🟢 67%  👻 42/44
+   5. Sunderland                        3  🟢 67%  👻 42/44
+   6. AFC Bournemouth                   2  🟢 100%  👻 42/44
+   7. Arsenal                           2  🟢 50%  👻 42/44
+   8. Chelsea                           2  🟢 100%  🔴  👻 42/44
+   9. Crystal Palace                    2  🟢 100%  👻 42/44
+  10. Fulham                            2  🔴  👻 42/44
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -1733,19 +1733,19 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (170 partite giocate) + 2025
+Stagione 2026 (171 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,5
 ==================================================
 RITARDI 1X + GOAL
    1. AC Oulu                          13
    2. VPS                              13
    3. FC Inter Turku                    7
-   4. IF Gnistan                        4  🟢 50%  🔴
-   5. SJK                               2  🟢 50%  🔴
-   6. HJK                               1  🟢 100%
-   7. Ilves                             1  🟢 100%
-   8. FC Lahti                          0  🔴
-   9. FF Jaro                           0
+   4. SJK                               2  🟢 50%  🔴
+   5. HJK                               1  🟢 100%
+   6. Ilves                             1  🟢 100%
+   7. FC Lahti                          0  🔴
+   8. FF Jaro                           0
+   9. IF Gnistan                        0  🔴
   10. IFK Mariehamn                     0  🔴
 
 RITARDI X2 + GOAL
@@ -1761,16 +1761,16 @@ RITARDI X2 + GOAL
   10. IF Gnistan                        0  🔴
 
 RITARDI 12 + GOAL
-   1. VPS                              10  🔴  👻 42/44
-   2. FF Jaro                           8  🟢 75%  👻 42/44
-   3. KuPS                              8  🟢 50%  👻 42/44
-   4. Ilves                             3  🟢 100%  👻 42/44
-   5. IFK Mariehamn                     2  🟢 100%  👻 42/44
-   6. SJK                               2  🟢 50%  🔴  👻 42/44
-   7. AC Oulu                           1  🔴  👻 42/44
-   8. FC Inter Turku                    0  👻 42/44
-   9. FC Lahti                          0  👻 42/44
-  10. HJK                               0  👻 42/44
+   1. VPS                              10  🔴  👻 43/44
+   2. KuPS                              9  🟢 56%  👻 43/44
+   3. FF Jaro                           8  🟢 75%  👻 43/44
+   4. Ilves                             3  🟢 100%  👻 43/44
+   5. IFK Mariehamn                     2  🟢 100%  👻 43/44
+   6. SJK                               2  🟢 50%  🔴  👻 43/44
+   7. AC Oulu                           1  🔴  👻 43/44
+   8. IF Gnistan                        1  🟢 100%  👻 43/44
+   9. FC Inter Turku                    0  👻 43/44
+  10. FC Lahti                          0  👻 43/44
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
@@ -1899,7 +1899,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2059,16 +2059,16 @@ RITARDI X2 + GOAL
   10. Crystal Palace                    2  🟢 100%  🔴
 
 RITARDI 12 + GOAL
-   1. AFC Bournemouth                  11  🟢 82%  👻 43/44
-   2. Brighton & Hove Albion            7  🟢 100%  👻 43/44
-   3. Liverpool                         6  🟢 83%  👻 43/44
-   4. Nottingham Forest                 6  👻 43/44
-   5. Everton                           4  🟢 75%  👻 43/44
-   6. Hull City                        4+  🟢 75%  👻 43/44
-   7. Sunderland                        4  🟢 50%  👻 43/44
-   8. Manchester United                 3  🟢 67%  👻 43/44
-   9. Fulham                            2  🟢 50%  🔴  👻 43/44
-  10. Leeds United                      2  🟢 50%  👻 43/44
+   1. AFC Bournemouth                  11  🟢 82%  👻 42/44
+   2. Brighton & Hove Albion            7  🟢 100%  👻 42/44
+   3. Liverpool                         6  🟢 83%  👻 42/44
+   4. Nottingham Forest                 6  👻 42/44
+   5. Everton                           4  🟢 75%  👻 42/44
+   6. Hull City                        4+  🟢 75%  👻 42/44
+   7. Sunderland                        4  🟢 50%  👻 42/44
+   8. Manchester United                 3  🟢 67%  👻 42/44
+   9. Fulham                            2  🟢 50%  🔴  👻 42/44
+  10. Leeds United                      2  🟢 50%  👻 42/44
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -3629,7 +3629,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (170 partite giocate) + 2025
+Stagione 2026 (171 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,5
 ==================================================
 RITARDI 1X + GOAL
@@ -3637,36 +3637,36 @@ RITARDI 1X + GOAL
    2. VPS                               9
    3. FC Inter Turku                    7
    4. TPS                               7  🟢 57%
-   5. KuPS                              4  🟢 50%
-   6. IF Gnistan                        2  🟢 50%
-   7. Ilves                             1  🟢 100%
-   8. SJK                               1  🔴
-   9. FC Lahti                          0
-  10. FF Jaro                           0  🔴
+   5. IF Gnistan                        2  🟢 50%
+   6. Ilves                             1  🟢 100%
+   7. SJK                               1  🔴
+   8. FC Lahti                          0
+   9. FF Jaro                           0  🔴
+  10. HJK                               0  🔴
 
 RITARDI X2 + GOAL
    1. TPS                               5
    2. VPS                               5  🔴
    3. Ilves                             3  🟢 100%
-   4. KuPS                              3
-   5. SJK                               2  🟢 50%  🔴
-   6. AC Oulu                           1
-   7. FC Lahti                          1  🟢 100%
-   8. FC Inter Turku                    0
-   9. FF Jaro                           0  🔴
-  10. HJK                               0
+   4. SJK                               2  🟢 50%  🔴
+   5. AC Oulu                           1
+   6. FC Lahti                          1  🟢 100%
+   7. FC Inter Turku                    0
+   8. FF Jaro                           0  🔴
+   9. HJK                               0
+  10. IF Gnistan                        0
 
 RITARDI 12 + GOAL
-   1. IFK Mariehamn                    14  🟢 86%  👻 42/44
-   2. TPS                               5  🔴  👻 42/44
-   3. VPS                               5  🔴  👻 42/44
-   4. FF Jaro                           3  🟢 67%  👻 42/44
-   5. HJK                               3  🟢 100%  👻 42/44
-   6. KuPS                              3  👻 42/44
-   7. AC Oulu                           1  👻 42/44
-   8. Ilves                             1  🟢 100%  🔴  👻 42/44
-   9. SJK                               1  🔴  👻 42/44
-  10. FC Inter Turku                    0  👻 42/44
+   1. IFK Mariehamn                    14  🟢 86%  👻 43/44
+   2. TPS                               5  🔴  👻 43/44
+   3. VPS                               5  🔴  👻 43/44
+   4. KuPS                              4  🟢 50%  👻 43/44
+   5. FF Jaro                           3  🟢 67%  👻 43/44
+   6. HJK                               3  🟢 100%  👻 43/44
+   7. AC Oulu                           1  👻 43/44
+   8. Ilves                             1  🟢 100%  🔴  👻 43/44
+   9. SJK                               1  🔴  👻 43/44
+  10. FC Inter Turku                    0  👻 43/44
 
 ==================================================
 FINLANDIA - YKKOSLIIGA
@@ -3795,7 +3795,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3955,16 +3955,16 @@ RITARDI X2 + GOAL
   10. Hull City                         2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Manchester United                 8  🟢 75%  👻 43/44
-   2. Brentford                         6  🟢 100%  🔴  👻 43/44
-   3. Everton                           6  🟢 67%  👻 43/44
-   4. Arsenal                           4  🟢 50%  👻 43/44
-   5. Tottenham Hotspur                 4  🟢 75%  👻 43/44
-   6. Brighton & Hove Albion            3  🟢 100%  👻 43/44
-   7. Chelsea                           2  🟢 100%  🔴  👻 43/44
-   8. Crystal Palace                    2  🟢 50%  👻 43/44
-   9. AFC Bournemouth                   1  🟢 100%  👻 43/44
-  10. Aston Villa                       1  🔴  👻 43/44
+   1. Manchester United                 8  🟢 75%  👻 42/44
+   2. Brentford                         6  🟢 100%  🔴  👻 42/44
+   3. Everton                           6  🟢 67%  👻 42/44
+   4. Arsenal                           4  🟢 50%  👻 42/44
+   5. Tottenham Hotspur                 4  🟢 75%  👻 42/44
+   6. Brighton & Hove Albion            3  🟢 100%  👻 42/44
+   7. Chelsea                           2  🟢 100%  🔴  👻 42/44
+   8. Crystal Palace                    2  🟢 50%  👻 42/44
+   9. AFC Bournemouth                   1  🟢 100%  👻 42/44
+  10. Aston Villa                       1  🔴  👻 42/44
 
 ==================================================
 INGHILTERRA - CHAMPIONSHIP
@@ -5525,18 +5525,18 @@ RITARDI 12 + GOAL
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
-Stagione 2026 (170 partite giocate) + 2025
+Stagione 2026 (171 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 3,5
 ==================================================
 RITARDI 1X + GOAL
    1. VPS                               6  🟢 50%
    2. AC Oulu                           5  🔴
-   3. IF Gnistan                        4  🟢 75%
-   4. FC Inter Turku                    3
-   5. HJK                               2  🟢 100%
-   6. FC Lahti                          1
-   7. FF Jaro                           1
-   8. SJK                               1  🟢 100%
+   3. FC Inter Turku                    3
+   4. HJK                               2  🟢 100%
+   5. FC Lahti                          1
+   6. FF Jaro                           1
+   7. SJK                               1  🟢 100%
+   8. IF Gnistan                        0
    9. IFK Mariehamn                     0  🔴
   10. Ilves                             0  🔴
 
@@ -5544,25 +5544,25 @@ RITARDI X2 + GOAL
    1. FC Inter Turku                    5
    2. VPS                               5
    3. FC Lahti                          3
-   4. IF Gnistan                        2  🟢 50%  🔴
-   5. TPS                               2  🟢 50%  🔴
-   6. FF Jaro                           1
-   7. SJK                               1  🟢 100%
-   8. AC Oulu                           0
-   9. HJK                               0
+   4. TPS                               2  🟢 50%  🔴
+   5. FF Jaro                           1
+   6. SJK                               1  🟢 100%
+   7. AC Oulu                           0
+   8. HJK                               0
+   9. IF Gnistan                        0  🔴
   10. IFK Mariehamn                     0
 
 RITARDI 12 + GOAL
-   1. FF Jaro                           6  🟢 83%  👻 42/44
-   2. KuPS                              5  🟢 60%  👻 42/44
-   3. SJK                               5  🟢 60%  👻 42/44
-   4. VPS                               5  🔴  👻 42/44
-   5. FC Inter Turku                    3  👻 42/44
-   6. IF Gnistan                        2  🟢 50%  👻 42/44
-   7. Ilves                             2  🟢 100%  👻 42/44
-   8. FC Lahti                          1  👻 42/44
-   9. IFK Mariehamn                     1  🟢 100%  🔴  👻 42/44
-  10. AC Oulu                           0  🔴  👻 42/44
+   1. FF Jaro                           6  🟢 83%  👻 43/44
+   2. KuPS                              5  🟢 60%  👻 43/44
+   3. SJK                               5  🟢 60%  👻 43/44
+   4. VPS                               5  🔴  👻 43/44
+   5. FC Inter Turku                    3  👻 43/44
+   6. IF Gnistan                        3  🟢 67%  👻 43/44
+   7. Ilves                             2  🟢 100%  👻 43/44
+   8. FC Lahti                          1  👻 43/44
+   9. IFK Mariehamn                     1  🟢 100%  🔴  👻 43/44
+  10. AC Oulu                           0  🔴  👻 43/44
 
 ==================================================
 FINLANDIA - YKKOSLIIGA

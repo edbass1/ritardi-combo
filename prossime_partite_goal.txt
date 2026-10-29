@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -67,7 +67,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Bradford City 🟢 GG 20%: 12 + GOAL (8)
 13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
       xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
-      Manchester United 🟢 GG 60%: 12 + GOAL (6) 👻 43/44 🔴 Chelsea
+      Manchester United 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Chelsea
 13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
       xG: Leyton Orient xG 2,72 (1,14+1,58) · Cambridge United xG 2,84 (1,36+1,48)
       Leyton Orient 🟢 GG 40%: X2 + GOAL (6)
@@ -110,7 +110,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 16:00  Manchester City vs Brighton & Hove Albion   [INGHILTERRA - PREMIER LEAGUE]
       xG: Manchester City xG 3,42 (2,09+1,33) · Brighton & Hove Albion xG 3,45 (2,03+1,42)
       Manchester City 🟢 GG 70%: X2 + GOAL (6)
-      Brighton & Hove Albion 🟢 GG 20%: 12 + GOAL (6) 👻 43/44
+      Brighton & Hove Albion 🟢 GG 20%: 12 + GOAL (6) 👻 42/44
 16:00  Milton Keynes Dons vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
       xG: Milton Keynes Dons xG 3,12 (1,60+1,52) · Doncaster Rovers xG 3,00 (1,37+1,63)
       Doncaster Rovers 🟢 GG 50%: X2 + GOAL (7)
@@ -188,13 +188,13 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: OB xG 3,19 (1,33+1,86) · Silkeborg xG 2,79 (1,16+1,63)
       Silkeborg 🟢 GG 60%: 12 + GOAL (7)
 14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu 🟢 GG 40%: 1X + GOAL (13)
-      KuPS 🟢 GG 40%: 12 + GOAL (8) 👻 42/44 🔴 AC Oulu
+      AC Oulu 🟢 GG 40%: 1X + GOAL (13) 🔴 KuPS
+      KuPS 🟢 GG 40%: 12 + GOAL (9) 👻 43/44 🔴 AC Oulu
 14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
       xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
       Getafe 🟢 GG 30%: 12 + GOAL (12)
 14:00  Malmö FF vs Hammarby   [SVEZIA - ALLSVENSKAN]
-      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,15 (2,19+0,96)
+      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,16 (2,20+0,96)
       Malmö FF 🟢 GG 10%: X2 + GOAL (10)
 14:00  Wil vs Winterthur   [SVIZZERA - CHALLENGE LEAGUE]
       Wil 🟢 GG 60%: 12 + GOAL (9)
@@ -282,7 +282,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
       FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 🔴 IF Gnistan
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS 🟢 GG 0%: 1X + GOAL (13); X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 👻 42/44 🔴 VPS
+      VPS 🟢 GG 0%: 1X + GOAL (13); X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 👻 43/44 🔴 VPS
 18:00  Polonia Bytom vs Odra Opole   [POLONIA - I LIGA]
       Odra Opole 🟢 GG 40%: 12 + GOAL (8)
 19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]
@@ -299,14 +299,14 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Parma 🟢 GG 40%: X2 + GOAL (6)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
-      Everton 🟢 GG 40%: 12 + GOAL (9) 👻 43/44 🔴 Newcastle United
+      Everton 🟢 GG 40%: 12 + GOAL (9) 👻 42/44 🔴 Newcastle United
 
 ##################################################
 # CASA
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -382,7 +382,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Lechia Gdańsk 🟢 GG 50% (3/6): X2 + GOAL (6+)
 16:00  AFC Bournemouth vs Leeds United   [INGHILTERRA - PREMIER LEAGUE]
       xG: AFC Bournemouth xG 2,97 (1,81+1,16) · Leeds United xG 2,63 (1,31+1,32)
-      AFC Bournemouth 🟢 GG 60%: 12 + GOAL (11) 👻 43/44
+      AFC Bournemouth 🟢 GG 60%: 12 + GOAL (11) 👻 42/44
 16:00  Millwall vs Derby County   [INGHILTERRA - CHAMPIONSHIP]
       xG: Millwall xG 3,12 (1,77+1,35) · Derby County xG 2,83 (1,01+1,82)
       Millwall 🟢 GG 30%: 12 + GOAL (9)
@@ -440,7 +440,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 13:00  Varbergs BoIS FC vs Ljungskile   [SVEZIA - SUPERETTAN]
       Varbergs BoIS FC 🟢 GG 50%: X2 + GOAL (7)
 14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu 🟢 GG 40%: 1X + GOAL (9)
+      AC Oulu 🟢 GG 40%: 1X + GOAL (9) 🔴 KuPS
 14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
       xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
       Getafe 🟢 GG 40%: 12 + GOAL (6)
@@ -472,7 +472,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Paris FC 🟢 GG 50%: X2 + GOAL (11)
 17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
       xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
-      Liverpool 🟢 GG 60%: 12 + GOAL (6) 👻 43/44 🔴 Arsenal
+      Liverpool 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Arsenal
 17:30  Latina vs Pianese   [ITALIA - SERIE C]
       Latina 🟢 GG 40%: 12 + GOAL (7)
 17:30  Potenza vs Crotone   [ITALIA - SERIE C]
@@ -528,7 +528,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -563,7 +563,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Östersunds FK 🟢 GG 50%: 12 + GOAL (10) 🔴 IFK Norrköping
 13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
       xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
-      Manchester United 🟢 GG 50%: 12 + GOAL (8) 👻 43/44 🔴 Chelsea
+      Manchester United 🟢 GG 50%: 12 + GOAL (8) 👻 42/44 🔴 Chelsea
 14:30  Ospitaletto vs Trento   [ITALIA - SERIE C]
       Trento 🟢 GG 60%: 12 + GOAL (6)
 15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
@@ -639,7 +639,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 17:30  Latina vs Pianese   [ITALIA - SERIE C]
       Pianese 🟢 GG 50%: X2 + GOAL (6)
 18:00  Lecce vs Genoa   [ITALIA - SERIE A]
-      xG: Lecce xG 3,23 (1,36+1,87) · Genoa xG 2,20 (0,86+1,34)
+      xG: Lecce xG 3,29 (1,36+1,93) · Genoa xG 2,20 (0,86+1,34)
       Genoa 🟢 GG 20%: X2 + GOAL (6)
 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
       Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague
@@ -689,7 +689,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Parma 🟢 GG 40%: X2 + GOAL (7)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
-      Everton 🟢 GG 60%: 12 + GOAL (6) 👻 43/44 🔴 Newcastle United
+      Everton 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Newcastle United
 21:15  Gil Vicente vs Vitória de Guimarães   [PORTOGALLO - LIGA PORTUGAL]
       xG: Gil Vicente xG 2,42 (1,32+1,10) · Vitória de Guimarães xG 2,62 (1,67+0,95)
       Vitória de Guimarães 🟢 GG 40%: X2 + GOAL (7)

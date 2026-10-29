@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 29/10/2026 19:45 (ora italiana)
+Aggiornato: 29/10/2026 19:56 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 5, 👻 ultimi 5.
@@ -46,7 +46,7 @@ Fonte: FotMob
   35/44  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 2,8       (76/210, 14 giornate)
   36/44  SPAGNA - LALIGA 2                1 ogni 2,8       (43/121, 11 giornate)
   37/44  REP. CECA - 1. LIGA              1 ogni 2,8       (33/94, 12 giornate)
-  38/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 2,9       (59/170, 22 giornate)
+  38/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 2,9       (60/171, 22 giornate)
   39/44  SVEZIA - ALLSVENSKAN             1 ogni 2,9       (71/205, 26 giornate)
   40/44  BELGIO - FIRST DIVISION A        1 ogni 3,0       (27/80, 9 giornate)
   41/44  BELGIO - FIRST DIVISION B        1 ogni 3,0       (18/54, 8 giornate)
@@ -84,9 +84,9 @@ X2 + GOAL
   25/44  PORTOGALLO - LIGA PORTUGAL       1 ogni 2,9       (28/81, 9 giornate)
   26/44  SVIZZERA - CHALLENGE LEAGUE      1 ogni 2,9       (19/55, 11 giornate)
   27/44  ITALIA - SERIE C                 1 ogni 2,9       (113/330, 11 giornate)
-  28/44  GERMANIA - BUNDESLIGA            1 ogni 3,0       (21/63, 7 giornate)
-  29/44  POLONIA - I LIGA                 1 ogni 3,0       (36/108, 15 giornate)
-  30/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 3,0       (56/170, 22 giornate)
+  28/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 3,0       (57/171, 22 giornate)
+  29/44  GERMANIA - BUNDESLIGA            1 ogni 3,0       (21/63, 7 giornate)
+  30/44  POLONIA - I LIGA                 1 ogni 3,0       (36/108, 15 giornate)
   31/44  NORVEGIA - ELITESERIEN           1 ogni 3,0       (63/192, 24 giornate)
   32/44  REP. CECA - 1. LIGA              1 ogni 3,1       (30/94, 12 giornate)
   33/44  ITALIA - SERIE A                 1 ogni 3,1       (28/88, 9 giornate)
@@ -146,8 +146,8 @@ X2 + GOAL
   39/44  BELGIO - FIRST DIVISION A        1 ogni 3,3       (24/80, 9 giornate)
   40/44  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,4       (21/72, 8 giornate)
   41/44  INGHILTERRA - LEAGUE TWO         1 ogni 3,4       (44/151, 13 giornate)
-  42/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 3,5       (49/170, 22 giornate)
-  43/44  INGHILTERRA - PREMIER LEAGUE     1 ogni 3,5       (23/80, 8 giornate)
+  42/44  INGHILTERRA - PREMIER LEAGUE     1 ogni 3,5       (23/80, 8 giornate)
+  43/44  FINLANDIA - VEIKKAUSLIIGA        1 ogni 3,5       (49/171, 22 giornate)
   44/44  SCOZIA - CHAMPIONSHIP            1 ogni 4,9       (12/59, 12 giornate)
 
 ==================================================
