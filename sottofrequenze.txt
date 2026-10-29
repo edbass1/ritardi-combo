@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -13,8 +13,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/20 Sassuolo                       43/100
     2/20 Frosinone                      43/100
     3/20 Fiorentina                     43/100
-    4/20 Venezia                        42/100
-    5/20 Atalanta                       42/100
+    4/20 Atalanta                       43/100
+    5/20 Venezia                        42/100
      ...
    20/20 Lecce                          26/100  (la fa meno spesso)
 
@@ -22,19 +22,18 @@ SOTTOFREQUENZA X2 + GOAL
     1/20 Bologna                        40/100
     2/20 Milan                          39/100
     3/20 Frosinone                      39/100
-    4/20 Udinese                        38/100
-    5/20 Fiorentina                     38/100
+    4/20 Fiorentina                     39/100
+    5/20 Udinese                        38/100
     6/20 Como                           38/100
      ...
    20/20 Lecce                          21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/20 Sassuolo                       41/100
-    2/20 Fiorentina                     41/100
+    2/20 Fiorentina                     40/100
     3/20 Monza                          36/100
     4/20 Como                           36/100
     5/20 Venezia                        35/100
-    6/20 Atalanta                       35/100
      ...
    20/20 Juventus                       17/100  (la fa meno spesso)
 
@@ -1477,7 +1476,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1488,7 +1487,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Como                           47/100
     3/20 Inter                          46/100
     4/20 Napoli                         45/100
-    5/20 Cagliari                       44/100
+    5/20 Fiorentina                     44/100
+    6/20 Cagliari                       44/100
      ...
    20/20 Genoa                          32/100  (la fa meno spesso)
 
@@ -2893,7 +2893,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================

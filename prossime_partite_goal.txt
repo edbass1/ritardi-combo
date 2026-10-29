@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -279,7 +279,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Gimnasia Mendoza 🟢 GG 40%: 1X + GOAL (6) 👻 35/44 🔴 Lanús
 03:45  Portland Timbers vs Houston Dynamo FC   [USA/CANADA - MLS]
       xG: Portland Timbers xG 3,20 (1,54+1,66) · Houston Dynamo FC xG 2,59 (1,16+1,43)
-      Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8) ❗ 12/44
+      Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8) ❗ 11/44
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
       FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 👻 38/44 🔴 IF Gnistan
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
@@ -295,7 +295,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       Nancy 🟢 GG 30%: 1X + GOAL (10)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,39 (1,44+1,95) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,45 (1,45+2,00) · Parma xG 2,49 (0,82+1,67)
       Parma 🟢 GG 40%: X2 + GOAL (6)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
@@ -313,13 +313,16 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]
       xG: Wigan Athletic xG 3,20 (1,30+1,90) · Mansfield Town xG 3,03 (1,76+1,27)
       Wigan Athletic 🟢 GG 30%: X2 + GOAL (17) ❗ 13/44
+23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]
+      xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,74 (1,32+1,42)
+      Mirassol 🟢 GG 60%: 12 + GOAL (6)
 
 ##################################################
 # CASA
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -445,7 +448,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ==================================================
 02:30  Colorado Rapids vs Chicago Fire FC   [USA/CANADA - MLS]
       xG: Colorado Rapids xG 2,65 (1,42+1,23) · Chicago Fire FC xG 3,06 (1,75+1,31)
-      Colorado Rapids 🟢 GG 30%: 12 + GOAL (10) ❗ 12/44
+      Colorado Rapids 🟢 GG 30%: 12 + GOAL (10) ❗ 11/44
 12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
       Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 43/44; X2 + GOAL (7) 👻 36/44; 12 + GOAL (7) 👻 40/44
 13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
@@ -498,7 +501,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Palermo 🟢 GG 60%: X2 + GOAL (8) 🔥 5/44
 20:45  Juventus vs Napoli   [ITALIA - SERIE A]
       xG: Juventus xG 2,01 (1,42+0,59) · Napoli xG 3,23 (1,88+1,35)
-      Juventus 🟢 GG 30%: 12 + GOAL (15) ❗ 10/44
+      Juventus 🟢 GG 30%: 12 + GOAL (15) ❗ 12/44
 22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
       xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
       Nashville SC 🟢 GG 30%: X2 + GOAL (11) ❗ 10/44
@@ -550,7 +553,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
@@ -684,7 +687,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       Red Bull New York 🟢 GG 60%: X2 + GOAL (8) ❗ 10/44
 22:30  Vancouver Whitecaps vs Seattle Sounders FC   [USA/CANADA - MLS]
       xG: Vancouver Whitecaps xG 3,25 (2,12+1,13) · Seattle Sounders FC xG 2,94 (1,49+1,45)
-      Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 12/44
+      Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 11/44
 
 ==================================================
 02/11/2026
@@ -707,7 +710,7 @@ Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ult
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       Nancy 🟢 GG 60%: 1X + GOAL (6)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,39 (1,44+1,95) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,45 (1,45+2,00) · Parma xG 2,49 (0,82+1,67)
       Parma 🟢 GG 40%: X2 + GOAL (7)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)

@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -12,8 +12,8 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,3
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              5  🟢 80%
@@ -36,20 +36,20 @@ RITARDI X2 + GOAL
    6. Juventus                          3  🟢 100%
    7. Lecce                             3  🟢 100%
    8. Inter                             2  🟢 100%
-   9. Fiorentina                        1  🟢 100%
-  10. Frosinone                         1  🟢 100%  🔴
+   9. Frosinone                         1  🟢 100%  🔴
+  10. Roma                              1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Juventus                          5  🟢 100%  ❗ 10/44
-   2. Genoa                             3  🟢 67%  ❗ 10/44
-   3. Udinese                           3  🟢 67%  ❗ 10/44
-   4. Venezia                           3  ❗ 10/44
-   5. Atalanta                          1  🟢 100%  ❗ 10/44
-   6. Inter                             1  🟢 100%  ❗ 10/44
-   7. Parma                             1  ❗ 10/44
-   8. Bologna                           0  ❗ 10/44
-   9. Cagliari                          0  ❗ 10/44
-  10. Como                              0  🔴  ❗ 10/44
+   1. Juventus                          5  🟢 100%  ❗ 12/44
+   2. Genoa                             3  🟢 67%  ❗ 12/44
+   3. Udinese                           3  🟢 67%  ❗ 12/44
+   4. Venezia                           3  ❗ 12/44
+   5. Atalanta                          2  🟢 100%  ❗ 12/44
+   6. Fiorentina                        1  🟢 100%  🔴  ❗ 12/44
+   7. Inter                             1  🟢 100%  ❗ 12/44
+   8. Parma                             1  ❗ 12/44
+   9. Bologna                           0  ❗ 12/44
+  10. Cagliari                          0  ❗ 12/44
 
 ==================================================
 ITALIA - SERIE B
@@ -655,16 +655,16 @@ RITARDI X2 + GOAL
   10. Virton                            1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Club Brugge NXT                   5  🟢 60%  ❗ 11/44
-   2. Genk U23                          5  🟢 60%  🔴  ❗ 11/44
-   3. FCV Dender EH                     4  🟢 50%  ❗ 11/44
-   4. KSC Lokeren                       2  🟢 100%  ❗ 11/44
-   5. Anderlecht Futures                1  🟢 100%  ❗ 11/44
-   6. Francs Borains                    1  🟢 100%  ❗ 11/44
-   7. Gent U23                          1  🟢 100%  ❗ 11/44
-   8. K. Lierse SK                      1  🟢 100%  🔴  ❗ 11/44
-   9. Beerschot                         0  🔴  ❗ 11/44
-  10. Eupen                             0  ❗ 11/44
+   1. Club Brugge NXT                   5  🟢 60%  ❗ 10/44
+   2. Genk U23                          5  🟢 60%  🔴  ❗ 10/44
+   3. FCV Dender EH                     4  🟢 50%  ❗ 10/44
+   4. KSC Lokeren                       2  🟢 100%  ❗ 10/44
+   5. Anderlecht Futures                1  🟢 100%  ❗ 10/44
+   6. Francs Borains                    1  🟢 100%  ❗ 10/44
+   7. Gent U23                          1  🟢 100%  ❗ 10/44
+   8. K. Lierse SK                      1  🟢 100%  🔴  ❗ 10/44
+   9. Beerschot                         0  🔴  ❗ 10/44
+  10. Eupen                             0  ❗ 10/44
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -1680,16 +1680,16 @@ RITARDI X2 + GOAL
   10. Nashville SC                      2  🟢 50%  ❗ 10/44
 
 RITARDI 12 + GOAL
-   1. Houston Dynamo FC                 8  🟢 62%  ❗ 12/44
-   2. Colorado Rapids                   5  🟢 60%  ❗ 12/44
-   3. San Jose Earthquakes              5  🟢 100%  🔴  ❗ 12/44
-   4. Seattle Sounders FC               5  🟢 60%  ❗ 12/44
-   5. CF Montréal                       4  🟢 100%  ❗ 12/44
-   6. FC Dallas                         4  🟢 75%  ❗ 12/44
-   7. Nashville SC                      4  🟢 75%  ❗ 12/44
-   8. LA Galaxy                         3  🟢 100%  ❗ 12/44
-   9. FC Cincinnati                     2  🟢 100%  ❗ 12/44
-  10. Inter Miami CF                    2  🟢 100%  🔴  ❗ 12/44
+   1. Houston Dynamo FC                 8  🟢 62%  ❗ 11/44
+   2. Colorado Rapids                   5  🟢 60%  ❗ 11/44
+   3. San Jose Earthquakes              5  🟢 100%  🔴  ❗ 11/44
+   4. Seattle Sounders FC               5  🟢 60%  ❗ 11/44
+   5. CF Montréal                       4  🟢 100%  ❗ 11/44
+   6. FC Dallas                         4  🟢 75%  ❗ 11/44
+   7. Nashville SC                      4  🟢 75%  ❗ 11/44
+   8. LA Galaxy                         3  🟢 100%  ❗ 11/44
+   9. FC Cincinnati                     2  🟢 100%  ❗ 11/44
+  10. Inter Miami CF                    2  🟢 100%  🔴  ❗ 11/44
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -1899,7 +1899,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1908,8 +1908,8 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,3
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Venezia                          5+  🟢 80%
@@ -1936,16 +1936,16 @@ RITARDI X2 + GOAL
   10. Roma                              2  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Juventus                         15  🟢 100%  ❗ 10/44
-   2. Cagliari                          4  🟢 50%  ❗ 10/44
-   3. Napoli                            3  🟢 67%  ❗ 10/44
-   4. Udinese                           3  🟢 67%  ❗ 10/44
-   5. Venezia                           3  🟢 67%  🔴  ❗ 10/44
-   6. Como                              2  🟢 50%  ❗ 10/44
-   7. Genoa                             2  🟢 50%  ❗ 10/44
-   8. Parma                             2  🟢 50%  ❗ 10/44
-   9. Atalanta                          1  🟢 100%  🔴  ❗ 10/44
-  10. Lecce                             1  🟢 100%  ❗ 10/44
+   1. Juventus                         15  🟢 100%  ❗ 12/44
+   2. Cagliari                          4  🟢 50%  ❗ 12/44
+   3. Napoli                            3  🟢 67%  ❗ 12/44
+   4. Udinese                           3  🟢 67%  ❗ 12/44
+   5. Venezia                           3  🟢 67%  🔴  ❗ 12/44
+   6. Como                              2  🟢 50%  ❗ 12/44
+   7. Genoa                             2  🟢 50%  ❗ 12/44
+   8. Parma                             2  🟢 50%  ❗ 12/44
+   9. Atalanta                          1  🟢 100%  🔴  ❗ 12/44
+  10. Fiorentina                        1  🟢 100%  ❗ 12/44
 
 ==================================================
 ITALIA - SERIE B
@@ -2551,16 +2551,16 @@ RITARDI X2 + GOAL
   10. Patro Eisden                      1
 
 RITARDI 12 + GOAL
-   1. FCV Dender EH                    4+  🟢 75%  ❗ 11/44
-   2. Genk U23                          3  🟢 67%  ❗ 11/44
-   3. Sporting Hasselt                 3+  ❗ 11/44
-   4. Club Brugge NXT                   2  🟢 50%  ❗ 11/44
-   5. K. Lierse SK                      2  🟢 50%  ❗ 11/44
-   6. KSC Lokeren                       2  🟢 100%  ❗ 11/44
-   7. Anderlecht Futures                1  🟢 100%  ❗ 11/44
-   8. Patro Eisden                      1  ❗ 11/44
-   9. Beerschot                         0  🔴  ❗ 11/44
-  10. Eupen                             0  🔴  ❗ 11/44
+   1. FCV Dender EH                    4+  🟢 75%  ❗ 10/44
+   2. Genk U23                          3  🟢 67%  ❗ 10/44
+   3. Sporting Hasselt                 3+  ❗ 10/44
+   4. Club Brugge NXT                   2  🟢 50%  ❗ 10/44
+   5. K. Lierse SK                      2  🟢 50%  ❗ 10/44
+   6. KSC Lokeren                       2  🟢 100%  ❗ 10/44
+   7. Anderlecht Futures                1  🟢 100%  ❗ 10/44
+   8. Patro Eisden                      1  ❗ 10/44
+   9. Beerschot                         0  🔴  ❗ 10/44
+  10. Eupen                             0  🔴  ❗ 10/44
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -3576,16 +3576,16 @@ RITARDI X2 + GOAL
   10. FC Cincinnati                     2  🟢 100%  ❗ 10/44
 
 RITARDI 12 + GOAL
-   1. Colorado Rapids                  10  ❗ 12/44
-   2. Inter Miami CF                    6  🟢 100%  🔴  ❗ 12/44
-   3. Real Salt Lake                    6  🟢 100%  ❗ 12/44
-   4. FC Dallas                         5  ❗ 12/44
-   5. Nashville SC                      5  🟢 80%  ❗ 12/44
-   6. Houston Dynamo FC                 4  🟢 75%  ❗ 12/44
-   7. San Diego FC                      3  🟢 100%  ❗ 12/44
-   8. CF Montréal                       2  🟢 100%  ❗ 12/44
-   9. LA Galaxy                         2  🟢 100%  ❗ 12/44
-  10. Red Bull New York                 2  🟢 100%  ❗ 12/44
+   1. Colorado Rapids                  10  ❗ 11/44
+   2. Inter Miami CF                    6  🟢 100%  🔴  ❗ 11/44
+   3. Real Salt Lake                    6  🟢 100%  ❗ 11/44
+   4. FC Dallas                         5  ❗ 11/44
+   5. Nashville SC                      5  🟢 80%  ❗ 11/44
+   6. Houston Dynamo FC                 4  🟢 75%  ❗ 11/44
+   7. San Diego FC                      3  🟢 100%  ❗ 11/44
+   8. CF Montréal                       2  🟢 100%  ❗ 11/44
+   9. LA Galaxy                         2  🟢 100%  ❗ 11/44
+  10. Red Bull New York                 2  🟢 100%  ❗ 11/44
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
@@ -3795,7 +3795,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3804,8 +3804,8 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (89 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,3
+Stagione 2026/2027 (90 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
    1. Bologna                          12  🟢 58%
@@ -3824,24 +3824,24 @@ RITARDI X2 + GOAL
    2. Genoa                             6
    3. Lecce                             5  🟢 80%
    4. Venezia                          4+  🟢 75%
-   5. Atalanta                          3  🟢 100%
-   6. Cagliari                          3  🟢 67%
-   7. Monza                             3  🟢 100%
-   8. Sassuolo                          3  🟢 100%
-   9. Udinese                           3  🟢 67%
-  10. Fiorentina                        2  🟢 100%
+   5. Cagliari                          3  🟢 67%
+   6. Monza                             3  🟢 100%
+   7. Sassuolo                          3  🟢 100%
+   8. Udinese                           3  🟢 67%
+   9. Fiorentina                        2  🟢 100%
+  10. Juventus                          2  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Roma                              5  🟢 80%  ❗ 10/44
-   2. Frosinone                        4+  🟢 100%  ❗ 10/44
-   3. Milan                             4  🟢 100%  🔴  ❗ 10/44
-   4. Juventus                          3  🟢 100%  ❗ 10/44
-   5. Torino                            2  🟢 100%  ❗ 10/44
-   6. Genoa                             1  🟢 100%  ❗ 10/44
-   7. Inter                             1  🟢 100%  ❗ 10/44
-   8. Sassuolo                          1  🟢 100%  🔴  ❗ 10/44
-   9. Udinese                           1  ❗ 10/44
-  10. Venezia                           1  ❗ 10/44
+   1. Roma                              5  🟢 80%  ❗ 12/44
+   2. Frosinone                        4+  🟢 100%  ❗ 12/44
+   3. Milan                             4  🟢 100%  🔴  ❗ 12/44
+   4. Juventus                          3  🟢 100%  ❗ 12/44
+   5. Torino                            2  🟢 100%  ❗ 12/44
+   6. Atalanta                          1  🟢 100%  ❗ 12/44
+   7. Genoa                             1  🟢 100%  ❗ 12/44
+   8. Inter                             1  🟢 100%  ❗ 12/44
+   9. Sassuolo                          1  🟢 100%  🔴  ❗ 12/44
+  10. Udinese                           1  ❗ 12/44
 
 ==================================================
 ITALIA - SERIE B
@@ -4447,16 +4447,16 @@ RITARDI X2 + GOAL
   10. RFC Seraing                       1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
-   1. Gent U23                          6  🟢 100%  ❗ 11/44
-   2. Club Brugge NXT                   3  🟢 67%  ❗ 11/44
-   3. Francs Borains                    2  🟢 50%  ❗ 11/44
-   4. Genk U23                          2  🟢 50%  ❗ 11/44
-   5. Eupen                             1  🟢 100%  🔴  ❗ 11/44
-   6. FCV Dender EH                     1  ❗ 11/44
-   7. Anderlecht Futures                0  ❗ 11/44
-   8. Beerschot                         0  🔴  ❗ 11/44
-   9. FC Liège                          0  ❗ 11/44
-  10. K. Lierse SK                      0  ❗ 11/44
+   1. Gent U23                          6  🟢 100%  ❗ 10/44
+   2. Club Brugge NXT                   3  🟢 67%  ❗ 10/44
+   3. Francs Borains                    2  🟢 50%  ❗ 10/44
+   4. Genk U23                          2  🟢 50%  ❗ 10/44
+   5. Eupen                             1  🟢 100%  🔴  ❗ 10/44
+   6. FCV Dender EH                     1  ❗ 10/44
+   7. Anderlecht Futures                0  ❗ 10/44
+   8. Beerschot                         0  🔴  ❗ 10/44
+   9. FC Liège                          0  ❗ 10/44
+  10. K. Lierse SK                      0  ❗ 10/44
 
 ==================================================
 OLANDA - EREDIVISIE
@@ -5472,16 +5472,16 @@ RITARDI X2 + GOAL
   10. Houston Dynamo FC                 1  ❗ 10/44
 
 RITARDI 12 + GOAL
-   1. Seattle Sounders FC               6  🟢 83%  ❗ 12/44
-   2. Houston Dynamo FC                 5  ❗ 12/44
-   3. Los Angeles FC                    3  🟢 67%  ❗ 12/44
-   4. San Jose Earthquakes              3  🟢 100%  ❗ 12/44
-   5. CF Montréal                       2  🟢 100%  ❗ 12/44
-   6. Colorado Rapids                   2  🟢 50%  ❗ 12/44
-   7. Columbus Crew                     2  🟢 100%  ❗ 12/44
-   8. FC Cincinnati                     2  🟢 100%  ❗ 12/44
-   9. Minnesota United                  2  🟢 50%  🔴  ❗ 12/44
-  10. Nashville SC                      2  🟢 100%  ❗ 12/44
+   1. Seattle Sounders FC               6  🟢 83%  ❗ 11/44
+   2. Houston Dynamo FC                 5  ❗ 11/44
+   3. Los Angeles FC                    3  🟢 67%  ❗ 11/44
+   4. San Jose Earthquakes              3  🟢 100%  ❗ 11/44
+   5. CF Montréal                       2  🟢 100%  ❗ 11/44
+   6. Colorado Rapids                   2  🟢 50%  ❗ 11/44
+   7. Columbus Crew                     2  🟢 100%  ❗ 11/44
+   8. FC Cincinnati                     2  🟢 100%  ❗ 11/44
+   9. Minnesota United                  2  🟢 50%  🔴  ❗ 11/44
+  10. Nashville SC                      2  🟢 100%  ❗ 11/44
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN

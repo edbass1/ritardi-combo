@@ -3,7 +3,7 @@
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Totali). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostrano entrambe le squadre. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -279,7 +279,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       [GOAL] Gimnasia Mendoza 🟢 GG 40%: 1X + GOAL (6) 👻 35/44 🔴 Lanús
 03:45  Portland Timbers vs Houston Dynamo FC   [USA/CANADA - MLS]  [OK 12+GOAL]
       xG: Portland Timbers xG 3,20 (1,54+1,66) · Houston Dynamo FC xG 2,59 (1,16+1,43)
-      [GOAL] Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8) ❗ 12/44
+      [GOAL] Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8) ❗ 11/44
 17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL]
       [GOAL] FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 👻 38/44 🔴 IF Gnistan
 17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]  [OK 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
@@ -295,7 +295,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       [GOAL] Nancy 🟢 GG 30%: 1X + GOAL (10)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]  [OK X2+GOAL]
-      xG: Atalanta xG 3,39 (1,44+1,95) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,45 (1,45+2,00) · Parma xG 2,49 (0,82+1,67)
       [GOAL] Parma 🟢 GG 40%: X2 + GOAL (6)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]  [OK 12+GOAL]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
@@ -313,13 +313,16 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
       xG: Wigan Athletic xG 3,20 (1,30+1,90) · Mansfield Town xG 3,03 (1,76+1,27)
       [GOAL] Wigan Athletic 🟢 GG 30%: X2 + GOAL (17) ❗ 13/44
+23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]  [OK 12+GOAL]
+      xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,74 (1,32+1,42)
+      [GOAL] Mirassol 🟢 GG 60%: 12 + GOAL (6)
 
 ##################################################
 # CASA
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — CASA
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Casa). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostra solo la squadra che in quella partita gioca in casa, con i ritardi delle sue gare in casa. Il numero tra parentesi è quante partite in casa mancano alla combo, non il segno 12. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -445,7 +448,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 ==================================================
 02:30  Colorado Rapids vs Chicago Fire FC   [USA/CANADA - MLS]  [OK 12+GOAL]
       xG: Colorado Rapids xG 2,65 (1,42+1,23) · Chicago Fire FC xG 3,06 (1,75+1,31)
-      [GOAL] Colorado Rapids 🟢 GG 30%: 12 + GOAL (10) ❗ 12/44
+      [GOAL] Colorado Rapids 🟢 GG 30%: 12 + GOAL (10) ❗ 11/44
 12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]  [OK 1X+GOAL] [OK X2+GOAL] [OK 12+GOAL]
       [GOAL] Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 43/44; X2 + GOAL (7) 👻 36/44; 12 + GOAL (7) 👻 40/44
 13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]  [ALT X2+GOAL]
@@ -498,7 +501,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       [GOAL] Palermo 🟢 GG 60%: X2 + GOAL (8) 🔥 5/44
 20:45  Juventus vs Napoli   [ITALIA - SERIE A]  [OK 12+GOAL]
       xG: Juventus xG 2,01 (1,42+0,59) · Napoli xG 3,23 (1,88+1,35)
-      [GOAL] Juventus 🟢 GG 30%: 12 + GOAL (15) ❗ 10/44
+      [GOAL] Juventus 🟢 GG 30%: 12 + GOAL (15) ❗ 12/44
 22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]  [OK X2+GOAL]
       xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
       [GOAL] Nashville SC 🟢 GG 30%: X2 + GOAL (11) ❗ 10/44
@@ -550,7 +553,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
 ##################################################
 
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 29/10/2026 22:30 (ora italiana)
+Aggiornato: 29/10/2026 23:30 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista Trasferta). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Si mostra solo la squadra che in quella partita gioca in trasferta, con i ritardi delle sue gare in trasferta. Il numero tra parentesi è quante trasferte mancano alla combo, non il segno 12. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob
 
 
@@ -684,7 +687,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       [GOAL] Red Bull New York 🟢 GG 60%: X2 + GOAL (8) ❗ 10/44
 22:30  Vancouver Whitecaps vs Seattle Sounders FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
       xG: Vancouver Whitecaps xG 3,25 (2,12+1,13) · Seattle Sounders FC xG 2,94 (1,49+1,45)
-      [GOAL] Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 12/44
+      [GOAL] Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 11/44
 
 ==================================================
 02/11/2026
@@ -707,7 +710,7 @@ Soglia: combo Goal ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entram
       xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
       [GOAL] Nancy 🟢 GG 60%: 1X + GOAL (6)
 20:45  Atalanta vs Parma   [ITALIA - SERIE A]  [OK X2+GOAL]
-      xG: Atalanta xG 3,39 (1,44+1,95) · Parma xG 2,49 (0,82+1,67)
+      xG: Atalanta xG 3,45 (1,45+2,00) · Parma xG 2,49 (0,82+1,67)
       [GOAL] Parma 🟢 GG 40%: X2 + GOAL (7)
 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]  [OK 12+GOAL]
       xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)

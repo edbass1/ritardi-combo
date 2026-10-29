@@ -3,7 +3,7 @@
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TOTALI
-Aggiornato: 29/10/2026 22:30 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
+Aggiornato: 29/10/2026 23:30 (ora italiana). Dal più recente. Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente). Fonte: FotMob
 
 29/10 19:00  [GOAL] Mjällby: 12 + GOAL uscita, era a 6 👻 38/44  -  Örgryte 1-2 Mjällby   [SVEZIA - ALLSVENSKAN]
 29/10 01:30  [GOAL] St. Louis City: X2 + GOAL uscita, era a 7 ❗ 10/44  -  St. Louis City 2-3 Portland Timbers   [USA/CANADA - MLS]
@@ -72,7 +72,7 @@ Aggiornato: 29/10/2026 22:30 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — CASA
-Aggiornato: 29/10/2026 22:30 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
+Aggiornato: 29/10/2026 23:30 (ora italiana). Dal più recente. Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa. Fonte: FotMob
 
 28/10 21:00  [GOAL] Heart of Midlothian: X2 + GOAL uscita, era a 11  -  Heart of Midlothian 2-2 Rangers   [SCOZIA - PREMIERSHIP]
 28/10 20:45  [GOAL] Celtic: X2 + GOAL uscita, era a 10  -  Celtic 2-2 Dundee United   [SCOZIA - PREMIERSHIP]
@@ -106,7 +106,7 @@ Aggiornato: 29/10/2026 22:30 (ora italiana). Dal più recente. Ritardo = partite
 ##################################################
 
 SALTATI - RITARDI >= 6 SPEZZATI NEGLI ULTIMI 7 GIORNI — TRASFERTA
-Aggiornato: 29/10/2026 22:30 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
+Aggiornato: 29/10/2026 23:30 (ora italiana). Dal più recente. Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta. Fonte: FotMob
 
 29/10 18:30  [GOAL] Lecce: 1X + GOAL uscita, era a 9  -  Frosinone 5-1 Lecce   [ITALIA - SERIE A]
 29/10 01:30  [GOAL] Botafogo: 12 + GOAL uscita, era a 6  -  Remo 2-1 Botafogo   [BRASILE - SÉRIE A]
@@ -117,7 +117,7 @@ Aggiornato: 29/10/2026 22:30 (ora italiana). Dal più recente. Ritardo = partite
 25/10 15:00  [GOAL] Lille: X2 + GOAL uscita, era a 6  -  Monaco 1-1 Lille   [FRANCIA - LIGUE 1]
 25/10 14:30  [GOAL] Feyenoord: 1X + GOAL uscita, era a 7 ❗ 8/44  -  PSV Eindhoven 1-1 Feyenoord   [OLANDA - EREDIVISIE]
 25/10 13:00  [GOAL] Jablonec: 12 + GOAL uscita, era a 6  -  Hradec Králové 1-2 Jablonec   [REP. CECA - 1. LIGA]
-25/10 01:30  [GOAL] Chicago Fire FC: 12 + GOAL uscita, era a 6 ❗ 12/44  -  Atlanta United 2-3 Chicago Fire FC   [USA/CANADA - MLS]
+25/10 01:30  [GOAL] Chicago Fire FC: 12 + GOAL uscita, era a 6 ❗ 11/44  -  Atlanta United 2-3 Chicago Fire FC   [USA/CANADA - MLS]
 24/10 19:45  [GOAL] Lanús: X2 + GOAL uscita, era a 11 👻 37/44  -  Banfield 1-1 Lanús   [ARGENTINA - PRIMERA DIVISIÓN]
 24/10 18:00  [GOAL] Roma: 1X + GOAL uscita, era a 6  -  Napoli 3-3 Roma   [ITALIA - SERIE A]
 24/10 18:00  [GOAL] Luzern: 12 + GOAL uscita, era a 6 🔥 1/44  -  FC Zürich 2-1 Luzern   [SVIZZERA - SUPER LEAGUE]
