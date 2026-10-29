@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 29/10/2026 20:08 (ora italiana)
+Aggiornato: 29/10/2026 20:41 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -12,20 +12,20 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Como                              5  🟢 80%
    2. Bologna                           4  🟢 100%
-   3. Lecce                             4  🟢 100%
-   4. Genoa                             3  🟢 67%
-   5. Juventus                          3  🟢 100%
-   6. Udinese                           3  🟢 67%
-   7. Venezia                           3  🔴
-   8. Milan                             2  🟢 100%
-   9. Sassuolo                          2  🟢 100%  🔴
-  10. Inter                             1  🟢 100%
+   3. Genoa                             3  🟢 67%
+   4. Juventus                          3  🟢 100%
+   5. Udinese                           3  🟢 67%
+   6. Venezia                           3
+   7. Milan                             2  🟢 100%
+   8. Sassuolo                          2  🟢 100%  🔴
+   9. Inter                             1  🟢 100%
+  10. Lazio                             1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Parma                             6  🟢 83%
@@ -34,22 +34,22 @@ RITARDI X2 + GOAL
    4. Venezia                           5  🟢 60%
    5. Cagliari                          3  🟢 100%
    6. Juventus                          3  🟢 100%
-   7. Inter                             2  🟢 100%
-   8. Lecce                             2  🟢 100%
+   7. Lecce                             3  🟢 100%
+   8. Inter                             2  🟢 100%
    9. Fiorentina                        1  🟢 100%
-  10. Roma                              1  🟢 100%
+  10. Frosinone                         1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. Juventus                          5  🟢 100%
    2. Genoa                             3  🟢 67%
    3. Udinese                           3  🟢 67%
    4. Venezia                           3
-   5. Lecce                             2  🟢 100%
-   6. Atalanta                          1  🟢 100%
-   7. Frosinone                         1  🟢 100%
-   8. Inter                             1  🟢 100%
-   9. Parma                             1
-  10. Bologna                           0
+   5. Atalanta                          1  🟢 100%
+   6. Inter                             1  🟢 100%
+   7. Parma                             1
+   8. Bologna                           0
+   9. Cagliari                          0
+  10. Como                              0  🔴
 
 ==================================================
 ITALIA - SERIE B
@@ -1160,41 +1160,41 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (205 partite giocate) + 2025
+Stagione 2026 (206 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. Västerås SK                      18  🟢 67%
    2. Kalmar FF                         9
    3. Brommapojkarna                    5  🟢 60%  🔴
-   4. Häcken                            5  🟢 60%
-   5. Malmö FF                          5
-   6. Halmstads BK                      4  🟢 75%
-   7. Hammarby                          4
+   4. Hammarby                          5
+   5. Häcken                            5  🟢 60%
+   6. Malmö FF                          5
+   7. Halmstads BK                      4  🟢 75%
    8. Degerfors                         3  🟢 100%
    9. Mjällby                           2  🟢 50%
-  10. Sirius                            1  🟢 100%  🔴
+  10. Sirius                            2  🟢 100%  🔴
 
 RITARDI X2 + GOAL
    1. Malmö FF                         10
-   2. Hammarby                          5
+   2. Hammarby                          6  🟢 50%
    3. Häcken                            5  🟢 60%
    4. Brommapojkarna                    3  🟢 67%  🔴
    5. Degerfors                         2  🟢 100%  🔴
    6. Mjällby                           2  🟢 50%
    7. Halmstads BK                      1  🟢 100%
    8. Kalmar FF                         1  🟢 100%
-   9. Västerås SK                       1  🟢 100%
-  10. AIK                               0
+   9. Sirius                            1  🟢 100%
+  10. Västerås SK                       1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Häcken                            7  🟢 57%
    2. Mjällby                           6  🟢 83%
-   3. IFK Göteborg                      5  🟢 60%
-   4. Malmö FF                          5
-   5. Djurgården                        4  🟢 75%
-   6. Elfsborg                          4  🟢 75%
-   7. Hammarby                          4
+   3. Hammarby                          5
+   4. IFK Göteborg                      5  🟢 60%
+   5. Malmö FF                          5
+   6. Djurgården                        4  🟢 75%
+   7. Elfsborg                          4  🟢 75%
    8. Brommapojkarna                    3  🟢 67%  🔴
    9. Degerfors                         2  🟢 100%
   10. AIK                               1  🟢 100%
@@ -1899,7 +1899,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 29/10/2026 20:08 (ora italiana)
+Aggiornato: 29/10/2026 20:41 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -1908,8 +1908,8 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Venezia                          5+  🟢 80%
@@ -1925,8 +1925,8 @@ RITARDI 1X + GOAL
 
 RITARDI X2 + GOAL
    1. Como                              5
-   2. Inter                             5  🟢 100%
-   3. Frosinone                        4+  🟢 75%
+   2. Frosinone                        5+  🟢 80%
+   3. Inter                             5  🟢 100%
    4. Genoa                             3  🟢 67%
    5. Parma                             3  🟢 67%
    6. Udinese                           3  🟢 67%  🔴
@@ -3056,7 +3056,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (205 partite giocate) + 2025
+Stagione 2026 (206 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -3066,15 +3066,15 @@ RITARDI 1X + GOAL
    4. Kalmar FF                         4  🟢 75%
    5. Brommapojkarna                    3
    6. Halmstads BK                      2  🟢 50%
-   7. Häcken                            2  🟢 100%  🔴
-   8. Malmö FF                          2
-   9. Hammarby                          1  🔴
+   7. Hammarby                          2  🟢 50%  🔴
+   8. Häcken                            2  🟢 100%  🔴
+   9. Malmö FF                          2
   10. Mjällby                           1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Halmstads BK                      7  🟢 71%
-   2. Brommapojkarna                    6  🟢 67%
-   3. Hammarby                          6  🟢 83%
+   2. Hammarby                          7  🟢 86%
+   3. Brommapojkarna                    6  🟢 67%
    4. Elfsborg                          5  🟢 60%
    5. Kalmar FF                         5  🟢 80%
    6. Malmö FF                          5
@@ -3092,8 +3092,8 @@ RITARDI 12 + GOAL
    6. Mjällby                           3  🟢 100%
    7. AIK                               2  🟢 100%
    8. Halmstads BK                      2  🟢 50%
-   9. IFK Göteborg                      2  🟢 50%
-  10. Malmö FF                          2
+   9. Hammarby                          2  🟢 50%
+  10. IFK Göteborg                      2  🟢 50%
 
 ==================================================
 SVEZIA - SUPERETTAN
@@ -3795,7 +3795,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 29/10/2026 20:08 (ora italiana)
+Aggiornato: 29/10/2026 20:41 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3804,25 +3804,25 @@ Fonte: FotMob
 
 ==================================================
 ITALIA - SERIE A
-Stagione 2026/2027 (88 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,4
+Stagione 2026/2027 (89 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Bologna                          12  🟢 58%
    2. Lazio                            12  🟢 75%
-   3. Lecce                             9  🟢 67%
-   4. Como                              5  🟢 100%
-   5. Inter                             2  🟢 100%
-   6. Juventus                          2  🟢 100%
-   7. Napoli                            2  🟢 50%
-   8. Genoa                             1  🟢 100%
-   9. Milan                             1  🟢 100%
-  10. Sassuolo                          1  🟢 100%  🔴
+   3. Como                              5  🟢 100%
+   4. Inter                             2  🟢 100%
+   5. Juventus                          2  🟢 100%
+   6. Napoli                            2  🟢 50%
+   7. Genoa                             1  🟢 100%
+   8. Milan                             1  🟢 100%
+   9. Sassuolo                          1  🟢 100%  🔴
+  10. Torino                            1  🟢 100%
 
 RITARDI X2 + GOAL
    1. Parma                             7  🟢 71%
    2. Genoa                             6
-   3. Lecce                             4  🟢 75%
+   3. Lecce                             5  🟢 80%
    4. Venezia                          4+  🟢 75%
    5. Atalanta                          3  🟢 100%
    6. Cagliari                          3  🟢 67%
@@ -3834,14 +3834,14 @@ RITARDI X2 + GOAL
 RITARDI 12 + GOAL
    1. Roma                              5  🟢 80%
    2. Frosinone                        4+  🟢 100%
-   3. Lecce                             4  🟢 75%
-   4. Milan                             4  🟢 100%  🔴
-   5. Juventus                          3  🟢 100%
-   6. Torino                            2  🟢 100%
-   7. Genoa                             1  🟢 100%
-   8. Inter                             1  🟢 100%
-   9. Sassuolo                          1  🟢 100%  🔴
-  10. Udinese                           1
+   3. Milan                             4  🟢 100%  🔴
+   4. Juventus                          3  🟢 100%
+   5. Torino                            2  🟢 100%
+   6. Genoa                             1  🟢 100%
+   7. Inter                             1  🟢 100%
+   8. Sassuolo                          1  🟢 100%  🔴
+   9. Udinese                           1
+  10. Venezia                           1
 
 ==================================================
 ITALIA - SERIE B
@@ -4952,7 +4952,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - ALLSVENSKAN
-Stagione 2026 (205 partite giocate) + 2025
+Stagione 2026 (206 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -4960,8 +4960,8 @@ RITARDI 1X + GOAL
    2. Häcken                            7  🟢 57%
    3. Malmö FF                          6  🟢 50%
    4. Kalmar FF                         5
-   5. Hammarby                          3
-   6. Sirius                            3  🔴
+   5. Sirius                            4  🟢 50%  🔴
+   6. Hammarby                          3
    7. Brommapojkarna                    2  🟢 100%  🔴
    8. Halmstads BK                      2  🟢 100%
    9. AIK                               1  🟢 100%
@@ -4972,11 +4972,11 @@ RITARDI X2 + GOAL
    2. GAIS                              6  🟢 100%
    3. Malmö FF                          5
    4. Hammarby                          3
-   5. Västerås SK                       2  🟢 50%
-   6. Brommapojkarna                    1  🟢 100%
-   7. Degerfors                         1  🟢 100%
-   8. Mjällby                           1
-   9. Sirius                            1  🔴
+   5. Sirius                            2  🟢 50%  🔴
+   6. Västerås SK                       2  🟢 50%
+   7. Brommapojkarna                    1  🟢 100%
+   8. Degerfors                         1  🟢 100%
+   9. Mjällby                           1
   10. AIK                               0  🔴
 
 RITARDI 12 + GOAL
@@ -4988,8 +4988,8 @@ RITARDI 12 + GOAL
    6. Mjällby                           4  🟢 75%
    7. IFK Göteborg                      3  🟢 67%
    8. Elfsborg                          2  🟢 100%
-   9. Västerås SK                       2  🟢 50%
-  10. Örgryte                           2  🟢 100%
+   9. Sirius                            2  🟢 50%  🔴
+  10. Västerås SK                       2  🟢 50%
 
 ==================================================
 SVEZIA - SUPERETTAN
