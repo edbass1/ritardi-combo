@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 30/10/2026 19:34 (ora italiana)
+Aggiornato: 30/10/2026 20:39 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -272,10 +272,10 @@ GERMANIA - 2. BUNDESLIGA
 SOTTOFREQUENZA 1X + GOAL
     1/18 Darmstadt                      49/100
     2/18 Energie Cottbus                48/100
-    3/18 Bochum                         47/100
-    4/18 Karlsruher SC                  46/100
-    5/18 Hannover 96                    46/100
-    6/18 FC Heidenheim                  46/100
+    3/18 Karlsruher SC                  46/100
+    4/18 Hannover 96                    46/100
+    5/18 FC Heidenheim                  46/100
+    6/18 Bochum                         46/100
     7/18 1. FC Nürnberg                 46/100
      ...
    18/18 Magdeburg                      31/100  (la fa meno spesso)
@@ -1015,7 +1015,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/12 SK Prostějov                   47/100
     5/12 Žižkov                         45/100
      ...
-   12/12 Karviná                        31/100  (la fa meno spesso)
+   12/12 Dukla Praha                    32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Karviná                        38/100
@@ -1027,10 +1027,10 @@ SOTTOFREQUENZA X2 + GOAL
    12/12 Ústí nad Labem                 28/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 Karviná                        47/100
+    1/12 Karviná                        46/100
     2/12 Žižkov                         40/100
-    3/12 Slavia Prague B                40/100
-    4/12 SK Prostějov                   40/100
+    3/12 SK Prostějov                   40/100
+    4/12 Slavia Prague B                39/100
     5/12 Ústí nad Labem                 37/100
      ...
    12/12 Opava                          30/100  (la fa meno spesso)
@@ -1418,12 +1418,12 @@ SOTTOFREQUENZA 1X + GOAL
     2/17 Śląsk Wrocław                  49/100
     3/17 Radomiak Radom                 47/100
     4/17 Wisła Kraków                   46/100
-    5/17 Cracovia                       46/100
+    5/17 Cracovia                       45/100
      ...
    17/17 Piast Gliwice                  34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/17 Motor Lublin                   45/100
+    1/17 Motor Lublin                   46/100
     2/17 Jagiellonia Białystok          44/100
     3/17 Legia Warszawa                 42/100
     4/17 Śląsk Wrocław                  40/100
@@ -1478,7 +1478,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 30/10/2026 19:34 (ora italiana)
+Aggiornato: 30/10/2026 20:39 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1733,11 +1733,11 @@ SOTTOFREQUENZA 12 + GOAL
 GERMANIA - 2. BUNDESLIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/18 Energie Cottbus                57/100
+    1/18 Energie Cottbus                56/100
     2/18 Karlsruher SC                  49/100
     3/18 Kaiserslautern                 49/100
-    4/18 Greuther Fürth                 45/100
-    5/18 Arminia Bielefeld              45/100
+    4/18 Arminia Bielefeld              46/100
+    5/18 Greuther Fürth                 45/100
      ...
    18/18 Holstein Kiel                  33/100  (la fa meno spesso)
 
@@ -1757,7 +1757,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/18 Karlsruher SC                  40/100
     5/18 FC Heidenheim                  40/100
      ...
-   18/18 Arminia Bielefeld              29/100  (la fa meno spesso)
+   18/18 Arminia Bielefeld              30/100  (la fa meno spesso)
 
 ==================================================
 GERMANIA - 3. LIGA
@@ -2131,9 +2131,8 @@ SOTTOFREQUENZA X2 + GOAL
      1/8 SKU Amstetten                  43/100
      2/8 Kapfenberger SV                33/100
      3/8 FC Liefering                   31/100
-     4/8 SKN St. Pölten                 28/100
-     5/8 FC Wacker Innsbruck            28/100
-     6/8 Admira Wacker                  28/100
+     4/8 FC Wacker Innsbruck            28/100
+     5/8 Admira Wacker                  28/100
      ...
      8/8 BW Linz                        24/100  (la fa meno spesso)
 
@@ -2142,7 +2141,7 @@ SOTTOFREQUENZA 12 + GOAL
      2/8 FC Liefering                   48/100
      3/8 BW Linz                        38/100
      4/8 Floridsdorfer AC               35/100
-     5/8 SKN St. Pölten                 33/100
+     5/8 SKN St. Pölten                 34/100
      ...
      8/8 Admira Wacker                  29/100  (la fa meno spesso)
 
@@ -2442,7 +2441,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/11 Třinec                         40/100
     2/11 SK Prostějov                   39/100
-    3/11 Karviná                        38/100
+    3/11 Karviná                        39/100
     4/11 Opava                          37/100
     5/11 Dukla Praha                    35/100
      ...
@@ -2857,7 +2856,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/17 Górnik Zabrze                  39/100
     5/17 GKS Katowice                   39/100
      ...
-   17/17 Cracovia                       26/100  (la fa meno spesso)
+   17/17 Cracovia                       27/100  (la fa meno spesso)
 
 ==================================================
 POLONIA - I LIGA
@@ -2895,7 +2894,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 30/10/2026 19:34 (ora italiana)
+Aggiornato: 30/10/2026 20:39 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3549,7 +3548,7 @@ SOTTOFREQUENZA X2 + GOAL
      1/8 FC Wacker Innsbruck            40/100
      2/8 FC Liefering                   39/100
      3/8 Admira Wacker                  37/100
-     4/8 SKU Amstetten                  35/100
+     4/8 SKU Amstetten                  34/100
      5/8 SKN St. Pölten                 30/100
      ...
      8/8 Kapfenberger SV                25/100  (la fa meno spesso)
@@ -3557,8 +3556,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
      1/8 FC Wacker Innsbruck            47/100
      2/8 SKN St. Pölten                 39/100
-     3/8 SKU Amstetten                  38/100
-     4/8 FC Liefering                   38/100
+     3/8 FC Liefering                   38/100
+     4/8 SKU Amstetten                  37/100
      5/8 Kapfenberger SV                37/100
      ...
      8/8 Floridsdorfer AC               23/100  (la fa meno spesso)
@@ -4275,9 +4274,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/17 Jagiellonia Białystok          46/100
     2/17 Lech Poznań                    43/100
     3/17 Wisła Kraków                   42/100
-    4/17 Legia Warszawa                 40/100
-    5/17 Śląsk Wrocław                  39/100
-    6/17 Motor Lublin                   39/100
+    4/17 Motor Lublin                   40/100
+    5/17 Legia Warszawa                 40/100
      ...
    17/17 Zagłębie Lubin                 28/100  (la fa meno spesso)
 
