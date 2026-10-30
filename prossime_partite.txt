@@ -1,5 +1,5 @@
 PROSSIME PARTITE (5 GIORNI) - SQUADRE IN RITARDO
-Aggiornato: 30/10/2026 11:33 (ora italiana)
+Aggiornato: 30/10/2026 12:33 (ora italiana)
 Soglia: combo Goal ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto (totale, casa o trasferta). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob
 
 
@@ -542,6 +542,9 @@ TOTALE    21:00  Tenerife vs FC Andorra   [SPAGNA - LALIGA 2]  [OK 1X+GOAL]
 TRASFERTA 21:30  Braga vs Famalicão   [PORTOGALLO - LIGA PORTUGAL]  [OK 12+GOAL]
            xG: Braga xG 2,23 (1,41+0,82) · Famalicão xG 2,41 (1,01+1,40)
            [GOAL] Famalicão 🟢 GG 50%: 12 + GOAL (9) 👻 35/44 🔴 Braga
+TRASFERTA 21:30  Vancouver Whitecaps vs Seattle Sounders FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
+           xG: Vancouver Whitecaps xG 3,25 (2,12+1,13) · Seattle Sounders FC xG 2,94 (1,49+1,45)
+           [GOAL] Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 11/44
 TOTALE    22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]  [ALT X2+GOAL]
            xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
            [GOAL] Red Bull New York 🟢 GG 30%: X2 + GOAL (10) ❗ 10/44
@@ -551,9 +554,6 @@ CASA      22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]  [OK X2+
 TRASFERTA 22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]  [OK X2+GOAL]
            xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
            [GOAL] Red Bull New York 🟢 GG 60%: X2 + GOAL (8) ❗ 10/44
-TRASFERTA 22:30  Vancouver Whitecaps vs Seattle Sounders FC   [USA/CANADA - MLS]  [ALT 12+GOAL]
-           xG: Vancouver Whitecaps xG 3,25 (2,12+1,13) · Seattle Sounders FC xG 2,94 (1,49+1,45)
-           [GOAL] Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 11/44
 
 ==================================================
 02/11/2026
@@ -672,5 +672,5 @@ TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]  [OK 12+GOAL]
 04/11/2026
 ==================================================
 TOTALE    01:30  Internacional vs Coritiba   [BRASILE - SÉRIE A]  [OK 12+GOAL]
-           xG: Internacional xG 2,79 (1,47+1,32) · Coritiba xG 2,71 (1,07+1,64)
+           xG: Internacional xG 2,81 (1,48+1,33) · Coritiba xG 2,71 (1,07+1,64)
            [GOAL] Coritiba 🟢 GG 60%: 12 + GOAL (6) 🔴 Coritiba

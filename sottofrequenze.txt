@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 30/10/2026 11:33 (ora italiana)
+Aggiornato: 30/10/2026 12:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1325,6 +1325,7 @@ SOTTOFREQUENZA 1X + GOAL
     3/11 Macarthur FC                   47/100
     4/11 Newcastle Jets                 46/100
     5/11 Wellington Phoenix             44/100
+    6/11 Brisbane Roar FC               44/100
      ...
    11/11 Sydney FC                      38/100  (la fa meno spesso)
 
@@ -1334,6 +1335,7 @@ SOTTOFREQUENZA X2 + GOAL
     3/11 Macarthur FC                   44/100
     4/11 Central Coast Mariners         43/100
     5/11 Western Sydney Wanderers FC    42/100
+    6/11 Brisbane Roar FC               42/100
      ...
    11/11 Wellington Phoenix             32/100  (la fa meno spesso)
 
@@ -1476,7 +1478,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 30/10/2026 11:33 (ora italiana)
+Aggiornato: 30/10/2026 12:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2893,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 30/10/2026 11:33 (ora italiana)
+Aggiornato: 30/10/2026 12:33 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================

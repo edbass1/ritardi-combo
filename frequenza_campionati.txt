@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 30/10/2026 11:33 (ora italiana)
+Aggiornato: 30/10/2026 12:33 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -153,6 +153,6 @@ X2 + GOAL
 ==================================================
 FUORI CLASSIFICA
 ==================================================
-  AUSTRALIA - A-LEAGUE MEN         in corso, 2 giornate (< 7)
+  AUSTRALIA - A-LEAGUE MEN         in corso, 3 giornate (< 7)
   FINLANDIA - YKKOSLIIGA           stagione conclusa (27 giornate, 135 partite)
 
