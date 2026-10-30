@@ -395,6 +395,25 @@ def extract_xg(d):
         out[tid] = rec
     return out
 
+def _pts_for_team(tid, m):
+    """Punti della squadra in quella partita: 3 vittoria, 1 pareggio, 0 sconfitta."""
+    gf, ga = (m[3], m[4]) if m[1] == tid else (m[4], m[3])
+    if gf > ga:
+        return 3
+    if gf == ga:
+        return 1
+    return 0
+
+def team_form_map(teams, cur, prev_m, prev_teams):
+    """Punti delle ultime 5 partite complessive (casa e trasferta insieme)."""
+    out = {}
+    for tid, tname in teams.items():
+        last = _seq_for(tid, cur, prev_m, prev_teams, "all")[-5:]
+        rec = (sum(_pts_for_team(tid, m) for m in last), len(last))
+        out[tname] = rec
+        out[str(tid)] = rec
+    return out
+
 def compute(lid, POOL):
     d, cur, teams = matches(lid)
     seasons = d.get("allAvailableSeasons") or []
@@ -407,12 +426,13 @@ def compute(lid, POOL):
         try: _, prev_m, prev_teams = matches(lid, prev)
         except Exception: pass
     xg = extract_xg(d)
+    forms = team_form_map(teams, cur, prev_m, prev_teams)
     venues = {}
     for venue in ("all", "home", "away"):
-        venues[venue] = _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue)
+        venues[venue] = _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms if venue == "all" else None)
     return {"cs": cur_season, "ps": prev, "n": len(cur), "up": d["_upcoming"], "teams": teams, "xg": xg, "venues": venues}
 
-def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue):
+def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
     sotto, freq, sinfo = [], {}, {}
     for name, f in COMBOS["goal"]:
         rows = []
@@ -479,7 +499,7 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue):
                     if b0 >= DANGER_MIN and b0 >= cutv: ev.append((m[0], b0))
             danger[name] = [b0 for _, b0 in sorted(ev, reverse=True)]
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
-    return {"res": res, "allr": allr, "sotto": sotto, "freq": freq, "tab": tables(d, teams, venue),
+    return {"res": res, "allr": allr, "sotto": sotto, "freq": freq, "tab": tables(d, teams, venue, forms),
             "salt": salt, "sinfo": sinfo, "danger": danger, "gg": gg}
 
 TIPS_MAX = 10
@@ -570,13 +590,25 @@ TIPS_RULES = [
  "Vista: Totali considera entrambe le squadre. Casa usa solo la squadra che gioca in casa e i suoi ritardi in casa; Trasferta solo chi gioca fuori e i suoi ritardi in trasferta.",
 ]
 
-def tables(d, teams, which="all"):
+def tables(d, teams, which="all", forms=None):
+    """Righe [pos, nome, punti, giocate] e, sulla classifica totale, [forma, n forma]."""
     out = []
     try:
         for g in _table_groups(d):
             rows = (g.get("table") or {}).get(which) or []
-            if rows:
-                out.append([[r.get("idx"), teams.get(str(r.get("id")), r.get("name")), r.get("pts"), r.get("played")] for r in rows])
+            if not rows:
+                continue
+            block = []
+            for r in rows:
+                tid = r.get("id")
+                name = teams.get(tid, teams.get(str(tid), r.get("name")))
+                row = [r.get("idx"), name, r.get("pts"), r.get("played")]
+                if forms is not None:
+                    fp, fn = forms.get(name, forms.get(str(tid), (0, 0)))
+                    row.append(fp if fn else None)
+                    row.append(fn)
+                block.append(row)
+            out.append(block)
     except Exception: pass
     return out
 
@@ -823,22 +855,6 @@ def render_venue(data, venue, now):
     sotto_L = [f"SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime {SOTTO_N} partite nazionali {scope})",
                f"Aggiornato: {now} (ora italiana)",
                "Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali " + scope + " (N<100 = storico insufficiente). Fonte: FotMob", ""]
-    side_note = {
-        "all": "Si mostrano entrambe le squadre.",
-        "home": "Si mostra solo la squadra che in quella partita gioca in casa, con i ritardi delle sue gare in casa. Il numero tra parentesi è quante partite in casa mancano alla combo, non il segno 12.",
-        "away": "Si mostra solo la squadra che in quella partita gioca in trasferta, con i ritardi delle sue gare in trasferta. Il numero tra parentesi è quante trasferte mancano alla combo, non il segno 12.",
-    }[venue]
-    pros_h_leg = (f'<p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) &middot; orari italiani '
-                  f'&middot; <span class="tag goal">GOAL</span> &middot; 🔴 = prime 3 per frequenza (più uscite) '
-                  f'&middot; <span class="gg">🟢 GG</span> = segnano entrambe nelle ultime 10 partite della squadra '
-                  f'(se sono meno di 10 si vede il rapporto) &middot; xG = media a partita, fatti + subiti, '
-                  f'della fase o stagione FotMob. Se il campionato non pubblica l&rsquo;xG, la riga non compare. L&rsquo;xG è di stagione e non è diviso tra casa e trasferta. {esc(side_note)}</p>')
-    goal_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — {label.upper()}",
-                   f"Aggiornato: {now} (ora italiana)",
-                   f"Soglia ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob", ""]
-    full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO — {label.upper()}",
-                   f"Aggiornato: {now} (ora italiana)",
-                   f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra (nella vista {label}). xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. 🔴 Squadra = quella squadra della partita è tra le 3 con più uscite di quella combo (pari merito inclusi). [ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. {side_note} 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Fonte: FotMob", ""]
     pop = {}
     cf = []
     for LI, (c, l, r, err) in enumerate(data):
@@ -894,45 +910,16 @@ def render_venue(data, venue, now):
                     bdg = league_badge_txt(lg, name)
                     bhtml = league_badge_html(lg, name)
                     parts.append(f"{name} ({streak}{'+' if full else ''})" + (f" {bdg}" if bdg else "") + "".join(f" 🔴 {x}" for x in rr))
-                    hparts.append(f'{esc(name)} <span class="pp" data-k="{LI}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
-                                  + "".join(f' <span class="pr" data-k="{LI}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
+                    hparts.append(f'{esc(name)} <span class="pp" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(tn)}">({streak}{"+" if full else ""})</span>{bhtml}'
+                                  + "".join(f' <span class="pr" data-k="{LI}" data-v="{venue}" data-c="{esc(name)}" data-t="{esc(x)}">🔴 {esc(x)}</span>' for x in rr))
                 if parts:
                     info.append((tn, parts, gg.get(tn)))
                     tags.append(("goal", tn, parts, hparts, gg.get(tn)))
             if info:
                 xgp = xg_pieces(r["xg"], ((h, teams[h]), (a, teams[a])))
-                cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp))
-    cf.sort(key=lambda x: (x[0], x[1], x[3]))
-    P = list(full_header)
-    PG = list(goal_header)
-    H, day = [], None
-    for t, c, l, hn, an, tags, info, LIX, xgp in cf:
-        lt = t.astimezone(ROME)
-        d0 = lt.strftime("%d/%m/%Y")
-        if d0 != day:
-            P += ["", "=" * 50, d0, "=" * 50]
-            PG += ["", "=" * 50, d0, "=" * 50]
-            H.append(f'<h3 class="day">{d0}</h3>')
-            day = d0
-        nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags for p in ps]
-        dh, dt = dbadges(data[LIX][2]["venues"][venue]["danger"], f"{c} - {l}", nms)
-        P.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}")
-        PG.append(f"{lt:%H:%M}  {hn} vs {an}   [{c} - {l}]")
-        if xgp:
-            line = " · ".join(p for p, _h in xgp)
-            P.append(f"      xG: {line}")
-            PG.append(f"      xG: {line}")
-        hb = []
-        for KEY, tn, parts, hparts, g in tags:
-            P.append(f"      [{LAB[KEY]}] {tn}{gg_txt(g)}: " + "; ".join(parts))
-            PG.append(f"      {tn}{gg_txt(g)}: " + "; ".join(parts))
-            hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>{gg_html(g)}: ' + "; ".join(hparts) + "</div>")
-        xg_html = ('<div class="xgline">' + " · ".join(h for _p, h in xgp) + "</div>") if xgp else ""
-        H.append(f'<div class="fx"><div class="fxh"><span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}' + "".join(hb) + "</div>")
-    if not cf:
-        P.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia.")
-        PG.append("Nessuna partita nei prossimi giorni con ritardi sopra soglia.")
-        H.append("<p>Nessuna partita nei prossimi giorni con ritardi sopra soglia.</p>")
+                nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags for p in ps]
+                dh, dt = dbadges(view["danger"], lg, nms)
+                cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt))
     today = datetime.datetime.now(ROME).date()
     tips = build_tips(data, today, venue)
     TT = [f"TIPS DEL GIORNO - {today:%d/%m/%Y} — {label.upper()}", f"Aggiornato: {now} (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.", ""]
@@ -969,9 +956,7 @@ def render_venue(data, venue, now):
     return {
         "goal": "\n".join(goal_L) + "\n",
         "sotto": "\n".join(sotto_L) + "\n",
-        "prossime": "\n".join(P) + "\n",
-        "prossime_goal": "\n".join(PG) + "\n",
-        "prossime_html": vwrap(venue, pros_h_leg + '<div class="fxlist">' + "\n".join(H) + "</div>"),
+        "cards": cf,
         "tips": "\n".join(TT) + "\n",
         "tips_html": vwrap(venue, '<div class="fxlist">' + "\n".join(TH) + "</div>"),
         "saltati": "\n".join(ST) + "\n",
@@ -987,6 +972,92 @@ def _bundle(chunks, key):
         blocks += ["#" * 50, f"# {label.upper()}", "#" * 50, "", chunks[venue][key].rstrip(), ""]
     return "\n".join(blocks) + "\n"
 
+VENUE_TAG = {"all": "TOTALE", "home": "CASA", "away": "TRASFERTA"}
+
+def render_prossime(chunks, now):
+    """Una scheda per contesto, raggruppata sulla stessa partita: TOTALE, poi CASA, poi TRASFERTA."""
+    groups = {}
+    for venue, _label, _desc in VENUES:
+        for t, c, l, hn, an, tags, info, LIX, xgp, dh, dt in chunks[venue]["cards"]:
+            key = (t.isoformat(), c, l, hn, an)
+            g = groups.setdefault(key, {"t": t, "c": c, "l": l, "hn": hn, "an": an, "by": {}})
+            g["by"][venue] = (tags, info, LIX, xgp, dh, dt)
+    ordered = sorted(groups.values(), key=lambda g: (g["t"], g["c"], g["hn"]))
+    note = ("La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: "
+            "TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), "
+            "TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). "
+            "Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. "
+            "1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). "
+            "Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite.")
+    full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO",
+                   f"Aggiornato: {now} (ora italiana)",
+                   f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. {note} "
+                   "🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto (totale, casa o trasferta). "
+                   "xG = media a partita fatti+subiti, fase/stagione FotMob, nascosto se assente; non è diviso casa/trasferta. "
+                   "🔴 Squadra = tra le 3 con più uscite di quella combo (pari merito inclusi), nel contesto della scheda. "
+                   "[ALT combo] = negli ultimi 10 giorni nel campionato è saltato almeno un ritardo top 5 (e >= 6) su quella combo; [OK combo] = nessuno. Fonte: FotMob", ""]
+    goal_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO",
+                   f"Aggiornato: {now} (ora italiana)",
+                   f"Soglia ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. {note} "
+                   "🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. "
+                   "xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. "
+                   "🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob", ""]
+    leg = (f'<p class="leg">Soglia ritardo &ge; {SOGLIA_GOAL} (Goal) &middot; orari italiani '
+           f'&middot; <span class="tag goal">GOAL</span> &middot; 🔴 = prime 3 per frequenza (più uscite) '
+           f'&middot; <span class="gg">🟢 GG</span> = segnano entrambe nelle ultime 10 partite di quel contesto '
+           f'(se sono meno di 10 si vede il rapporto) &middot; xG = media a partita, fatti + subiti, '
+           f'della fase o stagione FotMob. Se il campionato non pubblica l&rsquo;xG, la riga non compare. '
+           f'L&rsquo;xG è di stagione e non è diviso tra casa e trasferta. '
+           f'La stessa partita può uscire più volte, in ordine: '
+           f'<span class="vtag all">TOTALE</span> entrambe le squadre, '
+           f'<span class="vtag home">CASA</span> solo chi gioca in casa, '
+           f'<span class="vtag away">TRASFERTA</span> solo chi gioca fuori. '
+           f'Il passaggio sul nome mostra sempre la classifica totale, con i punti delle ultime 5.</p>')
+    P, PG, H = list(full_header), list(goal_header), []
+    day = None
+    if not ordered:
+        msg = "Nessuna partita nei prossimi giorni con ritardi sopra soglia."
+        P.append(msg)
+        PG.append(msg)
+        H.append(f"<p>{msg}</p>")
+    for g in ordered:
+        lt = g["t"].astimezone(ROME)
+        d0 = lt.strftime("%d/%m/%Y")
+        if d0 != day:
+            P += ["", "=" * 50, d0, "=" * 50]
+            PG += ["", "=" * 50, d0, "=" * 50]
+            H.append(f'<h3 class="day">{d0}</h3>')
+            day = d0
+        hn, an, c, l = g["hn"], g["an"], g["c"], g["l"]
+        for venue, _label, _desc in VENUES:
+            item = g["by"].get(venue)
+            if not item:
+                continue
+            tags, _info, LIX, xgp, dh, dt = item
+            mark = VENUE_TAG[venue]
+            P.append(f"{mark:<9} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}")
+            PG.append(f"{mark:<9} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]")
+            if xgp:
+                line = " · ".join(p for p, _h in xgp)
+                P.append(f"           xG: {line}")
+                PG.append(f"           xG: {line}")
+            hb = []
+            for KEY, tn, parts, hparts, ggv in tags:
+                P.append(f"           [{LAB[KEY]}] {tn}{gg_txt(ggv)}: " + "; ".join(parts))
+                PG.append(f"           {tn}{gg_txt(ggv)}: " + "; ".join(parts))
+                hb.append(f'<div class="tagrow"><span class="tag goal">{LAB[KEY]}</span> <b>{tspan(LIX, hn, an, tn)}</b>{gg_html(ggv)}: ' + "; ".join(hparts) + "</div>")
+            xg_html = ('<div class="xgline">' + " · ".join(h for _p, h in xgp) + "</div>") if xgp else ""
+            H.append(
+                f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
+                f'<div class="fxh"><span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
+                f'{tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} '
+                f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
+                + "".join(hb) + "</div>"
+            )
+    return {"html": leg + '<div class="fxlist">' + "\n".join(H) + "</div>",
+            "txt": "\n".join(P) + "\n",
+            "goal": "\n".join(PG) + "\n"}
+
 def _theme_css():
     out = []
     for tid, _label, spec in THEMES:
@@ -997,8 +1068,8 @@ def _theme_css():
 
 def _page_css():
     return _theme_css() + """
-:root{--bar-h:58px}
-@media(max-width:700px){:root{--bar-h:108px}}
+:root{--bar-h:52px}
+@media(max-width:700px){:root{--bar-h:52px}}
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0 auto;padding:1rem;padding-top:calc(var(--bar-h) + .5rem);background:var(--bg);color:var(--fg);max-width:1100px}
 h1{color:var(--accent);text-shadow:0 0 12px var(--soft);font-size:clamp(1.4rem,5vw,2.2rem);font-family:var(--head)}
 h2{color:var(--accent2);border-left:4px solid var(--accent);padding-left:.6rem;margin-top:2rem;font-family:var(--head)}
@@ -1013,11 +1084,17 @@ h3.day{color:var(--accent);margin:1.4rem 0 .5rem;border-bottom:1px solid var(--l
 .tag{display:inline-block;padding:.05rem .5rem;border-radius:6px;font-size:.78em;font-weight:700}
 .tag.goal{background:var(--ok);color:var(--on)}.tag.over{background:#d9822b;color:#000}
 .leg{color:var(--dim)}.pt{cursor:pointer;border-bottom:1px dotted var(--muted)}
+.vtag{display:inline-block;margin:0 0 .28rem;padding:.08rem .5rem;border-radius:999px;font-size:.68rem;font-weight:800;letter-spacing:.05em;line-height:1.35}
+.vtag.all{background:var(--accent);color:var(--on)}
+.vtag.home{background:#2f6fed;color:#fff}
+.vtag.away{background:#c4922a;color:#1a1004}
+.leg .vtag{margin:0 .15rem;vertical-align:middle}
 .pp,.pr{cursor:pointer;border-bottom:1px dashed var(--accent)}.pp{color:var(--accent);font-weight:700}
 .vnote{color:var(--muted);margin:.1rem 0 .7rem}.gg{color:var(--accent);font-weight:800;white-space:nowrap}
 .xgline{margin-top:.35rem;color:var(--muted);font-size:.86em;font-weight:600;line-height:1.45}
 .xgline b{color:var(--accent)}.xgline small{color:var(--dim);font-weight:600}
-#pop{position:absolute;z-index:280;display:none;background:var(--pop);border:1px solid var(--accent);border-radius:var(--radius);box-shadow:var(--glow);padding:.6rem .8rem;max-width:min(92vw,360px);font-size:.9em;color:var(--fg)}
+#pop{position:absolute;z-index:280;display:none;background:var(--pop);border:1px solid var(--accent);border-radius:var(--radius);box-shadow:var(--glow);padding:.6rem .8rem;max-width:min(92vw,440px);font-size:.9em;color:var(--fg)}
+#pop .fm{color:var(--muted);font-weight:650}
 #pop h4{margin:0 0 .4rem;color:var(--accent);font-size:.95em}#pop table{border-collapse:collapse;width:100%}
 #pop td{padding:.12rem .35rem;border-bottom:1px solid var(--line)}#pop td.n{text-align:right;color:var(--accent);font-weight:700}
 #pop tr.hl td{background:var(--soft);color:var(--fg);font-weight:700}
@@ -1052,38 +1129,23 @@ details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:v
 #zoom button:active{background:var(--accent);color:var(--on)}
 #topbar{position:fixed;left:0;right:0;top:0;z-index:250;display:flex;flex-wrap:wrap;align-items:center;gap:.45rem .6rem;padding:.45rem .75rem;background:var(--bg);border-bottom:1px solid var(--line);box-shadow:var(--glow)}
 #topbar,#topbar button,#topbar select{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
-#topbar .vsel{display:flex;gap:.3rem;flex-wrap:wrap}
-#topbar .vsel button{background:transparent;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:.32rem .78rem;font-weight:800;cursor:pointer;font-size:.84rem}
-#topbar .vsel button.on{background:var(--accent);color:var(--on)}
-#topbar .vhint{color:var(--muted);font-size:.75rem}
 #topbar .tsel{margin-left:auto;display:flex;align-items:center;gap:.35rem;color:var(--muted);font-size:.8rem;font-weight:700}
 #topbar select{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:.32rem .45rem;font-weight:700;font-size:.84rem}
-@media(max-width:700px){#topbar .vhint{display:none}#topbar .tsel{margin-left:0;width:100%}#topbar select{flex:1;min-width:0}}
-.venue{display:none}
-html[data-venue="all"] .venue[data-v="all"],
-html[data-venue="home"] .venue[data-v="home"],
-html[data-venue="away"] .venue[data-v="away"],
-html:not([data-venue]) .venue[data-v="all"]{display:block}
+.venue{display:block;margin:0 0 1.4rem}
 """
 
 PAGE = r"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Ritardi Combo</title>
-<script>(function(){var okv={all:1,home:1,away:1};var okt={notte:1,chiaro:1,oceano:1,bordeaux:1,tramonto:1,viola:1,cielo:1,carta:1,foresta:1,stadio:1};var q=null;try{q=new URLSearchParams(location.search)}catch(e){}var v=(q&&q.get('vista'))||localStorage.getItem('venueRC')||'all';var t=(q&&q.get('tema'))||localStorage.getItem('themeRC')||'notte';if(!okv[v])v='all';if(!okt[t])t='notte';document.documentElement.setAttribute('data-venue',v);document.documentElement.setAttribute('data-theme',t);try{localStorage.setItem('venueRC',v);localStorage.setItem('themeRC',t)}catch(e){}})();</script>
+<script>(function(){var okt={notte:1,chiaro:1,oceano:1,bordeaux:1,tramonto:1,viola:1,cielo:1,carta:1,foresta:1,stadio:1};var q=null;try{q=new URLSearchParams(location.search)}catch(e){}var t=(q&&q.get('tema'))||localStorage.getItem('themeRC')||'notte';if(!okt[t])t='notte';document.documentElement.setAttribute('data-theme',t);try{localStorage.setItem('themeRC',t)}catch(e){}})();</script>
 <style>___CSS___</style></head><body>
 <div id="topbar">
-  <div class="vsel" role="tablist" aria-label="Vista partite">
-    <button type="button" role="tab" data-v="all" title="Tutte le partite">Totali</button>
-    <button type="button" role="tab" data-v="home" title="Solo partite in casa">Casa</button>
-    <button type="button" role="tab" data-v="away" title="Solo partite in trasferta">Trasferta</button>
-  </div>
-  <span class="vhint">Classifiche e ritardi della vista scelta</span>
   <label class="tsel" for="theme">Tema <select id="theme">___THEMEOPTS___</select></label>
 </div>
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){document.querySelectorAll('pre').forEach(function(p){p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'});document.querySelectorAll('.fxlist').forEach(function(f){f.style.fontSize=(Z*100)+'%'})}function z(d){Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1>
 <p>Ultimo aggiornamento: <b>___NOW___</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
-<p class="leg">In alto scegli <b>Totali</b>, <b>Casa</b> o <b>Trasferta</b>: ogni vista ha le stesse classifiche, ricerche e ritardi, calcolati solo su quelle partite.</p>
+<p class="leg">Totali, Casa e Trasferta sono nella stessa pagina, una sotto l&rsquo;altra. In Prossime partite la stessa gara può comparire più volte: prima <b>TOTALE</b>, poi <b>CASA</b> e/o <b>TRASFERTA</b>. Il passaggio sul nome apre sempre la classifica totale, con i punti delle ultime 5 partite.</p>
 <button id="hamb" aria-label="Menu" onclick="document.getElementById('side').classList.toggle('open')">☰</button>
 <aside id="side" onclick="if(event.target.closest('a.sbig,a.ssm'))this.classList.remove('open')">
 <a class="sbig" href="#tips">🎯<span>TIPS DEL GIORNO</span></a>
@@ -1109,8 +1171,9 @@ ___SALTATI___
 <script>window.addEventListener("scroll",function(){document.getElementById("totop").classList.toggle("on",window.scrollY>400)},{passive:true});</script>
 <div id="pop"></div>
 <script>var POP=___POP___;(function(){var pop=document.getElementById('pop'),cur=null;function esc(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-function pack(){return POP[document.documentElement.getAttribute('data-venue')]||POP.all||{}}
-function show(el){if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack()[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pt</b>'}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+'</td><td>'+r[3]+' g</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
+function forma(r){return (r&&r.length>5&&r[5])?(' <span class="fm">· forma ultime '+r[5]+': '+r[4]+' pnt</span>'):''}
+function pack(el){var v=(el&&el.dataset&&el.dataset.v)||'all';if(el&&el.classList.contains('pt'))return POP.all||{};return POP[v]||POP.all||{}}
+function show(el){if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack(el)[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica totale non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica totale</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pnt</b>'+forma(r)}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'/'+N+'</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' pnt</td><td>'+(r[5]?('ultime '+r[5]+': '+r[4]+' pnt'):'')+'</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}
 function hide(){pop.style.display='none';cur=null}
 document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
@@ -1120,8 +1183,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')hide()})})()
 <script>(function(){var hs=[].slice.call(document.querySelectorAll('body > h2[id]')),ids=[];hs.forEach(function(h){var sec=document.createElement('section');sec.className='tabsec';sec.dataset.id=h.id;h.parentNode.insertBefore(sec,h);var n=h;while(n&&!(n!==h&&n.tagName==='H2')&&!(n.id==='pop'||n.id==='totop'||n.tagName==='SCRIPT'||n.tagName==='ASIDE'||(n.tagName==='BUTTON'))){var nx=n.nextElementSibling;sec.appendChild(n);n=nx}ids.push(h.id)});
 function show(){var id=(location.hash||'').slice(1);if(ids.indexOf(id)<0)id='tips';document.querySelectorAll('section.tabsec').forEach(function(x){x.style.display=x.dataset.id===id?'':'none'});document.querySelectorAll('#side a.sbig,#side a.ssm').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)});window.scrollTo(0,0);var p=document.getElementById('pop');if(p)p.style.display='none'}
 window.addEventListener('hashchange',show);show()})();</script>
-<script>(function(){function syncBar(){var v=document.documentElement.getAttribute('data-venue')||'all';var t=document.documentElement.getAttribute('data-theme')||'notte';document.querySelectorAll('#topbar button[data-v]').forEach(function(b){var on=b.getAttribute('data-v')===v;b.classList.toggle('on',on);b.setAttribute('aria-selected',on?'true':'false')});var sel=document.getElementById('theme');if(sel&&sel.value!==t)sel.value=t;var bar=document.getElementById('topbar');if(bar)document.documentElement.style.setProperty('--bar-h',bar.offsetHeight+'px')}
-document.getElementById('topbar').addEventListener('click',function(e){var b=e.target.closest('button[data-v]');if(!b)return;document.documentElement.setAttribute('data-venue',b.getAttribute('data-v'));try{localStorage.setItem('venueRC',b.getAttribute('data-v'))}catch(err){}var p=document.getElementById('pop');if(p)p.style.display='none';syncBar()});
+<script>(function(){function syncBar(){var t=document.documentElement.getAttribute('data-theme')||'notte';var sel=document.getElementById('theme');if(sel&&sel.value!==t)sel.value=t;var bar=document.getElementById('topbar');if(bar)document.documentElement.style.setProperty('--bar-h',bar.offsetHeight+'px')}
 document.getElementById('theme').addEventListener('change',function(){document.documentElement.setAttribute('data-theme',this.value);try{localStorage.setItem('themeRC',this.value)}catch(err){}syncBar()});
 window.addEventListener('resize',syncBar);syncBar()})();</script>
 </body></html>"""
@@ -1153,11 +1215,12 @@ def main():
     for name, rows in LEAGUE_FREQ.items():
         print(f"  {name}: " + ", ".join(f"{r['pos']}.{r['league']}={r['ogni'] or 'mai'}" for r in rows[:3]), flush=True)
     chunks = {venue: render_venue(data, venue, now) for venue, _label, _desc in VENUES}
+    prossime = render_prossime(chunks, now)
     open("tips_del_giorno.txt", "w").write(_bundle(chunks, "tips"))
     open("saltati.txt", "w").write(_bundle(chunks, "saltati"))
     open("sottofrequenze.txt", "w").write(_bundle(chunks, "sotto"))
-    open("prossime_partite.txt", "w").write(_bundle(chunks, "prossime"))
-    open("prossime_partite_goal.txt", "w").write(_bundle(chunks, "prossime_goal"))
+    open("prossime_partite.txt", "w").write(prossime["txt"])
+    open("prossime_partite_goal.txt", "w").write(prossime["goal"])
     open("ritardi_goal.txt", "w").write(_bundle(chunks, "goal"))
     open("frequenza_campionati.txt", "w").write(freq_text)
     pop = {venue: chunks[venue]["pop"] for venue, _l, _d in VENUES}
@@ -1171,7 +1234,7 @@ def main():
         "___TIPS___": "".join(chunks[v]["tips_html"] for v, _l, _d in VENUES),
         "___RULES___": "".join(f"<li>{esc(x)}</li>" for x in TIPS_RULES),
         "___SOTTO___": "".join(chunks[v]["sotto_html"] for v, _l, _d in VENUES),
-        "___PROSSIME___": "".join(chunks[v]["prossime_html"] for v, _l, _d in VENUES),
+        "___PROSSIME___": prossime["html"],
         "___GOAL___": "".join(chunks[v]["goal_html"] for v, _l, _d in VENUES),
         "___FREQUENZA___": html.escape(freq_text),
         "___SALTATI___": "".join(chunks[v]["saltati_html"] for v, _l, _d in VENUES),
