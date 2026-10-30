@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -643,16 +643,16 @@ RITARDI 1X + GOAL
   10. Francs Borains                    1  🟢 100%  👻 41/44
 
 RITARDI X2 + GOAL
-   1. Francs Borains                    5  🟢 60%
-   2. FCV Dender EH                     4  🟢 50%
-   3. K. Lierse SK                      3  🟢 67%
-   4. Anderlecht Futures                2  🟢 100%  🔴
-   5. Club Brugge NXT                   2  🟢 50%
-   6. Genk U23                          2  🔴
-   7. Gent U23                          2  🟢 100%
-   8. RFC Seraing                       2  🟢 100%  🔴
-   9. KSC Lokeren                       1  🟢 100%
-  10. Virton                            1  🟢 100%
+   1. Francs Borains                    5  🟢 60%  👻 35/44
+   2. FCV Dender EH                     4  🟢 50%  👻 35/44
+   3. K. Lierse SK                      3  🟢 67%  👻 35/44
+   4. Anderlecht Futures                2  🟢 100%  🔴  👻 35/44
+   5. Club Brugge NXT                   2  🟢 50%  👻 35/44
+   6. Genk U23                          2  🔴  👻 35/44
+   7. Gent U23                          2  🟢 100%  👻 35/44
+   8. RFC Seraing                       2  🟢 100%  🔴  👻 35/44
+   9. KSC Lokeren                       1  🟢 100%  👻 35/44
+  10. Virton                            1  🟢 100%  👻 35/44
 
 RITARDI 12 + GOAL
    1. Club Brugge NXT                   5  🟢 60%  ❗ 10/44
@@ -1283,14 +1283,14 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,0 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
+Stagione 2026/2027 (97 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,0 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Vlašim                         3  🟢 67%  🔴  🔥 3/44
+   1. FC Vlašim                         4  🟢 75%  🔴  🔥 3/44
    2. Karviná                           3  🟢 67%  🔥 3/44
    3. Vysočina Jihlava                  2  🟢 100%  🔴  🔥 3/44
-   4. Ústí nad Labem                    1  🟢 100%  🔥 3/44
+   4. Ústí nad Labem                    2  🟢 100%  🔥 3/44
    5. Baník Ostrava B                   0  🔥 3/44
    6. Dukla Praha                       0  🔥 3/44
    7. FC Silon Táborsko                 0  🔥 3/44
@@ -1299,20 +1299,20 @@ RITARDI 1X + GOAL
   10. Opava                             0  🔥 3/44
 
 RITARDI X2 + GOAL
-   1. FC Vlašim                         7  🟢 86%  🔴  🔥 2/44
-   2. Slavia Prague B                   5  🟢 80%  🔥 2/44
-   3. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 2/44
-   4. SK Prostějov                      1  🟢 100%  🔴  🔥 2/44
-   5. Vysočina Jihlava                  1  🟢 100%  🔥 2/44
-   6. Žižkov                            1  🟢 100%  🔥 2/44
-   7. Baník Ostrava B                   0  🔥 2/44
-   8. Dukla Praha                       0  🔥 2/44
-   9. FC Silon Táborsko                 0  🔥 2/44
-  10. Karviná                           0  🔴  🔥 2/44
+   1. FC Vlašim                         8  🟢 88%  🔴  🔥 3/44
+   2. Slavia Prague B                   5  🟢 80%  🔥 3/44
+   3. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 3/44
+   4. SK Prostějov                      1  🟢 100%  🔴  🔥 3/44
+   5. Vysočina Jihlava                  1  🟢 100%  🔥 3/44
+   6. Ústí nad Labem                    1  🟢 100%  🔥 3/44
+   7. Žižkov                            1  🟢 100%  🔥 3/44
+   8. Baník Ostrava B                   0  🔥 3/44
+   9. Dukla Praha                       0  🔥 3/44
+  10. FC Silon Táborsko                 0  🔥 3/44
 
 RITARDI 12 + GOAL
-   1. FC Silon Táborsko                 3  🟢 67%
-   2. FC Vlašim                         3  🟢 67%
+   1. FC Vlašim                         4  🟢 75%
+   2. FC Silon Táborsko                 3  🟢 67%
    3. Dukla Praha                       2  🟢 100%
    4. Baník Ostrava B                   1  🟢 100%
    5. Kladno                            1  🟢 100%
@@ -1320,7 +1320,7 @@ RITARDI 12 + GOAL
    7. Příbram                           1  🟢 100%
    8. Třinec                            1  🟢 100%
    9. Vysočina Jihlava                  1  🟢 100%
-  10. Česká Lípa                        1  🟢 100%
+  10. Ústí nad Labem                    1  🟢 100%
 
 ==================================================
 SLOVACCHIA - 1. LIGA (NIKE LIGA)
@@ -1340,16 +1340,16 @@ RITARDI 1X + GOAL
   10. Skalica                           0
 
 RITARDI X2 + GOAL
-   1. Trenčín                           5  🟢 60%  🔥 3/44
-   2. DAC 1904 Dunajska Streda          2  🟢 50%  🔥 3/44
-   3. Komárno                           2  🔴  🔥 3/44
-   4. Ružomberok                        2  🟢 50%  🔥 3/44
-   5. FC Košice                         1  🔴  🔥 3/44
-   6. Slovan Bratislava                 1  🟢 100%  🔴  🔥 3/44
-   7. Dukla Banská Bystrica             0  🔥 3/44
-   8. Skalica                           0  🔥 3/44
-   9. Spartak Trnava                    0  🔥 3/44
-  10. Zeleziarne Podbrezová             0  🔥 3/44
+   1. Trenčín                           5  🟢 60%  🔥 2/44
+   2. DAC 1904 Dunajska Streda          2  🟢 50%  🔥 2/44
+   3. Komárno                           2  🔴  🔥 2/44
+   4. Ružomberok                        2  🟢 50%  🔥 2/44
+   5. FC Košice                         1  🔴  🔥 2/44
+   6. Slovan Bratislava                 1  🟢 100%  🔴  🔥 2/44
+   7. Dukla Banská Bystrica             0  🔥 2/44
+   8. Skalica                           0  🔥 2/44
+   9. Spartak Trnava                    0  🔥 2/44
+  10. Zeleziarne Podbrezová             0  🔥 2/44
 
 RITARDI 12 + GOAL
    1. Ružomberok                        6  🟢 83%  👻 36/44
@@ -1365,7 +1365,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (113 partite giocate) + 2025/2026
+Stagione 2026/2027 (114 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
@@ -1381,28 +1381,28 @@ RITARDI 1X + GOAL
   10. Inter Bratislava                  0  🔥 5/44
 
 RITARDI X2 + GOAL
-   1. Liptovský Mikuláš                 5  🟢 80%  🔴  👻 35/44
-   2. MFK Zvolen                        5  🟢 80%  👻 35/44
-   3. Baník Lehota pod Vtacnikom        4  👻 35/44
-   4. MFK Bytca                         3  🟢 100%  👻 35/44
-   5. FK Pohronie                       2  🟢 50%  👻 35/44
-   6. Malženice                         2  🟢 50%  👻 35/44
-   7. Považská Bystrica                 2  🟢 100%  🔴  👻 35/44
-   8. Zlaté Moravce                     2  🟢 100%  👻 35/44
-   9. Žilina B                          2  🟢 100%  👻 35/44
-  10. FC Petržalka 1898                 1  👻 35/44
+   1. Liptovský Mikuláš                 5  🟢 80%  🔴
+   2. MFK Zvolen                        5  🟢 80%
+   3. Baník Lehota pod Vtacnikom        4
+   4. MFK Bytca                         3  🟢 100%
+   5. Malženice                         2  🟢 50%
+   6. Považská Bystrica                 2  🟢 100%  🔴
+   7. Zlaté Moravce                     2  🟢 100%
+   8. Žilina B                          2  🟢 100%
+   9. FC Petržalka 1898                 1
+  10. FC STK 1914 Šamorín               1  🟢 100%  🔴
 
 RITARDI 12 + GOAL
    1. FC Petržalka 1898                10  🟢 60%
-   2. Slovan Bratislava B               5  🟢 100%
+   2. Slovan Bratislava B               6  🟢 100%
    3. Baník Lehota pod Vtacnikom        3
    4. Tatran Prešov                     3  🟢 100%
    5. Inter Bratislava                  2  🟢 100%
    6. Malženice                         2  🟢 50%
-   7. Humenné                           1  🟢 100%
-   8. MFK Bytca                         1  🟢 100%
-   9. Slovan Galanta                    1  🟢 100%
-  10. Zlaté Moravce                     1  🟢 100%
+   7. FK Pohronie                       1  🟢 100%
+   8. Humenné                           1  🟢 100%
+   9. MFK Bytca                         1  🟢 100%
+  10. Slovan Galanta                    1  🟢 100%
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1899,7 +1899,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2539,16 +2539,16 @@ RITARDI 1X + GOAL
   10. KSC Lokeren                       1  🟢 100%  👻 41/44
 
 RITARDI X2 + GOAL
-   1. Beerschot                         4  🟢 100%  🔴
-   2. FCV Dender EH                    4+  🟢 75%
-   3. Francs Borains                    3  🟢 67%
-   4. K. Lierse SK                      3  🟢 67%
-   5. Sporting Hasselt                 3+
-   6. Gent U23                          2  🟢 50%
-   7. Anderlecht Futures                1  🟢 100%
-   8. Genk U23                          1
-   9. KSC Lokeren                       1  🟢 100%
-  10. Patro Eisden                      1
+   1. Beerschot                         4  🟢 100%  🔴  👻 35/44
+   2. FCV Dender EH                    4+  🟢 75%  👻 35/44
+   3. Francs Borains                    3  🟢 67%  👻 35/44
+   4. K. Lierse SK                      3  🟢 67%  👻 35/44
+   5. Sporting Hasselt                 3+  👻 35/44
+   6. Gent U23                          2  🟢 50%  👻 35/44
+   7. Anderlecht Futures                1  🟢 100%  👻 35/44
+   8. Genk U23                          1  👻 35/44
+   9. KSC Lokeren                       1  🟢 100%  👻 35/44
+  10. Patro Eisden                      1  👻 35/44
 
 RITARDI 12 + GOAL
    1. FCV Dender EH                    4+  🟢 75%  ❗ 10/44
@@ -3179,13 +3179,13 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,0 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
+Stagione 2026/2027 (97 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,0 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
    1. Ústí nad Labem                    3  🟢 100%  🔥 3/44
-   2. Příbram                           2  🟢 100%  🔥 3/44
-   3. FC Vlašim                         1  🔴  🔥 3/44
+   2. FC Vlašim                         2  🟢 50%  🔴  🔥 3/44
+   3. Příbram                           2  🟢 100%  🔥 3/44
    4. Karviná                           1  🟢 100%  🔥 3/44
    5. Kladno                            1  🟢 100%  🔥 3/44
    6. Třinec                            1  🔥 3/44
@@ -3195,24 +3195,24 @@ RITARDI 1X + GOAL
   10. FC Silon Táborsko                 0  🔥 3/44
 
 RITARDI X2 + GOAL
-   1. Karviná                          5+  🟢 80%  🔴  🔥 2/44
-   2. FC Vlašim                         3  🟢 67%  🔥 2/44
-   3. Slavia Prague B                   3  🟢 67%  🔥 2/44
-   4. Baník Ostrava B                   2  🟢 100%  🔥 2/44
-   5. Třinec                            2  🟢 50%  🔴  🔥 2/44
-   6. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 2/44
-   7. Vysočina Jihlava                  1  🟢 100%  🔥 2/44
-   8. Dukla Praha                       0  🔥 2/44
-   9. FC Silon Táborsko                 0  🔥 2/44
-  10. Kladno                            0  🔥 2/44
+   1. Karviná                          5+  🟢 80%  🔴  🔥 3/44
+   2. FC Vlašim                         4  🟢 75%  🔥 3/44
+   3. Slavia Prague B                   3  🟢 67%  🔥 3/44
+   4. Baník Ostrava B                   2  🟢 100%  🔥 3/44
+   5. Třinec                            2  🟢 50%  🔴  🔥 3/44
+   6. Hanácká Slavia Kromeriz           1  🟢 100%  🔥 3/44
+   7. Vysočina Jihlava                  1  🟢 100%  🔥 3/44
+   8. Dukla Praha                       0  🔥 3/44
+   9. FC Silon Táborsko                 0  🔥 3/44
+  10. Kladno                            0  🔥 3/44
 
 RITARDI 12 + GOAL
    1. FC Silon Táborsko                 8  🟢 62%
    2. SK Prostějov                      3  🟢 100%  🔴
    3. Žižkov                            3  🟢 100%  🔴
-   4. Vysočina Jihlava                  2  🟢 100%
-   5. Dukla Praha                       1  🟢 100%
-   6. FC Vlašim                         1  🔴
+   4. FC Vlašim                         2  🟢 50%  🔴
+   5. Vysočina Jihlava                  2  🟢 100%
+   6. Dukla Praha                       1  🟢 100%
    7. Karviná                           1  🟢 100%
    8. Opava                             1  🟢 100%
    9. Třinec                            1
@@ -3236,16 +3236,16 @@ RITARDI 1X + GOAL
   10. Ružomberok                        0
 
 RITARDI X2 + GOAL
-   1. Dukla Banská Bystrica             2  🟢 50%  🔴  🔥 3/44
-   2. Komárno                           2  🔥 3/44
-   3. Spartak Trnava                    2  🟢 100%  🔥 3/44
-   4. Trenčín                           2  🟢 50%  🔴  🔥 3/44
-   5. DAC 1904 Dunajska Streda          1  🟢 100%  🔥 3/44
-   6. FC Košice                         1  🔥 3/44
-   7. Ružomberok                        0  🔥 3/44
-   8. Skalica                           0  🔥 3/44
-   9. Slovan Bratislava                 0  🔥 3/44
-  10. Zeleziarne Podbrezová             0  🔥 3/44
+   1. Dukla Banská Bystrica             2  🟢 50%  🔴  🔥 2/44
+   2. Komárno                           2  🔥 2/44
+   3. Spartak Trnava                    2  🟢 100%  🔥 2/44
+   4. Trenčín                           2  🟢 50%  🔴  🔥 2/44
+   5. DAC 1904 Dunajska Streda          1  🟢 100%  🔥 2/44
+   6. FC Košice                         1  🔥 2/44
+   7. Ružomberok                        0  🔥 2/44
+   8. Skalica                           0  🔥 2/44
+   9. Slovan Bratislava                 0  🔥 2/44
+  10. Zeleziarne Podbrezová             0  🔥 2/44
 
 RITARDI 12 + GOAL
    1. DAC 1904 Dunajska Streda          6  🟢 100%  🔴  👻 36/44
@@ -3261,38 +3261,38 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (113 partite giocate) + 2025/2026
+Stagione 2026/2027 (114 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
    1. Baník Lehota pod Vtacnikom        5  🔥 5/44
    2. Zlaté Moravce                     5  🟢 60%  🔥 5/44
    3. Malženice                         4  🟢 75%  🔥 5/44
-   4. FK Pohronie                       3  🟢 67%  🔴  🔥 5/44
-   5. MFK Bytca                         1  🟢 100%  🔥 5/44
-   6. FC Petržalka 1898                 0  🔥 5/44
-   7. FC STK 1914 Šamorín               0  🔥 5/44
+   4. MFK Bytca                         1  🟢 100%  🔥 5/44
+   5. FC Petržalka 1898                 0  🔥 5/44
+   6. FC STK 1914 Šamorín               0  🔥 5/44
+   7. FK Pohronie                       0  🔴  🔥 5/44
    8. Humenné                           0  🔥 5/44
    9. Inter Bratislava                  0  🔥 5/44
   10. Liptovský Mikuláš                 0  🔴  🔥 5/44
 
 RITARDI X2 + GOAL
-   1. FK Pohronie                       7  🟢 86%  🔴  👻 35/44
-   2. Liptovský Mikuláš                 4  🟢 50%  👻 35/44
-   3. Baník Lehota pod Vtacnikom        2  👻 35/44
-   4. Humenné                           2  🟢 100%  👻 35/44
-   5. MFK Bytca                         2  🟢 100%  👻 35/44
-   6. MFK Zvolen                        2  🟢 100%  👻 35/44
-   7. FC STK 1914 Šamorín               1  🟢 100%  👻 35/44
-   8. Malženice                         1  🟢 100%  👻 35/44
-   9. Považská Bystrica                 1  🟢 100%  👻 35/44
-  10. Žilina B                          1  🟢 100%  🔴  👻 35/44
+   1. Liptovský Mikuláš                 4  🟢 50%
+   2. Baník Lehota pod Vtacnikom        2
+   3. Humenné                           2  🟢 100%
+   4. MFK Bytca                         2  🟢 100%
+   5. MFK Zvolen                        2  🟢 100%
+   6. FC STK 1914 Šamorín               1  🟢 100%
+   7. Malženice                         1  🟢 100%
+   8. Považská Bystrica                 1  🟢 100%
+   9. Žilina B                          1  🟢 100%  🔴
+  10. FC Petržalka 1898                 0
 
 RITARDI 12 + GOAL
    1. Inter Bratislava                  8  🟢 75%
    2. Slovan Bratislava B               6  🟢 100%  🔴
    3. FC Petržalka 1898                 4  🟢 75%
-   4. FK Pohronie                       3  🟢 67%
+   4. FK Pohronie                       4  🟢 75%
    5. Baník Lehota pod Vtacnikom        2
    6. MFK Bytca                         1  🟢 100%
    7. Malženice                         1  🟢 100%
@@ -3795,7 +3795,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4435,16 +4435,16 @@ RITARDI 1X + GOAL
   10. Gent U23                          1  🟢 100%  👻 41/44
 
 RITARDI X2 + GOAL
-   1. FC Liège                          3  🟢 67%
-   2. Club Brugge NXT                   2  🟢 50%
-   3. Francs Borains                    2  🟢 50%
-   4. Genk U23                          2  🟢 50%
-   5. Anderlecht Futures                1  🟢 100%
-   6. Eupen                             1  🟢 100%  🔴
-   7. FCV Dender EH                     1
-   8. Gent U23                          1  🟢 100%
-   9. K. Lierse SK                      1  🟢 100%
-  10. RFC Seraing                       1  🟢 100%  🔴
+   1. FC Liège                          3  🟢 67%  👻 35/44
+   2. Club Brugge NXT                   2  🟢 50%  👻 35/44
+   3. Francs Borains                    2  🟢 50%  👻 35/44
+   4. Genk U23                          2  🟢 50%  👻 35/44
+   5. Anderlecht Futures                1  🟢 100%  👻 35/44
+   6. Eupen                             1  🟢 100%  🔴  👻 35/44
+   7. FCV Dender EH                     1  👻 35/44
+   8. Gent U23                          1  🟢 100%  👻 35/44
+   9. K. Lierse SK                      1  🟢 100%  👻 35/44
+  10. RFC Seraing                       1  🟢 100%  🔴  👻 35/44
 
 RITARDI 12 + GOAL
    1. Gent U23                          6  🟢 100%  ❗ 10/44
@@ -5075,8 +5075,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 REP. CECA - FNL
-Stagione 2026/2027 (96 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,0 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,5
+Stagione 2026/2027 (97 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,0 · X2 + GOAL 1 ogni 2,2 · 12 + GOAL 1 ogni 2,6
 ==================================================
 RITARDI 1X + GOAL
    1. FC Vlašim                         2  🟢 100%  🔴  🔥 3/44
@@ -5085,25 +5085,25 @@ RITARDI 1X + GOAL
    4. Dukla Praha                       1  🟢 100%  🔥 3/44
    5. Hanácká Slavia Kromeriz           1  🔥 3/44
    6. Opava                             1  🟢 100%  🔥 3/44
-   7. Česká Lípa                        1  🟢 100%  🔥 3/44
-   8. Baník Ostrava B                   0  🔥 3/44
-   9. FC Silon Táborsko                 0  🔥 3/44
-  10. Kladno                            0  🔥 3/44
+   7. Ústí nad Labem                    1  🟢 100%  🔥 3/44
+   8. Česká Lípa                        1  🟢 100%  🔥 3/44
+   9. Baník Ostrava B                   0  🔥 3/44
+  10. FC Silon Táborsko                 0  🔥 3/44
 
 RITARDI X2 + GOAL
-   1. FC Vlašim                         4  🟢 100%  🔴  🔥 2/44
-   2. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 2/44
-   3. Slavia Prague B                   2  🟢 100%  🔥 2/44
-   4. Dukla Praha                       1  🟢 100%  🔥 2/44
-   5. SK Prostějov                      1  🟢 100%  🔴  🔥 2/44
-   6. Žižkov                            1  🟢 100%  🔥 2/44
-   7. Baník Ostrava B                   0  🔥 2/44
-   8. FC Silon Táborsko                 0  🔥 2/44
-   9. Karviná                           0  🔥 2/44
-  10. Kladno                            0  🔥 2/44
+   1. FC Vlašim                         4  🟢 100%  🔴  🔥 3/44
+   2. Hanácká Slavia Kromeriz           2  🟢 50%  🔥 3/44
+   3. Slavia Prague B                   2  🟢 100%  🔥 3/44
+   4. Dukla Praha                       1  🟢 100%  🔥 3/44
+   5. SK Prostějov                      1  🟢 100%  🔴  🔥 3/44
+   6. Ústí nad Labem                    1  🟢 100%  🔥 3/44
+   7. Žižkov                            1  🟢 100%  🔥 3/44
+   8. Baník Ostrava B                   0  🔥 3/44
+   9. FC Silon Táborsko                 0  🔥 3/44
+  10. Karviná                           0  🔥 3/44
 
 RITARDI 12 + GOAL
-   1. Ústí nad Labem                    5  🟢 60%
+   1. Ústí nad Labem                    6  🟢 67%
    2. Kladno                            4  🟢 75%
    3. Dukla Praha                       2  🟢 100%
    4. FC Vlašim                         2  🟢 100%
@@ -5132,16 +5132,16 @@ RITARDI 1X + GOAL
   10. Skalica                           0  🔴
 
 RITARDI X2 + GOAL
-   1. Ružomberok                       11  🟢 73%  🔥 3/44
-   2. Trenčín                           5  🟢 80%  🔥 3/44
-   3. Skalica                           3  🟢 67%  🔥 3/44
-   4. Slovan Bratislava                 2  🟢 100%  🔴  🔥 3/44
-   5. DAC 1904 Dunajska Streda          1  🔥 3/44
-   6. Zemplín Michalovce                1  🟢 100%  🔥 3/44
-   7. Dukla Banská Bystrica             0  🔥 3/44
-   8. FC Košice                         0  🔥 3/44
-   9. Komárno                           0  🔴  🔥 3/44
-  10. Spartak Trnava                    0  🔥 3/44
+   1. Ružomberok                       11  🟢 73%  🔥 2/44
+   2. Trenčín                           5  🟢 80%  🔥 2/44
+   3. Skalica                           3  🟢 67%  🔥 2/44
+   4. Slovan Bratislava                 2  🟢 100%  🔴  🔥 2/44
+   5. DAC 1904 Dunajska Streda          1  🔥 2/44
+   6. Zemplín Michalovce                1  🟢 100%  🔥 2/44
+   7. Dukla Banská Bystrica             0  🔥 2/44
+   8. FC Košice                         0  🔥 2/44
+   9. Komárno                           0  🔴  🔥 2/44
+  10. Spartak Trnava                    0  🔥 2/44
 
 RITARDI 12 + GOAL
    1. Dukla Banská Bystrica            7+  🟢 57%  👻 36/44
@@ -5157,7 +5157,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 SLOVACCHIA - 2. LIGA
-Stagione 2026/2027 (113 partite giocate) + 2025/2026
+Stagione 2026/2027 (114 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
@@ -5173,23 +5173,23 @@ RITARDI 1X + GOAL
   10. Inter Bratislava                  0  🔥 5/44
 
 RITARDI X2 + GOAL
-   1. MFK Bytca                        6+  🟢 100%  👻 35/44
-   2. Baník Lehota pod Vtacnikom        5  🟢 80%  👻 35/44
-   3. MFK Zvolen                        4  🟢 75%  👻 35/44
-   4. Liptovský Mikuláš                 2  🟢 100%  🔴  👻 35/44
-   5. Zlaté Moravce                     2  🟢 100%  👻 35/44
-   6. FC Petržalka 1898                 1  🔴  👻 35/44
-   7. FK Pohronie                       1  🟢 100%  👻 35/44
-   8. Malženice                         1  👻 35/44
-   9. Považská Bystrica                 1  🟢 100%  👻 35/44
-  10. Tatran Prešov                     1  🟢 100%  👻 35/44
+   1. MFK Bytca                        6+  🟢 100%
+   2. Baník Lehota pod Vtacnikom        5  🟢 80%
+   3. MFK Zvolen                        4  🟢 75%
+   4. Liptovský Mikuláš                 2  🟢 100%  🔴
+   5. Zlaté Moravce                     2  🟢 100%
+   6. FC Petržalka 1898                 1  🔴
+   7. FK Pohronie                       1  🟢 100%
+   8. Malženice                         1
+   9. Považská Bystrica                 1  🟢 100%
+  10. Tatran Prešov                     1  🟢 100%
 
 RITARDI 12 + GOAL
    1. FC Petržalka 1898                11  🟢 55%
    2. Tatran Prešov                     4  🟢 75%
    3. FC STK 1914 Šamorín               3  🟢 67%  🔴
-   4. Malženice                         2  🟢 50%
-   5. Slovan Bratislava B               2  🟢 100%  🔴
+   4. Slovan Bratislava B               3  🟢 100%  🔴
+   5. Malženice                         2  🟢 50%
    6. Baník Lehota pod Vtacnikom        1
    7. Humenné                           1  🟢 100%
    8. Inter Bratislava                  1  🟢 100%

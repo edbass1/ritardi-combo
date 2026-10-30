@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1010,8 +1010,8 @@ REP. CECA - FNL
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/12 Slavia Prague B                53/100
-    2/12 FC Vlašim                      52/100
-    3/12 Vysočina Jihlava               51/100
+    2/12 Vysočina Jihlava               51/100
+    3/12 FC Vlašim                      51/100
     4/12 SK Prostějov                   47/100
     5/12 Žižkov                         45/100
      ...
@@ -1019,8 +1019,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Karviná                        38/100
-    2/12 FC Vlašim                      38/100
-    3/12 SK Prostějov                   37/100
+    2/12 SK Prostějov                   37/100
+    3/12 FC Vlašim                      37/100
     4/12 Vysočina Jihlava               33/100
     5/12 Příbram                        33/100
      ...
@@ -1072,18 +1072,18 @@ SLOVACCHIA - 2. LIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 Považská Bystrica              56/100
     2/12 Liptovský Mikuláš              51/100
-    3/12 Slovan Bratislava B            47/100
+    3/12 Slovan Bratislava B            48/100
     4/12 Inter Bratislava               46/100
-    5/12 FK Pohronie                    45/100
+    5/12 FK Pohronie                    46/100
      ...
    12/12 FC Petržalka 1898              34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/12 Považská Bystrica              38/100
     2/12 FC STK 1914 Šamorín            37/100
-    3/12 Liptovský Mikuláš              33/100
-    4/12 Zlaté Moravce                  32/100
-    5/12 Slovan Bratislava B            32/100
+    3/12 Slovan Bratislava B            33/100
+    4/12 Liptovský Mikuláš              33/100
+    5/12 Zlaté Moravce                  32/100
      ...
    12/12 Tatran Prešov                  25/100  (la fa meno spesso)
 
@@ -1478,7 +1478,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2491,8 +2491,8 @@ SOTTOFREQUENZA 12 + GOAL
 SLOVACCHIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-     1/8 Žilina B                       45/100
-     2/8 FK Pohronie                    45/100
+     1/8 FK Pohronie                    46/100
+     2/8 Žilina B                       45/100
      3/8 Slovan Bratislava B            44/100
      4/8 Liptovský Mikuláš              44/100
      5/8 FC STK 1914 Šamorín            41/100
@@ -2501,7 +2501,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
      1/8 Zlaté Moravce                  40/100
-     2/8 FK Pohronie                    36/100
+     2/8 FK Pohronie                    37/100
      3/8 Žilina B                       35/100
      4/8 Slovan Bratislava B            35/100
      5/8 FC Petržalka 1898              32/100
@@ -2895,7 +2895,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3919,7 +3919,7 @@ SOTTOFREQUENZA 1X + GOAL
      1/8 Liptovský Mikuláš              48/100
      2/8 Zlaté Moravce                  41/100
      3/8 FK Pohronie                    41/100
-     4/8 Slovan Bratislava B            39/100
+     4/8 Slovan Bratislava B            40/100
      5/8 Žilina B                       37/100
      6/8 FC STK 1914 Šamorín            37/100
      ...
@@ -3931,6 +3931,7 @@ SOTTOFREQUENZA X2 + GOAL
      3/8 FC Petržalka 1898              33/100
      4/8 FK Pohronie                    30/100
      5/8 Žilina B                       26/100
+     6/8 Slovan Bratislava B            26/100
      ...
      8/8 Tatran Prešov                  21/100  (la fa meno spesso)
 

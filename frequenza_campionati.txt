@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 30/10/2026 18:33 (ora italiana)
+Aggiornato: 30/10/2026 19:34 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -11,9 +11,9 @@ Fonte: FotMob
 ==================================================
    1/44  OLANDA - EERSTE DIVISIE          1 ogni 1,9       (62/120, 12 giornate)
    2/44  DANIMARCA - SUPERLIGAEN          1 ogni 1,9       (37/72, 12 giornate)
-   3/44  REP. CECA - FNL                  1 ogni 2,0       (48/96, 12 giornate)
+   3/44  REP. CECA - FNL                  1 ogni 2,0       (48/97, 13 giornate)
    4/44  USA/CANADA - MLS                 1 ogni 2,1       (227/480, 32 giornate)
-   5/44  SLOVACCHIA - 2. LIGA             1 ogni 2,2       (52/113, 15 giornate)
+   5/44  SLOVACCHIA - 2. LIGA             1 ogni 2,2       (53/114, 15 giornate)
    6/44  DANIMARCA - 1. DIVISION          1 ogni 2,2       (33/72, 12 giornate)
    7/44  INGHILTERRA - CHAMPIONSHIP       1 ogni 2,2       (66/144, 12 giornate)
    8/44  BRASILE - SÉRIE A                1 ogni 2,2       (149/327, 33 giornate)
@@ -58,8 +58,8 @@ Fonte: FotMob
 X2 + GOAL
 ==================================================
    1/44  OLANDA - EREDIVISIE              1 ogni 1,8       (49/90, 10 giornate)
-   2/44  REP. CECA - FNL                  1 ogni 2,2       (44/96, 12 giornate)
-   3/44  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 2,2       (33/72, 12 giornate)
+   2/44  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 2,2       (33/72, 12 giornate)
+   3/44  REP. CECA - FNL                  1 ogni 2,2       (44/97, 13 giornate)
    4/44  GERMANIA - 3. LIGA               1 ogni 2,4       (46/110, 11 giornate)
    5/44  ITALIA - SERIE B                 1 ogni 2,4       (37/90, 9 giornate)
    6/44  DANIMARCA - 1. DIVISION          1 ogni 2,5       (29/72, 12 giornate)
@@ -90,8 +90,8 @@ X2 + GOAL
   31/44  NORVEGIA - ELITESERIEN           1 ogni 3,0       (63/192, 24 giornate)
   32/44  ITALIA - SERIE A                 1 ogni 3,1       (29/90, 9 giornate)
   33/44  REP. CECA - 1. LIGA              1 ogni 3,1       (30/94, 12 giornate)
-  34/44  BELGIO - FIRST DIVISION B        1 ogni 3,2       (17/54, 8 giornate)
-  35/44  SLOVACCHIA - 2. LIGA             1 ogni 3,2       (35/113, 15 giornate)
+  34/44  SLOVACCHIA - 2. LIGA             1 ogni 3,2       (36/114, 15 giornate)
+  35/44  BELGIO - FIRST DIVISION B        1 ogni 3,2       (17/54, 8 giornate)
   36/44  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,3       (22/72, 8 giornate)
   37/44  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,3       (64/210, 14 giornate)
   38/44  INGHILTERRA - PREMIER LEAGUE     1 ogni 3,3       (24/80, 8 giornate)
@@ -120,8 +120,8 @@ X2 + GOAL
   13/44  INGHILTERRA - CHAMPIONSHIP       1 ogni 2,4       (60/144, 12 giornate)
   14/44  AUSTRIA - 2. LIGA                1 ogni 2,4       (33/80, 10 giornate)
   15/44  SPAGNA - LALIGA                  1 ogni 2,5       (40/99, 10 giornate)
-  16/44  SLOVACCHIA - 2. LIGA             1 ogni 2,5       (45/113, 15 giornate)
-  17/44  REP. CECA - FNL                  1 ogni 2,5       (38/96, 12 giornate)
+  16/44  SLOVACCHIA - 2. LIGA             1 ogni 2,5       (45/114, 15 giornate)
+  17/44  REP. CECA - FNL                  1 ogni 2,6       (38/97, 13 giornate)
   18/44  SVEZIA - SUPERETTAN              1 ogni 2,6       (87/223, 28 giornate)
   19/44  AUSTRIA - BUNDESLIGA             1 ogni 2,6       (23/60, 10 giornate)
   20/44  IRLANDA - PREMIER DIVISION       1 ogni 2,6       (67/175, 35 giornate)
