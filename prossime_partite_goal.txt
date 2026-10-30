@@ -1,13 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 30/10/2026 17:38 (ora italiana)
+Aggiornato: 30/10/2026 18:33 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 30/10/2026
 ==================================================
-CASA      18:30  SKN St. Pölten vs FC Hertha Wels   [AUSTRIA - 2. LIGA]
-           SKN St. Pölten 🟢 GG 20%: X2 + GOAL (11) 👻 42/44
 CASA      19:00  AaB vs Hobro   [DANIMARCA - 1. DIVISION]
            AaB 🟢 GG 50%: 12 + GOAL (7) 🔴 Hobro
 CASA      19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]
@@ -110,7 +108,7 @@ TRASFERTA 13:00  MFK Zvolen vs MFK Bytca   [SLOVACCHIA - 2. LIGA]
 TRASFERTA 13:00  IFK Norrköping vs Östersunds FK   [SVEZIA - SUPERETTAN]
            Östersunds FK 🟢 GG 50%: 12 + GOAL (10) 🔴 IFK Norrköping
 TOTALE    13:30  Fredericia vs AB   [DANIMARCA - 1. DIVISION]
-           AB 🟢 GG 30%: 1X + GOAL (6) 🔥 5/44
+           AB 🟢 GG 30%: 1X + GOAL (6) 🔥 6/44
 CASA      13:30  Fredericia vs AB   [DANIMARCA - 1. DIVISION]
            Fredericia 🟢 GG 33% (2/6): 12 + GOAL (6+)
 TOTALE    13:30  Bradford City vs Huddersfield Town   [INGHILTERRA - LEAGUE ONE]
@@ -185,7 +183,7 @@ TOTALE    16:00  Accrington Stanley vs Northampton Town   [INGHILTERRA - LEAGUE 
            Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
 TOTALE    16:00  Bolton Wanderers vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]
            xG: Bolton Wanderers xG 3,37 (1,39+1,98) · Bristol City xG 2,62 (1,31+1,31)
-           Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 6/44
+           Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 7/44
            Bristol City 🟢 GG 50%: 12 + GOAL (6) ❗ 13/44
 TOTALE    16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
            xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
@@ -297,11 +295,11 @@ CASA      18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
            Standard Liège 🟢 GG 40%: 12 + GOAL (6) 👻 39/44
 TOTALE    18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
            xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
-           SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 8/44
+           SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 9/44
            NEC Nijmegen 🟢 GG 90%: 12 + GOAL (6) 🔥 7/44 🔴 NEC Nijmegen
 CASA      18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
            xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
-           SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 8/44
+           SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 9/44
 TOTALE    19:00  Benfica B vs Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
            Benfica B 🟢 GG 20%: 12 + GOAL (6) 👻 40/44
 TOTALE    19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]
@@ -468,7 +466,7 @@ CASA      17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
 TRASFERTA 17:00  Hødd vs Bryne   [NORVEGIA - OBOS-LIGAEN]
            Bryne 🟢 GG 30%: X2 + GOAL (6)
 TOTALE    17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
-           Moss 🟢 GG 70%: 1X + GOAL (9) ❗ 9/44
+           Moss 🟢 GG 70%: 1X + GOAL (9) ❗ 10/44
 CASA      17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
            Strømsgodset 🟢 GG 60%: X2 + GOAL (6)
 TOTALE    17:15  Lyon vs Angers   [FRANCIA - LIGUE 1]
@@ -642,7 +640,7 @@ TRASFERTA 18:00  Pogoń Siedlce vs Ruch Chorzów   [POLONIA - I LIGA]
            Ruch Chorzów 🟢 GG 40%: 12 + GOAL (6)
 TOTALE    20:45  Charlton Athletic vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
            xG: Charlton Athletic xG 2,58 (0,99+1,59) · Bolton Wanderers xG 3,37 (1,39+1,98)
-           Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 6/44
+           Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 7/44
 TOTALE    20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
            xG: Northampton Town xG 2,14 (0,92+1,22) · Oldham Athletic xG 2,88 (1,57+1,31)
            Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
