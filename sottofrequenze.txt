@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 30/10/2026 20:39 (ora italiana)
+Aggiornato: 30/10/2026 21:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -337,16 +337,17 @@ FRANCIA - LIGUE 1
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/18 Strasbourg                     49/100
-    2/18 Nice                           43/100
+    2/18 Nice                           44/100
     3/18 Paris FC                       42/100
     4/18 Marseille                      41/100
-    5/18 Monaco                         40/100
-    6/18 Auxerre                        40/100
+    5/18 Rennes                         40/100
+    6/18 Monaco                         40/100
+    7/18 Auxerre                        40/100
      ...
    18/18 Troyes                         29/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Paris Saint-Germain            42/100
+    1/18 Paris Saint-Germain            43/100
     2/18 Toulouse                       40/100
     3/18 Le Mans                        39/100
     4/18 Strasbourg                     36/100
@@ -358,10 +359,10 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Strasbourg                     51/100
-    2/18 Monaco                         47/100
-    3/18 Lyon                           47/100
-    4/18 Paris Saint-Germain            46/100
-    5/18 Rennes                         43/100
+    2/18 Paris Saint-Germain            47/100
+    3/18 Monaco                         47/100
+    4/18 Lyon                           47/100
+    5/18 Rennes                         44/100
      ...
    18/18 Angers                         29/100  (la fa meno spesso)
 
@@ -634,7 +635,7 @@ SOTTOFREQUENZA 1X + GOAL
      4/9 Kriens                         40/100
      5/9 Wil                            39/100
      ...
-     9/9 FC Rapperswil-Jona             37/100  (la fa meno spesso)
+     9/9 FC Rapperswil-Jona             36/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
      1/9 Aarau                          48/100
@@ -642,6 +643,7 @@ SOTTOFREQUENZA X2 + GOAL
      3/9 FC Stade Lausanne-Ouchy        36/100
      4/9 Winterthur                     35/100
      5/9 Wil                            34/100
+     6/9 Stade Nyonnais                 34/100
      ...
      9/9 Kriens                         24/100  (la fa meno spesso)
 
@@ -661,8 +663,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/12 Salzburg                       43/100
     2/12 Sturm Graz                     42/100
     3/12 Rapid Wien                     40/100
-    4/12 Grazer AK                      40/100
-    5/12 Hartberg                       39/100
+    4/12 Hartberg                       39/100
+    5/12 Grazer AK                      39/100
      ...
    12/12 Austria Lustenau               31/100  (la fa meno spesso)
 
@@ -683,7 +685,6 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 Austria Wien                   37/100
     5/12 WSG Tirol                      36/100
     6/12 Hartberg                       36/100
-    7/12 Grazer AK                      36/100
      ...
    12/12 Austria Lustenau               22/100  (la fa meno spesso)
 
@@ -891,8 +892,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/12 AB                             42/100
     3/12 Vejle Boldklub                 39/100
     4/12 Hvidovre                       39/100
-    5/12 Hobro                          38/100
-    6/12 Hillerød                       38/100
+    5/12 Hobro                          39/100
      ...
    12/12 Esbjerg fB                     29/100  (la fa meno spesso)
 
@@ -1478,7 +1478,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 30/10/2026 20:39 (ora italiana)
+Aggiornato: 30/10/2026 21:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1767,7 +1767,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 MSV Duisburg                   49/100
     3/20 SC Verl                        48/100
     4/20 RW Essen                       48/100
-    5/20 Fortuna Düsseldorf             48/100
+    5/20 Fortuna Düsseldorf             47/100
      ...
    20/20 Jahn Regensburg                35/100  (la fa meno spesso)
 
@@ -2219,7 +2219,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/16 Brann                          52/100
     3/16 Vålerenga                      51/100
     4/16 Fredrikstad                    49/100
-    5/16 Bodø/Glimt                     48/100
+    5/16 Bodø/Glimt                     49/100
      ...
    16/16 Sandefjord                     33/100  (la fa meno spesso)
 
@@ -2302,7 +2302,7 @@ SOTTOFREQUENZA 12 + GOAL
     5/12 OB                             40/100
     6/12 Nordsjælland                   40/100
      ...
-   12/12 Lyngby                         27/100  (la fa meno spesso)
+   12/12 Lyngby                         28/100  (la fa meno spesso)
 
 ==================================================
 DANIMARCA - 1. DIVISION
@@ -2319,8 +2319,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/12 Hobro                          41/100
     2/12 Vejle Boldklub                 39/100
-    3/12 AB                             37/100
-    4/12 AaB                            36/100
+    3/12 AaB                            37/100
+    4/12 AB                             37/100
     5/12 Kolding IF                     35/100
      ...
    12/12 Esbjerg fB                     27/100  (la fa meno spesso)
@@ -2894,7 +2894,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 30/10/2026 20:39 (ora italiana)
+Aggiornato: 30/10/2026 21:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3225,7 +3225,7 @@ SOTTOFREQUENZA 1X + GOAL
    18/18 Paris Saint-Germain            21/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/18 Paris Saint-Germain            55/100
+    1/18 Paris Saint-Germain            56/100
     2/18 Monaco                         45/100
     3/18 Lens                           44/100
     4/18 Le Mans                        41/100
@@ -3236,7 +3236,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Lyon                           49/100
-    2/18 Paris Saint-Germain            46/100
+    2/18 Paris Saint-Germain            47/100
     3/18 Monaco                         43/100
     4/18 Rennes                         40/100
     5/18 Nice                           40/100
@@ -3508,9 +3508,9 @@ AUSTRIA - BUNDESLIGA
 SOTTOFREQUENZA 1X + GOAL
     1/12 Rapid Wien                     51/100
     2/12 Sturm Graz                     40/100
-    3/12 Hartberg                       40/100
-    4/12 Austria Wien                   40/100
-    5/12 Ried                           39/100
+    3/12 Austria Wien                   40/100
+    4/12 Ried                           39/100
+    5/12 Hartberg                       39/100
      ...
    12/12 Salzburg                       29/100  (la fa meno spesso)
 
@@ -3642,7 +3642,7 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/16 Bodø/Glimt                     50/100
-    2/16 Viking                         48/100
+    2/16 Viking                         47/100
     3/16 Tromsø                         42/100
     4/16 KFUM                           41/100
     5/16 Hamarkameratene                41/100
@@ -3655,8 +3655,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/16 Sarpsborg 08                   47/100
     3/16 Molde                          47/100
     4/16 Bodø/Glimt                     45/100
-    5/16 Vålerenga                      43/100
-    6/16 Viking                         43/100
+    5/16 Viking                         44/100
      ...
    16/16 Hamarkameratene                32/100  (la fa meno spesso)
 
@@ -3700,6 +3699,7 @@ SOTTOFREQUENZA 1X + GOAL
     3/12 Nordsjælland                   45/100
     4/12 AGF                            45/100
     5/12 Viborg                         43/100
+    6/12 Randers FC                     43/100
      ...
    12/12 AC Horsens                     25/100  (la fa meno spesso)
 
@@ -3718,9 +3718,7 @@ SOTTOFREQUENZA 12 + GOAL
     2/12 Sønderjyske                    44/100
     3/12 Silkeborg                      40/100
     4/12 Lyngby                         40/100
-    5/12 Randers FC                     37/100
-    6/12 OB                             37/100
-    7/12 FC Midtjylland                 37/100
+    5/12 Randers FC                     38/100
      ...
    12/12 Viborg                         32/100  (la fa meno spesso)
 
@@ -3732,7 +3730,7 @@ SOTTOFREQUENZA 1X + GOAL
     2/12 HB Køge                        46/100
     3/12 AaB                            46/100
     4/12 Vejle Boldklub                 44/100
-    5/12 Hobro                          43/100
+    5/12 Hobro                          44/100
      ...
    12/12 Esbjerg fB                     27/100  (la fa meno spesso)
 
@@ -3753,7 +3751,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 AB                             37/100
     5/12 Hvidovre                       35/100
      ...
-   12/12 Hobro                          27/100  (la fa meno spesso)
+   12/12 Hobro                          26/100  (la fa meno spesso)
 
 ==================================================
 SVEZIA - ALLSVENSKAN

@@ -1,23 +1,8 @@
 TIPS DEL GIORNO - 30/10/2026
-Aggiornato: 30/10/2026 20:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 30/10/2026 21:28 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      21:05  Lille vs Lens   [FRANCIA - LIGUE 1]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 70,0  (Freq 25 · Rit 100 · Lega 100 · GG 50 · xG 75)
-    Sono 11 partite che Lille resta senza il 12+GOAL in casa: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Questo campionato la produce di continuo, nelle ultime 10 il GG è uscito 4 volte e l'xG è alto.
-
- 2. TOTALE    21:15  Casa Pia AC vs Sporting CP   [PORTOGALLO - LIGA PORTUGAL]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 54,0  (Freq 50 · Rit 50 · Lega 50 · GG 100 · xG 25)
-    Per Casa Pia AC l'1X+GOAL manca da 9 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 35%). Nel campionato esce con regolarità, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
-
- 3. CASA      20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 53,5  (Freq 75 · Rit 75 · Lega 0 · GG 50 · xG 50)
-    Sono 6 partite che Zulte Waregem resta senza l'X2+GOAL in casa: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 38%). Questo campionato la propone abbastanza spesso, nelle ultime 10 il GG è uscito 4 volte e c'è tanto xG.
-
- 4. TRASFERTA 21:00  Sheffield United vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 28,0  (Freq 0 · Rit 25 · Lega 75 · GG 50 · xG 0)
-    Il 12+GOAL si fa aspettare da Wrexham in trasferta: 6 gare, in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG dà una mano.
-
+Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.

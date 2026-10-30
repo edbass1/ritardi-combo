@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 30/10/2026 20:39 (ora italiana)
+Aggiornato: 30/10/2026 21:28 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -274,16 +274,16 @@ RITARDI 1X + GOAL
   10. Grimsby Town                      1  🟢 100%  ❗ 11/44
 
 RITARDI X2 + GOAL
-   1. Exeter City                       9
-   2. Cheltenham Town                   6  🟢 83%
-   3. Crewe Alexandra                   5  🟢 80%
-   4. Fleetwood Town                    3  🟢 100%  🔴
-   5. Northampton Town                  3  🟢 67%
-   6. York City                         2  🟢 100%
-   7. Accrington Stanley                1  🟢 100%
-   8. Barnet                            1  🟢 100%
-   9. Bristol Rovers                    1
-  10. Chesterfield                      1  🟢 100%
+   1. Exeter City                       9  ❗ 14/44
+   2. Cheltenham Town                   6  🟢 83%  ❗ 14/44
+   3. Crewe Alexandra                   5  🟢 80%  ❗ 14/44
+   4. Fleetwood Town                    3  🟢 100%  🔴  ❗ 14/44
+   5. Northampton Town                  3  🟢 67%  ❗ 14/44
+   6. York City                         2  🟢 100%  ❗ 14/44
+   7. Accrington Stanley                1  🟢 100%  ❗ 14/44
+   8. Barnet                            1  🟢 100%  ❗ 14/44
+   9. Bristol Rovers                    1  ❗ 14/44
+  10. Chesterfield                      1  🟢 100%  ❗ 14/44
 
 RITARDI 12 + GOAL
    1. Northampton Town                11+  🟢 55%  👻 41/44
@@ -381,7 +381,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 GERMANIA - 3. LIGA
-Stagione 2026/2027 (110 partite giocate) + 2025/2026
+Stagione 2026/2027 (111 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
@@ -389,11 +389,11 @@ RITARDI 1X + GOAL
    2. Fortuna Köln                      6  🟢 50%
    3. RW Essen                          3
    4. Jahn Regensburg                   2
-   5. VfB Stuttgart II                  2  🟢 50%  🔴
-   6. Würzburger Kickers                2  🟢 100%
-   7. Meppen                            1  🟢 100%
-   8. Preussen Münster                  1
-   9. Fortuna Düsseldorf                0
+   5. Meppen                            2  🟢 50%
+   6. VfB Stuttgart II                  2  🟢 50%  🔴
+   7. Würzburger Kickers                2  🟢 100%
+   8. Fortuna Düsseldorf                1
+   9. Preussen Münster                  1
   10. Hansa Rostock                     0
 
 RITARDI X2 + GOAL
@@ -404,50 +404,50 @@ RITARDI X2 + GOAL
    5. Waldhof Mannheim                  3  🟢 100%  🔥 4/44
    6. Wehen Wiesbaden                   3  🟢 67%  🔥 4/44
    7. Jahn Regensburg                   2  🔥 4/44
-   8. Preussen Münster                  2  🟢 50%  🔴  🔥 4/44
-   9. SC Verl                           2  🟢 100%  🔴  🔥 4/44
-  10. Sonnenhof Großaspach              2  🟢 100%  🔥 4/44
+   8. Meppen                            2  🟢 50%  🔥 4/44
+   9. Preussen Münster                  2  🟢 50%  🔴  🔥 4/44
+  10. SC Verl                           2  🟢 100%  🔴  🔥 4/44
 
 RITARDI 12 + GOAL
-   1. Hansa Rostock                     5  🟢 100%  ❗ 8/44
-   2. Jahn Regensburg                   5  🟢 60%  ❗ 8/44
-   3. Meppen                            5  🟢 80%  ❗ 8/44
-   4. RW Essen                          5  🟢 60%  ❗ 8/44
-   5. Fortuna Köln                      4  ❗ 8/44
-   6. Würzburger Kickers                4  🟢 100%  ❗ 8/44
-   7. Fortuna Düsseldorf                1  🟢 100%  ❗ 8/44
-   8. Preussen Münster                  1  ❗ 8/44
-   9. Alemannia Aachen                  0  ❗ 8/44
-  10. Hoffenheim II                     0  🔴  ❗ 8/44
+   1. Meppen                            6  🟢 67%  ❗ 9/44
+   2. Hansa Rostock                     5  🟢 100%  ❗ 9/44
+   3. Jahn Regensburg                   5  🟢 60%  ❗ 9/44
+   4. RW Essen                          5  🟢 60%  ❗ 9/44
+   5. Fortuna Köln                      4  ❗ 9/44
+   6. Würzburger Kickers                4  🟢 100%  ❗ 9/44
+   7. Fortuna Düsseldorf                2  🟢 50%  ❗ 9/44
+   8. Preussen Münster                  1  ❗ 9/44
+   9. Alemannia Aachen                  0  ❗ 9/44
+  10. Hoffenheim II                     0  🔴  ❗ 9/44
 
 ==================================================
 FRANCIA - LIGUE 1
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,2
+Stagione 2026/2027 (74 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Troyes                           8+  🟢 75%
-   2. Lorient                           3
-   3. Angers                            2  🟢 50%
-   4. Paris Saint-Germain               2  🟢 100%
-   5. Strasbourg                        2  🟢 100%  🔴
-   6. Toulouse                          2  🟢 50%
-   7. Brest                             1  🟢 100%
-   8. Lyon                              1  🟢 100%
-   9. Nice                              1  🟢 100%  🔴
-  10. Rennes                            1  🟢 100%
+   1. Troyes                           8+  🟢 75%  ❗ 13/44
+   2. Lorient                           3  ❗ 13/44
+   3. Paris Saint-Germain               3  🟢 100%  ❗ 13/44
+   4. Angers                            2  🟢 50%  ❗ 13/44
+   5. Strasbourg                        2  🟢 100%  🔴  ❗ 13/44
+   6. Toulouse                          2  🟢 50%  ❗ 13/44
+   7. Brest                             1  🟢 100%  ❗ 13/44
+   8. Le Havre                          1  🟢 100%  ❗ 13/44
+   9. Lyon                              1  🟢 100%  ❗ 13/44
+  10. Auxerre                           0  ❗ 13/44
 
 RITARDI X2 + GOAL
    1. Lyon                              6  🟢 83%
-   2. Paris FC                          5  🟢 60%
-   3. Rennes                            5  🟢 80%
+   2. Rennes                            6  🟢 83%
+   3. Paris FC                          5  🟢 60%
    4. Lorient                           4
    5. Toulouse                          2  🟢 50%  🔴
    6. Angers                            1
-   7. Le Havre                          1  🟢 100%
-   8. Lens                              1  🟢 100%
-   9. Marseille                         1  🟢 100%
-  10. Paris Saint-Germain               1  🟢 100%  🔴
+   7. Lens                              1  🟢 100%
+   8. Marseille                         1  🟢 100%
+   9. Nice                              1  🟢 100%
+  10. Strasbourg                        1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Lille                             3  🟢 67%  🔥 5/44
@@ -458,8 +458,8 @@ RITARDI 12 + GOAL
    6. Angers                            1  🔥 5/44
    7. Auxerre                           1  🟢 100%  🔥 5/44
    8. Lyon                              1  🟢 100%  🔴  🔥 5/44
-   9. Paris Saint-Germain               1  🟢 100%  🔥 5/44
-  10. Rennes                            1  🟢 100%  🔥 5/44
+   9. Strasbourg                        1  🟢 100%  🔴  🔥 5/44
+  10. Troyes                            1  🔥 5/44
 
 ==================================================
 FRANCIA - LIGUE 2
@@ -602,16 +602,16 @@ RITARDI 1X + GOAL
   10. Genk                              0  👻 40/44
 
 RITARDI X2 + GOAL
-   1. St.Truiden                        6  🟢 100%  👻 44/44
-   2. Kortrijk                          5  🟢 60%  👻 44/44
-   3. Royal Antwerp                     5  🟢 80%  👻 44/44
-   4. Standard Liège                    5  🟢 60%  👻 44/44
-   5. Zulte Waregem                     5  🟢 80%  👻 44/44
-   6. KV Mechelen                       4  🟢 50%  🔴  👻 44/44
-   7. Sporting Charleroi                4  🟢 50%  👻 44/44
-   8. Genk                              3  🟢 100%  👻 44/44
-   9. Gent                              3  🟢 100%  👻 44/44
-  10. Anderlecht                        1  🟢 100%  👻 44/44
+   1. St.Truiden                        6  🟢 100%  👻 43/44
+   2. Kortrijk                          5  🟢 60%  👻 43/44
+   3. Royal Antwerp                     5  🟢 80%  👻 43/44
+   4. Standard Liège                    5  🟢 60%  👻 43/44
+   5. Zulte Waregem                     5  🟢 80%  👻 43/44
+   6. KV Mechelen                       4  🟢 50%  🔴  👻 43/44
+   7. Sporting Charleroi                4  🟢 50%  👻 43/44
+   8. Genk                              3  🟢 100%  👻 43/44
+   9. Gent                              3  🟢 100%  👻 43/44
+  10. Anderlecht                        1  🟢 100%  👻 43/44
 
 RITARDI 12 + GOAL
    1. Zulte Waregem                     8  🟢 75%  🔴  👻 39/44
@@ -713,16 +713,16 @@ Stagione 2026/2027 (120 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Dordrecht                      3  🟢 67%  🔥 1/44
-   2. FC Eindhoven                      3  🟢 67%  🔥 1/44
-   3. Vitesse                           3  🟢 67%  🔥 1/44
-   4. Jong PSV                          2  🟢 50%  🔥 1/44
-   5. Roda JC Kerkrade                  2  🟢 100%  🔥 1/44
-   6. Almere City FC                    1  🟢 100%  🔥 1/44
-   7. FC Emmen                          1  🟢 100%  🔥 1/44
-   8. VVV-Venlo                         1  🟢 100%  🔥 1/44
-   9. De Graafschap                     0  🔴  🔥 1/44
-  10. FC Den Bosch                      0  🔥 1/44
+   1. FC Dordrecht                      3  🟢 67%  🔥 2/44
+   2. FC Eindhoven                      3  🟢 67%  🔥 2/44
+   3. Vitesse                           3  🟢 67%  🔥 2/44
+   4. Jong PSV                          2  🟢 50%  🔥 2/44
+   5. Roda JC Kerkrade                  2  🟢 100%  🔥 2/44
+   6. Almere City FC                    1  🟢 100%  🔥 2/44
+   7. FC Emmen                          1  🟢 100%  🔥 2/44
+   8. VVV-Venlo                         1  🟢 100%  🔥 2/44
+   9. De Graafschap                     0  🔴  🔥 2/44
+  10. FC Den Bosch                      0  🔥 2/44
 
 RITARDI X2 + GOAL
    1. FC Emmen                          3  🟢 100%
@@ -791,79 +791,79 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVIZZERA - CHALLENGE LEAGUE
-Stagione 2026/2027 (55 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,1
+Stagione 2026/2027 (57 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Stade Lausanne-Ouchy           6  🟢 67%
-   2. Xamax                             6  🟢 83%  🔴
-   3. Etoile Carouge                    2  🟢 100%
+   1. Xamax                             6  🟢 83%  🔴
+   2. Etoile Carouge                    2  🟢 100%
+   3. Stade Nyonnais                    2  🟢 100%
    4. Winterthur                        2  🟢 100%
    5. Aarau                             1  🟢 100%  🔴
-   6. Stade Nyonnais                    1  🟢 100%
-   7. FC Rapperswil-Jona                0
+   6. FC Rapperswil-Jona                1  🟢 100%
+   7. FC Stade Lausanne-Ouchy           0
    8. Kriens                            0  🔴
    9. Wil                               0
   10. Yverdon                           0  🔴
 
 RITARDI X2 + GOAL
-   1. FC Stade Lausanne-Ouchy           6  🟢 67%  🔴
-   2. Winterthur                        5  🟢 80%
-   3. Yverdon                           5  🟢 80%
-   4. Stade Nyonnais                    3  🟢 100%
-   5. Xamax                             3  🟢 67%  🔴
-   6. Kriens                            1  🟢 100%
-   7. Aarau                             0  🔴
-   8. Etoile Carouge                    0
-   9. FC Rapperswil-Jona                0
+   1. FC Stade Lausanne-Ouchy           7  🟢 71%  🔴
+   2. Yverdon                           6  🟢 83%
+   3. Winterthur                        5  🟢 80%
+   4. Xamax                             3  🟢 67%  🔴
+   5. Kriens                            1  🟢 100%
+   6. Aarau                             0  🔴
+   7. Etoile Carouge                    0
+   8. FC Rapperswil-Jona                0
+   9. Stade Nyonnais                    0
   10. Wil                               0
 
 RITARDI 12 + GOAL
    1. Wil                               9  🟢 100%
-   2. FC Stade Lausanne-Ouchy           7  🟢 71%
-   3. FC Rapperswil-Jona                4  🟢 100%  🔴
-   4. Xamax                             3  🟢 67%  🔴
-   5. Winterthur                        2  🟢 100%
-   6. Stade Nyonnais                    1  🟢 100%
-   7. Aarau                             0  🔴
-   8. Etoile Carouge                    0
-   9. Kriens                            0
+   2. Xamax                             3  🟢 67%  🔴
+   3. Winterthur                        2  🟢 100%
+   4. Aarau                             0  🔴
+   5. Etoile Carouge                    0
+   6. FC Rapperswil-Jona                0  🔴
+   7. FC Stade Lausanne-Ouchy           0
+   8. Kriens                            0
+   9. Stade Nyonnais                    0
   10. Yverdon                           0
 
 ==================================================
 AUSTRIA - BUNDESLIGA
-Stagione 2026/2027 (60 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,8 · 12 + GOAL 1 ogni 2,6
+Stagione 2026/2027 (61 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Salzburg                          4  🟢 75%  🔴  ❗ 12/44
-   2. LASK                              3  🟢 100%  ❗ 12/44
-   3. Wolfsberger AC                    3  🟢 67%  ❗ 12/44
-   4. Hartberg                          1  ❗ 12/44
-   5. Altach                            0  ❗ 12/44
-   6. Austria Lustenau                  0  ❗ 12/44
-   7. Austria Wien                      0  ❗ 12/44
-   8. Grazer AK                         0  🔴  ❗ 12/44
-   9. Rapid Wien                        0  🔴  ❗ 12/44
-  10. Ried                              0  ❗ 12/44
+   1. Salzburg                          4  🟢 75%  🔴
+   2. LASK                              3  🟢 100%
+   3. Wolfsberger AC                    3  🟢 67%
+   4. Hartberg                          2  🟢 50%
+   5. Grazer AK                         1  🟢 100%
+   6. Altach                            0
+   7. Austria Lustenau                  0
+   8. Austria Wien                      0
+   9. Rapid Wien                        0  🔴
+  10. Ried                              0
 
 RITARDI X2 + GOAL
-   1. Rapid Wien                        8  🟢 100%  👻 43/44
-   2. Austria Lustenau                  6  🟢 100%  👻 43/44
-   3. Wolfsberger AC                    5  🟢 80%  👻 43/44
-   4. Altach                            4  🟢 100%  👻 43/44
-   5. Austria Wien                      3  🟢 100%  👻 43/44
-   6. Hartberg                          3  🟢 67%  🔴  👻 43/44
-   7. Grazer AK                         0  🔴  👻 43/44
-   8. LASK                              0  👻 43/44
-   9. Ried                              0  👻 43/44
-  10. Salzburg                          0  👻 43/44
+   1. Rapid Wien                        8  🟢 100%  👻 44/44
+   2. Austria Lustenau                  6  🟢 100%  👻 44/44
+   3. Wolfsberger AC                    5  🟢 80%  👻 44/44
+   4. Altach                            4  🟢 100%  👻 44/44
+   5. Hartberg                          4  🟢 75%  🔴  👻 44/44
+   6. Austria Wien                      3  🟢 100%  👻 44/44
+   7. Grazer AK                         1  🟢 100%  🔴  👻 44/44
+   8. LASK                              0  👻 44/44
+   9. Ried                              0  👻 44/44
+  10. Salzburg                          0  👻 44/44
 
 RITARDI 12 + GOAL
    1. Wolfsberger AC                    3  🟢 67%  🔴
-   2. WSG Tirol                         2  🟢 100%
-   3. Grazer AK                         1  🟢 100%
-   4. Hartberg                          1
+   2. Grazer AK                         2  🟢 100%
+   3. Hartberg                          2  🟢 50%
+   4. WSG Tirol                         2  🟢 100%
    5. Ried                              1  🟢 100%
    6. Sturm Graz                        1  🟢 100%
    7. Altach                            0
@@ -996,25 +996,25 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - ELITESERIEN
-Stagione 2026 (192 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,3
+Stagione 2026 (193 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Hamarkameratene                   3  🟢 100%
-   2. Bodø/Glimt                        2  🟢 50%
-   3. Rosenborg                         2  🟢 100%
-   4. Sandefjord                        2  🟢 50%  🔴
-   5. Start                             1
-   6. Vålerenga                         1  🔴
-   7. Aalesund                          0
+   2. Rosenborg                         2  🟢 100%
+   3. Sandefjord                        2  🟢 50%  🔴
+   4. Start                             1
+   5. Vålerenga                         1  🔴
+   6. Aalesund                          0
+   7. Bodø/Glimt                        0
    8. Brann                             0
    9. Fredrikstad                       0
   10. KFUM                              0
 
 RITARDI X2 + GOAL
-   1. Bodø/Glimt                        5  🟢 80%
-   2. Brann                             5  🟢 100%
-   3. Viking                            5  🟢 100%
+   1. Bodø/Glimt                        6  🟢 83%
+   2. Viking                            6  🟢 100%
+   3. Brann                             5  🟢 100%
    4. Vålerenga                         3  🟢 67%
    5. Fredrikstad                       2  🟢 100%
    6. Hamarkameratene                   2  🟢 100%
@@ -1024,16 +1024,16 @@ RITARDI X2 + GOAL
   10. Sandefjord                        2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Sandefjord                        4  🟢 75%  ❗ 9/44
-   2. Rosenborg                         3  🟢 100%  ❗ 9/44
-   3. Bodø/Glimt                        2  🟢 50%  ❗ 9/44
-   4. Hamarkameratene                   2  🟢 100%  ❗ 9/44
-   5. KFUM                              2  🟢 100%  ❗ 9/44
-   6. Kristiansund                      1  🟢 100%  ❗ 9/44
-   7. Start                             1  ❗ 9/44
-   8. Vålerenga                         1  🔴  ❗ 9/44
-   9. Aalesund                          0  ❗ 9/44
-  10. Brann                             0  🔴  ❗ 9/44
+   1. Sandefjord                        4  🟢 75%  ❗ 8/44
+   2. Rosenborg                         3  🟢 100%  ❗ 8/44
+   3. Hamarkameratene                   2  🟢 100%  ❗ 8/44
+   4. KFUM                              2  🟢 100%  ❗ 8/44
+   5. Kristiansund                      1  🟢 100%  ❗ 8/44
+   6. Start                             1  ❗ 8/44
+   7. Vålerenga                         1  🔴  ❗ 8/44
+   8. Aalesund                          0  ❗ 8/44
+   9. Bodø/Glimt                        0  ❗ 8/44
+  10. Brann                             0  🔴  ❗ 8/44
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
@@ -1078,32 +1078,32 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,8
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Randers FC                        3  🟢 67%  🔥 2/44
-   2. Brøndby IF                        1  🟢 100%  🔥 2/44
-   3. AC Horsens                        0  🔥 2/44
-   4. AGF                               0  🔴  🔥 2/44
-   5. FC København                      0  🔥 2/44
-   6. FC Midtjylland                    0  🔴  🔥 2/44
-   7. Lyngby                            0  🔥 2/44
-   8. Nordsjælland                      0  🔥 2/44
-   9. OB                                0  🔥 2/44
-  10. Silkeborg                         0  🔥 2/44
+   1. Brøndby IF                        1  🟢 100%  🔥 1/44
+   2. AC Horsens                        0  🔥 1/44
+   3. AGF                               0  🔴  🔥 1/44
+   4. FC København                      0  🔥 1/44
+   5. FC Midtjylland                    0  🔴  🔥 1/44
+   6. Lyngby                            0  🔥 1/44
+   7. Nordsjælland                      0  🔥 1/44
+   8. OB                                0  🔥 1/44
+   9. Randers FC                        0  🔥 1/44
+  10. Silkeborg                         0  🔥 1/44
 
 RITARDI X2 + GOAL
-   1. Sønderjyske                       4  🟢 100%  ❗ 14/44
-   2. AC Horsens                        2  🟢 50%  ❗ 14/44
-   3. AGF                               1  🟢 100%  🔴  ❗ 14/44
-   4. FC Midtjylland                    1  🟢 100%  🔴  ❗ 14/44
-   5. Lyngby                            1  🟢 100%  ❗ 14/44
-   6. Viborg                            1  🟢 100%  ❗ 14/44
-   7. Brøndby IF                        0  ❗ 14/44
-   8. FC København                      0  ❗ 14/44
-   9. Nordsjælland                      0  ❗ 14/44
-  10. OB                                0  🔴  ❗ 14/44
+   1. Sønderjyske                       4  🟢 100%
+   2. AC Horsens                        2  🟢 50%
+   3. Lyngby                            2  🟢 100%
+   4. AGF                               1  🟢 100%  🔴
+   5. FC Midtjylland                    1  🟢 100%  🔴
+   6. Randers FC                        1  🟢 100%
+   7. Viborg                            1  🟢 100%
+   8. Brøndby IF                        0
+   9. FC København                      0
+  10. Nordsjælland                      0
 
 RITARDI 12 + GOAL
    1. Silkeborg                         7  🟢 100%
@@ -1119,43 +1119,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - 1. DIVISION
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,5 · 12 + GOAL 1 ogni 3,0
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. AB                                6  🟢 67%  🔥 6/44
-   2. Aarhus Fremad                     5  🔥 6/44
-   3. Vejle Boldklub                    3  🔴  🔥 6/44
-   4. Kolding IF                        1  🔥 6/44
-   5. AaB                               0  🔴  🔥 6/44
-   6. Esbjerg fB                        0  🔥 6/44
-   7. Fredericia                        0  🔥 6/44
-   8. HB Køge                           0  🔴  🔥 6/44
-   9. Hillerød                          0  🔥 6/44
-  10. Hobro                             0  🔥 6/44
+   1. AB                                6  🟢 67%  🔥 5/44
+   2. Aarhus Fremad                     5  🔥 5/44
+   3. Vejle Boldklub                    3  🔴  🔥 5/44
+   4. Kolding IF                        1  🔥 5/44
+   5. AaB                               0  🔴  🔥 5/44
+   6. Esbjerg fB                        0  🔥 5/44
+   7. Fredericia                        0  🔥 5/44
+   8. HB Køge                           0  🔴  🔥 5/44
+   9. Hillerød                          0  🔥 5/44
+  10. Hobro                             0  🔥 5/44
 
 RITARDI X2 + GOAL
    1. Aarhus Fremad                     3  🔥 6/44
    2. Fredericia                        3  🟢 100%  🔥 6/44
    3. Hillerød                          3  🟢 67%  🔥 6/44
-   4. AaB                               2  🟢 50%  🔴  🔥 6/44
-   5. Esbjerg fB                        2  🟢 50%  🔥 6/44
-   6. Kolding IF                        2  🟢 50%  🔥 6/44
-   7. Vejle Boldklub                    2  🔴  🔥 6/44
-   8. AB                                1  🔴  🔥 6/44
+   4. Esbjerg fB                        2  🟢 50%  🔥 6/44
+   5. Kolding IF                        2  🟢 50%  🔥 6/44
+   6. Vejle Boldklub                    2  🔴  🔥 6/44
+   7. AB                                1  🔴  🔥 6/44
+   8. AaB                               0  🔴  🔥 6/44
    9. HB Køge                           0  🔥 6/44
-  10. Hobro                             0  🔥 6/44
+  10. Hobro                             0  🔴  🔥 6/44
 
 RITARDI 12 + GOAL
-   1. Aarhus Fremad                     3
-   2. Hobro                             3  🟢 100%
+   1. Hobro                             4  🟢 100%
+   2. Aarhus Fremad                     3
    3. Hvidovre                          2  🟢 50%
    4. Vejle Boldklub                    2
    5. AB                                1  🔴
-   6. HB Køge                           1  🟢 100%  🔴
-   7. Kolding IF                        1
-   8. Vendsyssel FF                     1  🟢 100%  🔴
-   9. AaB                               0
+   6. AaB                               1  🟢 100%
+   7. HB Køge                           1  🟢 100%  🔴
+   8. Kolding IF                        1
+   9. Vendsyssel FF                     1  🟢 100%  🔴
   10. Esbjerg fB                        0  🔴
 
 ==================================================
@@ -1201,32 +1201,32 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (223 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,6
+Stagione 2026 (224 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
    1. IFK Värnamo                       6  🟢 67%
    2. GIF Sundsvall                     3  🟢 67%
-   3. IK Brage                          3  🟢 100%
-   4. Sandvikens IF                     2
-   5. Falkenbergs FF                    1  🔴
-   6. IFK Norrköping                    1  🟢 100%
-   7. IK Oddevold                       1  🟢 100%
-   8. Norrby                            1  🟢 100%
-   9. Örebro                            1  🔴
-  10. Östers IF                         1  🟢 100%
+   3. Sandvikens IF                     2
+   4. Falkenbergs FF                    1  🔴
+   5. IFK Norrköping                    1  🟢 100%
+   6. Norrby                            1  🟢 100%
+   7. Örebro                            1  🔴
+   8. Östers IF                         1  🟢 100%
+   9. Helsingborg                       0
+  10. IK Brage                          0
 
 RITARDI X2 + GOAL
    1. GIF Sundsvall                     9  🟢 56%  ❗ 11/44
-   2. Norrby                            4  🟢 75%  ❗ 11/44
-   3. Sandvikens IF                     4  🟢 50%  ❗ 11/44
-   4. IK Oddevold                       3  🟢 100%  ❗ 11/44
+   2. IK Oddevold                       4  🟢 100%  ❗ 11/44
+   3. Norrby                            4  🟢 75%  ❗ 11/44
+   4. Sandvikens IF                     4  🟢 50%  ❗ 11/44
    5. Nordic United FC                  3  🟢 100%  ❗ 11/44
    6. Falkenbergs FF                    2  🟢 50%  ❗ 11/44
    7. IFK Värnamo                       2  🔴  ❗ 11/44
    8. Östersunds FK                     2  🟢 50%  ❗ 11/44
    9. IFK Norrköping                    1  🟢 100%  ❗ 11/44
-  10. Örebro                            1  ❗ 11/44
+  10. IK Brage                          1  🟢 100%  ❗ 11/44
 
 RITARDI 12 + GOAL
    1. Helsingborg                       5
@@ -1238,7 +1238,7 @@ RITARDI 12 + GOAL
    7. IFK Värnamo                       2
    8. Sandvikens IF                     2
    9. Falkenbergs FF                    1  🔴
-  10. IK Oddevold                       1  🟢 100%
+  10. Landskrona BoIS                   1  🟢 100%
 
 ==================================================
 REP. CECA - 1. LIGA
@@ -1369,16 +1369,16 @@ Stagione 2026/2027 (114 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Baník Lehota pod Vtacnikom        3  🔥 5/44
-   2. Malženice                         3  🟢 67%  🔥 5/44
-   3. FC Petržalka 1898                 1  🔥 5/44
-   4. MFK Bytca                         1  🟢 100%  🔥 5/44
-   5. Tatran Prešov                     1  🟢 100%  🔥 5/44
-   6. Zlaté Moravce                     1  🟢 100%  🔥 5/44
-   7. FC STK 1914 Šamorín               0  🔥 5/44
-   8. FK Pohronie                       0  🔥 5/44
-   9. Humenné                           0  🔥 5/44
-  10. Inter Bratislava                  0  🔥 5/44
+   1. Baník Lehota pod Vtacnikom        3  🔥 6/44
+   2. Malženice                         3  🟢 67%  🔥 6/44
+   3. FC Petržalka 1898                 1  🔥 6/44
+   4. MFK Bytca                         1  🟢 100%  🔥 6/44
+   5. Tatran Prešov                     1  🟢 100%  🔥 6/44
+   6. Zlaté Moravce                     1  🟢 100%  🔥 6/44
+   7. FC STK 1914 Šamorín               0  🔥 6/44
+   8. FK Pohronie                       0  🔥 6/44
+   9. Humenné                           0  🔥 6/44
+  10. Inter Bratislava                  0  🔥 6/44
 
 RITARDI X2 + GOAL
    1. Liptovský Mikuláš                 5  🟢 80%  🔴
@@ -1818,16 +1818,16 @@ Stagione 2026/2027 (107 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Jagiellonia Białystok             5  🟢 60%  ❗ 13/44
-   2. Wisła Płock                       4  🟢 50%  ❗ 13/44
-   3. GKS Katowice                      2  ❗ 13/44
-   4. Wieczysta Kraków                  2  🟢 100%  ❗ 13/44
-   5. Cracovia                          1  🟢 100%  ❗ 13/44
-   6. Korona Kielce                     1  ❗ 13/44
-   7. Lech Poznań                       1  🟢 100%  ❗ 13/44
-   8. Legia Warszawa                    1  🟢 100%  🔴  ❗ 13/44
-   9. Motor Lublin                      1  🟢 100%  ❗ 13/44
-  10. Śląsk Wrocław                     1  🟢 100%  🔴  ❗ 13/44
+   1. Jagiellonia Białystok             5  🟢 60%  ❗ 12/44
+   2. Wisła Płock                       4  🟢 50%  ❗ 12/44
+   3. GKS Katowice                      2  ❗ 12/44
+   4. Wieczysta Kraków                  2  🟢 100%  ❗ 12/44
+   5. Cracovia                          1  🟢 100%  ❗ 12/44
+   6. Korona Kielce                     1  ❗ 12/44
+   7. Lech Poznań                       1  🟢 100%  ❗ 12/44
+   8. Legia Warszawa                    1  🟢 100%  🔴  ❗ 12/44
+   9. Motor Lublin                      1  🟢 100%  ❗ 12/44
+  10. Śląsk Wrocław                     1  🟢 100%  🔴  ❗ 12/44
 
 RITARDI X2 + GOAL
    1. Korona Kielce                     5  🟢 80%
@@ -1899,7 +1899,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 30/10/2026 20:39 (ora italiana)
+Aggiornato: 30/10/2026 21:28 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2170,16 +2170,16 @@ RITARDI 1X + GOAL
   10. Gillingham                        1  🟢 100%  ❗ 11/44
 
 RITARDI X2 + GOAL
-   1. Salford City                      6
-   2. Exeter City                       5
-   3. Accrington Stanley                4  🟢 75%
-   4. Cheltenham Town                   4  🟢 75%
-   5. Northampton Town                  4
-   6. Port Vale                         4
-   7. Crewe Alexandra                   2  🟢 100%
-   8. Oldham Athletic                   2  🟢 50%
-   9. Shrewsbury Town                   2
-  10. Barnet                            1  🟢 100%
+   1. Salford City                      6  ❗ 14/44
+   2. Exeter City                       5  ❗ 14/44
+   3. Accrington Stanley                4  🟢 75%  ❗ 14/44
+   4. Cheltenham Town                   4  🟢 75%  ❗ 14/44
+   5. Northampton Town                  4  ❗ 14/44
+   6. Port Vale                         4  ❗ 14/44
+   7. Crewe Alexandra                   2  🟢 100%  ❗ 14/44
+   8. Oldham Athletic                   2  🟢 50%  ❗ 14/44
+   9. Shrewsbury Town                   2  ❗ 14/44
+  10. Barnet                            1  🟢 100%  ❗ 14/44
 
 RITARDI 12 + GOAL
    1. Northampton Town                 6+  👻 41/44
@@ -2277,7 +2277,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 GERMANIA - 3. LIGA
-Stagione 2026/2027 (110 partite giocate) + 2025/2026
+Stagione 2026/2027 (111 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
@@ -2285,9 +2285,9 @@ RITARDI 1X + GOAL
    2. Würzburger Kickers               5+  🟢 80%
    3. Fortuna Köln                      4
    4. Alemannia Aachen                  3  🟢 67%
-   5. Preussen Münster                  2  🟢 50%
-   6. RW Essen                          2  🟢 50%  🔴
-   7. Fortuna Düsseldorf                1  🟢 100%  🔴
+   5. Fortuna Düsseldorf                2  🟢 50%
+   6. Preussen Münster                  2  🟢 50%
+   7. RW Essen                          2  🟢 50%  🔴
    8. Meppen                            1  🟢 100%
    9. Saarbrücken                       1  🟢 100%
   10. VfB Stuttgart II                  1  🟢 100%
@@ -2302,36 +2302,36 @@ RITARDI X2 + GOAL
    7. RW Essen                          2  🟢 50%  🔥 4/44
    8. Wehen Wiesbaden                   2  🟢 100%  🔥 4/44
    9. Alemannia Aachen                  1  🟢 100%  🔥 4/44
-  10. Meppen                            1  🟢 100%  🔥 4/44
+  10. Fortuna Düsseldorf                1  🔥 4/44
 
 RITARDI 12 + GOAL
-   1. Fortuna Köln                     5+  ❗ 8/44
-   2. Meppen                            3  🟢 100%  ❗ 8/44
-   3. RW Essen                          3  🟢 67%  ❗ 8/44
-   4. Würzburger Kickers                3  🟢 67%  ❗ 8/44
-   5. Hansa Rostock                     2  🟢 100%  ❗ 8/44
-   6. Jahn Regensburg                   2  🟢 50%  ❗ 8/44
-   7. Alemannia Aachen                  1  🟢 100%  ❗ 8/44
-   8. MSV Duisburg                      1  🟢 100%  ❗ 8/44
-   9. Preussen Münster                  1  ❗ 8/44
-  10. SC Verl                           1  🟢 100%  ❗ 8/44
+   1. Fortuna Köln                     5+  ❗ 9/44
+   2. Meppen                            3  🟢 100%  ❗ 9/44
+   3. RW Essen                          3  🟢 67%  ❗ 9/44
+   4. Würzburger Kickers                3  🟢 67%  ❗ 9/44
+   5. Hansa Rostock                     2  🟢 100%  ❗ 9/44
+   6. Jahn Regensburg                   2  🟢 50%  ❗ 9/44
+   7. Alemannia Aachen                  1  🟢 100%  ❗ 9/44
+   8. Fortuna Düsseldorf                1  ❗ 9/44
+   9. MSV Duisburg                      1  🟢 100%  ❗ 9/44
+  10. Preussen Münster                  1  ❗ 9/44
 
 ==================================================
 FRANCIA - LIGUE 1
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,2
+Stagione 2026/2027 (74 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Angers                            5  🟢 80%
-   2. Le Havre                          5
-   3. Troyes                           4+  🟢 75%
-   4. Lorient                           2
-   5. Brest                             1  🟢 100%
-   6. Le Mans                           1  🟢 100%
-   7. Paris Saint-Germain               1  🟢 100%  🔴
-   8. Rennes                            1  🟢 100%
-   9. Strasbourg                        1  🟢 100%
-  10. Toulouse                          1
+   1. Le Havre                          6  🟢 50%  ❗ 13/44
+   2. Angers                            5  🟢 80%  ❗ 13/44
+   3. Troyes                           4+  🟢 75%  ❗ 13/44
+   4. Lorient                           2  ❗ 13/44
+   5. Brest                             1  🟢 100%  ❗ 13/44
+   6. Le Mans                           1  🟢 100%  ❗ 13/44
+   7. Paris Saint-Germain               1  🟢 100%  🔴  ❗ 13/44
+   8. Rennes                            1  🟢 100%  ❗ 13/44
+   9. Strasbourg                        1  🟢 100%  ❗ 13/44
+  10. Toulouse                          1  ❗ 13/44
 
 RITARDI X2 + GOAL
    1. Paris FC                         11  🟢 73%
@@ -2339,9 +2339,9 @@ RITARDI X2 + GOAL
    3. Toulouse                          5  🟢 60%  🔴
    4. Rennes                            4  🟢 75%
    5. Lyon                              3  🟢 100%
-   6. Le Mans                           2  🟢 100%
-   7. Lorient                           2
-   8. Nice                              2  🟢 100%
+   6. Nice                              3  🟢 100%
+   7. Le Mans                           2  🟢 100%
+   8. Lorient                           2
    9. Paris Saint-Germain               2  🟢 100%
   10. Angers                            1
 
@@ -2498,16 +2498,16 @@ RITARDI 1X + GOAL
   10. Zulte Waregem                     3  🟢 67%  👻 40/44
 
 RITARDI X2 + GOAL
-   1. Club Brugge                      11  🟢 91%  👻 44/44
-   2. Zulte Waregem                     6  🟢 83%  👻 44/44
-   3. Anderlecht                        5  🟢 60%  👻 44/44
-   4. Gent                              5  🟢 80%  👻 44/44
-   5. Lommel                           4+  👻 44/44
-   6. KV Mechelen                       3  🟢 67%  🔴  👻 44/44
-   7. St.Truiden                        3  🟢 100%  👻 44/44
-   8. Standard Liège                    3  👻 44/44
-   9. Genk                              2  🟢 100%  👻 44/44
-  10. Kortrijk                          2  🟢 50%  👻 44/44
+   1. Club Brugge                      11  🟢 91%  👻 43/44
+   2. Zulte Waregem                     6  🟢 83%  👻 43/44
+   3. Anderlecht                        5  🟢 60%  👻 43/44
+   4. Gent                              5  🟢 80%  👻 43/44
+   5. Lommel                           4+  👻 43/44
+   6. KV Mechelen                       3  🟢 67%  🔴  👻 43/44
+   7. St.Truiden                        3  🟢 100%  👻 43/44
+   8. Standard Liège                    3  👻 43/44
+   9. Genk                              2  🟢 100%  👻 43/44
+  10. Kortrijk                          2  🟢 50%  👻 43/44
 
 RITARDI 12 + GOAL
    1. St.Truiden                        6  🟢 100%  👻 39/44
@@ -2609,16 +2609,16 @@ Stagione 2026/2027 (120 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Almere City FC                    5  🔥 1/44
-   2. MVV Maastricht                    3  🟢 100%  🔥 1/44
-   3. FC Dordrecht                      2  🟢 100%  🔥 1/44
-   4. FC Eindhoven                      2  🟢 50%  🔥 1/44
-   5. Heracles                          2  🟢 100%  🔴  🔥 1/44
-   6. Jong FC Utrecht                   2  🟢 100%  🔥 1/44
-   7. Helmond Sport                     1  🟢 100%  🔥 1/44
-   8. Jong PSV                          1  🔥 1/44
-   9. Vitesse                           1  🟢 100%  🔥 1/44
-  10. De Graafschap                     0  🔥 1/44
+   1. Almere City FC                    5  🔥 2/44
+   2. MVV Maastricht                    3  🟢 100%  🔥 2/44
+   3. FC Dordrecht                      2  🟢 100%  🔥 2/44
+   4. FC Eindhoven                      2  🟢 50%  🔥 2/44
+   5. Heracles                          2  🟢 100%  🔴  🔥 2/44
+   6. Jong FC Utrecht                   2  🟢 100%  🔥 2/44
+   7. Helmond Sport                     1  🟢 100%  🔥 2/44
+   8. Jong PSV                          1  🔥 2/44
+   9. Vitesse                           1  🟢 100%  🔥 2/44
+  10. De Graafschap                     0  🔥 2/44
 
 RITARDI X2 + GOAL
    1. FC Volendam                      6+  🟢 100%
@@ -2687,77 +2687,77 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVIZZERA - CHALLENGE LEAGUE
-Stagione 2026/2027 (55 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,1
+Stagione 2026/2027 (57 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
-   1. FC Stade Lausanne-Ouchy           5  🟢 80%  🔴
-   2. Xamax                             4  🟢 100%  🔴
+   1. Xamax                             4  🟢 100%  🔴
+   2. FC Rapperswil-Jona                3  🟢 100%
    3. Etoile Carouge                    2  🟢 50%
-   4. FC Rapperswil-Jona                2  🟢 100%
-   5. Aarau                             1  🟢 100%  🔴
-   6. Winterthur                        1  🟢 100%
+   4. Aarau                             1  🟢 100%  🔴
+   5. Winterthur                        1  🟢 100%
+   6. FC Stade Lausanne-Ouchy           0  🔴
    7. Kriens                            0
    8. Stade Nyonnais                    0
    9. Wil                               0
   10. Yverdon                           0
 
 RITARDI X2 + GOAL
-   1. FC Stade Lausanne-Ouchy           8  🟢 88%  🔴
+   1. FC Stade Lausanne-Ouchy           9  🟢 89%  🔴
    2. Winterthur                        3  🟢 100%  🔴
    3. Yverdon                           3  🟢 67%
    4. Etoile Carouge                    2  🟢 50%
-   5. FC Rapperswil-Jona                2  🟢 100%
-   6. Xamax                             2  🟢 100%  🔴
-   7. Stade Nyonnais                    1  🟢 100%
-   8. Aarau                             0
+   5. Xamax                             2  🟢 100%  🔴
+   6. Stade Nyonnais                    1  🟢 100%
+   7. Aarau                             0
+   8. FC Rapperswil-Jona                0
    9. Kriens                            0
   10. Wil                               0
 
 RITARDI 12 + GOAL
-   1. FC Stade Lausanne-Ouchy           5  🟢 80%  🔴
-   2. FC Rapperswil-Jona                4  🟢 100%
-   3. Wil                               4  🟢 100%
-   4. Etoile Carouge                    3  🟢 67%
-   5. Xamax                             2  🟢 100%  🔴
-   6. Kriens                            1  🟢 100%
-   7. Winterthur                        1  🟢 100%  🔴
-   8. Aarau                             0  🔴
+   1. Wil                               4  🟢 100%
+   2. Etoile Carouge                    3  🟢 67%
+   3. Xamax                             2  🟢 100%  🔴
+   4. Kriens                            1  🟢 100%
+   5. Winterthur                        1  🟢 100%  🔴
+   6. Aarau                             0  🔴
+   7. FC Rapperswil-Jona                0
+   8. FC Stade Lausanne-Ouchy           0  🔴
    9. Stade Nyonnais                    0
   10. Yverdon                           0
 
 ==================================================
 AUSTRIA - BUNDESLIGA
-Stagione 2026/2027 (60 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,8 · 12 + GOAL 1 ogni 2,6
+Stagione 2026/2027 (61 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Austria Lustenau                  3  🟢 100%  ❗ 12/44
-   2. LASK                              3  🟢 100%  ❗ 12/44
-   3. Wolfsberger AC                    3  🟢 100%  ❗ 12/44
-   4. Salzburg                          2  🟢 100%  🔴  ❗ 12/44
-   5. Austria Wien                      1  🟢 100%  🔴  ❗ 12/44
-   6. Grazer AK                         1  ❗ 12/44
-   7. Hartberg                          1  ❗ 12/44
-   8. Altach                            0  ❗ 12/44
-   9. Rapid Wien                        0  ❗ 12/44
-  10. Ried                              0  ❗ 12/44
+   1. Austria Lustenau                  3  🟢 100%
+   2. LASK                              3  🟢 100%
+   3. Wolfsberger AC                    3  🟢 100%
+   4. Grazer AK                         2  🟢 50%
+   5. Salzburg                          2  🟢 100%  🔴
+   6. Austria Wien                      1  🟢 100%  🔴
+   7. Hartberg                          1
+   8. Altach                            0
+   9. Rapid Wien                        0
+  10. Ried                              0
 
 RITARDI X2 + GOAL
-   1. Rapid Wien                       14  🟢 79%  👻 43/44
-   2. Austria Wien                      6  🟢 67%  👻 43/44
-   3. Salzburg                          5  🟢 80%  👻 43/44
-   4. Austria Lustenau                  4  🟢 100%  👻 43/44
-   5. Altach                            2  🟢 100%  👻 43/44
-   6. Hartberg                          2  🟢 50%  🔴  👻 43/44
-   7. Ried                              2  🟢 100%  👻 43/44
-   8. Wolfsberger AC                    2  🟢 100%  🔴  👻 43/44
-   9. Grazer AK                         1  👻 43/44
-  10. LASK                              0  👻 43/44
+   1. Rapid Wien                       14  🟢 79%  👻 44/44
+   2. Austria Wien                      6  🟢 67%  👻 44/44
+   3. Salzburg                          5  🟢 80%  👻 44/44
+   4. Austria Lustenau                  4  🟢 100%  👻 44/44
+   5. Altach                            2  🟢 100%  👻 44/44
+   6. Grazer AK                         2  🟢 50%  👻 44/44
+   7. Hartberg                          2  🟢 50%  🔴  👻 44/44
+   8. Ried                              2  🟢 100%  👻 44/44
+   9. Wolfsberger AC                    2  🟢 100%  🔴  👻 44/44
+  10. LASK                              0  👻 44/44
 
 RITARDI 12 + GOAL
-   1. Austria Lustenau                  3  🟢 100%
-   2. Grazer AK                         3
+   1. Grazer AK                         4  🟢 50%
+   2. Austria Lustenau                  3  🟢 100%
    3. Salzburg                          2  🟢 100%  🔴
    4. Wolfsberger AC                    2  🟢 100%  🔴
    5. Austria Wien                      1  🟢 100%
@@ -2892,24 +2892,24 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - ELITESERIEN
-Stagione 2026 (192 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,3
+Stagione 2026 (193 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Hamarkameratene                   3  🟢 100%
    2. Start                             3  🟢 67%
    3. Aalesund                          2  🟢 100%
    4. Sandefjord                        2  🟢 100%
-   5. Bodø/Glimt                        1
-   6. Brann                             1  🟢 100%  🔴
+   5. Brann                             1  🟢 100%  🔴
+   6. Bodø/Glimt                        0
    7. Fredrikstad                       0
    8. KFUM                              0
    9. Kristiansund                      0
   10. Lillestrøm                        0
 
 RITARDI X2 + GOAL
-   1. Viking                           18  🟢 94%
-   2. Bodø/Glimt                       17  🟢 82%
+   1. Bodø/Glimt                       18  🟢 83%
+   2. Viking                           18  🟢 94%
    3. Brann                             2  🟢 100%
    4. Hamarkameratene                   2  🟢 100%
    5. KFUM                              2  🟢 100%
@@ -2920,16 +2920,16 @@ RITARDI X2 + GOAL
   10. Start                             1  🔴
 
 RITARDI 12 + GOAL
-   1. Sandefjord                       17  🟢 59%  ❗ 9/44
-   2. Fredrikstad                       2  🟢 100%  ❗ 9/44
-   3. Hamarkameratene                   2  🟢 100%  ❗ 9/44
-   4. Bodø/Glimt                        1  ❗ 9/44
-   5. Brann                             1  🟢 100%  🔴  ❗ 9/44
-   6. Kristiansund                      1  🟢 100%  ❗ 9/44
-   7. Rosenborg                         1  🟢 100%  ❗ 9/44
-   8. Start                             1  🔴  ❗ 9/44
-   9. Tromsø                            1  🟢 100%  ❗ 9/44
-  10. Aalesund                          0  ❗ 9/44
+   1. Sandefjord                       17  🟢 59%  ❗ 8/44
+   2. Fredrikstad                       2  🟢 100%  ❗ 8/44
+   3. Hamarkameratene                   2  🟢 100%  ❗ 8/44
+   4. Brann                             1  🟢 100%  🔴  ❗ 8/44
+   5. Kristiansund                      1  🟢 100%  ❗ 8/44
+   6. Rosenborg                         1  🟢 100%  ❗ 8/44
+   7. Start                             1  🔴  ❗ 8/44
+   8. Tromsø                            1  🟢 100%  ❗ 8/44
+   9. Aalesund                          0  ❗ 8/44
+  10. Bodø/Glimt                        0  ❗ 8/44
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
@@ -2974,76 +2974,76 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,8
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Randers FC                        3  🟢 100%  🔥 2/44
-   2. Nordsjælland                      2  🟢 50%  🔴  🔥 2/44
-   3. Sønderjyske                       1  🟢 100%  🔥 2/44
-   4. Viborg                            1  🟢 100%  🔴  🔥 2/44
-   5. AC Horsens                        0  🔥 2/44
-   6. AGF                               0  🔥 2/44
-   7. Brøndby IF                        0  🔥 2/44
-   8. FC København                      0  🔥 2/44
-   9. FC Midtjylland                    0  🔴  🔥 2/44
-  10. Lyngby                            0  🔥 2/44
+   1. Randers FC                        3  🟢 100%  🔥 1/44
+   2. Nordsjælland                      2  🟢 50%  🔴  🔥 1/44
+   3. Sønderjyske                       1  🟢 100%  🔥 1/44
+   4. Viborg                            1  🟢 100%  🔴  🔥 1/44
+   5. AC Horsens                        0  🔥 1/44
+   6. AGF                               0  🔥 1/44
+   7. Brøndby IF                        0  🔥 1/44
+   8. FC København                      0  🔥 1/44
+   9. FC Midtjylland                    0  🔴  🔥 1/44
+  10. Lyngby                            0  🔥 1/44
 
 RITARDI X2 + GOAL
-   1. Brøndby IF                        6  🟢 67%  ❗ 14/44
-   2. Nordsjælland                      6  ❗ 14/44
-   3. FC Midtjylland                    3  🟢 100%  ❗ 14/44
-   4. AC Horsens                        2  🟢 50%  ❗ 14/44
-   5. AGF                               2  🟢 100%  🔴  ❗ 14/44
-   6. Sønderjyske                       2  🟢 100%  ❗ 14/44
-   7. OB                                1  🟢 100%  🔴  ❗ 14/44
-   8. FC København                      0  ❗ 14/44
-   9. Lyngby                            0  🔴  ❗ 14/44
-  10. Randers FC                        0  ❗ 14/44
+   1. Brøndby IF                        6  🟢 67%
+   2. Nordsjælland                      6
+   3. FC Midtjylland                    3  🟢 100%
+   4. AC Horsens                        2  🟢 50%
+   5. AGF                               2  🟢 100%  🔴
+   6. Sønderjyske                       2  🟢 100%
+   7. Lyngby                            1  🟢 100%  🔴
+   8. OB                                1  🟢 100%  🔴
+   9. FC København                      0
+  10. Randers FC                        0
 
 RITARDI 12 + GOAL
-   1. Lyngby                           6+  🟢 100%
-   2. Silkeborg                         5  🟢 80%
-   3. FC København                      4  🟢 100%
-   4. Nordsjælland                      2  🟢 50%
-   5. Sønderjyske                       1  🟢 100%
-   6. AC Horsens                        0
-   7. AGF                               0
-   8. Brøndby IF                        0  🔴
-   9. FC Midtjylland                    0  🔴
+   1. Silkeborg                         5  🟢 80%
+   2. FC København                      4  🟢 100%
+   3. Nordsjælland                      2  🟢 50%
+   4. Sønderjyske                       1  🟢 100%
+   5. AC Horsens                        0
+   6. AGF                               0
+   7. Brøndby IF                        0  🔴
+   8. FC Midtjylland                    0  🔴
+   9. Lyngby                            0
   10. OB                                0
 
 ==================================================
 DANIMARCA - 1. DIVISION
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,5 · 12 + GOAL 1 ogni 3,0
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Vendsyssel FF                    5+  🟢 60%  🔥 6/44
-   2. AB                                4  🟢 75%  🔴  🔥 6/44
-   3. Aarhus Fremad                     2  🟢 50%  🔴  🔥 6/44
-   4. Vejle Boldklub                    2  🟢 50%  🔥 6/44
-   5. AaB                               1  🔥 6/44
-   6. Fredericia                        1  🟢 100%  🔥 6/44
-   7. HB Køge                           1  🟢 100%  🔥 6/44
-   8. Esbjerg fB                        0  🔴  🔥 6/44
-   9. Hillerød                          0  🔥 6/44
-  10. Hobro                             0  🔥 6/44
+   1. Vendsyssel FF                    5+  🟢 60%  🔥 5/44
+   2. AB                                4  🟢 75%  🔴  🔥 5/44
+   3. Aarhus Fremad                     2  🟢 50%  🔴  🔥 5/44
+   4. Vejle Boldklub                    2  🟢 50%  🔥 5/44
+   5. Fredericia                        1  🟢 100%  🔥 5/44
+   6. HB Køge                           1  🟢 100%  🔥 5/44
+   7. AaB                               0  🔥 5/44
+   8. Esbjerg fB                        0  🔴  🔥 5/44
+   9. Hillerød                          0  🔥 5/44
+  10. Hobro                             0  🔥 5/44
 
 RITARDI X2 + GOAL
    1. AB                                4  🟢 75%  🔴  🔥 6/44
    2. Hillerød                          4  🟢 75%  🔥 6/44
    3. Vendsyssel FF                     4  🟢 50%  🔥 6/44
-   4. AaB                               1  🔥 6/44
-   5. Aarhus Fremad                     1  🔥 6/44
-   6. Esbjerg fB                        1  🟢 100%  🔥 6/44
-   7. Fredericia                        1  🟢 100%  🔥 6/44
-   8. Kolding IF                        1  🟢 100%  🔥 6/44
-   9. Vejle Boldklub                    1  🔴  🔥 6/44
+   4. Aarhus Fremad                     1  🔥 6/44
+   5. Esbjerg fB                        1  🟢 100%  🔥 6/44
+   6. Fredericia                        1  🟢 100%  🔥 6/44
+   7. Kolding IF                        1  🟢 100%  🔥 6/44
+   8. Vejle Boldklub                    1  🔴  🔥 6/44
+   9. AaB                               0  🔴  🔥 6/44
   10. HB Køge                           0  🔥 6/44
 
 RITARDI 12 + GOAL
-   1. AaB                               7
+   1. AaB                               8  🟢 50%
    2. AB                               6+  🟢 83%
    3. Fredericia                       6+  🟢 67%
    4. Vendsyssel FF                     4  🟢 50%
@@ -3097,28 +3097,28 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (223 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,6
+Stagione 2026 (224 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
    1. Norrby                            4  🟢 100%
    2. IFK Värnamo                       3  🟢 67%
-   3. IK Oddevold                       3  🟢 100%
-   4. IK Brage                          2  🟢 100%
-   5. Ljungskile                        2  🟢 100%
-   6. GIF Sundsvall                     1
-   7. Sandvikens IF                     1
-   8. Varbergs BoIS FC                  1
-   9. Örebro                            1  🔴
-  10. Falkenbergs FF                    0
+   3. IK Brage                          2  🟢 100%
+   4. Ljungskile                        2  🟢 100%
+   5. GIF Sundsvall                     1
+   6. Sandvikens IF                     1
+   7. Varbergs BoIS FC                  1
+   8. Örebro                            1  🔴
+   9. Falkenbergs FF                    0
+  10. Helsingborg                       0
 
 RITARDI X2 + GOAL
    1. Varbergs BoIS FC                  7  🟢 71%  ❗ 11/44
    2. Falkenbergs FF                    5  🟢 80%  ❗ 11/44
    3. GIF Sundsvall                     4  🟢 50%  🔴  ❗ 11/44
    4. Ljungskile                        4  🟢 75%  ❗ 11/44
-   5. Sandvikens IF                     3  ❗ 11/44
-   6. IK Oddevold                       2  🟢 100%  ❗ 11/44
+   5. IK Oddevold                       3  🟢 100%  ❗ 11/44
+   6. Sandvikens IF                     3  ❗ 11/44
    7. Norrby                            2  🟢 100%  ❗ 11/44
    8. IFK Värnamo                       1  🔴  ❗ 11/44
    9. Nordic United FC                  1  🟢 100%  ❗ 11/44
@@ -3128,13 +3128,13 @@ RITARDI 12 + GOAL
    1. Helsingborg                       4  🟢 75%
    2. IFK Norrköping                    4  🟢 75%
    3. Örebro                            4  🟢 50%
-   4. IK Oddevold                       2  🟢 100%
-   5. Ljungskile                        2  🟢 100%
-   6. Norrby                            2  🟢 100%
-   7. GIF Sundsvall                     1  🔴
-   8. IFK Värnamo                       1
-   9. Landskrona BoIS                   1  🟢 100%  🔴
-  10. Sandvikens IF                     1
+   4. Ljungskile                        2  🟢 100%
+   5. Norrby                            2  🟢 100%
+   6. GIF Sundsvall                     1  🔴
+   7. IFK Värnamo                       1
+   8. Landskrona BoIS                   1  🟢 100%  🔴
+   9. Sandvikens IF                     1
+  10. Varbergs BoIS FC                  1
 
 ==================================================
 REP. CECA - 1. LIGA
@@ -3265,16 +3265,16 @@ Stagione 2026/2027 (114 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Baník Lehota pod Vtacnikom        5  🔥 5/44
-   2. Zlaté Moravce                     5  🟢 60%  🔥 5/44
-   3. Malženice                         4  🟢 75%  🔥 5/44
-   4. MFK Bytca                         1  🟢 100%  🔥 5/44
-   5. FC Petržalka 1898                 0  🔥 5/44
-   6. FC STK 1914 Šamorín               0  🔥 5/44
-   7. FK Pohronie                       0  🔴  🔥 5/44
-   8. Humenné                           0  🔥 5/44
-   9. Inter Bratislava                  0  🔥 5/44
-  10. Liptovský Mikuláš                 0  🔴  🔥 5/44
+   1. Baník Lehota pod Vtacnikom        5  🔥 6/44
+   2. Zlaté Moravce                     5  🟢 60%  🔥 6/44
+   3. Malženice                         4  🟢 75%  🔥 6/44
+   4. MFK Bytca                         1  🟢 100%  🔥 6/44
+   5. FC Petržalka 1898                 0  🔥 6/44
+   6. FC STK 1914 Šamorín               0  🔥 6/44
+   7. FK Pohronie                       0  🔴  🔥 6/44
+   8. Humenné                           0  🔥 6/44
+   9. Inter Bratislava                  0  🔥 6/44
+  10. Liptovský Mikuláš                 0  🔴  🔥 6/44
 
 RITARDI X2 + GOAL
    1. Liptovský Mikuláš                 4  🟢 50%
@@ -3714,16 +3714,16 @@ Stagione 2026/2027 (107 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Jagiellonia Białystok             3  🟢 67%  🔴  ❗ 13/44
-   2. Śląsk Wrocław                     3  🟢 100%  🔴  ❗ 13/44
-   3. Legia Warszawa                    2  🟢 100%  🔴  ❗ 13/44
-   4. Radomiak Radom                    2  🟢 100%  ❗ 13/44
-   5. Raków Częstochowa                 2  🟢 100%  ❗ 13/44
-   6. Wieczysta Kraków                  2  🟢 100%  ❗ 13/44
-   7. Zagłębie Lubin                    2  🟢 50%  ❗ 13/44
-   8. Cracovia                          1  🟢 100%  ❗ 13/44
-   9. GKS Katowice                      1  ❗ 13/44
-  10. Korona Kielce                     1  ❗ 13/44
+   1. Jagiellonia Białystok             3  🟢 67%  🔴  ❗ 12/44
+   2. Śląsk Wrocław                     3  🟢 100%  🔴  ❗ 12/44
+   3. Legia Warszawa                    2  🟢 100%  🔴  ❗ 12/44
+   4. Radomiak Radom                    2  🟢 100%  ❗ 12/44
+   5. Raków Częstochowa                 2  🟢 100%  ❗ 12/44
+   6. Wieczysta Kraków                  2  🟢 100%  ❗ 12/44
+   7. Zagłębie Lubin                    2  🟢 50%  ❗ 12/44
+   8. Cracovia                          1  🟢 100%  ❗ 12/44
+   9. GKS Katowice                      1  ❗ 12/44
+  10. Korona Kielce                     1  ❗ 12/44
 
 RITARDI X2 + GOAL
    1. Wisła Płock                      15  🟢 53%
@@ -3795,7 +3795,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 30/10/2026 20:39 (ora italiana)
+Aggiornato: 30/10/2026 21:28 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4066,16 +4066,16 @@ RITARDI 1X + GOAL
   10. Grimsby Town                      1  🟢 100%  ❗ 11/44
 
 RITARDI X2 + GOAL
-   1. Bristol Rovers                    6  🟢 83%
-   2. Exeter City                      6+
-   3. Fleetwood Town                    4  🟢 75%
-   4. Rotherham United                  4
-   5. Crawley Town                      3  🟢 100%
-   6. Crewe Alexandra                   3  🟢 67%
-   7. Cheltenham Town                   2  🟢 100%
-   8. Accrington Stanley                1  🟢 100%
-   9. Chesterfield                      1
-  10. Colchester United                 1  🟢 100%
+   1. Bristol Rovers                    6  🟢 83%  ❗ 14/44
+   2. Exeter City                      6+  ❗ 14/44
+   3. Fleetwood Town                    4  🟢 75%  ❗ 14/44
+   4. Rotherham United                  4  ❗ 14/44
+   5. Crawley Town                      3  🟢 100%  ❗ 14/44
+   6. Crewe Alexandra                   3  🟢 67%  ❗ 14/44
+   7. Cheltenham Town                   2  🟢 100%  ❗ 14/44
+   8. Accrington Stanley                1  🟢 100%  ❗ 14/44
+   9. Chesterfield                      1  ❗ 14/44
+  10. Colchester United                 1  🟢 100%  ❗ 14/44
 
 RITARDI 12 + GOAL
    1. Walsall                           6  🟢 83%  👻 41/44
@@ -4173,23 +4173,23 @@ RITARDI 12 + GOAL
 
 ==================================================
 GERMANIA - 3. LIGA
-Stagione 2026/2027 (110 partite giocate) + 2025/2026
+Stagione 2026/2027 (111 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,5 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Alemannia Aachen                  4  🟢 75%
    2. Ingolstadt                        4  🟢 75%
    3. Fortuna Köln                      3  🟢 67%
-   4. Waldhof Mannheim                  3  🟢 67%  🔴
-   5. Wehen Wiesbaden                   3  🟢 67%
-   6. Hansa Rostock                     2  🟢 100%
-   7. Meppen                            2  🟢 50%
+   4. Meppen                            3
+   5. Waldhof Mannheim                  3  🟢 67%  🔴
+   6. Wehen Wiesbaden                   3  🟢 67%
+   7. Hansa Rostock                     2  🟢 100%
    8. Jahn Regensburg                   1
    9. RW Essen                          1
   10. VfB Stuttgart II                  1  🔴
 
 RITARDI X2 + GOAL
-   1. Meppen                           5+  🟢 80%  🔥 4/44
+   1. Meppen                           6+  🟢 67%  🔥 4/44
    2. Ingolstadt                        4  🟢 75%  🔥 4/44
    3. Hoffenheim II                     3  🟢 100%  🔥 4/44
    4. Fortuna Köln                      2  🟢 50%  🔥 4/44
@@ -4201,43 +4201,43 @@ RITARDI X2 + GOAL
   10. RW Essen                          1  🔴  🔥 4/44
 
 RITARDI 12 + GOAL
-   1. Ingolstadt                        5  🟢 80%  ❗ 8/44
-   2. Hansa Rostock                     4  🟢 100%  ❗ 8/44
-   3. Jahn Regensburg                   4  🟢 75%  ❗ 8/44
-   4. Fortuna Köln                      2  🟢 50%  ❗ 8/44
-   5. Meppen                            2  🟢 50%  ❗ 8/44
-   6. RW Essen                          2  🟢 50%  ❗ 8/44
-   7. TSV Havelse                       2  🟢 100%  ❗ 8/44
-   8. VfB Stuttgart II                  2  🟢 50%  ❗ 8/44
-   9. Würzburger Kickers                2  🟢 100%  ❗ 8/44
-  10. Fortuna Düsseldorf                1  🟢 100%  ❗ 8/44
+   1. Ingolstadt                        5  🟢 80%  ❗ 9/44
+   2. Hansa Rostock                     4  🟢 100%  ❗ 9/44
+   3. Jahn Regensburg                   4  🟢 75%  ❗ 9/44
+   4. Meppen                            3  ❗ 9/44
+   5. Fortuna Köln                      2  🟢 50%  ❗ 9/44
+   6. RW Essen                          2  🟢 50%  ❗ 9/44
+   7. TSV Havelse                       2  🟢 100%  ❗ 9/44
+   8. VfB Stuttgart II                  2  🟢 50%  ❗ 9/44
+   9. Würzburger Kickers                2  🟢 100%  ❗ 9/44
+  10. Fortuna Düsseldorf                1  🟢 100%  ❗ 9/44
 
 ==================================================
 FRANCIA - LIGUE 1
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,2
+Stagione 2026/2027 (74 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Marseille                         7  🟢 71%
-   2. Troyes                           4+  🟢 75%  🔴
-   3. Paris Saint-Germain               3  🟢 67%
-   4. Auxerre                           1  🟢 100%  🔴
-   5. Lens                              1  🟢 100%
-   6. Lorient                           1  🔴
-   7. Lyon                              1  🟢 100%
-   8. Monaco                            1
-   9. Nice                              1  🟢 100%
-  10. Strasbourg                        1  🟢 100%  🔴
+   1. Marseille                         7  🟢 71%  ❗ 13/44
+   2. Paris Saint-Germain               4  🟢 75%  ❗ 13/44
+   3. Troyes                           4+  🟢 75%  🔴  ❗ 13/44
+   4. Auxerre                           1  🟢 100%  🔴  ❗ 13/44
+   5. Lens                              1  🟢 100%  ❗ 13/44
+   6. Lorient                           1  🔴  ❗ 13/44
+   7. Lyon                              1  🟢 100%  ❗ 13/44
+   8. Monaco                            1  ❗ 13/44
+   9. Nice                              1  🟢 100%  ❗ 13/44
+  10. Strasbourg                        1  🟢 100%  🔴  ❗ 13/44
 
 RITARDI X2 + GOAL
    1. Lorient                           5
    2. Lyon                              5  🟢 80%
    3. Le Havre                          3  🟢 67%
-   4. Strasbourg                        3  🟢 100%
-   5. Troyes                            3  🟢 67%
-   6. Angers                            2  🟢 50%
-   7. Paris FC                          2  🟢 50%
-   8. Rennes                            2  🟢 100%
+   4. Rennes                            3  🟢 100%
+   5. Strasbourg                        3  🟢 100%
+   6. Troyes                            3  🟢 67%
+   7. Angers                            2  🟢 50%
+   8. Paris FC                          2  🟢 50%
    9. Monaco                            1  🔴
   10. Toulouse                          1  🟢 100%
 
@@ -4394,16 +4394,16 @@ RITARDI 1X + GOAL
   10. Gent                              1  🟢 100%  👻 40/44
 
 RITARDI X2 + GOAL
-   1. Westerlo                          8  🟢 88%  👻 44/44
-   2. RAAL La Louvière                  7  🟢 100%  👻 44/44
-   3. Royal Antwerp                     6  🟢 67%  👻 44/44
-   4. Kortrijk                         4+  🟢 75%  👻 44/44
-   5. Sporting Charleroi                3  👻 44/44
-   6. St.Truiden                        3  🟢 100%  👻 44/44
-   7. Standard Liège                    3  🟢 100%  👻 44/44
-   8. Zulte Waregem                     3  🟢 100%  👻 44/44
-   9. Cercle Brugge                     2  🟢 100%  👻 44/44
-  10. Genk                              2  🟢 50%  🔴  👻 44/44
+   1. Westerlo                          8  🟢 88%  👻 43/44
+   2. RAAL La Louvière                  7  🟢 100%  👻 43/44
+   3. Royal Antwerp                     6  🟢 67%  👻 43/44
+   4. Kortrijk                         4+  🟢 75%  👻 43/44
+   5. Sporting Charleroi                3  👻 43/44
+   6. St.Truiden                        3  🟢 100%  👻 43/44
+   7. Standard Liège                    3  🟢 100%  👻 43/44
+   8. Zulte Waregem                     3  🟢 100%  👻 43/44
+   9. Cercle Brugge                     2  🟢 100%  👻 43/44
+  10. Genk                              2  🟢 50%  🔴  👻 43/44
 
 RITARDI 12 + GOAL
    1. KV Mechelen                       7  🟢 86%  👻 39/44
@@ -4505,16 +4505,16 @@ Stagione 2026/2027 (120 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Vitesse                           6  🟢 67%  🔥 1/44
-   2. Roda JC Kerkrade                  4  🟢 75%  🔥 1/44
-   3. FC Den Bosch                      3  🔥 1/44
-   4. FC Emmen                          2  🟢 100%  🔥 1/44
-   5. VVV-Venlo                         2  🟢 100%  🔥 1/44
-   6. FC Dordrecht                      1  🔴  🔥 1/44
-   7. FC Eindhoven                      1  🟢 100%  🔥 1/44
-   8. Jong PSV                          1  🟢 100%  🔥 1/44
-   9. NAC Breda                         1  🟢 100%  🔥 1/44
-  10. Almere City FC                    0  🔥 1/44
+   1. Vitesse                           6  🟢 67%  🔥 2/44
+   2. Roda JC Kerkrade                  4  🟢 75%  🔥 2/44
+   3. FC Den Bosch                      3  🔥 2/44
+   4. FC Emmen                          2  🟢 100%  🔥 2/44
+   5. VVV-Venlo                         2  🟢 100%  🔥 2/44
+   6. FC Dordrecht                      1  🔴  🔥 2/44
+   7. FC Eindhoven                      1  🟢 100%  🔥 2/44
+   8. Jong PSV                          1  🟢 100%  🔥 2/44
+   9. NAC Breda                         1  🟢 100%  🔥 2/44
+  10. Almere City FC                    0  🔥 2/44
 
 RITARDI X2 + GOAL
    1. Helmond Sport                     9  🟢 78%
@@ -4583,31 +4583,31 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVIZZERA - CHALLENGE LEAGUE
-Stagione 2026/2027 (55 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 3,1
+Stagione 2026/2027 (57 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,9
 ==================================================
 RITARDI 1X + GOAL
-   1. Yverdon                           4  🟢 100%
-   2. FC Stade Lausanne-Ouchy           3  🟢 67%
+   1. FC Stade Lausanne-Ouchy           3  🟢 67%
+   2. Stade Nyonnais                    3  🟢 100%
    3. Xamax                             3  🟢 67%  🔴
-   4. Stade Nyonnais                    2  🟢 100%
-   5. Winterthur                        2  🟢 50%  🔴
-   6. Etoile Carouge                    1  🟢 100%
-   7. Aarau                             0  🔴
-   8. FC Rapperswil-Jona                0
-   9. Kriens                            0
-  10. Wil                               0  🔴
+   4. Winterthur                        2  🟢 50%  🔴
+   5. Etoile Carouge                    1  🟢 100%
+   6. Aarau                             0  🔴
+   7. FC Rapperswil-Jona                0
+   8. Kriens                            0
+   9. Wil                               0  🔴
+  10. Yverdon                           0
 
 RITARDI X2 + GOAL
-   1. Stade Nyonnais                   11  🟢 91%
-   2. FC Stade Lausanne-Ouchy           3  🟢 67%  🔴
+   1. FC Stade Lausanne-Ouchy           3  🟢 67%  🔴
+   2. Yverdon                           3  🟢 100%
    3. Aarau                             2  🟢 100%  🔴
    4. Winterthur                        2  🟢 50%
-   5. Yverdon                           2  🟢 100%
-   6. Kriens                            1  🟢 100%
-   7. Xamax                             1
-   8. Etoile Carouge                    0
-   9. FC Rapperswil-Jona                0
+   5. Kriens                            1  🟢 100%
+   6. Xamax                             1
+   7. Etoile Carouge                    0
+   8. FC Rapperswil-Jona                0
+   9. Stade Nyonnais                    0
   10. Wil                               0  🔴
 
 RITARDI 12 + GOAL
@@ -4615,41 +4615,41 @@ RITARDI 12 + GOAL
    2. Winterthur                       5+  🟢 80%  🔴
    3. FC Stade Lausanne-Ouchy           4  🟢 75%
    4. FC Rapperswil-Jona                2  🟢 100%
-   5. Stade Nyonnais                    2  🟢 100%
-   6. Yverdon                           2  🟢 100%
-   7. Xamax                             1  🔴
-   8. Aarau                             0  🔴
-   9. Etoile Carouge                    0
-  10. Kriens                            0
+   5. Xamax                             1  🔴
+   6. Aarau                             0  🔴
+   7. Etoile Carouge                    0
+   8. Kriens                            0
+   9. Stade Nyonnais                    0
+  10. Yverdon                           0
 
 ==================================================
 AUSTRIA - BUNDESLIGA
-Stagione 2026/2027 (60 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,8 · 12 + GOAL 1 ogni 2,6
+Stagione 2026/2027 (61 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Altach                            5  🟢 60%  ❗ 12/44
-   2. WSG Tirol                         4  🟢 75%  ❗ 12/44
-   3. Rapid Wien                        2  🟢 100%  🔴  ❗ 12/44
-   4. Salzburg                          2  🟢 50%  ❗ 12/44
-   5. Sturm Graz                        2  🟢 100%  🔴  ❗ 12/44
-   6. Wolfsberger AC                    2  🟢 50%  ❗ 12/44
-   7. LASK                              1  🟢 100%  ❗ 12/44
-   8. Austria Lustenau                  0  ❗ 12/44
-   9. Austria Wien                      0  🔴  ❗ 12/44
-  10. Grazer AK                         0  ❗ 12/44
+   1. Altach                            5  🟢 60%
+   2. WSG Tirol                         4  🟢 75%
+   3. Rapid Wien                        2  🟢 100%  🔴
+   4. Salzburg                          2  🟢 50%
+   5. Sturm Graz                        2  🟢 100%  🔴
+   6. Wolfsberger AC                    2  🟢 50%
+   7. Hartberg                          1  🟢 100%
+   8. LASK                              1  🟢 100%
+   9. Austria Lustenau                  0
+  10. Austria Wien                      0  🔴
 
 RITARDI X2 + GOAL
-   1. WSG Tirol                        10  🟢 80%  👻 43/44
-   2. Wolfsberger AC                    7  🟢 57%  👻 43/44
-   3. Altach                            5  🟢 60%  👻 43/44
-   4. Sturm Graz                        4  🟢 100%  🔴  👻 43/44
-   5. Austria Lustenau                  3  🟢 100%  👻 43/44
-   6. Rapid Wien                        3  🟢 100%  👻 43/44
-   7. Austria Wien                      2  🟢 100%  👻 43/44
-   8. Hartberg                          1  🟢 100%  👻 43/44
-   9. LASK                              1  🟢 100%  🔴  👻 43/44
-  10. Grazer AK                         0  👻 43/44
+   1. WSG Tirol                        10  🟢 80%  👻 44/44
+   2. Wolfsberger AC                    7  🟢 57%  👻 44/44
+   3. Altach                            5  🟢 60%  👻 44/44
+   4. Sturm Graz                        4  🟢 100%  🔴  👻 44/44
+   5. Austria Lustenau                  3  🟢 100%  👻 44/44
+   6. Rapid Wien                        3  🟢 100%  👻 44/44
+   7. Austria Wien                      2  🟢 100%  👻 44/44
+   8. Hartberg                          2  🟢 100%  👻 44/44
+   9. LASK                              1  🟢 100%  🔴  👻 44/44
+  10. Grazer AK                         0  👻 44/44
 
 RITARDI 12 + GOAL
    1. Altach                            8  🟢 75%
@@ -4659,9 +4659,9 @@ RITARDI 12 + GOAL
    5. Sturm Graz                        2  🟢 100%
    6. Wolfsberger AC                    2  🟢 50%  🔴
    7. Grazer AK                         1  🟢 100%  🔴
-   8. Ried                              1  🟢 100%
-   9. Austria Lustenau                  0
-  10. Austria Wien                      0
+   8. Hartberg                          1  🟢 100%
+   9. Ried                              1  🟢 100%
+  10. Austria Lustenau                  0
 
 ==================================================
 AUSTRIA - 2. LIGA
@@ -4788,8 +4788,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 NORVEGIA - ELITESERIEN
-Stagione 2026 (192 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,0 · 12 + GOAL 1 ogni 2,3
+Stagione 2026 (193 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,3 · X2 + GOAL 1 ogni 3,1 · 12 + GOAL 1 ogni 2,3
 ==================================================
 RITARDI 1X + GOAL
    1. Lillestrøm                        3  🟢 100%
@@ -4798,10 +4798,10 @@ RITARDI 1X + GOAL
    4. Hamarkameratene                   1  🟢 100%
    5. Sandefjord                        1  🔴
    6. Sarpsborg 08                      1  🟢 100%
-   7. Viking                            1  🟢 100%
-   8. Vålerenga                         1  🔴
-   9. Aalesund                          0
-  10. Brann                             0
+   7. Vålerenga                         1  🔴
+   8. Aalesund                          0
+   9. Brann                             0
+  10. Fredrikstad                       0
 
 RITARDI X2 + GOAL
    1. Brann                             4  🟢 75%
@@ -4812,20 +4812,20 @@ RITARDI X2 + GOAL
    6. Kristiansund                      2  🟢 100%
    7. Lillestrøm                        2  🟢 100%
    8. Rosenborg                         2  🟢 100%
-   9. Aalesund                          1  🟢 100%
-  10. Sandefjord                        1
+   9. Viking                            2  🟢 100%  🔴
+  10. Aalesund                          1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. KFUM                              2  🟢 100%  ❗ 9/44
-   2. Lillestrøm                        2  🟢 100%  ❗ 9/44
-   3. Rosenborg                         2  🟢 100%  ❗ 9/44
-   4. Sandefjord                        2  🟢 50%  🔴  ❗ 9/44
-   5. Viking                            2  🟢 100%  ❗ 9/44
-   6. Bodø/Glimt                        1  🟢 100%  ❗ 9/44
-   7. Molde                             1  🟢 100%  🔴  ❗ 9/44
-   8. Vålerenga                         1  ❗ 9/44
-   9. Aalesund                          0  ❗ 9/44
-  10. Brann                             0  ❗ 9/44
+   1. KFUM                              2  🟢 100%  ❗ 8/44
+   2. Lillestrøm                        2  🟢 100%  ❗ 8/44
+   3. Rosenborg                         2  🟢 100%  ❗ 8/44
+   4. Sandefjord                        2  🟢 50%  🔴  ❗ 8/44
+   5. Bodø/Glimt                        1  🟢 100%  ❗ 8/44
+   6. Molde                             1  🟢 100%  🔴  ❗ 8/44
+   7. Vålerenga                         1  ❗ 8/44
+   8. Aalesund                          0  ❗ 8/44
+   9. Brann                             0  ❗ 8/44
+  10. Fredrikstad                       0  ❗ 8/44
 
 ==================================================
 NORVEGIA - OBOS-LIGAEN
@@ -4870,32 +4870,32 @@ RITARDI 12 + GOAL
 
 ==================================================
 DANIMARCA - SUPERLIGAEN
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,8
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 1,9 · X2 + GOAL 1 ogni 2,7 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Silkeborg                         2  🟢 100%  🔴  🔥 2/44
-   2. Brøndby IF                        1  🟢 100%  🔥 2/44
-   3. FC Midtjylland                    1  🟢 100%  🔥 2/44
-   4. Randers FC                        1  🔥 2/44
-   5. AC Horsens                        0  🔥 2/44
-   6. AGF                               0  🔴  🔥 2/44
-   7. FC København                      0  🔥 2/44
-   8. Lyngby                            0  🔥 2/44
-   9. Nordsjælland                      0  🔴  🔥 2/44
-  10. OB                                0  🔴  🔥 2/44
+   1. Silkeborg                         2  🟢 100%  🔴  🔥 1/44
+   2. Brøndby IF                        1  🟢 100%  🔥 1/44
+   3. FC Midtjylland                    1  🟢 100%  🔥 1/44
+   4. AC Horsens                        0  🔥 1/44
+   5. AGF                               0  🔴  🔥 1/44
+   6. FC København                      0  🔥 1/44
+   7. Lyngby                            0  🔥 1/44
+   8. Nordsjælland                      0  🔴  🔥 1/44
+   9. OB                                0  🔴  🔥 1/44
+  10. Randers FC                        0  🔥 1/44
 
 RITARDI X2 + GOAL
-   1. Randers FC                        8  🟢 62%  ❗ 14/44
-   2. Lyngby                           6+  🟢 100%  ❗ 14/44
-   3. FC København                      5  🟢 80%  ❗ 14/44
-   4. Silkeborg                         2  🟢 100%  🔴  ❗ 14/44
-   5. Sønderjyske                       2  🟢 100%  ❗ 14/44
-   6. Viborg                            2  🟢 100%  ❗ 14/44
-   7. AC Horsens                        0  ❗ 14/44
-   8. AGF                               0  ❗ 14/44
-   9. Brøndby IF                        0  ❗ 14/44
-  10. FC Midtjylland                    0  🔴  ❗ 14/44
+   1. Randers FC                        9  🟢 67%
+   2. Lyngby                           6+  🟢 100%
+   3. FC København                      5  🟢 80%
+   4. Silkeborg                         2  🟢 100%  🔴
+   5. Sønderjyske                       2  🟢 100%
+   6. Viborg                            2  🟢 100%
+   7. AC Horsens                        0
+   8. AGF                               0
+   9. Brøndby IF                        0
+  10. FC Midtjylland                    0  🔴
 
 RITARDI 12 + GOAL
    1. AGF                               3  🟢 100%
@@ -4903,40 +4903,40 @@ RITARDI 12 + GOAL
    3. AC Horsens                        2  🟢 100%
    4. Nordsjælland                      2  🟢 100%
    5. OB                                2  🟢 50%
-   6. Randers FC                        1
-   7. Brøndby IF                        0
-   8. FC København                      0  🔴
-   9. FC Midtjylland                    0
-  10. Lyngby                            0  🔴
+   6. Brøndby IF                        0
+   7. FC København                      0  🔴
+   8. FC Midtjylland                    0
+   9. Lyngby                            0  🔴
+  10. Randers FC                        0
 
 ==================================================
 DANIMARCA - 1. DIVISION
-Stagione 2026/2027 (72 partite giocate) + 2025/2026
-  Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,5 · 12 + GOAL 1 ogni 3,0
+Stagione 2026/2027 (73 partite giocate) + 2025/2026
+  Frequenza stagione: 1X + GOAL 1 ogni 2,1 · X2 + GOAL 1 ogni 2,4 · 12 + GOAL 1 ogni 3,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Aarhus Fremad                     4  🔥 6/44
-   2. Esbjerg fB                        3  🔥 6/44
-   3. Hvidovre                          3  🟢 100%  🔥 6/44
-   4. AB                                2  🟢 50%  🔥 6/44
-   5. Hillerød                          1  🔥 6/44
-   6. Hobro                             1  🟢 100%  🔥 6/44
-   7. Kolding IF                        1  🔥 6/44
-   8. Vejle Boldklub                    1  🔥 6/44
-   9. AaB                               0  🔴  🔥 6/44
-  10. Fredericia                        0  🔥 6/44
+   1. Aarhus Fremad                     4  🔥 5/44
+   2. Esbjerg fB                        3  🔥 5/44
+   3. Hvidovre                          3  🟢 100%  🔥 5/44
+   4. AB                                2  🟢 50%  🔥 5/44
+   5. Hillerød                          1  🔥 5/44
+   6. Kolding IF                        1  🔥 5/44
+   7. Vejle Boldklub                    1  🔥 5/44
+   8. AaB                               0  🔴  🔥 5/44
+   9. Fredericia                        0  🔥 5/44
+  10. HB Køge                           0  🔴  🔥 5/44
 
 RITARDI X2 + GOAL
    1. Esbjerg fB                        5  🟢 60%  🔥 6/44
    2. Fredericia                        5  🟢 80%  🔥 6/44
    3. Aarhus Fremad                     4  🔴  🔥 6/44
-   4. Hobro                             3  🟢 100%  🔥 6/44
-   5. AaB                               1  🟢 100%  🔴  🔥 6/44
-   6. Hillerød                          1  🔥 6/44
-   7. Kolding IF                        1  🔥 6/44
-   8. Vejle Boldklub                    1  🔥 6/44
-   9. AB                                0  🔴  🔥 6/44
-  10. HB Køge                           0  🔥 6/44
+   4. AaB                               1  🟢 100%  🔴  🔥 6/44
+   5. Hillerød                          1  🔥 6/44
+   6. Kolding IF                        1  🔥 6/44
+   7. Vejle Boldklub                    1  🔥 6/44
+   8. AB                                0  🔴  🔥 6/44
+   9. HB Køge                           0  🔥 6/44
+  10. Hobro                             0  🔥 6/44
 
 RITARDI 12 + GOAL
    1. Aarhus Fremad                     5
@@ -4944,8 +4944,8 @@ RITARDI 12 + GOAL
    3. Hillerød                          4  🟢 50%
    4. Vejle Boldklub                    4
    5. Esbjerg fB                        3  🔴
-   6. Kolding IF                        2  🟢 50%
-   7. Hobro                             1  🟢 100%
+   6. Hobro                             2  🟢 100%
+   7. Kolding IF                        2  🟢 50%
    8. Vendsyssel FF                     1  🟢 100%  🔴
    9. AB                                0
   10. AaB                               0
@@ -4993,8 +4993,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 SVEZIA - SUPERETTAN
-Stagione 2026 (223 partite giocate) + 2025
-  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,6
+Stagione 2026 (224 partite giocate) + 2025
+  Frequenza stagione: 1X + GOAL 1 ogni 2,4 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
    1. IFK Norrköping                   12  🟢 75%
@@ -5004,8 +5004,8 @@ RITARDI 1X + GOAL
    5. Falkenbergs FF                    3  🟢 67%  🔴
    6. Östers IF                         3  🟢 100%
    7. Östersunds FK                     3
-   8. IK Brage                          1  🟢 100%
-   9. Sandvikens IF                     1
+   8. Sandvikens IF                     1
+   9. IK Brage                          0
   10. IK Oddevold                       0
 
 RITARDI X2 + GOAL
@@ -5013,8 +5013,8 @@ RITARDI X2 + GOAL
    2. Norrby                            9  🟢 56%  ❗ 11/44
    3. IK Oddevold                       4  🟢 50%  ❗ 11/44
    4. Helsingborg                       3  ❗ 11/44
-   5. Östersunds FK                     3  ❗ 11/44
-   6. IK Brage                          2  🟢 100%  🔴  ❗ 11/44
+   5. IK Brage                          3  🟢 100%  🔴  ❗ 11/44
+   6. Östersunds FK                     3  ❗ 11/44
    7. Nordic United FC                  2  🟢 100%  ❗ 11/44
    8. Sandvikens IF                     2  🟢 50%  ❗ 11/44
    9. Falkenbergs FF                    1  🔴  ❗ 11/44
@@ -5029,8 +5029,8 @@ RITARDI 12 + GOAL
    6. Falkenbergs FF                    1  🔴
    7. IFK Norrköping                    1  🟢 100%  🔴
    8. IFK Värnamo                       1  🔴
-   9. IK Brage                          1  🟢 100%
-  10. Sandvikens IF                     1
+   9. Sandvikens IF                     1
+  10. Örebro                            1  🟢 100%  🔴
 
 ==================================================
 REP. CECA - 1. LIGA
@@ -5161,16 +5161,16 @@ Stagione 2026/2027 (114 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 2,5
 ==================================================
 RITARDI 1X + GOAL
-   1. Slovan Galanta                    2  🟢 100%  🔥 5/44
-   2. Baník Lehota pod Vtacnikom        1  🔥 5/44
-   3. FC Petržalka 1898                 1  🔥 5/44
-   4. Malženice                         1  🔥 5/44
-   5. Tatran Prešov                     1  🟢 100%  🔥 5/44
-   6. Zlaté Moravce                     1  🟢 100%  🔴  🔥 5/44
-   7. FC STK 1914 Šamorín               0  🔥 5/44
-   8. FK Pohronie                       0  🔴  🔥 5/44
-   9. Humenné                           0  🔥 5/44
-  10. Inter Bratislava                  0  🔥 5/44
+   1. Slovan Galanta                    2  🟢 100%  🔥 6/44
+   2. Baník Lehota pod Vtacnikom        1  🔥 6/44
+   3. FC Petržalka 1898                 1  🔥 6/44
+   4. Malženice                         1  🔥 6/44
+   5. Tatran Prešov                     1  🟢 100%  🔥 6/44
+   6. Zlaté Moravce                     1  🟢 100%  🔴  🔥 6/44
+   7. FC STK 1914 Šamorín               0  🔥 6/44
+   8. FK Pohronie                       0  🔴  🔥 6/44
+   9. Humenné                           0  🔥 6/44
+  10. Inter Bratislava                  0  🔥 6/44
 
 RITARDI X2 + GOAL
    1. MFK Bytca                        6+  🟢 100%
@@ -5610,16 +5610,16 @@ Stagione 2026/2027 (107 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Pogoń Szczecin                    5  ❗ 13/44
-   2. Wisła Płock                       3  🟢 67%  ❗ 13/44
-   3. GKS Katowice                      2  🟢 50%  ❗ 13/44
-   4. Jagiellonia Białystok             2  🟢 50%  🔴  ❗ 13/44
-   5. Lech Poznań                       2  🟢 100%  ❗ 13/44
-   6. Motor Lublin                      2  🟢 100%  ❗ 13/44
-   7. Wisła Kraków                      2  🟢 50%  🔴  ❗ 13/44
-   8. Wieczysta Kraków                  1  🟢 100%  ❗ 13/44
-   9. Cracovia                          0  ❗ 13/44
-  10. Górnik Zabrze                     0  ❗ 13/44
+   1. Pogoń Szczecin                    5  ❗ 12/44
+   2. Wisła Płock                       3  🟢 67%  ❗ 12/44
+   3. GKS Katowice                      2  🟢 50%  ❗ 12/44
+   4. Jagiellonia Białystok             2  🟢 50%  🔴  ❗ 12/44
+   5. Lech Poznań                       2  🟢 100%  ❗ 12/44
+   6. Motor Lublin                      2  🟢 100%  ❗ 12/44
+   7. Wisła Kraków                      2  🟢 50%  🔴  ❗ 12/44
+   8. Wieczysta Kraków                  1  🟢 100%  ❗ 12/44
+   9. Cracovia                          0  ❗ 12/44
+  10. Górnik Zabrze                     0  ❗ 12/44
 
 RITARDI X2 + GOAL
    1. Radomiak Radom                   11  🟢 55%
