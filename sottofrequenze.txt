@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 30/10/2026 22:28 (ora italiana)
+Aggiornato: 30/10/2026 23:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -220,15 +220,14 @@ SOTTOFREQUENZA X2 + GOAL
     4/24 Tranmere Rovers                37/100
     5/24 Salford City                   37/100
     6/24 Grimsby Town                   37/100
-    7/24 Chesterfield                   37/100
      ...
    24/24 Bristol Rovers                 24/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/24 Barnet                         40/100
-    2/24 Bristol Rovers                 39/100
-    3/24 Salford City                   38/100
-    4/24 Newport County                 38/100
+    2/24 Newport County                 39/100
+    3/24 Bristol Rovers                 39/100
+    4/24 Salford City                   38/100
     5/24 York City                      37/100
     6/24 Swindon Town                   37/100
     7/24 Rochdale                       37/100
@@ -408,7 +407,7 @@ SOTTOFREQUENZA 1X + GOAL
    20/20 Getafe                         22/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Villarreal                     46/100
+    1/20 Villarreal                     45/100
     2/20 Real Betis                     45/100
     3/20 Deportivo A Coruña             42/100
     4/20 Osasuna                        39/100
@@ -465,9 +464,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/17 St.Truiden                     46/100
     2/17 KV Mechelen                    45/100
     3/17 Cercle Brugge                  43/100
-    4/17 Zulte Waregem                  41/100
-    5/17 Westerlo                       41/100
-    6/17 Genk                           41/100
+    4/17 Westerlo                       41/100
+    5/17 Genk                           41/100
      ...
    17/17 Standard Liège                 30/100  (la fa meno spesso)
 
@@ -476,10 +474,7 @@ SOTTOFREQUENZA X2 + GOAL
     2/17 Lommel                         41/100
     3/17 KV Mechelen                    40/100
     4/17 Westerlo                       39/100
-    5/17 St.Truiden                     35/100
-    6/17 OH Leuven                      35/100
-    7/17 Genk                           35/100
-    8/17 Club Brugge                    35/100
+    5/17 Club Brugge                    36/100
      ...
    17/17 Anderlecht                     25/100  (la fa meno spesso)
 
@@ -745,7 +740,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Estoril                        38/100
-    2/18 Sporting CP                    37/100
+    2/18 Sporting CP                    36/100
     3/18 Arouca                         36/100
     4/18 Braga                          34/100
     5/18 Benfica                        34/100
@@ -1180,18 +1175,18 @@ SOTTOFREQUENZA X2 + GOAL
     2/10 Galway United FC               41/100
     3/10 Dundalk                        40/100
     4/10 Derry City                     38/100
-    5/10 Bohemian FC                    36/100
+    5/10 Bohemian FC                    37/100
      ...
-   10/10 St. Patrick's Athletic         24/100  (la fa meno spesso)
+   10/10 St. Patrick's Athletic         25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 Waterford FC                   40/100
-    2/10 Shamrock Rovers                36/100
-    3/10 Bohemian FC                    36/100
+    2/10 Bohemian FC                    37/100
+    3/10 Shamrock Rovers                36/100
     4/10 Shelbourne                     35/100
     5/10 Dundalk                        34/100
      ...
-   10/10 St. Patrick's Athletic         27/100  (la fa meno spesso)
+   10/10 St. Patrick's Athletic         28/100  (la fa meno spesso)
 
 ==================================================
 IRLANDA - FIRST DIVISION
@@ -1478,7 +1473,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 30/10/2026 22:28 (ora italiana)
+Aggiornato: 30/10/2026 23:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1931,14 +1926,14 @@ SOTTOFREQUENZA X2 + GOAL
     1/17 Westerlo                       44/100
     2/17 KV Mechelen                    40/100
     3/17 Cercle Brugge                  40/100
-    4/17 OH Leuven                      39/100
-    5/17 Zulte Waregem                  38/100
+    4/17 Zulte Waregem                  39/100
+    5/17 OH Leuven                      39/100
      ...
    17/17 Union St.Gilloise              17/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/17 SK Beveren                     43/100
-    2/17 Zulte Waregem                  42/100
+    1/17 Zulte Waregem                  43/100
+    2/17 SK Beveren                     43/100
     3/17 Union St.Gilloise              42/100
     4/17 Lommel                         40/100
     5/17 Kortrijk                       39/100
@@ -2599,7 +2594,7 @@ SOTTOFREQUENZA X2 + GOAL
     4/10 Derry City                     33/100
     5/10 Drogheda United                32/100
      ...
-   10/10 St. Patrick's Athletic         21/100  (la fa meno spesso)
+   10/10 Shamrock Rovers                22/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 Waterford FC                   40/100
@@ -2899,7 +2894,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 30/10/2026 22:28 (ora italiana)
+Aggiornato: 30/10/2026 23:28 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3038,8 +3033,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 Middlesbrough                  46/100
-    2/24 Wrexham                        41/100
-    3/24 Bristol City                   41/100
+    2/24 Bristol City                   41/100
+    3/24 Wrexham                        40/100
     4/24 Charlton Athletic              40/100
     5/24 Southampton                    39/100
      ...
@@ -3107,7 +3102,6 @@ SOTTOFREQUENZA X2 + GOAL
     5/24 Walsall                        38/100
     6/24 Oldham Athletic                38/100
     7/24 Crewe Alexandra                38/100
-    8/24 Chesterfield                   38/100
      ...
    24/24 Rotherham United               17/100  (la fa meno spesso)
 
@@ -3115,7 +3109,7 @@ SOTTOFREQUENZA 12 + GOAL
     1/24 Salford City                   44/100
     2/24 Barnet                         43/100
     3/24 Bristol Rovers                 41/100
-    4/24 Chesterfield                   38/100
+    4/24 Chesterfield                   39/100
     5/24 Swindon Town                   37/100
      ...
    24/24 Rotherham United               21/100  (la fa meno spesso)
@@ -3231,7 +3225,7 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/18 Paris Saint-Germain            56/100
     2/18 Monaco                         45/100
-    3/18 Lens                           44/100
+    3/18 Lens                           43/100
     4/18 Le Mans                        41/100
     5/18 Strasbourg                     39/100
     6/18 Auxerre                        39/100
@@ -3284,7 +3278,7 @@ SOTTOFREQUENZA 12 + GOAL
 SPAGNA - LALIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Espanyol                       53/100
+    1/20 Espanyol                       52/100
     2/20 Sevilla                        49/100
     3/20 Elche                          48/100
     4/20 Valencia                       45/100
@@ -3364,7 +3358,7 @@ SOTTOFREQUENZA X2 + GOAL
    17/17 Kortrijk                       26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/17 Club Brugge                    45/100
+    1/17 Club Brugge                    46/100
     2/17 Zulte Waregem                  44/100
     3/17 Lommel                         40/100
     4/17 Genk                           39/100
@@ -4012,7 +4006,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/10 Drogheda United                50/100
     2/10 Dundalk                        41/100
     3/10 Sligo Rovers                   39/100
-    4/10 Bohemian FC                    39/100
+    4/10 Bohemian FC                    38/100
     5/10 Shelbourne                     35/100
     6/10 Derry City                     35/100
      ...
@@ -4030,7 +4024,7 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/10 Waterford FC                   38/100
     2/10 Drogheda United                37/100
-    3/10 Bohemian FC                    34/100
+    3/10 Bohemian FC                    35/100
     4/10 St. Patrick's Athletic         33/100
     5/10 Sligo Rovers                   33/100
      ...
