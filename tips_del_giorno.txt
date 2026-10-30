@@ -1,46 +1,46 @@
 TIPS DEL GIORNO - 30/10/2026
-Aggiornato: 30/10/2026 15:47 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 30/10/2026 16:41 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
- 1. CASA      16:00  Liptovský Mikuláš vs Žilina B   [SLOVACCHIA - 2. LIGA]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 75,0  (Freq 100 · Rit 100 · Lega 69 · GG 3)
-    Sono 10 partite che Liptovský Mikuláš resta senza il 12+GOAL in casa: di solito ne saltano un paio, e la vede abbastanza spesso, circa il 46% delle volte. In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 2 volte.
-
- 2. TOTALE    20:30  Elversberg vs Mainz 05   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 73,8  (Freq 79 · Rit 69 · Lega 59 · GG 72 · xG 92)
+ 1. TOTALE    20:30  Elversberg vs Mainz 05   [GERMANIA - BUNDESLIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 75,3  (Freq 82 · Rit 71 · Lega 61 · GG 71 · xG 92)
     Sono 11 partite che Mainz 05 resta senza l'1X+GOAL: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 6 volte e c'è tanto xG.
 
- 3. TOTALE    20:15  Xamax vs Aarau   [SVIZZERA - CHALLENGE LEAGUE]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 72,2  (Freq 91 · Rit 31 · Lega 84 · GG 97)
+ 2. TOTALE    20:15  Xamax vs Aarau   [SVIZZERA - CHALLENGE LEAGUE]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 73,3  (Freq 95 · Rit 32 · Lega 84 · GG 96)
     L'1X+GOAL si fa aspettare da Xamax: 6 gare, di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 40% delle volte. Anche il campionato la vede spesso e il GG nelle ultime 10 è uscito 10 volte.
 
- 4. CASA      21:05  Lille vs Lens   [FRANCIA - LIGUE 1]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 71,6  (Freq 59 · Rit 97 · Lega 97 · GG 28 · xG 67)
+ 3. CASA      21:05  Lille vs Lens   [FRANCIA - LIGUE 1]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 72,6  (Freq 61 · Rit 100 · Lega 96 · GG 25 · xG 67)
     Sono 11 partite che Lille resta senza il 12+GOAL in casa: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Questo campionato la produce di continuo, nelle ultime 10 il GG è uscito 4 volte e l'xG è alto.
 
- 5. CASA      17:00  FK Pohronie vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 57,6  (Freq 59 · Rit 76 · Lega 14 · GG 76)
-    Per FK Pohronie in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Nel campionato esce con regolarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
-
- 6. CASA      19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 57,5  (Freq 76 · Rit 86 · Lega 40 · GG 3)
+ 4. CASA      19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 59,2  (Freq 79 · Rit 89 · Lega 41 · GG 2)
     FC Stade Lausanne-Ouchy non vede l'X2+GOAL da 8 partite in casa: di solito ne saltano un paio, e la fa meno spesso, circa il 37% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 2 volte.
 
- 7. TOTALE    20:45  Dundalk vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 56,7  (Freq 69 · Rit 28 · Lega 72 · GG 91 · xG 33)
-    Per Shamrock Rovers l'X2+GOAL manca da 7 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 33%). In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 9 volte e l'xG dà una mano.
+ 5. CASA      17:00  FK Pohronie vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 59,0  (Freq 61 · Rit 79 · Lega 14 · GG 75)
+    Per FK Pohronie in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Nel campionato esce con regolarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
 
- 8. TRASFERTA 20:00  Helmond Sport vs FC Eindhoven   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 56,6  (Freq 38 · Rit 79 · Lega 50 · GG 55)
+ 6. TRASFERTA 20:00  Helmond Sport vs FC Eindhoven   [OLANDA - EERSTE DIVISIE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 58,0  (Freq 39 · Rit 82 · Lega 52 · GG 54)
     Sono 8 partite che FC Eindhoven resta senza l'X2+GOAL in trasferta: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 34% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il gol di entrambe è arrivato 5 volte.
 
- 9. TRASFERTA 19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 55,5  (Freq 48 · Rit 83 · Lega 62 · GG 12 · xG 58)
+ 7. TOTALE    20:45  Dundalk vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 57,3  (Freq 71 · Rit 29 · Lega 71 · GG 91 · xG 33)
+    Per Shamrock Rovers l'X2+GOAL manca da 7 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 33%). In questo campionato non è una rarità, il GG nelle ultime 10 è uscito 9 volte e l'xG dà una mano.
+
+ 8. TRASFERTA 19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 56,6  (Freq 50 · Rit 86 · Lega 64 · GG 9 · xG 58)
     L'X2+GOAL si fa aspettare da Randers FC in trasferta: 8 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 35% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 3 volte e c'è tanto xG.
 
-10. TOTALE    20:30  Reggiana vs Sambenedettese   [ITALIA - SERIE C]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 53,5  (Freq 59 · Rit 22 · Lega 66 · GG 83)
+ 9. TOTALE    20:30  Reggiana vs Sambenedettese   [ITALIA - SERIE C]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 54,7  (Freq 61 · Rit 23 · Lega 68 · GG 82)
     Sono 7 partite che Reggiana resta senza l'1X+GOAL: di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. In questo campionato non è una rarità e il GG nelle ultime 10 è uscito 9 volte.
+
+10. CASA      19:00  AaB vs Hobro   [DANIMARCA - 1. DIVISION]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 54,2  (Freq 50 · Rit 75 · Lega 30 · GG 54)
+    Per AaB in casa il 12+GOAL manca da 7 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 35%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 5 volte.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
