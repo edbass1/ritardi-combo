@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 30/10/2026 00:27 (ora italiana)
+Aggiornato: 30/10/2026 01:35 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -13,7 +13,7 @@ Fonte: FotMob
    2/44  DANIMARCA - SUPERLIGAEN          1 ogni 1,9       (37/72, 12 giornate)
    3/44  REP. CECA - FNL                  1 ogni 2,0       (48/96, 12 giornate)
    4/44  USA/CANADA - MLS                 1 ogni 2,1       (227/480, 32 giornate)
-   5/44  BRASILE - SÉRIE A                1 ogni 2,2       (149/324, 33 giornate)
+   5/44  BRASILE - SÉRIE A                1 ogni 2,2       (149/325, 33 giornate)
    6/44  DANIMARCA - 1. DIVISION          1 ogni 2,2       (33/72, 12 giornate)
    7/44  INGHILTERRA - CHAMPIONSHIP       1 ogni 2,2       (66/144, 12 giornate)
    8/44  OLANDA - EREDIVISIE              1 ogni 2,2       (41/90, 10 giornate)
@@ -76,7 +76,7 @@ X2 + GOAL
   17/44  SPAGNA - LALIGA                  1 ogni 2,8       (36/99, 10 giornate)
   18/44  FRANCIA - LIGUE 1                1 ogni 2,8       (26/72, 8 giornate)
   19/44  OLANDA - EERSTE DIVISIE          1 ogni 2,8       (43/120, 12 giornate)
-  20/44  BRASILE - SÉRIE A                1 ogni 2,8       (115/324, 33 giornate)
+  20/44  BRASILE - SÉRIE A                1 ogni 2,8       (115/325, 33 giornate)
   21/44  POLONIA - EKSTRAKLASA            1 ogni 2,9       (37/106, 12 giornate)
   22/44  SCOZIA - PREMIERSHIP             1 ogni 2,9       (23/66, 11 giornate)
   23/44  NORVEGIA - OBOS-LIGAEN           1 ogni 2,9       (78/224, 28 giornate)
@@ -128,7 +128,7 @@ X2 + GOAL
   21/44  SCOZIA - PREMIERSHIP             1 ogni 2,6       (25/66, 11 giornate)
   22/44  SPAGNA - LALIGA 2                1 ogni 2,7       (45/121, 11 giornate)
   23/44  INGHILTERRA - LEAGUE ONE         1 ogni 2,7       (53/143, 13 giornate)
-  24/44  BRASILE - SÉRIE A                1 ogni 2,7       (120/324, 33 giornate)
+  24/44  BRASILE - SÉRIE A                1 ogni 2,7       (120/325, 33 giornate)
   25/44  FRANCIA - LIGUE 2                1 ogni 2,7       (33/90, 10 giornate)
   26/44  ITALIA - SERIE B                 1 ogni 2,7       (33/90, 9 giornate)
   27/44  DANIMARCA - SUPERLIGAEN          1 ogni 2,8       (26/72, 12 giornate)
