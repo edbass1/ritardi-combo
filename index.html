@@ -73,7 +73,7 @@ details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:v
 <div id="zoom"><button onclick="z(-1)" aria-label="Riduci">−</button><button onclick="z(1)" aria-label="Ingrandisci">+</button></div>
 <script>var Z=parseFloat(localStorage.getItem('zoomRC')||'1');function ap(){document.querySelectorAll('pre').forEach(function(p){p.style.fontSize='calc(clamp(.72rem,2.6vw,.92rem)*'+Z+')'});document.querySelectorAll('.fxlist').forEach(function(f){f.style.fontSize=(Z*100)+'%'})}function z(d){Z=Math.min(3,Math.max(0.5,Math.round((Z+d*0.1)*10)/10));localStorage.setItem('zoomRC',Z);ap()}document.addEventListener('DOMContentLoaded',ap);</script>
 <h1>Ritardi Combo Doppia Chance</h1>
-<p>Ultimo aggiornamento: <b>30/10/2026 12:45</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
+<p>Ultimo aggiornamento: <b>30/10/2026 12:56</b> (ora italiana) &middot; si aggiorna ogni 6 ore</p>
 <p class="leg">Totali, Casa e Trasferta sono nella stessa pagina, una sotto l&rsquo;altra. In Prossime partite la stessa gara può comparire più volte: prima <b>TOTALE</b>, poi <b>CASA</b> e/o <b>TRASFERTA</b>. Il passaggio sul nome apre sempre la classifica totale, con i punti delle ultime 5 partite.</p>
 <button id="hamb" aria-label="Menu" onclick="document.getElementById('side').classList.toggle('open')">☰</button>
 <aside id="side" onclick="if(event.target.closest('a.sbig,a.ssm'))this.classList.remove('open')">
@@ -99,7 +99,7 @@ details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:v
 <details class="rules"><summary>Come viene calcolato il punteggio</summary><ul><li>Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.</li><li>Casa usa solo la squadra che gioca in casa e i suoi numeri in casa. Trasferta usa solo chi gioca fuori. Totale usa entrambe, sulle partite complessive.</li><li>Serve un ritardo di almeno 6 e almeno 30 partite di storico. La frequenza è sulle ultime 100 se ci sono, altrimenti sullo stesso storico del ritardo.</li><li>Ogni fattore è un percentile da 0 a 100 calcolato sulle candidate di oggi: chi ha il valore più alto prende 100, chi ha il più basso prende 0.</li><li>Frequenza squadra, peso 24. Più la squadra fa uscire quella combo, più punti. Chi la fa meno prende meno.</li><li>Ritardo rispetto alla media, peso 26. La media è quante partite passano di solito tra un&#x27;uscita e l&#x27;altra. Più il ritardo attuale supera quella media, più punti.</li><li>Frequenza del campionato, peso 18. È la classifica totale della stagione (1 ogni N): i campionati in cui la combo esce più spesso pesano di più. Se il campionato non è in classifica, il fattore si salta.</li><li>GG sulle ultime 10, peso 16. Più volte hanno segnato entrambe, più punti. Con meno di 10 gare recenti il conto si riporta su 10.</li><li>xG, peso 16. Media a partita di fatti più subiti; se i subiti non ci sono, solo i fatti. Più è alto, più punti. Se manca, non è una penalità: si salta e il peso va agli altri fattori.</li><li>Il punteggio mostrato è la media pesata dei percentili disponibili, da 0 a 100. Accanto ci sono i percentili dei singoli fattori. Nessuna garanzia: sono solo statistiche.</li></ul></details>
 <h2 id="sotto">Sottofrequenze (ultime 100 partite)</h2>
 <div class="venue" data-v="all"><p class="vnote">Vista <b>Totali</b> · tutte le partite, in casa o in trasferta</p><pre>SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N&lt;100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1570,7 +1570,7 @@ SOTTOFREQUENZA 12 + GOAL
    17/17 Odra Opole                     26/100  (la fa meno spesso)
 
 </pre></div><div class="venue" data-v="home"><p class="vnote">Vista <b>Casa</b> · solo le partite giocate in casa</p><pre>SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N&lt;100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2983,7 +2983,7 @@ SOTTOFREQUENZA 12 + GOAL
    14/14 Chrobry Głogów                 24/100  (la fa meno spesso)
 
 </pre></div><div class="venue" data-v="away"><p class="vnote">Vista <b>Trasferta</b> · solo le partite giocate in trasferta</p><pre>SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N&lt;100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4661,7 +4661,7 @@ SOTTOFREQUENZA 12 + GOAL
 <div class="fx"><span class="vtag all">TOTALE</span><div class="fxh"><span class="time copy-time" data-copy="Internacional vs Coritiba" title="Clicca per copiare la partita">01:30</span> <span class="pt" data-k="38" data-a="Internacional" data-b="Coritiba">Internacional</span> vs <span class="pt" data-k="38" data-a="Internacional" data-b="Coritiba">Coritiba</span> <span class="lg">BRASILE - SÉRIE A</span> <span class="dz ok">12+GOAL</span> <a class="book book-b365 generic" href="https://www.bet365.it/#/AS/B1/" target="_blank" rel="noopener">bet365</a></div><div class="xgline"><span class="xg" title="Media xG totali a partita su 33 gare della fase o stagione corrente (FotMob): fatti 1,48 + subiti 1,33.">Internacional <b>xG 2,81</b> <small>(1,48+1,33)</small></span> · <span class="xg" title="Media xG totali a partita su 32 gare della fase o stagione corrente (FotMob): fatti 1,07 + subiti 1,64.">Coritiba <b>xG 2,71</b> <small>(1,07+1,64)</small></span></div><div class="tagrow"><span class="tag goal">GOAL</span> <b><span class="pt" data-k="38" data-a="Internacional" data-b="Coritiba">Coritiba</span></b> <span class="gg" title="Segnano entrambe (GG) nelle ultime 10 partite: 6 su 10.">🟢 GG 60%</span>: 12 + GOAL <span class="pp" data-k="38" data-v="all" data-c="12 + GOAL" data-t="Coritiba">(6)</span> <span class="pr" data-k="38" data-v="all" data-c="12 + GOAL" data-t="Coritiba">🔴 Coritiba</span></div></div></div>
 <h2 id="goal">Sezione 1 - 1X+Goal, X2+Goal, 12+Goal</h2>
 <div class="venue" data-v="all"><p class="vnote">Vista <b>Totali</b> · tutte le partite, in casa o in trasferta</p><pre>RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. &#x27;+&#x27; = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -6553,7 +6553,7 @@ RITARDI 12 + GOAL
   10. Pogoń Siedlce                     1
 
 </pre></div><div class="venue" data-v="home"><p class="vnote">Vista <b>Casa</b> · solo le partite giocate in casa</p><pre>RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. &#x27;+&#x27; = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -8445,7 +8445,7 @@ RITARDI 12 + GOAL
   10. Stal Mielec                       1
 
 </pre></div><div class="venue" data-v="away"><p class="vnote">Vista <b>Trasferta</b> · solo le partite giocate in trasferta</p><pre>RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. &#x27;+&#x27; = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -10340,7 +10340,7 @@ RITARDI 12 + GOAL
 <h2 id="frequenza">Frequenza campionati</h2>
 <p class="leg">Solo stagione in corso, tutte le partite (non casa/trasferta). 1 ogni N = partite giocate / uscite. Servono almeno 7 giornate. 🔥 = primi 7, ❗ = posizioni 8-14, 👻 = ultimi 10: lo stesso badge compare accanto ai ritardi, anche in Casa e Trasferta.</p>
 <pre>FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 30/10/2026 12:45 (ora italiana)
+Aggiornato: 30/10/2026 12:56 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
