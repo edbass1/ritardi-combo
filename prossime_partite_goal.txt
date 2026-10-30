@@ -1,14 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 30/10/2026 23:28 (ora italiana)
+Aggiornato: 31/10/2026 00:26 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 31/10/2026
 ==================================================
-TOTALE    00:00  Corinthians vs Mirassol   [BRASILE - SÉRIE A]
-           xG: Corinthians xG 2,23 (1,05+1,18) · Mirassol xG 2,74 (1,32+1,42)
-           Mirassol 🟢 GG 60%: 12 + GOAL (6) 🔴 Corinthians
 TRASFERTA 01:15  Racing Club vs Aldosivi   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Racing Club xG 2,77 (1,17+1,60) · Aldosivi xG 2,56 (1,00+1,56)
            Aldosivi 🟢 GG 60%: X2 + GOAL (6) 👻 35/43
@@ -592,7 +589,7 @@ CASA      21:00  Birmingham City vs Millwall   [INGHILTERRA - CHAMPIONSHIP]
            xG: Birmingham City xG 3,03 (1,66+1,37) · Millwall xG 3,12 (1,77+1,35)
            Birmingham City 🟢 GG 60%: 12 + GOAL (6) ❗ 13/43
 TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]
-           xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,74 (1,32+1,42)
+           xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,66 (1,28+1,38)
            Mirassol 🟢 GG 60%: 12 + GOAL (6)
 
 ==================================================

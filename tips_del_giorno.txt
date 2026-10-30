@@ -1,8 +1,47 @@
-TIPS DEL GIORNO - 30/10/2026
-Aggiornato: 30/10/2026 23:28 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+TIPS DEL GIORNO - 31/10/2026
+Aggiornato: 31/10/2026 00:26 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
-Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.
+ 1. CASA      17:15  Catanzaro vs Padova   [ITALIA - SERIE B]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 86,4  (Freq 78 · Rit 84 · Lega 94 · GG 83 · xG 97)
+    L'1X+GOAL si fa aspettare da Catanzaro in casa: 7 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 38%). Questo campionato la produce di continuo, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
+
+ 2. TRASFERTA 18:00  Grasshopper vs FC Vaduz   [SVIZZERA - SUPER LEAGUE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 83,8  (Freq 83 · Rit 75 · Lega 68 · GG 100 · xG 100)
+    FC Vaduz non vede l'X2+GOAL da 6 partite in trasferta: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. Anche il campionato la vede spesso, nelle ultime 6 hanno segnato entrambe 6 volte e c'è tanto xG.
+
+ 3. TOTALE    13:00  Kaiserslautern vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 80,1  (Freq 89 · Rit 99 · Lega 96 · GG 40 · xG 59)
+    Sono 18 partite che Kaiserslautern resta senza l'1X+GOAL: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. Questo campionato la produce di continuo, su 10 partite recenti il GG è uscito 7 volte e c'è tanto xG.
+
+ 4. TOTALE    16:00  Bolton Wanderers vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 79,7  (Freq 91 · Rit 79 · Lega 97 · GG 75 · xG 49)
+    L'1X+GOAL si fa aspettare da Bolton Wanderers: 8 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 46% delle volte. Questo campionato la produce di continuo, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
+
+ 5. TOTALE    19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 79,4  (Freq 95 · Rit 92 · Lega 72 · GG 83 · xG 39)
+    L'X2+GOAL si fa aspettare da Columbus Crew: 10 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e l'xG è alto.
+
+ 6. CASA      18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 77,2  (Freq 87 · Rit 78 · Lega 99 · GG 40 · xG 74)
+    L'1X+GOAL si fa aspettare da SC Heerenveen in casa: 6 gare, di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 40% delle volte. Questo campionato la produce di continuo, nelle ultime 10 il GG è uscito 4 volte e c'è tanto xG.
+
+ 7. CASA      16:00  Southampton vs Queens Park Rangers   [INGHILTERRA - CHAMPIONSHIP]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 76,8  (Freq 78 · Rit 70 · Lega 74 · GG 98 · xG 67)
+    Sono 6 partite che Southampton resta senza l'X2+GOAL in casa: di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
+
+ 8. TOTALE    05:00  Newcastle Jets vs Wellington Phoenix   [AUSTRALIA - A-LEAGUE MEN]  [ALT 12+GOAL]
+    12 + GOAL  -  punteggio 71,6  (Freq 91 · Rit 44 · GG 94 · xG 64)
+    Per Newcastle Jets il 12+GOAL manca da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 42% delle volte. Il GG nelle ultime 10 è uscito 9 volte e c'è tanto xG.
+
+ 9. CASA      15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 71,1  (Freq 90 · Rit 89 · Lega 26 · GG 65)
+    Per Portimonense in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 41% delle volte. Questo campionato la propone abbastanza spesso e nelle ultime 10 il gol di entrambe è arrivato 5 volte.
+
+10. TRASFERTA 15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 71,1  (Freq 48 · Rit 72 · Lega 89 · GG 83)
+    L'1X+GOAL si fa aspettare da IFK Värnamo in trasferta: 7 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 33% delle volte. In questo campionato non è una rarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
+
 
 COME CALCOLIAMO IL PUNTEGGIO
   Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.
