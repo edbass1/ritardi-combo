@@ -447,7 +447,7 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
         if len(rows) > 5:
             cut = rows[4][0]; rows = [r for r in rows if r[0] >= cut]
         sotto.append((name, rows))
-    res, allr, salt, danger, gg = {}, {}, [], {}, {}
+    res, allr, salt, danger, gg, hist = {}, {}, [], {}, {}, {}
     for tid, tname in teams.items():
         gg[tname] = _gg(_seq_for(tid, cur, prev_m, prev_teams, venue))
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=SALTATI_GIORNI)
@@ -499,95 +499,362 @@ def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
                     if b0 >= DANGER_MIN and b0 >= cutv: ev.append((m[0], b0))
             danger[name] = [b0 for _, b0 in sorted(ev, reverse=True)]
             for r in rows: allr.setdefault(r[1], []).append((key, name) + r)
+            hist[name] = {teams[tid]: (sum(1 for m in seq if f(m[3], m[4])), len(seq)) for tid, seq in seqs.items() if seq}
     return {"res": res, "allr": allr, "sotto": sotto, "freq": freq, "tab": tables(d, teams, venue, forms),
-            "salt": salt, "sinfo": sinfo, "danger": danger, "gg": gg}
+            "salt": salt, "sinfo": sinfo, "danger": danger, "gg": gg, "hist": hist}
 
 TIPS_MAX = 10
-TIPS_MIN_SCORE = 35
 TIPS_MIN_DELAY = 6
 TIPS_MIN_N = 30
+# Pesi su 100. Frequenza squadra e ritardo rispetto alla media pesano un po' di più.
+TIPS_WEIGHTS = (("freq", "Freq", 24), ("rit", "Rit", 26), ("lega", "Lega", 18), ("gg", "GG", 16), ("xg", "xG", 16))
+TIPS_NOTE = ("Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, "
+             "frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. "
+             "Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.")
 
-def build_tips(data, today, venue):
-    """Punteggio trasparente per (partita di oggi, combo). Vedi TIPS_RULES."""
+def _tip_pct(values):
+    """Percentile 0-100. None resta None. I pari merito prendono il rango medio."""
+    present = sorted(((i, v) for i, v in enumerate(values) if v is not None), key=lambda iv: iv[1])
+    out = [None] * len(values)
+    n = len(present)
+    i = 0
+    while i < n:
+        j = i
+        while j + 1 < n and present[j + 1][1] == present[i][1]:
+            j += 1
+        avg = (i + j) / 2
+        pct = 100.0 if n == 1 else 100.0 * avg / (n - 1)
+        for k in range(i, j + 1):
+            out[present[k][0]] = pct
+        i = j + 1
+    return out
+
+def _tip_sample(view, combo, team):
+    """Ultime 100 se lo storico c'è, altrimenti lo stesso periodo del ritardo (almeno 30)."""
+    rec = (view["freq"].get(combo) or {}).get(team)
+    if rec and rec[1] >= SOTTO_MIN:
+        return rec
+    rec = (view.get("hist") or {}).get(combo, {}).get(team)
+    if rec and rec[1] >= TIPS_MIN_N:
+        return rec
+    return None
+
+def _tip_xg(xg, tid):
+    info = (xg or {}).get(str(tid))
+    if not info or info.get("for") is None:
+        return None
+    if info.get("against") is None:
+        return float(info["for"])
+    return float(info["for"]) + float(info["against"])
+
+def _gg_per10(g):
+    if not g or not g[1]:
+        return None
+    hits, n, _pct = g
+    return hits * 10 / n
+
+def _league_hit_rate(league, combo):
+    for row in LEAGUE_FREQ.get(combo) or []:
+        if row["league"] == league and row["played"]:
+            return row["hits"] / row["played"], row.get("ogni")
+    return None, None
+
+def _it1(x):
+    return f"{float(x):.1f}".replace(".", ",")
+
+def collect_tip_candidates(data, today):
+    """Una candidata per (partita, combo, contesto). I valori grezzi si normalizzano dopo, tutti insieme."""
     cands = []
-    for LI, (c, l, r, err) in enumerate(data):
-        if not r: continue
-        v = r["venues"][venue]
-        up, teams, allr, freq = r["up"], r["teams"], v["allr"], v["freq"]
-        low = under_sets(freq)
-        delay = {(t, x[1]): x for t, xs in allr.items() for x in xs}  # (team, combo) -> (key,name,v,team,full,pct)
-        lmax = {}
-        for (t, nm), x in delay.items(): lmax.setdefault(nm, []).append(x[2])
-        for t, h, a in up:
-            lt = t.astimezone(ROME)
-            if lt.date() != today: continue
-            hn, an = teams[h], teams[a]
-            best = None
-            for nm in [n for n, _ in COMBOS["goal"]]:
-                fr = freq.get(nm, {})
-                rates = [k / n for k, n in fr.values() if n >= TIPS_MIN_N]
-                if not rates: continue
-                pL = sum(rates) / len(rates)
-                dh, da = delay.get((hn, nm)), delay.get((an, nm))
-                if not dh or not da: continue
-                if venue == "home":
-                    T, O = dh, da   # solo la squadra che oggi gioca in casa
-                elif venue == "away":
-                    T, O = da, dh   # solo la squadra che oggi gioca in trasferta
-                else:
-                    T, O = (dh, da) if dh[2] >= da[2] else (da, dh)
-                tn, on, v, pct = T[3], O[3], T[2], T[5]
-                k, n = fr.get(tn, (0, 0)); ko, no = fr.get(on, (0, 0))
-                if v < TIPS_MIN_DELAY or n < TIPS_MIN_N: continue
-                pT = k / n; pO = ko / no if no >= TIPS_MIN_N else pL
-                exp_gap = 1 / pT if pT > 0 else 99
-                srt = sorted(lmax[nm], reverse=True)
-                mx = max(srt[0], 1); med = srt[len(srt)//2]
-                s1 = 30 * v / mx                                 # ritardo rispetto al ritardo massimo del campionato
-                top3 = v >= srt[min(2, len(srt)-1)]
-                s2 = 10 if v >= srt[0] else (5 if top3 else 0)   # posizione nel campionato
-                s3 = max(-15, min(15, (pL - pT) * 100))         # recupero: squadra sotto media = positivo
-                s4 = min(8, (pct - 50) / 5) if pct >= 50 else 0  # 🟢 partite del ritardo con gol
-                s5 = max(-10, min(10, (pL - pO) * 100))         # recupero: avversaria sotto media = positivo
-                s6 = 10 if O[2] >= TIPS_MIN_DELAY else 0        # entrambe in ritardo sulla stessa combo
-                rT, rO = tn in low.get(nm, ()), on in low.get(nm, ())
-                s7 = (15 if rT else 0) + (10 if rO else 0)       # meno uscite = deve recuperare (non è il pallino rosso)
-                sc = s1 + s2 + s3 + s4 + s5 + s6 + s7
-                if not (top3 or rT or rO or pct >= 60 or s6) or sc < TIPS_MIN_SCORE: continue
-                bdg = league_badge_txt(f"{c} - {l}", nm)
-                why = [f"{tn} non fa {nm} da {v} partite{(' ' + bdg) if bdg else ''} (ritardo massimo del campionato {srt[0]}, mediano {med})"]
-                if s2 == 10: why[0] += ", ed è il ritardo più lungo del campionato"
-                elif s2: why[0] += ", tra i 3 ritardi più lunghi del campionato"
-                why[0] += "."
-                ex = []
-                if rT: ex.append(f"{tn} è in sottofrequenza ({k}/{n}), deve recuperare")
-                if rO: ex.append(f"anche {on} è in sottofrequenza su questa combo ({ko}/{no}), deve recuperare")
-                if s6: ex.append(f"anche {on} è in ritardo sulla stessa combo ({O[2]})")
-                if pct >= 50: ex.append(f"nel ritardo il {pct}% delle partite ha avuto almeno 2 gol o entrambe a segno")
-                if s3 >= 5 and not rT: ex.append(f"{tn} la fa meno della media ({round(100*pT)}% vs {round(100*pL)}%), margine di recupero")
-                if ex: why.append("Inoltre " + "; ".join(ex) + ".")
-                neg = []
-                if s3 <= -5: neg.append(f"{tn} la fa già più della media ({round(100*pT)}% vs {round(100*pL)}%)")
-                if s5 <= -5: neg.append(f"{on} la fa già spesso ({ko}/{no})")
-                if neg: why.append("Attenzione: " + "; ".join(neg) + ".")
-                cand = (round(sc, 1), lt, c, l, hn, an, nm, " ".join(why), [round(x, 1) for x in (s1, s2, s3, s4, s5, s6, s7)], LI)
-                if not best or cand[0] > best[0]: best = cand
-            if best: cands.append(best)
-    cands.sort(key=lambda x: -x[0])
-    return cands[:TIPS_MAX]
+    for venue in ("all", "home", "away"):
+        for LI, (c, l, r, err) in enumerate(data):
+            if not r:
+                continue
+            v = r["venues"][venue]
+            delay = {(t, x[1]): x for t, xs in v["allr"].items() for x in xs}
+            league = f"{c} - {l}"
+            for t, h, a in r["up"]:
+                lt = t.astimezone(ROME)
+                if lt.date() != today:
+                    continue
+                hn, an = r["teams"][h], r["teams"][a]
+                for nm, _f in COMBOS["goal"]:
+                    dh, da = delay.get((hn, nm)), delay.get((an, nm))
+                    if venue == "home":
+                        sides = [(h, hn, dh)]
+                    elif venue == "away":
+                        sides = [(a, an, da)]
+                    else:
+                        sides = [(h, hn, dh), (a, an, da)]
+                    sides = [s for s in sides if s[2]]
+                    if not sides or max(s[2][2] for s in sides) < TIPS_MIN_DELAY:
+                        continue
+                    facts = []
+                    for tid, name, rec in sides:
+                        sample = _tip_sample(v, nm, name)
+                        if not sample:
+                            continue
+                        k, n = sample
+                        streak = rec[2]
+                        base = n - streak
+                        ratio = (streak * k / base) if k > 0 and base > 0 else 0.0
+                        avg = (base / k) if k > 0 and base > 0 else None
+                        facts.append({"tid": tid, "name": name, "k": k, "n": n, "streak": streak,
+                                      "rate": k / n, "ratio": ratio, "avg": avg})
+                    if not facts:
+                        continue
+                    lega, ogni = _league_hit_rate(league, nm)
+                    gg_vals, xg_vals = [], []
+                    for fac in facts:
+                        g = _gg_per10(v["gg"].get(fac["name"]))
+                        if g is not None:
+                            gg_vals.append((fac["name"], v["gg"][fac["name"]], g))
+                        xv = _tip_xg(r["xg"], fac["tid"])
+                        if xv is not None:
+                            xg_vals.append((fac["name"], xv))
+                    cands.append({
+                        "raw": {
+                            "freq": sum(f["rate"] for f in facts) / len(facts),
+                            "rit": sum(f["ratio"] for f in facts) / len(facts),
+                            "lega": lega,
+                            "gg": (sum(g for _n, _rec, g in gg_vals) / len(gg_vals)) if gg_vals else None,
+                            "xg": (sum(x for _n, x in xg_vals) / len(xg_vals)) if xg_vals else None,
+                        },
+                        "lt": lt, "c": c, "l": l, "hn": hn, "an": an, "nm": nm, "venue": venue, "LI": LI,
+                        "facts": facts, "gg": gg_vals, "xg": xg_vals, "ogni": ogni,
+                    })
+    return cands
+
+def rank_tips(cands):
+    """Percentile di oggi per fattore, poi media pesata. Manca un fattore: il suo peso si redistribuisce."""
+    if not cands:
+        return []
+    pct = {key: _tip_pct([c["raw"][key] for c in cands]) for key, _lab, _w in TIPS_WEIGHTS}
+    for i, c in enumerate(cands):
+        acc = wsum = 0.0
+        parts = []
+        for key, lab, w in TIPS_WEIGHTS:
+            p = pct[key][i]
+            if p is None:
+                continue
+            acc += w * p
+            wsum += w
+            parts.append((key, lab, p))
+        c["score"] = (acc / wsum) if wsum else 0.0
+        c["parts"] = parts
+    best = {}
+    for c in cands:
+        key = (c["lt"].isoformat(), c["hn"], c["an"])
+        old = best.get(key)
+        if old is None or c["score"] > old["score"]:
+            best[key] = c
+    ranked = sorted(best.values(), key=lambda c: (-c["score"], c["lt"], c["hn"]))
+    return ranked[:TIPS_MAX]
+
+def _tip_seed(c):
+    raw = f"{c['hn']}|{c['an']}|{c['nm']}|{c['venue']}|{c['lt'].strftime('%Y%m%d%H%M')}"
+    h = 2166136261
+    for ch in raw:
+        h ^= ord(ch)
+        h = (h * 16777619) & 0xFFFFFFFF
+    return h
+
+def _mix(seed, slot, options):
+    return options[(seed // (3 * slot + 1) + slot) % len(options)]
+
+def _cap(s):
+    return (s[0].upper() + s[1:]) if s else s
+
+def _e(s):
+    """'e' oppure 'ed' davanti a vocale: 'ed è', 'e la fa'."""
+    if s[:1].lower() in "aeiouàèéìòù":
+        return "ed " + s
+    return "e " + s
+
+def _join_it(parts):
+    parts = [p for p in parts if p]
+    if not parts:
+        return ""
+    if len(parts) == 1:
+        return parts[0]
+    return ", ".join(parts[:-1]) + " e " + parts[-1]
+
+def _combo_label(nm):
+    if nm.startswith("1X"):
+        return "l'1X+GOAL"
+    if nm.startswith("X2"):
+        return "l'X2+GOAL"
+    return "il 12+GOAL"
+
+def _circa_pct(n):
+    """'circa il 60%' / 'circa l'82%', con l'articolo giusto."""
+    if n == 0:
+        return "circa lo 0%"
+    if n in (1, 8, 11) or 80 <= n <= 89:
+        return f"circa l'{n}%"
+    return f"circa il {n}%"
+
+def _usual_words(avg):
+    if not avg:
+        return "nello storico che guardiamo non è ancora uscita"
+    if avg < 1.25:
+        return "di solito non passa una partita senza che esca"
+    if avg < 1.85:
+        return "di solito non passa più di una partita senza"
+    if avg < 2.7:
+        return "di solito ne saltano un paio"
+    if avg < 4:
+        return "in media ne restano fuori tre o quattro"
+    return f"in media ne restano fuori circa {round(avg)}"
+
+def _freq_words(f, seed):
+    if not f["k"]:
+        return "finora non è mai uscita"
+    pct = _circa_pct(round(100 * f["rate"]))
+    if f["rate"] >= 0.55:
+        return _mix(seed, 2, [
+            f"la fa spesso, {pct} delle volte",
+            f"è una giocata che riesce spesso ({pct})",
+            f"esce spesso nel suo calendario, {pct} delle partite",
+        ])
+    if f["rate"] >= 0.4:
+        return _mix(seed, 2, [
+            f"la vede abbastanza spesso, {pct} delle volte",
+            f"la incontra abbastanza spesso, {pct} delle volte",
+        ])
+    return _mix(seed, 2, [
+        f"la fa meno spesso, {pct} delle volte",
+        f"non è tra le sue giocate più solite ({pct})",
+    ])
+
+def _league_words(ogni, seed):
+    if not ogni:
+        return ""
+    try:
+        x = float(str(ogni).replace(",", "."))
+    except ValueError:
+        return ""
+    if x <= 2.2:
+        return _mix(seed, 4, [
+            "in questo campionato la combo esce quasi una partita sì e una no",
+            "questo campionato la produce di continuo",
+        ])
+    if x <= 3.0:
+        return _mix(seed, 4, [
+            "anche il campionato la vede spesso",
+            "in questo campionato non è una rarità",
+        ])
+    if x <= 4.2:
+        return _mix(seed, 4, [
+            "nel campionato esce con regolarità",
+            "questo campionato la propone abbastanza spesso",
+        ])
+    return _mix(seed, 4, [
+        "nel campionato esce più di rado",
+        "questo campionato la vede meno spesso",
+    ])
+
+def _gg_words(gg, seed):
+    if not gg:
+        return ""
+    name, rec, _scaled = max(gg, key=lambda t: t[1][0])
+    hits, n, _pct = rec
+    if n >= 10 and hits >= 8:
+        return _mix(seed, 5, [
+            f"nelle ultime 10 hanno segnato entrambe {hits} volte",
+            f"il GG nelle ultime 10 è uscito {hits} volte",
+        ])
+    if n >= 10 and hits >= 5:
+        return _mix(seed, 5, [
+            f"nelle ultime 10 il gol di entrambe è arrivato {hits} volte",
+            f"su 10 partite recenti il GG è uscito {hits} volte",
+        ])
+    if n >= 10:
+        return f"nelle ultime 10 il GG è uscito {hits} volte"
+    return f"nelle ultime {n} hanno segnato entrambe {hits} volte"
+
+def _xg_words(xg, seed):
+    if not xg:
+        return ""
+    avg = sum(v for _name, v in xg) / len(xg)
+    if avg >= 2.7:
+        return _mix(seed, 6, ["l'xG è alto", "c'è tanto xG"])
+    if avg >= 2.2:
+        return _mix(seed, 6, ["l'xG è buono", "l'xG dà una mano"])
+    return _mix(seed, 6, ["l'xG resta nella media", "l'xG non spicca, ma c'è"])
+
+def _tip_why(c):
+    """Due frasi al massimo, in italiano semplice. Lo stampo cambia con la partita, in modo stabile."""
+    seed = _tip_seed(c)
+    combo = _combo_label(c["nm"])
+    dove = {"home": " in casa", "away": " in trasferta", "all": ""}[c["venue"]]
+    facts = c["facts"]
+    lead = max(facts, key=lambda f: (f["ratio"], f["streak"], f["rate"]))
+    usual = _usual_words(lead["avg"])
+    freq = _freq_words(lead, seed)
+    others = [f for f in facts if f is not lead]
+    if others and others[0]["rate"] >= 0.48:
+        freq += f", e anche {others[0]['name']} la trova spesso"
+    name, n = lead["name"], lead["streak"]
+    style = seed % 4
+    if style == 0:
+        first = f"{name} non vede {combo} da {n} partite{dove}: {usual}, {_e(freq)}."
+    elif style == 1:
+        first = f"Sono {n} partite che {name} resta senza {combo}{dove}: {usual}, {_e(freq)}."
+    elif style == 2:
+        first = f"{_cap(combo)} si fa aspettare da {name}{dove}: {n} gare, {usual}, {_e(freq)}."
+    else:
+        first = f"Per {name}{dove} {combo} manca da {n} partite: {usual}, {_e(freq)}."
+    extra = _join_it([
+        _league_words(c.get("ogni"), seed),
+        _gg_words(c.get("gg"), seed),
+        _xg_words(c.get("xg"), seed),
+    ])
+    if extra:
+        return first + " " + _cap(extra) + "."
+    return first
+
+def render_tips(tips, data, today, now):
+    head = [f"TIPS DEL GIORNO - {today:%d/%m/%Y}",
+            f"Aggiornato: {now} (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.",
+            TIPS_NOTE, ""]
+    rows_txt = list(head)
+    html_rows = [f'<p class="leg">{esc(TIPS_NOTE)}</p>', '<div class="fxlist">']
+    for i, c in enumerate(tips, 1):
+        sc = _it1(c["score"])
+        det = " · ".join(f"{lab} {round(p)}" for _k, lab, p in c["parts"])
+        why = _tip_why(c)
+        ctx = {"all": "TOTALE", "home": "CASA", "away": "TRASFERTA"}[c["venue"]]
+        _dh, dt = dbadges(data[c["LI"]][2]["venues"][c["venue"]]["danger"], f"{c['c']} - {c['l']}", [c["nm"]])
+        rows_txt += [f"{i:>2}. {ctx:<9} {c['lt']:%H:%M}  {c['hn']} vs {c['an']}   [{c['c']} - {c['l']}]  {dt}",
+                     f"    {c['nm']}  -  punteggio {sc}  ({det})", f"    {why}", ""]
+        dh, _dt = dbadges(data[c["LI"]][2]["venues"][c["venue"]]["danger"], f"{c['c']} - {c['l']}", [c["nm"]])
+        html_rows.append(
+            f'<div class="tip"><div class="tiph"><span class="rk">{i}</span>'
+            f'<span class="time copy-time" data-copy="{esc(c["hn"] + " vs " + c["an"])}" title="Clicca per copiare la partita">{c["lt"]:%H:%M}</span> '
+            f'{tspan(c["LI"], c["hn"], c["an"], c["hn"])} vs {tspan(c["LI"], c["hn"], c["an"], c["an"])} '
+            f'<span class="lg">{esc(c["c"])} - {esc(c["l"])}</span> {dh}</div>'
+            f'<div class="tipc"><span class="vtag {c["venue"]}">{ctx}</span><span class="tag goal">{esc(c["nm"])}</span> '
+            f'<span class="sc">{sc} pt</span> <span class="det" title="Percentili di oggi, da 0 a 100">{esc(det)}</span></div>'
+            f'<p>{esc(why)}</p></div>'
+        )
+    if not tips:
+        rows_txt.append("Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.")
+        html_rows.append("<p>Nessuna tip oggi con ritardo almeno 6 e storico sufficiente.</p>")
+    rows_txt += ["", "COME CALCOLIAMO IL PUNTEGGIO"] + ["  " + x for x in TIPS_RULES]
+    html_rows.append("</div>")
+    return {"txt": "\n".join(rows_txt) + "\n", "html": "\n".join(html_rows)}
 
 TIPS_RULES = [
- "Logica di recupero: per ogni partita di oggi e ogni combo (le 6) si considera la squadra con il ritardo più lungo; serve ritardo >= 6 e almeno 30 partite di storico.",
- "Motivo evidente obbligatorio: ritardo tra i primi 3 del campionato, oppure sottofrequenza (squadra o avversaria tra le 3 con meno uscite), oppure 🟢 >= 60%, oppure entrambe in ritardo.",
- "R  Ritardo vs campionato: 30 x ritardo / ritardo massimo del campionato su quella combo (max 30).",
- "C  Classifica campionato: +10 se è il ritardo più lungo del campionato, +5 se tra i primi 3.",
- "F  Frequenza squadra (ultime 100) sotto la media del campionato = positivo (deve recuperare): +/- 1 punto per punto %, max +/-15.",
- "G  🟢: +1 punto ogni 5% sopra il 50% di partite del ritardo con almeno 2 gol o entrambe a segno (max +8, pesa meno del bonus sottofrequenza).",
- "A  Avversaria con frequenza sotto la media = positivo: +/- 1 punto per punto %, max +/-10.",
- "E  Entrambe in ritardo (>= 6) sulla stessa combo: +10.",
- "S  Sottofrequenza = deve recuperare: +15 se la squadra in ritardo è tra le 3 con meno uscite della combo, +10 se lo è l'avversaria (cumulabili). Il pallino rosso della classifica è un'altra cosa: segna le più frequenti.",
- "Una tip per partita (la combo con punteggio più alto), punteggio minimo 35, massimo 10 tips. Tutto calcolato automaticamente da gen.py.",
- "Vista: Totali considera entrambe le squadre. Casa usa solo la squadra che gioca in casa e i suoi ritardi in casa; Trasferta solo chi gioca fuori e i suoi ritardi in trasferta.",
+ "Per ogni partita di oggi si valuta ogni combo (1X+GOAL, X2+GOAL, 12+GOAL) in Totale, Casa e Trasferta. Resta la combinazione col punteggio più alto e in classifica entrano le 10 partite migliori, dalla più alta.",
+ "Casa usa solo la squadra che gioca in casa e i suoi numeri in casa. Trasferta usa solo chi gioca fuori. Totale usa entrambe, sulle partite complessive.",
+ "Serve un ritardo di almeno 6 e almeno 30 partite di storico. La frequenza è sulle ultime 100 se ci sono, altrimenti sullo stesso storico del ritardo.",
+ "Ogni fattore è un percentile da 0 a 100 calcolato sulle candidate di oggi: chi ha il valore più alto prende 100, chi ha il più basso prende 0.",
+ "Frequenza squadra, peso 24. Più la squadra fa uscire quella combo, più punti. Chi la fa meno prende meno.",
+ "Ritardo rispetto alla media, peso 26. La media è quante partite passano di solito tra un'uscita e l'altra. Più il ritardo attuale supera quella media, più punti.",
+ "Frequenza del campionato, peso 18. È la classifica totale della stagione (1 ogni N): i campionati in cui la combo esce più spesso pesano di più. Se il campionato non è in classifica, il fattore si salta.",
+ "GG sulle ultime 10, peso 16. Più volte hanno segnato entrambe, più punti. Con meno di 10 gare recenti il conto si riporta su 10.",
+ "xG, peso 16. Media a partita di fatti più subiti; se i subiti non ci sono, solo i fatti. Più è alto, più punti. Se manca, non è una penalità: si salta e il peso va agli altri fattori.",
+ "Il punteggio mostrato è la media pesata dei percentili disponibili, da 0 a 100. Accanto ci sono i percentili dei singoli fattori. Nessuna garanzia: sono solo statistiche.",
 ]
 
 def tables(d, teams, which="all", forms=None):
@@ -920,19 +1187,6 @@ def render_venue(data, venue, now):
                 nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags for p in ps]
                 dh, dt = dbadges(view["danger"], lg, nms)
                 cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt))
-    today = datetime.datetime.now(ROME).date()
-    tips = build_tips(data, today, venue)
-    TT = [f"TIPS DEL GIORNO - {today:%d/%m/%Y} — {label.upper()}", f"Aggiornato: {now} (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.", ""]
-    TH = []
-    for i, (sc, lt, c, l, hn, an, nm, why, comp, LIX) in enumerate(tips, 1):
-        det = " ".join(f"{a}{b:+g}" for a, b in zip("RCFGAES", comp))
-        dh, dt = dbadges(data[LIX][2]["venues"][venue]["danger"], f"{c} - {l}", [nm])
-        TT += [f"{i:>2}. {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}", f"    {nm}  -  punteggio {sc}  ({det})", f"    {why}", ""]
-        TH.append(f'<div class="tip"><div class="tiph"><span class="rk">{i}</span><span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> {tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} <span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div><div class="tipc"><span class="tag goal">{esc(nm)}</span> <span class="sc">{sc} pt</span> <span class="det">{det}</span></div><p>{esc(why)}</p></div>')
-    if not tips:
-        TT.append("Nessuna tip convincente oggi.")
-        TH.append("<p>Nessuna tip convincente oggi.</p>")
-    TT += ["", "REGOLE DEL PUNTEGGIO"] + ["  " + x for x in TIPS_RULES]
     sal = []
     for c, l, r, err in data:
         if not r:
@@ -957,8 +1211,6 @@ def render_venue(data, venue, now):
         "goal": "\n".join(goal_L) + "\n",
         "sotto": "\n".join(sotto_L) + "\n",
         "cards": cf,
-        "tips": "\n".join(TT) + "\n",
-        "tips_html": vwrap(venue, '<div class="fxlist">' + "\n".join(TH) + "</div>"),
         "saltati": "\n".join(ST) + "\n",
         "saltati_html": vwrap(venue, '<div class="fxlist">' + "\n".join(SH) + "</div>"),
         "goal_html": vwrap(venue, "<pre>" + html.escape("\n".join(goal_L) + "\n") + "</pre>"),
@@ -1101,7 +1353,7 @@ h3.day{color:var(--accent);margin:1.4rem 0 .5rem;border-bottom:1px solid var(--l
 .tip{background:var(--card2);border:1px solid var(--accent);border-radius:var(--radius);padding:.7rem .9rem;margin:.6rem 0;box-shadow:var(--glow)}
 .tiph{font-weight:700;color:var(--fg)}
 .rk{display:inline-block;min-width:1.7em;height:1.7em;line-height:1.7em;text-align:center;border-radius:50%;background:var(--accent);color:var(--on);margin-right:.5rem}
-.tipc{margin:.4rem 0}.sc{color:var(--accent);font-weight:700;margin-left:.4rem}.det{color:var(--muted);font-size:.8em;margin-left:.4rem}
+.tipc{margin:.4rem 0}.tipc .vtag{margin:0 .35rem 0 0;vertical-align:middle}.sc{color:var(--accent);font-weight:700;margin-left:.15rem}.det{color:var(--muted);font-size:.8em;margin-left:.4rem}
 .tip p{margin:.3rem 0 0;color:var(--ink)}
 details.rules{color:var(--dim);margin:.5rem 0 1rem}details.rules summary{color:var(--accent);cursor:pointer}
 #totop{position:fixed;right:12px;bottom:14px;z-index:99;width:48px;height:48px;border-radius:50%;border:2px solid var(--accent);background:color-mix(in srgb, var(--bg) 88%, transparent);color:var(--accent);font-size:1.5rem;font-weight:bold;cursor:pointer;box-shadow:var(--glow);opacity:0;pointer-events:none;transition:opacity .2s}
@@ -1216,7 +1468,13 @@ def main():
         print(f"  {name}: " + ", ".join(f"{r['pos']}.{r['league']}={r['ogni'] or 'mai'}" for r in rows[:3]), flush=True)
     chunks = {venue: render_venue(data, venue, now) for venue, _label, _desc in VENUES}
     prossime = render_prossime(chunks, now)
-    open("tips_del_giorno.txt", "w").write(_bundle(chunks, "tips"))
+    today = datetime.datetime.now(ROME).date()
+    tips = render_tips(rank_tips(collect_tip_candidates(data, today)), data, today, now)
+    print("TIPS", flush=True)
+    for line in tips["txt"].splitlines():
+        if line[:2].strip().isdigit() or line.startswith("    "):
+            print(line, flush=True)
+    open("tips_del_giorno.txt", "w").write(tips["txt"])
     open("saltati.txt", "w").write(_bundle(chunks, "saltati"))
     open("sottofrequenze.txt", "w").write(_bundle(chunks, "sotto"))
     open("prossime_partite.txt", "w").write(prossime["txt"])
@@ -1231,7 +1489,7 @@ def main():
         "___CSS___": _page_css(),
         "___NOW___": esc(now),
         "___THEMEOPTS___": opts,
-        "___TIPS___": "".join(chunks[v]["tips_html"] for v, _l, _d in VENUES),
+        "___TIPS___": tips["html"],
         "___RULES___": "".join(f"<li>{esc(x)}</li>" for x in TIPS_RULES),
         "___SOTTO___": "".join(chunks[v]["sotto_html"] for v, _l, _d in VENUES),
         "___PROSSIME___": prossime["html"],
