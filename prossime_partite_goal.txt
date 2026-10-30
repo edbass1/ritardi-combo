@@ -1,739 +1,676 @@
-##################################################
-# TOTALI
-##################################################
-
-PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TOTALI
-Aggiornato: 30/10/2026 01:35 (ora italiana)
-Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
+PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
+Aggiornato: 30/10/2026 11:17 (ora italiana)
+Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 30/10/2026
 ==================================================
-17:00  FC Vlašim vs Ústí nad Labem   [REP. CECA - FNL]
-      FC Vlašim 🟢 GG 70%: X2 + GOAL (7) 🔥 2/44 🔴 FC Vlašim
-19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
-      FC Stade Lausanne-Ouchy 🟢 GG 30%: 1X + GOAL (6) 🔴 Yverdon; X2 + GOAL (6) 🔴 FC Stade Lausanne-Ouchy; 12 + GOAL (7)
-20:00  Nantes vs Clermont Foot   [FRANCIA - LIGUE 2]
-      xG: Nantes xG 2,42 (1,39+1,03) · Clermont Foot xG 2,44 (0,84+1,60)
-      Nantes 🟢 GG 50%: 1X + GOAL (6) 🔴 Clermont Foot
-20:15  Xamax vs Aarau   [SVIZZERA - CHALLENGE LEAGUE]
-      Xamax 🟢 GG 50%: 1X + GOAL (6) 🔴 Xamax 🔴 Aarau
-20:30  Elversberg vs Mainz 05   [GERMANIA - BUNDESLIGA]
-      xG: Elversberg xG 3,77 (1,48+2,29) · Mainz 05 xG 3,87 (2,24+1,63)
-      Mainz 05 🟢 GG 60%: 1X + GOAL (11)
-20:30  Reggiana vs Sambenedettese   [ITALIA - SERIE C]
-      Reggiana 🟢 GG 40%: 1X + GOAL (7); X2 + GOAL (6) 🔴 Sambenedettese; 12 + GOAL (6)
-20:30  Pogoń Grodzisk Mazowiecki vs Stal Mielec   [POLONIA - I LIGA]
-      Pogoń Grodzisk Mazowiecki 🟢 GG 40%: X2 + GOAL (6)
-20:30  Stenhousemuir vs Livingston   [SCOZIA - CHAMPIONSHIP]
-      Stenhousemuir 🟢 GG 20%: 12 + GOAL (8) 👻 44/44 🔴 Livingston
-20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
-      xG: Zulte Waregem xG 2,93 (1,27+1,66) · Club Brugge xG 4,02 (2,71+1,31)
-      Zulte Waregem 🟢 GG 30%: 12 + GOAL (8) 👻 39/44 🔴 Zulte Waregem 🔴 Club Brugge
-20:45  Dundalk vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]
-      xG: Dundalk xG 2,96 (1,50+1,46) · Shamrock Rovers xG 2,42 (1,39+1,03)
-      Shamrock Rovers 🟢 GG 50%: X2 + GOAL (7) ❗ 8/44 🔴 Dundalk
-20:45  St. Patrick's Athletic vs Bohemian FC   [IRLANDA - PREMIER DIVISION]
-      xG: St. Patrick's Athletic xG 2,62 (1,72+0,90) · Bohemian FC xG 2,61 (1,55+1,06)
-      St. Patrick's Athletic 🟢 GG 30%: 1X + GOAL (9)
-21:15  Casa Pia AC vs Sporting CP   [PORTOGALLO - LIGA PORTUGAL]
-      xG: Casa Pia AC xG 2,59 (0,94+1,65) · Sporting CP xG 2,86 (1,95+0,91)
-      Casa Pia AC 🟢 GG 30%: 1X + GOAL (9) 👻 42/44
+CASA      16:00  Liptovský Mikuláš vs Žilina B   [SLOVACCHIA - 2. LIGA]
+           Liptovský Mikuláš 🟢 GG 20%: 12 + GOAL (10) 🔴 Liptovský Mikuláš 🔴 Žilina B
+TOTALE    17:00  FC Vlašim vs Ústí nad Labem   [REP. CECA - FNL]
+           FC Vlašim 🟢 GG 70%: X2 + GOAL (7) 🔥 2/44 🔴 FC Vlašim
+CASA      17:00  FK Pohronie vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
+           FK Pohronie 🟢 GG 60%: X2 + GOAL (7) 👻 35/44 🔴 FK Pohronie 🔴 Slovan Bratislava B
+CASA      18:30  SKN St. Pölten vs FC Hertha Wels   [AUSTRIA - 2. LIGA]
+           SKN St. Pölten 🟢 GG 20%: X2 + GOAL (11) 👻 42/44
+CASA      19:00  AaB vs Hobro   [DANIMARCA - 1. DIVISION]
+           AaB 🟢 GG 50%: 12 + GOAL (7) 🔴 Hobro
+CASA      19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]
+           xG: Lyngby xG 3,30 (1,66+1,64) · Randers FC xG 2,96 (1,21+1,75)
+           Lyngby 🟢 GG 83% (5/6): 12 + GOAL (6+)
+TRASFERTA 19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]
+           xG: Lyngby xG 3,30 (1,66+1,64) · Randers FC xG 2,96 (1,21+1,75)
+           Randers FC 🟢 GG 30%: X2 + GOAL (8) ❗ 14/44
+CASA      19:00  Bodø/Glimt vs Viking   [NORVEGIA - ELITESERIEN]
+           xG: Bodø/Glimt xG 3,88 (2,91+0,97) · Viking xG 3,55 (2,30+1,25)
+           Bodø/Glimt 🟢 GG 40%: X2 + GOAL (17)
+TRASFERTA 19:30  FC Rapperswil-Jona vs Stade Nyonnais   [SVIZZERA - CHALLENGE LEAGUE]
+           Stade Nyonnais 🟢 GG 50%: X2 + GOAL (11)
+TOTALE    19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
+           FC Stade Lausanne-Ouchy 🟢 GG 30%: 1X + GOAL (6) 🔴 Yverdon; X2 + GOAL (6) 🔴 FC Stade Lausanne-Ouchy; 12 + GOAL (7)
+CASA      19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
+           FC Stade Lausanne-Ouchy 🟢 GG 20%: X2 + GOAL (8) 🔴 FC Stade Lausanne-Ouchy
+TOTALE    20:00  Nantes vs Clermont Foot   [FRANCIA - LIGUE 2]
+           xG: Nantes xG 2,42 (1,39+1,03) · Clermont Foot xG 2,44 (0,84+1,60)
+           Nantes 🟢 GG 50%: 1X + GOAL (6) 🔴 Clermont Foot
+CASA      20:00  FC Volendam vs De Graafschap   [OLANDA - EERSTE DIVISIE]
+           FC Volendam 🟢 GG 50% (3/6): X2 + GOAL (6+)
+TRASFERTA 20:00  Helmond Sport vs FC Eindhoven   [OLANDA - EERSTE DIVISIE]
+           FC Eindhoven 🟢 GG 50%: X2 + GOAL (8)
+TOTALE    20:15  Xamax vs Aarau   [SVIZZERA - CHALLENGE LEAGUE]
+           Xamax 🟢 GG 50%: 1X + GOAL (6) 🔴 Xamax 🔴 Aarau
+TOTALE    20:30  Elversberg vs Mainz 05   [GERMANIA - BUNDESLIGA]
+           xG: Elversberg xG 3,77 (1,48+2,29) · Mainz 05 xG 3,87 (2,24+1,63)
+           Mainz 05 🟢 GG 60%: 1X + GOAL (11)
+TOTALE    20:30  Reggiana vs Sambenedettese   [ITALIA - SERIE C]
+           Reggiana 🟢 GG 40%: 1X + GOAL (7); X2 + GOAL (6) 🔴 Sambenedettese; 12 + GOAL (6)
+TOTALE    20:30  Pogoń Grodzisk Mazowiecki vs Stal Mielec   [POLONIA - I LIGA]
+           Pogoń Grodzisk Mazowiecki 🟢 GG 40%: X2 + GOAL (6)
+CASA      20:30  Pogoń Grodzisk Mazowiecki vs Stal Mielec   [POLONIA - I LIGA]
+           Pogoń Grodzisk Mazowiecki 🟢 GG 40%: 12 + GOAL (7)
+TOTALE    20:30  Stenhousemuir vs Livingston   [SCOZIA - CHAMPIONSHIP]
+           Stenhousemuir 🟢 GG 20%: 12 + GOAL (8) 👻 44/44 🔴 Livingston
+TOTALE    20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
+           xG: Zulte Waregem xG 2,93 (1,27+1,66) · Club Brugge xG 4,02 (2,71+1,31)
+           Zulte Waregem 🟢 GG 30%: 12 + GOAL (8) 👻 39/44 🔴 Zulte Waregem 🔴 Club Brugge
+CASA      20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
+           xG: Zulte Waregem xG 2,93 (1,27+1,66) · Club Brugge xG 4,02 (2,71+1,31)
+           Zulte Waregem 🟢 GG 40%: X2 + GOAL (6) 👻 44/44
+CASA      20:45  Drogheda United vs Galway United FC   [IRLANDA - PREMIER DIVISION]
+           xG: Drogheda United xG 2,68 (1,11+1,57) · Galway United FC xG 2,78 (1,28+1,50)
+           Drogheda United 🟢 GG 40%: 1X + GOAL (6)
+TOTALE    20:45  Dundalk vs Shamrock Rovers   [IRLANDA - PREMIER DIVISION]
+           xG: Dundalk xG 2,96 (1,50+1,46) · Shamrock Rovers xG 2,42 (1,39+1,03)
+           Shamrock Rovers 🟢 GG 50%: X2 + GOAL (7) ❗ 8/44 🔴 Dundalk
+TOTALE    20:45  St. Patrick's Athletic vs Bohemian FC   [IRLANDA - PREMIER DIVISION]
+           xG: St. Patrick's Athletic xG 2,62 (1,72+0,90) · Bohemian FC xG 2,61 (1,55+1,06)
+           St. Patrick's Athletic 🟢 GG 30%: 1X + GOAL (9)
+TRASFERTA 21:00  Sheffield United vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Sheffield United xG 2,67 (1,21+1,46) · Wrexham xG 2,32 (1,13+1,19)
+           Wrexham 🟢 GG 40%: 12 + GOAL (6) ❗ 13/44
+CASA      21:05  Lille vs Lens   [FRANCIA - LIGUE 1]
+           xG: Lille xG 3,07 (1,41+1,66) · Lens xG 3,42 (1,90+1,52)
+           Lille 🟢 GG 40%: 12 + GOAL (11) 🔥 5/44
+TOTALE    21:15  Casa Pia AC vs Sporting CP   [PORTOGALLO - LIGA PORTUGAL]
+           xG: Casa Pia AC xG 2,59 (0,94+1,65) · Sporting CP xG 2,86 (1,95+0,91)
+           Casa Pia AC 🟢 GG 30%: 1X + GOAL (9) 👻 42/44
 
 ==================================================
 31/10/2026
 ==================================================
-00:00  Corinthians vs Mirassol   [BRASILE - SÉRIE A]
-      xG: Corinthians xG 2,23 (1,05+1,18) · Mirassol xG 2,74 (1,32+1,42)
-      Mirassol 🟢 GG 60%: 12 + GOAL (6) 🔴 Corinthians
-05:00  Newcastle Jets vs Wellington Phoenix   [AUSTRALIA - A-LEAGUE MEN]
-      xG: Newcastle Jets xG 3,91 (1,63+2,28) · Wellington Phoenix xG 2,35 (1,44+0,91)
-      Newcastle Jets 🟢 GG 90%: 12 + GOAL (7)
-      Wellington Phoenix 🟢 GG 40%: X2 + GOAL (6) 🔴 Newcastle Jets
-09:40  Macarthur FC vs Western Sydney Wanderers FC   [AUSTRALIA - A-LEAGUE MEN]
-      xG: Macarthur FC xG 2,64 (1,31+1,33) · Western Sydney Wanderers FC xG 2,31 (1,66+0,65)
-      Western Sydney Wanderers FC 🟢 GG 50%: X2 + GOAL (6) 🔴 Macarthur FC
-13:00  Darmstadt vs Magdeburg   [GERMANIA - 2. BUNDESLIGA]
-      xG: Darmstadt xG 2,67 (1,04+1,63) · Magdeburg xG 2,94 (1,37+1,57)
-      Darmstadt 🟢 GG 40%: X2 + GOAL (8)
-13:00  Kaiserslautern vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
-      xG: Kaiserslautern xG 2,82 (1,47+1,35) · Hertha BSC xG 3,42 (2,21+1,21)
-      Kaiserslautern 🟢 GG 10%: 1X + GOAL (18); X2 + GOAL (6) 🔴 Hertha BSC; 12 + GOAL (6) 🔴 Hertha BSC
-13:30  Fredericia vs AB   [DANIMARCA - 1. DIVISION]
-      AB 🟢 GG 30%: 1X + GOAL (6) 🔥 6/44
-13:30  Bradford City vs Huddersfield Town   [INGHILTERRA - LEAGUE ONE]
-      xG: Bradford City xG 2,21 (1,22+0,99) · Huddersfield Town xG 3,18 (2,24+0,94)
-      Bradford City 🟢 GG 20%: 12 + GOAL (8)
-13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
-      Manchester United 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Chelsea
-13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
-      xG: Leyton Orient xG 2,72 (1,14+1,58) · Cambridge United xG 2,84 (1,36+1,48)
-      Leyton Orient 🟢 GG 40%: X2 + GOAL (6) ❗ 13/44
-13:30  Port Vale vs Rochdale   [INGHILTERRA - LEAGUE TWO]
-      xG: Port Vale xG 2,18 (1,15+1,03) · Rochdale xG 2,61 (0,82+1,79)
-      Port Vale 🟢 GG 30%: 12 + GOAL (7) 👻 41/44
-14:30  Giugliano vs Casertana   [ITALIA - SERIE C]
-      Giugliano 🟢 GG 30%: X2 + GOAL (10)
-15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
-      Torreense 🟢 GG 40%: 12 + GOAL (7) 👻 40/44 🔴 Portimonense
-15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
-      Slovan Liberec 🟢 GG 20%: 1X + GOAL (7) 👻 37/44
-15:00  Nordic United FC vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
-      GIF Sundsvall 🟢 GG 20%: X2 + GOAL (9) ❗ 11/44
-15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]
-      IFK Värnamo 🟢 GG 70%: 1X + GOAL (6)
-15:30  Floridsdorfer AC vs Kapfenberger SV   [AUSTRIA - 2. LIGA]
-      Floridsdorfer AC 🟢 GG 30%: X2 + GOAL (7) 👻 42/44
-15:30  Schalke 04 vs RB Leipzig   [GERMANIA - BUNDESLIGA]
-      xG: Schalke 04 xG 2,88 (1,03+1,85) · RB Leipzig xG 3,95 (2,37+1,58)
-      RB Leipzig 🟢 GG 50%: X2 + GOAL (11)
-15:30  TS Podbeskidzie Bielsko-Biała vs Warta Poznań   [POLONIA - I LIGA]
-      Warta Poznań 🟢 GG 50%: X2 + GOAL (9)
-16:00  Accrington Stanley vs Northampton Town   [INGHILTERRA - LEAGUE TWO]
-      xG: Accrington Stanley xG 2,93 (1,64+1,29) · Northampton Town xG 2,14 (0,92+1,22)
-      Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
-16:00  Bolton Wanderers vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Bolton Wanderers xG 3,37 (1,39+1,98) · Bristol City xG 2,62 (1,31+1,31)
-      Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 7/44
-      Bristol City 🟢 GG 50%: 12 + GOAL (6) ❗ 13/44
-16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
-      xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
-      Colchester United 🟢 GG 50%: 12 + GOAL (7) 👻 41/44
-16:00  Coventry City vs Sunderland   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Coventry City xG 2,43 (0,95+1,48) · Sunderland xG 3,30 (1,42+1,88)
-      Coventry City 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 38/44
-16:00  Leicester City vs Stevenage   [INGHILTERRA - LEAGUE ONE]
-      xG: Leicester City xG 3,19 (1,83+1,36) · Stevenage xG 2,44 (1,23+1,21)
-      Stevenage 🟢 GG 40%: X2 + GOAL (6) ❗ 13/44 🔴 Leicester City
-16:00  Manchester City vs Brighton & Hove Albion   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Manchester City xG 3,42 (2,09+1,33) · Brighton & Hove Albion xG 3,45 (2,03+1,42)
-      Manchester City 🟢 GG 70%: X2 + GOAL (6) 👻 38/44
-      Brighton & Hove Albion 🟢 GG 20%: 12 + GOAL (6) 👻 42/44
-16:00  Milton Keynes Dons vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
-      xG: Milton Keynes Dons xG 3,12 (1,60+1,52) · Doncaster Rovers xG 3,00 (1,37+1,63)
-      Doncaster Rovers 🟢 GG 50%: X2 + GOAL (7) ❗ 13/44
-16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
-      xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
-      Exeter City 🟢 GG 20%: X2 + GOAL (9)
-16:00  Tranmere Rovers vs Cheltenham Town   [INGHILTERRA - LEAGUE TWO]
-      xG: Tranmere Rovers xG 2,73 (1,16+1,57) · Cheltenham Town xG 3,12 (1,27+1,85)
-      Cheltenham Town 🟢 GG 70%: X2 + GOAL (6)
-16:00  Wigan Athletic vs Bromley   [INGHILTERRA - LEAGUE ONE]
-      xG: Wigan Athletic xG 3,20 (1,30+1,90) · Bromley xG 2,82 (0,77+2,05)
-      Wigan Athletic 🟢 GG 30%: X2 + GOAL (17) ❗ 13/44
-16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park 🟢 GG 30%: X2 + GOAL (10) 👻 41/44 🔴 Ayr United
-16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (18) 👻 44/44
-16:00  Kilmarnock vs St. Johnstone   [SCOZIA - PREMIERSHIP]
-      xG: Kilmarnock xG 3,41 (1,18+2,23) · St. Johnstone xG 3,12 (1,29+1,83)
-      St. Johnstone 🟢 GG 60%: 12 + GOAL (6)
-16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
-      Greenock Morton 🟢 GG 60%: 1X + GOAL (6) 👻 44/44 🔴 Partick Thistle 🔴 Greenock Morton
-16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]
-      Fortuna Köln 🟢 GG 40%: 1X + GOAL (6)
-17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]
-      Perugia 🟢 GG 50%: 1X + GOAL (8)
-18:00  Udinese vs Roma   [ITALIA - SERIE A]
-      xG: Udinese xG 3,36 (1,14+2,22) · Roma xG 3,60 (2,22+1,38)
-      Udinese 🟢 GG 50%: X2 + GOAL (6)
-18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
-      xG: Standard Liège xG 3,69 (1,95+1,74) · Kortrijk xG 2,84 (0,97+1,87)
-      Kortrijk 🟢 GG 12% (1/8): 1X + GOAL (8+) 👻 40/44
-18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
-      xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
-      SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 8/44
-      NEC Nijmegen 🟢 GG 90%: 12 + GOAL (6) 🔥 7/44 🔴 NEC Nijmegen
-19:00  Benfica B vs Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
-      Benfica B 🟢 GG 20%: 12 + GOAL (6) 👻 40/44
-19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]
-      xG: Columbus Crew xG 2,77 (1,47+1,30) · DC United xG 3,00 (1,42+1,58)
-      Columbus Crew 🟢 GG 50%: X2 + GOAL (10) ❗ 10/44 🔴 DC United
-      DC United 🟢 GG 70%: X2 + GOAL (6) ❗ 10/44 🔴 DC United
-20:00  Club Brugge NXT vs Sporting Hasselt   [BELGIO - FIRST DIVISION B]
-      xG: Club Brugge NXT xG 2,82 (1,06+1,76) · Sporting Hasselt xG 3,97 (1,95+2,02)
-      Sporting Hasselt 🟢 GG 29% (2/7): 1X + GOAL (7+) 👻 41/44
-20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]
-      xG: Coritiba xG 2,71 (1,07+1,64) · Vitória xG 2,48 (1,06+1,42)
-      Coritiba 🟢 GG 60%: 12 + GOAL (6) 🔴 Coritiba
-20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
-      xG: Anderlecht xG 2,68 (1,63+1,05) · Westerlo xG 3,47 (1,65+1,82)
-      Anderlecht 🟢 GG 30%: 1X + GOAL (8) 👻 40/44
-20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]
-      xG: Troyes xG 2,88 (1,22+1,66) · Le Mans xG 3,63 (1,52+2,11)
-      Troyes 🟢 GG 38% (3/8): 1X + GOAL (8+) ❗ 14/44
-21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
-      Deportivo Riestra 🟢 GG 40%: 12 + GOAL (12) 👻 37/44
+TOTALE    00:00  Corinthians vs Mirassol   [BRASILE - SÉRIE A]
+           xG: Corinthians xG 2,23 (1,05+1,18) · Mirassol xG 2,74 (1,32+1,42)
+           Mirassol 🟢 GG 60%: 12 + GOAL (6) 🔴 Corinthians
+TRASFERTA 01:15  Racing Club vs Aldosivi   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Racing Club xG 2,77 (1,17+1,60) · Aldosivi xG 2,56 (1,00+1,56)
+           Aldosivi 🟢 GG 60%: X2 + GOAL (6) 👻 37/44
+TOTALE    05:00  Newcastle Jets vs Wellington Phoenix   [AUSTRALIA - A-LEAGUE MEN]
+           xG: Newcastle Jets xG 3,91 (1,63+2,28) · Wellington Phoenix xG 2,35 (1,44+0,91)
+           Newcastle Jets 🟢 GG 90%: 12 + GOAL (7)
+           Wellington Phoenix 🟢 GG 40%: X2 + GOAL (6) 🔴 Newcastle Jets
+TRASFERTA 07:00  Melbourne City FC vs Sydney FC   [AUSTRALIA - A-LEAGUE MEN]
+           xG: Melbourne City FC xG 1,91 (1,21+0,70) · Sydney FC xG 2,42 (1,33+1,09)
+           Sydney FC 🟢 GG 10%: 12 + GOAL (12)
+TOTALE    09:40  Macarthur FC vs Western Sydney Wanderers FC   [AUSTRALIA - A-LEAGUE MEN]
+           xG: Macarthur FC xG 2,64 (1,31+1,33) · Western Sydney Wanderers FC xG 2,31 (1,66+0,65)
+           Western Sydney Wanderers FC 🟢 GG 50%: X2 + GOAL (6) 🔴 Macarthur FC
+TRASFERTA 12:00  Amarante FC vs FC Porto B   [PORTOGALLO - LIGA PORTUGAL 2]
+           FC Porto B 🟢 GG 40%: 1X + GOAL (6) 👻 43/44
+CASA      12:15  Wisła Płock vs Piast Gliwice   [POLONIA - EKSTRAKLASA]
+           xG: Wisła Płock xG 3,03 (1,37+1,66) · Piast Gliwice xG 3,46 (1,35+2,11)
+           Wisła Płock 🟢 GG 10%: X2 + GOAL (15)
+TOTALE    13:00  Darmstadt vs Magdeburg   [GERMANIA - 2. BUNDESLIGA]
+           xG: Darmstadt xG 2,67 (1,04+1,63) · Magdeburg xG 2,94 (1,37+1,57)
+           Darmstadt 🟢 GG 40%: X2 + GOAL (8)
+TOTALE    13:00  Kaiserslautern vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
+           xG: Kaiserslautern xG 2,82 (1,47+1,35) · Hertha BSC xG 3,42 (2,21+1,21)
+           Kaiserslautern 🟢 GG 10%: 1X + GOAL (18); X2 + GOAL (6) 🔴 Hertha BSC; 12 + GOAL (6) 🔴 Hertha BSC
+CASA      13:00  Kaiserslautern vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
+           xG: Kaiserslautern xG 2,82 (1,47+1,35) · Hertha BSC xG 3,42 (2,21+1,21)
+           Kaiserslautern 🟢 GG 10%: 1X + GOAL (11) 🔴 Kaiserslautern; X2 + GOAL (8); 12 + GOAL (8) 🔴 Kaiserslautern
+CASA      13:00  Inter Bratislava vs Baník Lehota pod Vtacnikom   [SLOVACCHIA - 2. LIGA]
+           Inter Bratislava 🟢 GG 40%: 12 + GOAL (8)
+TRASFERTA 13:00  MFK Zvolen vs MFK Bytca   [SLOVACCHIA - 2. LIGA]
+           MFK Bytca 🟢 GG 67% (4/6): X2 + GOAL (6+) 👻 35/44
+TRASFERTA 13:00  IFK Norrköping vs Östersunds FK   [SVEZIA - SUPERETTAN]
+           Östersunds FK 🟢 GG 50%: 12 + GOAL (10) 🔴 IFK Norrköping
+TOTALE    13:30  Fredericia vs AB   [DANIMARCA - 1. DIVISION]
+           AB 🟢 GG 30%: 1X + GOAL (6) 🔥 5/44
+CASA      13:30  Fredericia vs AB   [DANIMARCA - 1. DIVISION]
+           Fredericia 🟢 GG 33% (2/6): 12 + GOAL (6+)
+TOTALE    13:30  Bradford City vs Huddersfield Town   [INGHILTERRA - LEAGUE ONE]
+           xG: Bradford City xG 2,21 (1,22+0,99) · Huddersfield Town xG 3,18 (2,24+0,94)
+           Bradford City 🟢 GG 20%: 12 + GOAL (8)
+CASA      13:30  Bradford City vs Huddersfield Town   [INGHILTERRA - LEAGUE ONE]
+           xG: Bradford City xG 2,21 (1,22+0,99) · Huddersfield Town xG 3,18 (2,24+0,94)
+           Bradford City 🟢 GG 30%: 1X + GOAL (6)
+TOTALE    13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
+           Manchester United 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Chelsea
+TRASFERTA 13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
+           Manchester United 🟢 GG 50%: 12 + GOAL (8) 👻 42/44 🔴 Chelsea
+TOTALE    13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
+           xG: Leyton Orient xG 2,72 (1,14+1,58) · Cambridge United xG 2,84 (1,36+1,48)
+           Leyton Orient 🟢 GG 40%: X2 + GOAL (6) ❗ 13/44
+CASA      13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
+           xG: Leyton Orient xG 2,72 (1,14+1,58) · Cambridge United xG 2,84 (1,36+1,48)
+           Leyton Orient 🟢 GG 50%: 1X + GOAL (6)
+TOTALE    13:30  Port Vale vs Rochdale   [INGHILTERRA - LEAGUE TWO]
+           xG: Port Vale xG 2,18 (1,15+1,03) · Rochdale xG 2,61 (0,82+1,79)
+           Port Vale 🟢 GG 30%: 12 + GOAL (7) 👻 41/44
+CASA      14:00  Jahn Regensburg vs Hansa Rostock   [GERMANIA - 3. LIGA]
+           Jahn Regensburg 🟢 GG 50%: 1X + GOAL (6)
+CASA      14:30  Bari vs Scafatese   [ITALIA - SERIE C]
+           Bari 🟢 GG 0% (0/6): 1X + GOAL (6+); X2 + GOAL (6+); 12 + GOAL (6+)
+TOTALE    14:30  Giugliano vs Casertana   [ITALIA - SERIE C]
+           Giugliano 🟢 GG 30%: X2 + GOAL (10)
+TRASFERTA 14:30  Ospitaletto vs Trento   [ITALIA - SERIE C]
+           Trento 🟢 GG 60%: 12 + GOAL (6)
+CASA      15:00  Modena vs Mantova   [ITALIA - SERIE B]
+           xG: Modena xG 2,37 (1,52+0,85) · Mantova xG 2,91 (1,51+1,40)
+           Modena 🟢 GG 50%: X2 + GOAL (6) 🔥 5/44
+CASA      15:00  Südtirol vs Cesena   [ITALIA - SERIE B]
+           xG: Südtirol xG 2,25 (0,97+1,28) · Cesena xG 2,26 (1,11+1,15)
+           Südtirol 🟢 GG 50%: 12 + GOAL (9)
+TOTALE    15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
+           Torreense 🟢 GG 40%: 12 + GOAL (7) 👻 40/44 🔴 Portimonense
+CASA      15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
+           Portimonense 🟢 GG 50%: X2 + GOAL (7) 👻 36/44 🔴 Portimonense
+TOTALE    15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
+           Slovan Liberec 🟢 GG 20%: 1X + GOAL (7) 👻 37/44
+TRASFERTA 15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
+           Slovan Liberec 🟢 GG 40%: 1X + GOAL (6) 👻 37/44
+TOTALE    15:00  Nordic United FC vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
+           GIF Sundsvall 🟢 GG 20%: X2 + GOAL (9) ❗ 11/44
+TRASFERTA 15:00  Nordic United FC vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
+           GIF Sundsvall 🟢 GG 20%: 1X + GOAL (7); X2 + GOAL (14) ❗ 11/44; 12 + GOAL (7)
+TOTALE    15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]
+           IFK Värnamo 🟢 GG 70%: 1X + GOAL (6)
+TRASFERTA 15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]
+           IFK Värnamo 🟢 GG 60%: 1X + GOAL (7)
+TOTALE    15:30  Floridsdorfer AC vs Kapfenberger SV   [AUSTRIA - 2. LIGA]
+           Floridsdorfer AC 🟢 GG 30%: X2 + GOAL (7) 👻 42/44
+CASA      15:30  Floridsdorfer AC vs Kapfenberger SV   [AUSTRIA - 2. LIGA]
+           Floridsdorfer AC 🟢 GG 10%: 12 + GOAL (11) ❗ 14/44 🔴 Kapfenberger SV
+CASA      15:30  Rapid Wien II vs FC Liefering   [AUSTRIA - 2. LIGA]
+           Rapid Wien II 🟢 GG 60%: 1X + GOAL (7) 🔴 FC Liefering
+TOTALE    15:30  Schalke 04 vs RB Leipzig   [GERMANIA - BUNDESLIGA]
+           xG: Schalke 04 xG 2,88 (1,03+1,85) · RB Leipzig xG 3,95 (2,37+1,58)
+           RB Leipzig 🟢 GG 50%: X2 + GOAL (11)
+CASA      15:30  Lechia Gdańsk vs Skierniewice   [POLONIA - I LIGA]
+           Lechia Gdańsk 🟢 GG 50% (3/6): X2 + GOAL (6+)
+TOTALE    15:30  TS Podbeskidzie Bielsko-Biała vs Warta Poznań   [POLONIA - I LIGA]
+           Warta Poznań 🟢 GG 50%: X2 + GOAL (9)
+CASA      16:00  AFC Bournemouth vs Leeds United   [INGHILTERRA - PREMIER LEAGUE]
+           xG: AFC Bournemouth xG 2,97 (1,81+1,16) · Leeds United xG 2,63 (1,31+1,32)
+           AFC Bournemouth 🟢 GG 60%: 12 + GOAL (11) 👻 42/44
+TOTALE    16:00  Accrington Stanley vs Northampton Town   [INGHILTERRA - LEAGUE TWO]
+           xG: Accrington Stanley xG 2,93 (1,64+1,29) · Northampton Town xG 2,14 (0,92+1,22)
+           Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
+TOTALE    16:00  Bolton Wanderers vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Bolton Wanderers xG 3,37 (1,39+1,98) · Bristol City xG 2,62 (1,31+1,31)
+           Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 6/44
+           Bristol City 🟢 GG 50%: 12 + GOAL (6) ❗ 13/44
+TOTALE    16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
+           xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
+           Colchester United 🟢 GG 50%: 12 + GOAL (7) 👻 41/44
+TRASFERTA 16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
+           xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
+           Walsall 🟢 GG 80%: 12 + GOAL (6) 👻 41/44
+TOTALE    16:00  Coventry City vs Sunderland   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Coventry City xG 2,43 (0,95+1,48) · Sunderland xG 3,30 (1,42+1,88)
+           Coventry City 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 38/44
+TRASFERTA 16:00  Fleetwood Town vs Bristol Rovers   [INGHILTERRA - LEAGUE TWO]
+           xG: Fleetwood Town xG 3,08 (1,29+1,79) · Bristol Rovers xG 2,88 (1,59+1,29)
+           Bristol Rovers 🟢 GG 60%: X2 + GOAL (6)
+TOTALE    16:00  Leicester City vs Stevenage   [INGHILTERRA - LEAGUE ONE]
+           xG: Leicester City xG 3,19 (1,83+1,36) · Stevenage xG 2,44 (1,23+1,21)
+           Stevenage 🟢 GG 40%: X2 + GOAL (6) ❗ 13/44 🔴 Leicester City
+TOTALE    16:00  Manchester City vs Brighton & Hove Albion   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Manchester City xG 3,42 (2,09+1,33) · Brighton & Hove Albion xG 3,45 (2,03+1,42)
+           Manchester City 🟢 GG 70%: X2 + GOAL (6) 👻 38/44
+           Brighton & Hove Albion 🟢 GG 20%: 12 + GOAL (6) 👻 42/44
+TRASFERTA 16:00  Manchester City vs Brighton & Hove Albion   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Manchester City xG 3,42 (2,09+1,33) · Brighton & Hove Albion xG 3,45 (2,03+1,42)
+           Brighton & Hove Albion 🟢 GG 30%: X2 + GOAL (6) 👻 38/44 🔴 Manchester City
+CASA      16:00  Millwall vs Derby County   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Millwall xG 3,12 (1,77+1,35) · Derby County xG 2,83 (1,01+1,82)
+           Millwall 🟢 GG 30%: 12 + GOAL (9) ❗ 13/44
+TOTALE    16:00  Milton Keynes Dons vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]
+           xG: Milton Keynes Dons xG 3,12 (1,60+1,52) · Doncaster Rovers xG 3,00 (1,37+1,63)
+           Doncaster Rovers 🟢 GG 50%: X2 + GOAL (7) ❗ 13/44
+TOTALE    16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
+           xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
+           Exeter City 🟢 GG 20%: X2 + GOAL (9)
+CASA      16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
+           xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
+           Salford City 🟢 GG 40%: X2 + GOAL (6)
+TRASFERTA 16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
+           xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
+           Exeter City 🟢 GG 17% (1/6): X2 + GOAL (6+) 🔴 Salford City
+CASA      16:00  Southampton vs Queens Park Rangers   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Southampton xG 3,14 (1,81+1,33) · Queens Park Rangers xG 2,92 (1,78+1,14)
+           Southampton 🟢 GG 70%: X2 + GOAL (6) ❗ 9/44 🔴 Queens Park Rangers
+CASA      16:00  Swansea City vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Swansea City xG 2,84 (1,49+1,35) · Blackburn Rovers xG 2,79 (1,02+1,77)
+           Swansea City 🟢 GG 50%: X2 + GOAL (7) ❗ 9/44
+TOTALE    16:00  Tranmere Rovers vs Cheltenham Town   [INGHILTERRA - LEAGUE TWO]
+           xG: Tranmere Rovers xG 2,73 (1,16+1,57) · Cheltenham Town xG 3,12 (1,27+1,85)
+           Cheltenham Town 🟢 GG 70%: X2 + GOAL (6)
+TOTALE    16:00  Wigan Athletic vs Bromley   [INGHILTERRA - LEAGUE ONE]
+           xG: Wigan Athletic xG 3,20 (1,30+1,90) · Bromley xG 2,82 (0,77+2,05)
+           Wigan Athletic 🟢 GG 30%: X2 + GOAL (17) ❗ 13/44
+CASA      16:00  Wigan Athletic vs Bromley   [INGHILTERRA - LEAGUE ONE]
+           xG: Wigan Athletic xG 3,20 (1,30+1,90) · Bromley xG 2,82 (0,77+2,05)
+           Wigan Athletic 🟢 GG 20%: X2 + GOAL (14) ❗ 13/44 🔴 Bromley
+TOTALE    16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
+           Queen's Park 🟢 GG 30%: X2 + GOAL (10) 👻 41/44 🔴 Ayr United
+TRASFERTA 16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
+           Queen's Park 🟢 GG 30%: X2 + GOAL (6) 👻 41/44 🔴 Ayr United
+TOTALE    16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
+           Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (18) 👻 44/44
+CASA      16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
+           Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (7) 👻 44/44
+TOTALE    16:00  Kilmarnock vs St. Johnstone   [SCOZIA - PREMIERSHIP]
+           xG: Kilmarnock xG 3,41 (1,18+2,23) · St. Johnstone xG 3,12 (1,29+1,83)
+           St. Johnstone 🟢 GG 60%: 12 + GOAL (6)
+CASA      16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
+           xG: Motherwell xG 3,33 (1,59+1,74) · St. Mirren xG 3,46 (1,52+1,94)
+           Motherwell 🟢 GG 30%: 1X + GOAL (6)
+TRASFERTA 16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
+           xG: Motherwell xG 3,33 (1,59+1,74) · St. Mirren xG 3,46 (1,52+1,94)
+           St. Mirren 🟢 GG 30%: X2 + GOAL (8)
+TOTALE    16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
+           Greenock Morton 🟢 GG 60%: 1X + GOAL (6) 👻 44/44 🔴 Partick Thistle 🔴 Greenock Morton
+CASA      16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
+           Partick Thistle 🟢 GG 20%: 1X + GOAL (6) 👻 44/44 🔴 Partick Thistle; X2 + GOAL (6) 👻 41/44; 12 + GOAL (8) 👻 44/44 🔴 Greenock Morton
+TRASFERTA 16:15  Eibar vs Almería   [SPAGNA - LALIGA 2]
+           xG: Eibar xG 3,05 (1,53+1,52) · Almería xG 2,61 (1,46+1,15)
+           Almería 🟢 GG 40%: 1X + GOAL (6) 👻 36/44 🔴 Almería
+TRASFERTA 16:15  Rayo Vallecano vs Celta Vigo   [SPAGNA - LALIGA]
+           xG: Rayo Vallecano xG 3,15 (1,42+1,73) · Celta Vigo xG 2,11 (0,92+1,19)
+           Celta Vigo 🟢 GG 50%: 12 + GOAL (6)
+TOTALE    16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]
+           Fortuna Köln 🟢 GG 40%: 1X + GOAL (6)
+TRASFERTA 16:30  Leixões vs Sporting CP B   [PORTOGALLO - LIGA PORTUGAL 2]
+           Sporting CP B 🟢 GG 30%: 1X + GOAL (6) 👻 43/44
+CASA      17:15  Catanzaro vs Padova   [ITALIA - SERIE B]
+           xG: Catanzaro xG 3,53 (1,32+2,21) · Padova xG 2,90 (1,02+1,88)
+           Catanzaro 🟢 GG 60%: 1X + GOAL (7) 🔴 Padova
+TRASFERTA 17:30  Cavese vs AZ Picerno   [ITALIA - SERIE C]
+           AZ Picerno 🟢 GG 60%: X2 + GOAL (6)
+TOTALE    17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]
+           Perugia 🟢 GG 50%: 1X + GOAL (8)
+CASA      17:30  Lech Poznań vs Wisła Kraków   [POLONIA - EKSTRAKLASA]
+           xG: Lech Poznań xG 3,29 (2,28+1,01) · Wisła Kraków xG 3,12 (1,91+1,21)
+           Lech Poznań 🟢 GG 60%: X2 + GOAL (6)
+TOTALE    18:00  Udinese vs Roma   [ITALIA - SERIE A]
+           xG: Udinese xG 3,36 (1,14+2,22) · Roma xG 3,60 (2,22+1,38)
+           Udinese 🟢 GG 50%: X2 + GOAL (6)
+TRASFERTA 18:00  Grasshopper vs FC Vaduz   [SVIZZERA - SUPER LEAGUE]
+           xG: Grasshopper xG 3,94 (1,80+2,14) · FC Vaduz xG 3,70 (1,82+1,88)
+           FC Vaduz 🟢 GG 100% (6/6): X2 + GOAL (6+) ❗ 12/44
+CASA      18:00  Charlotte FC vs Orlando City   [USA/CANADA - MLS]
+           xG: Charlotte FC xG 3,24 (1,56+1,68) · Orlando City xG 3,91 (1,64+2,27)
+           Charlotte FC 🟢 GG 50%: X2 + GOAL (6) ❗ 10/44
+TOTALE    18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
+           xG: Standard Liège xG 3,69 (1,95+1,74) · Kortrijk xG 2,84 (0,97+1,87)
+           Kortrijk 🟢 GG 12% (1/8): 1X + GOAL (8+) 👻 40/44
+CASA      18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
+           xG: Standard Liège xG 3,69 (1,95+1,74) · Kortrijk xG 2,84 (0,97+1,87)
+           Standard Liège 🟢 GG 40%: 12 + GOAL (6) 👻 39/44
+TOTALE    18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
+           xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
+           SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 8/44
+           NEC Nijmegen 🟢 GG 90%: 12 + GOAL (6) 🔥 7/44 🔴 NEC Nijmegen
+CASA      18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
+           xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
+           SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 8/44
+TOTALE    19:00  Benfica B vs Chaves   [PORTOGALLO - LIGA PORTUGAL 2]
+           Benfica B 🟢 GG 20%: 12 + GOAL (6) 👻 40/44
+TOTALE    19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]
+           xG: Columbus Crew xG 2,77 (1,47+1,30) · DC United xG 3,00 (1,42+1,58)
+           Columbus Crew 🟢 GG 50%: X2 + GOAL (10) ❗ 10/44 🔴 DC United
+           DC United 🟢 GG 70%: X2 + GOAL (6) ❗ 10/44 🔴 DC United
+TRASFERTA 19:30  LASK vs WSG Tirol   [AUSTRIA - BUNDESLIGA]
+           xG: LASK xG 3,64 (2,43+1,21) · WSG Tirol xG 3,21 (1,46+1,75)
+           WSG Tirol 🟢 GG 20%: X2 + GOAL (10) 👻 43/44 🔴 LASK
+TOTALE    20:00  Club Brugge NXT vs Sporting Hasselt   [BELGIO - FIRST DIVISION B]
+           xG: Club Brugge NXT xG 2,82 (1,06+1,76) · Sporting Hasselt xG 3,97 (1,95+2,02)
+           Sporting Hasselt 🟢 GG 29% (2/7): 1X + GOAL (7+) 👻 41/44
+TOTALE    20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]
+           xG: Coritiba xG 2,71 (1,07+1,64) · Vitória xG 2,48 (1,06+1,42)
+           Coritiba 🟢 GG 60%: 12 + GOAL (6) 🔴 Coritiba
+TOTALE    20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
+           xG: Anderlecht xG 2,68 (1,63+1,05) · Westerlo xG 3,47 (1,65+1,82)
+           Anderlecht 🟢 GG 30%: 1X + GOAL (8) 👻 40/44
+TRASFERTA 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
+           xG: Anderlecht xG 2,68 (1,63+1,05) · Westerlo xG 3,47 (1,65+1,82)
+           Westerlo 🟢 GG 20%: X2 + GOAL (8) 👻 44/44
+TRASFERTA 20:45  SK Beveren vs Union St.Gilloise   [BELGIO - FIRST DIVISION A]
+           xG: SK Beveren xG 3,12 (1,15+1,97) · Union St.Gilloise xG 3,23 (2,13+1,10)
+           Union St.Gilloise 🟢 GG 50%: 1X + GOAL (6) 👻 40/44
+TOTALE    20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]
+           xG: Troyes xG 2,88 (1,22+1,66) · Le Mans xG 3,63 (1,52+2,11)
+           Troyes 🟢 GG 38% (3/8): 1X + GOAL (8+) ❗ 14/44
+TOTALE    21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
+           Deportivo Riestra 🟢 GG 40%: 12 + GOAL (12) 👻 37/44
+CASA      21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
+           Deportivo Riestra 🟢 GG 40%: 12 + GOAL (15+) 👻 37/44
+TRASFERTA 21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
+           Talleres 🟢 GG 60%: X2 + GOAL (6) 👻 37/44 🔴 Talleres
+CASA      21:30  FC Porto vs Estoril   [PORTOGALLO - LIGA PORTUGAL]
+           xG: FC Porto xG 2,99 (2,16+0,83) · Estoril xG 2,65 (1,07+1,58)
+           FC Porto 🟢 GG 40%: X2 + GOAL (7) 🔴 Estoril
 
 ==================================================
 01/11/2026
 ==================================================
-10:30  FC Petržalka 1898 vs Považská Bystrica   [SLOVACCHIA - 2. LIGA]
-      FC Petržalka 1898 🟢 GG 30%: 12 + GOAL (10) 🔴 Považská Bystrica
-12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
-      Académica 🟢 GG 25% (2/8): X2 + GOAL (7) 👻 36/44 🔴 Académica
-13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
-      Mladá Boleslav 🟢 GG 30%: 12 + GOAL (7)
-      Hradec Králové 🟢 GG 50%: 1X + GOAL (6) 👻 37/44 🔴 Mladá Boleslav
-13:30  Greuther Fürth vs Holstein Kiel   [GERMANIA - 2. BUNDESLIGA]
-      xG: Greuther Fürth xG 3,04 (1,40+1,64) · Holstein Kiel xG 3,28 (1,48+1,80)
-      Holstein Kiel 🟢 GG 50%: 12 + GOAL (9)
-13:30  St. Pauli vs 1. FC Nürnberg   [GERMANIA - 2. BUNDESLIGA]
-      xG: St. Pauli xG 2,58 (1,36+1,22) · 1. FC Nürnberg xG 3,65 (1,85+1,80)
-      St. Pauli 🟢 GG 67% (6/9): 12 + GOAL (6)
-14:00  OB vs Silkeborg   [DANIMARCA - SUPERLIGAEN]
-      xG: OB xG 3,19 (1,33+1,86) · Silkeborg xG 2,79 (1,16+1,63)
-      Silkeborg 🟢 GG 60%: 12 + GOAL (7)
-14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu 🟢 GG 40%: 1X + GOAL (13) 👻 38/44 🔴 KuPS
-      KuPS 🟢 GG 40%: 12 + GOAL (9) 👻 43/44 🔴 AC Oulu
-14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
-      xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
-      Getafe 🟢 GG 30%: 12 + GOAL (12)
-14:00  Malmö FF vs Hammarby   [SVEZIA - ALLSVENSKAN]
-      xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,23 (2,20+1,03)
-      Malmö FF 🟢 GG 10%: X2 + GOAL (10)
-      Hammarby 🟢 GG 30%: X2 + GOAL (6)
-14:00  Wil vs Winterthur   [SVIZZERA - CHALLENGE LEAGUE]
-      Wil 🟢 GG 60%: 12 + GOAL (9)
-14:30  Salzburg vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]
-      xG: Salzburg xG 3,58 (2,50+1,08) · Austria Lustenau xG 3,61 (1,12+2,49)
-      Austria Lustenau 🟢 GG 70%: X2 + GOAL (6) 👻 43/44
-14:30  Cittadella vs Treviso   [ITALIA - SERIE C]
-      Treviso 🟢 GG 40%: X2 + GOAL (6)
-14:30  Dolomiti Bellunesi vs Lecco   [ITALIA - SERIE C]
-      Lecco 🟢 GG 40%: 12 + GOAL (6)
-14:30  Gubbio vs Vis Pesaro   [ITALIA - SERIE C]
-      Gubbio 🟢 GG 50%: 1X + GOAL (6)
-14:30  Ravenna vs Pineto   [ITALIA - SERIE C]
-      Ravenna 🟢 GG 30%: X2 + GOAL (10)
-      Pineto 🟢 GG 40%: 12 + GOAL (7)
-15:00  Sheffield Wednesday vs Blackpool   [INGHILTERRA - LEAGUE ONE]
-      xG: Sheffield Wednesday xG 3,41 (1,84+1,57) · Blackpool xG 3,47 (1,33+2,14)
-      Sheffield Wednesday 🟢 GG 50%: 12 + GOAL (7)
-15:00  Empoli vs Juve Stabia   [ITALIA - SERIE B]
-      xG: Empoli xG 2,63 (0,88+1,75) · Juve Stabia xG 2,43 (1,25+1,18)
-      Juve Stabia 🟢 GG 50%: 12 + GOAL (7)
-15:00  Tondela vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
-      Tondela 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 36/44
-15:30  Ružomberok vs Skalica   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
-      Ružomberok 🟢 GG 40%: 12 + GOAL (6) 👻 36/44
-16:00  FCV Dender EH vs Genk U23   [BELGIO - FIRST DIVISION B]
-      xG: FCV Dender EH xG 2,63 (1,76+0,87) · Genk U23 xG 3,64 (1,61+2,03)
-      FCV Dender EH 🟢 GG 14% (1/7): 1X + GOAL (7+) 👻 41/44
-16:00  St.Truiden vs OH Leuven   [BELGIO - FIRST DIVISION A]
-      xG: St.Truiden xG 3,82 (1,95+1,87) · OH Leuven xG 3,06 (1,37+1,69)
-      St.Truiden 🟢 GG 50%: X2 + GOAL (6) 👻 44/44
-      OH Leuven 🟢 GG 50%: 12 + GOAL (6) 👻 39/44 🔴 St.Truiden
-16:30  Häcken vs IFK Göteborg   [SVEZIA - ALLSVENSKAN]
-      xG: Häcken xG 3,01 (1,86+1,15) · IFK Göteborg xG 3,01 (1,57+1,44)
-      Häcken 🟢 GG 20%: 12 + GOAL (7) 👻 38/44
-16:30  Västerås SK vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]
-      xG: Västerås SK xG 2,85 (1,29+1,56) · Brommapojkarna xG 2,70 (1,31+1,39)
-      Västerås SK 🟢 GG 30%: 1X + GOAL (18) 👻 39/44 🔴 Brommapojkarna
-16:30  Lausanne vs Thun   [SVIZZERA - SUPER LEAGUE]
-      xG: Lausanne xG 2,66 (0,95+1,71) · Thun xG 3,76 (1,55+2,21)
-      Lausanne 🟢 GG 30%: X2 + GOAL (6) ❗ 12/44
-16:30  Lugano vs Basel   [SVIZZERA - SUPER LEAGUE]
-      xG: Lugano xG 3,14 (1,84+1,30) · Basel xG 2,95 (1,31+1,64)
-      Basel 🟢 GG 70%: 1X + GOAL (6)
-17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
-      xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
-      Rapid Wien 🟢 GG 50%: X2 + GOAL (8) 👻 43/44
-17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
-      Moss 🟢 GG 70%: 1X + GOAL (9) ❗ 9/44
-17:15  Lyon vs Angers   [FRANCIA - LIGUE 1]
-      xG: Lyon xG 2,73 (1,52+1,21) · Angers xG 3,26 (1,49+1,77)
-      Lyon 🟢 GG 50%: X2 + GOAL (6)
-17:15  Hellas Verona vs Carrarese   [ITALIA - SERIE B]
-      xG: Hellas Verona xG 2,95 (1,80+1,15) · Carrarese xG 2,67 (1,39+1,28)
-      Carrarese 🟢 GG 60%: X2 + GOAL (7) 🔥 5/44
-17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
-      Liverpool 🟢 GG 50%: 1X + GOAL (6) 🔴 Liverpool
-      Arsenal 🟢 GG 30%: X2 + GOAL (8) 👻 38/44
-17:30  Latina vs Pianese   [ITALIA - SERIE C]
-      Latina 🟢 GG 60%: 12 + GOAL (7)
-18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
-      Sparta Prague 🟢 GG 30%: X2 + GOAL (27) 🔴 Bohemians 1905
-18:30  Burgos CF vs Castellón   [SPAGNA - LALIGA 2]
-      xG: Burgos CF xG 2,83 (1,47+1,36) · Castellón xG 3,10 (2,00+1,10)
-      Castellón 🟢 GG 30%: 12 + GOAL (6) 🔴 Castellón
-19:30  Alemannia Aachen vs Preussen Münster   [GERMANIA - 3. LIGA]
-      Alemannia Aachen 🟢 GG 40%: 1X + GOAL (6)
-21:00  Tenerife vs FC Andorra   [SPAGNA - LALIGA 2]
-      xG: Tenerife xG 2,12 (0,90+1,22) · FC Andorra xG 2,96 (1,63+1,33)
-      FC Andorra 🟢 GG 50%: 1X + GOAL (9) 👻 36/44
-22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
-      xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
-      Red Bull New York 🟢 GG 30%: X2 + GOAL (10) ❗ 10/44
+CASA      02:30  Colorado Rapids vs Chicago Fire FC   [USA/CANADA - MLS]
+           xG: Colorado Rapids xG 2,65 (1,42+1,23) · Chicago Fire FC xG 3,06 (1,75+1,31)
+           Colorado Rapids 🟢 GG 30%: 12 + GOAL (10) ❗ 11/44
+TOTALE    10:30  FC Petržalka 1898 vs Považská Bystrica   [SLOVACCHIA - 2. LIGA]
+           FC Petržalka 1898 🟢 GG 30%: 12 + GOAL (10) 🔴 Považská Bystrica
+TOTALE    12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
+           Académica 🟢 GG 25% (2/8): X2 + GOAL (7) 👻 36/44 🔴 Académica
+CASA      12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
+           Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 43/44; X2 + GOAL (7) 👻 36/44; 12 + GOAL (7) 👻 40/44
+TOTALE    13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
+           Mladá Boleslav 🟢 GG 30%: 12 + GOAL (7)
+           Hradec Králové 🟢 GG 50%: 1X + GOAL (6) 👻 37/44 🔴 Mladá Boleslav
+CASA      13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
+           Mladá Boleslav 🟢 GG 40%: X2 + GOAL (6) 🔴 Mladá Boleslav
+CASA      13:00  Varbergs BoIS FC vs Ljungskile   [SVEZIA - SUPERETTAN]
+           Varbergs BoIS FC 🟢 GG 50%: X2 + GOAL (7) ❗ 11/44
+TRASFERTA 13:30  Cercle Brugge vs Royal Antwerp   [BELGIO - FIRST DIVISION A]
+           xG: Cercle Brugge xG 3,41 (1,61+1,80) · Royal Antwerp xG 3,70 (1,35+2,35)
+           Royal Antwerp 🟢 GG 50%: X2 + GOAL (6) 👻 44/44
+TOTALE    13:30  Greuther Fürth vs Holstein Kiel   [GERMANIA - 2. BUNDESLIGA]
+           xG: Greuther Fürth xG 3,04 (1,40+1,64) · Holstein Kiel xG 3,28 (1,48+1,80)
+           Holstein Kiel 🟢 GG 50%: 12 + GOAL (9)
+TOTALE    13:30  St. Pauli vs 1. FC Nürnberg   [GERMANIA - 2. BUNDESLIGA]
+           xG: St. Pauli xG 2,58 (1,36+1,22) · 1. FC Nürnberg xG 3,65 (1,85+1,80)
+           St. Pauli 🟢 GG 67% (6/9): 12 + GOAL (6)
+TOTALE    14:00  OB vs Silkeborg   [DANIMARCA - SUPERLIGAEN]
+           xG: OB xG 3,19 (1,33+1,86) · Silkeborg xG 2,79 (1,16+1,63)
+           Silkeborg 🟢 GG 60%: 12 + GOAL (7)
+TOTALE    14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
+           AC Oulu 🟢 GG 40%: 1X + GOAL (13) 👻 38/44 🔴 KuPS
+           KuPS 🟢 GG 40%: 12 + GOAL (9) 👻 43/44 🔴 AC Oulu
+CASA      14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
+           AC Oulu 🟢 GG 40%: 1X + GOAL (9) 👻 38/44 🔴 KuPS
+TRASFERTA 14:00  Falkirk vs Celtic   [SCOZIA - PREMIERSHIP]
+           xG: Falkirk xG 2,86 (1,15+1,71) · Celtic xG 3,74 (2,68+1,06)
+           Celtic 🟢 GG 70%: 1X + GOAL (10)
+TOTALE    14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
+           xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
+           Getafe 🟢 GG 30%: 12 + GOAL (12)
+CASA      14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
+           xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
+           Getafe 🟢 GG 40%: 12 + GOAL (6)
+TOTALE    14:00  Malmö FF vs Hammarby   [SVEZIA - ALLSVENSKAN]
+           xG: Malmö FF xG 2,90 (1,43+1,47) · Hammarby xG 3,23 (2,20+1,03)
+           Malmö FF 🟢 GG 10%: X2 + GOAL (10)
+           Hammarby 🟢 GG 30%: X2 + GOAL (6)
+TOTALE    14:00  Wil vs Winterthur   [SVIZZERA - CHALLENGE LEAGUE]
+           Wil 🟢 GG 60%: 12 + GOAL (9)
+TOTALE    14:30  Salzburg vs Austria Lustenau   [AUSTRIA - BUNDESLIGA]
+           xG: Salzburg xG 3,58 (2,50+1,08) · Austria Lustenau xG 3,61 (1,12+2,49)
+           Austria Lustenau 🟢 GG 70%: X2 + GOAL (6) 👻 43/44
+TOTALE    14:30  Cittadella vs Treviso   [ITALIA - SERIE C]
+           Treviso 🟢 GG 40%: X2 + GOAL (6)
+TOTALE    14:30  Dolomiti Bellunesi vs Lecco   [ITALIA - SERIE C]
+           Lecco 🟢 GG 40%: 12 + GOAL (6)
+CASA      14:30  Dolomiti Bellunesi vs Lecco   [ITALIA - SERIE C]
+           Dolomiti Bellunesi 🟢 GG 50%: 1X + GOAL (8)
+TOTALE    14:30  Gubbio vs Vis Pesaro   [ITALIA - SERIE C]
+           Gubbio 🟢 GG 50%: 1X + GOAL (6)
+TOTALE    14:30  Ravenna vs Pineto   [ITALIA - SERIE C]
+           Ravenna 🟢 GG 30%: X2 + GOAL (10)
+           Pineto 🟢 GG 40%: 12 + GOAL (7)
+CASA      14:30  Ravenna vs Pineto   [ITALIA - SERIE C]
+           Ravenna 🟢 GG 30%: X2 + GOAL (6)
+TRASFERTA 14:30  Salernitana vs Savoia   [ITALIA - SERIE C]
+           Savoia 🟢 GG 33% (2/6): X2 + GOAL (6+)
+TRASFERTA 14:30  FC Emmen vs FC Den Bosch   [OLANDA - EERSTE DIVISIE]
+           FC Den Bosch 🟢 GG 70%: X2 + GOAL (6)
+TOTALE    15:00  Sheffield Wednesday vs Blackpool   [INGHILTERRA - LEAGUE ONE]
+           xG: Sheffield Wednesday xG 3,41 (1,84+1,57) · Blackpool xG 3,47 (1,33+2,14)
+           Sheffield Wednesday 🟢 GG 50%: 12 + GOAL (7)
+TOTALE    15:00  Empoli vs Juve Stabia   [ITALIA - SERIE B]
+           xG: Empoli xG 2,63 (0,88+1,75) · Juve Stabia xG 2,43 (1,25+1,18)
+           Juve Stabia 🟢 GG 50%: 12 + GOAL (7)
+TOTALE    15:00  Tondela vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
+           Tondela 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 36/44
+CASA      15:00  Baník Ostrava vs Viktoria Plzeň   [REP. CECA - 1. LIGA]
+           Baník Ostrava 🟢 GG 10%: 1X + GOAL (10) 👻 37/44 🔴 Viktoria Plzeň
+TOTALE    15:30  Ružomberok vs Skalica   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
+           Ružomberok 🟢 GG 40%: 12 + GOAL (6) 👻 36/44
+TOTALE    16:00  FCV Dender EH vs Genk U23   [BELGIO - FIRST DIVISION B]
+           xG: FCV Dender EH xG 2,63 (1,76+0,87) · Genk U23 xG 3,64 (1,61+2,03)
+           FCV Dender EH 🟢 GG 14% (1/7): 1X + GOAL (7+) 👻 41/44
+TOTALE    16:00  St.Truiden vs OH Leuven   [BELGIO - FIRST DIVISION A]
+           xG: St.Truiden xG 3,82 (1,95+1,87) · OH Leuven xG 3,06 (1,37+1,69)
+           St.Truiden 🟢 GG 50%: X2 + GOAL (6) 👻 44/44
+           OH Leuven 🟢 GG 50%: 12 + GOAL (6) 👻 39/44 🔴 St.Truiden
+CASA      16:00  St.Truiden vs OH Leuven   [BELGIO - FIRST DIVISION A]
+           xG: St.Truiden xG 3,82 (1,95+1,87) · OH Leuven xG 3,06 (1,37+1,69)
+           St.Truiden 🟢 GG 50%: 12 + GOAL (6) 👻 39/44
+CASA      16:00  Nordsjælland vs FC Midtjylland   [DANIMARCA - SUPERLIGAEN]
+           xG: Nordsjælland xG 3,60 (2,24+1,36) · FC Midtjylland xG 2,64 (1,48+1,16)
+           Nordsjælland 🟢 GG 40%: X2 + GOAL (6) ❗ 14/44
+TRASFERTA 16:15  AD Ceuta FC vs Sporting Gijón   [SPAGNA - LALIGA 2]
+           xG: AD Ceuta FC xG 3,31 (1,50+1,81) · Sporting Gijón xG 2,11 (0,97+1,14)
+           Sporting Gijón 🟢 GG 50%: 1X + GOAL (7) 👻 36/44
+CASA      16:30  Elfsborg vs Örgryte   [SVEZIA - ALLSVENSKAN]
+           xG: Elfsborg xG 2,64 (1,46+1,18) · Örgryte xG 3,14 (1,11+2,03)
+           Elfsborg 🟢 GG 40%: 1X + GOAL (7) 👻 39/44 🔴 Örgryte
+TOTALE    16:30  Häcken vs IFK Göteborg   [SVEZIA - ALLSVENSKAN]
+           xG: Häcken xG 3,01 (1,86+1,15) · IFK Göteborg xG 3,01 (1,57+1,44)
+           Häcken 🟢 GG 20%: 12 + GOAL (7) 👻 38/44
+TOTALE    16:30  Västerås SK vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]
+           xG: Västerås SK xG 2,85 (1,29+1,56) · Brommapojkarna xG 2,70 (1,31+1,39)
+           Västerås SK 🟢 GG 30%: 1X + GOAL (18) 👻 39/44 🔴 Brommapojkarna
+CASA      16:30  Västerås SK vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]
+           xG: Västerås SK xG 2,85 (1,29+1,56) · Brommapojkarna xG 2,70 (1,31+1,39)
+           Västerås SK 🟢 GG 30%: 1X + GOAL (9) 👻 39/44
+TOTALE    16:30  Lausanne vs Thun   [SVIZZERA - SUPER LEAGUE]
+           xG: Lausanne xG 2,66 (0,95+1,71) · Thun xG 3,76 (1,55+2,21)
+           Lausanne 🟢 GG 30%: X2 + GOAL (6) ❗ 12/44
+TOTALE    16:30  Lugano vs Basel   [SVIZZERA - SUPER LEAGUE]
+           xG: Lugano xG 3,14 (1,84+1,30) · Basel xG 2,95 (1,31+1,64)
+           Basel 🟢 GG 70%: 1X + GOAL (6)
+TOTALE    17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
+           xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
+           Rapid Wien 🟢 GG 50%: X2 + GOAL (8) 👻 43/44
+CASA      17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
+           xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
+           Austria Wien 🟢 GG 50%: X2 + GOAL (6) 👻 43/44
+TRASFERTA 17:00  Hødd vs Bryne   [NORVEGIA - OBOS-LIGAEN]
+           Bryne 🟢 GG 30%: X2 + GOAL (6)
+TOTALE    17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
+           Moss 🟢 GG 70%: 1X + GOAL (9) ❗ 9/44
+CASA      17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
+           Strømsgodset 🟢 GG 60%: X2 + GOAL (6)
+TOTALE    17:15  Lyon vs Angers   [FRANCIA - LIGUE 1]
+           xG: Lyon xG 2,73 (1,52+1,21) · Angers xG 3,26 (1,49+1,77)
+           Lyon 🟢 GG 50%: X2 + GOAL (6)
+CASA      17:15  Paris FC vs Monaco   [FRANCIA - LIGUE 1]
+           xG: Paris FC xG 2,77 (1,73+1,04) · Monaco xG 2,65 (1,34+1,31)
+           Paris FC 🟢 GG 50%: X2 + GOAL (11)
+TOTALE    17:15  Hellas Verona vs Carrarese   [ITALIA - SERIE B]
+           xG: Hellas Verona xG 2,95 (1,80+1,15) · Carrarese xG 2,67 (1,39+1,28)
+           Carrarese 🟢 GG 60%: X2 + GOAL (7) 🔥 5/44
+TOTALE    17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
+           Liverpool 🟢 GG 50%: 1X + GOAL (6) 🔴 Liverpool
+           Arsenal 🟢 GG 30%: X2 + GOAL (8) 👻 38/44
+CASA      17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
+           Liverpool 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Arsenal
+TRASFERTA 17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
+           Arsenal 🟢 GG 40%: 1X + GOAL (6)
+TOTALE    17:30  Latina vs Pianese   [ITALIA - SERIE C]
+           Latina 🟢 GG 60%: 12 + GOAL (7)
+CASA      17:30  Latina vs Pianese   [ITALIA - SERIE C]
+           Latina 🟢 GG 40%: 12 + GOAL (7)
+TRASFERTA 17:30  Latina vs Pianese   [ITALIA - SERIE C]
+           Pianese 🟢 GG 50%: X2 + GOAL (6)
+CASA      17:30  Potenza vs Crotone   [ITALIA - SERIE C]
+           Potenza 🟢 GG 70%: X2 + GOAL (7) 🔴 Potenza
+CASA      18:00  Brøndby IF vs AGF   [DANIMARCA - SUPERLIGAEN]
+           xG: Brøndby IF xG 3,09 (1,62+1,47) · AGF xG 3,09 (1,58+1,51)
+           Brøndby IF 🟢 GG 50%: X2 + GOAL (6) ❗ 14/44 🔴 AGF
+TRASFERTA 18:00  Lecce vs Genoa   [ITALIA - SERIE A]
+           xG: Lecce xG 3,45 (1,39+2,06) · Genoa xG 2,20 (0,86+1,34)
+           Genoa 🟢 GG 20%: X2 + GOAL (6)
+TOTALE    18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
+           Sparta Prague 🟢 GG 30%: X2 + GOAL (27) 🔴 Bohemians 1905
+TRASFERTA 18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
+           Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague
+TRASFERTA 18:00  Dukla Banská Bystrica vs DAC 1904 Dunajska Streda   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
+           DAC 1904 Dunajska Streda 🟢 GG 60%: 1X + GOAL (6)
+TOTALE    18:30  Burgos CF vs Castellón   [SPAGNA - LALIGA 2]
+           xG: Burgos CF xG 2,83 (1,47+1,36) · Castellón xG 3,10 (2,00+1,10)
+           Castellón 🟢 GG 30%: 12 + GOAL (6) 🔴 Castellón
+TRASFERTA 18:30  Burgos CF vs Castellón   [SPAGNA - LALIGA 2]
+           xG: Burgos CF xG 2,83 (1,47+1,36) · Castellón xG 3,10 (2,00+1,10)
+           Castellón 🟢 GG 50%: 1X + GOAL (6) 👻 36/44
+TRASFERTA 19:00  Académico Viseu vs Rio Ave   [PORTOGALLO - LIGA PORTUGAL]
+           xG: Académico Viseu xG 2,98 (1,16+1,82) · Rio Ave xG 2,55 (0,69+1,86)
+           Rio Ave 🟢 GG 20%: 12 + GOAL (7) 👻 35/44
+TRASFERTA 19:15  Sporting Charleroi vs RAAL La Louvière   [BELGIO - FIRST DIVISION A]
+           xG: Sporting Charleroi xG 3,06 (1,87+1,19) · RAAL La Louvière xG 3,44 (1,31+2,13)
+           RAAL La Louvière 🟢 GG 40%: X2 + GOAL (7) 👻 44/44
+TOTALE    19:30  Alemannia Aachen vs Preussen Münster   [GERMANIA - 3. LIGA]
+           Alemannia Aachen 🟢 GG 40%: 1X + GOAL (6)
+CASA      19:30  Palermo vs LR Vicenza   [ITALIA - SERIE B]
+           xG: Palermo xG 3,72 (2,04+1,68) · LR Vicenza xG 2,64 (1,13+1,51)
+           Palermo 🟢 GG 60%: X2 + GOAL (8) 🔥 5/44
+CASA      20:45  Juventus vs Napoli   [ITALIA - SERIE A]
+           xG: Juventus xG 2,01 (1,42+0,59) · Napoli xG 3,23 (1,88+1,35)
+           Juventus 🟢 GG 30%: 12 + GOAL (15) ❗ 12/44
+TOTALE    21:00  Tenerife vs FC Andorra   [SPAGNA - LALIGA 2]
+           xG: Tenerife xG 2,12 (0,90+1,22) · FC Andorra xG 2,96 (1,63+1,33)
+           FC Andorra 🟢 GG 50%: 1X + GOAL (9) 👻 36/44
+TRASFERTA 21:30  Braga vs Famalicão   [PORTOGALLO - LIGA PORTUGAL]
+           xG: Braga xG 2,23 (1,41+0,82) · Famalicão xG 2,41 (1,01+1,40)
+           Famalicão 🟢 GG 50%: 12 + GOAL (9) 👻 35/44 🔴 Braga
+TOTALE    22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
+           xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
+           Red Bull New York 🟢 GG 30%: X2 + GOAL (10) ❗ 10/44
+CASA      22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
+           xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
+           Nashville SC 🟢 GG 30%: X2 + GOAL (11) ❗ 10/44
+TRASFERTA 22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
+           xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
+           Red Bull New York 🟢 GG 60%: X2 + GOAL (8) ❗ 10/44
+TRASFERTA 22:30  Vancouver Whitecaps vs Seattle Sounders FC   [USA/CANADA - MLS]
+           xG: Vancouver Whitecaps xG 3,25 (2,12+1,13) · Seattle Sounders FC xG 2,94 (1,49+1,45)
+           Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 11/44
 
 ==================================================
 02/11/2026
 ==================================================
-00:45  Lanús vs Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Lanús xG 2,45 (1,41+1,04) · Gimnasia Mendoza xG 2,96 (1,23+1,73)
-      Gimnasia Mendoza 🟢 GG 40%: 1X + GOAL (6) 👻 35/44 🔴 Lanús
-03:45  Portland Timbers vs Houston Dynamo FC   [USA/CANADA - MLS]
-      xG: Portland Timbers xG 3,20 (1,54+1,66) · Houston Dynamo FC xG 2,59 (1,16+1,43)
-      Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8) ❗ 11/44
-17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 👻 38/44 🔴 IF Gnistan
-17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS 🟢 GG 0%: 1X + GOAL (13) 👻 38/44; X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 👻 43/44 🔴 VPS
-18:00  Polonia Bytom vs Odra Opole   [POLONIA - I LIGA]
-      Odra Opole 🟢 GG 40%: 12 + GOAL (8)
-19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]
-      Kongsvinger 🟢 GG 70%: X2 + GOAL (6) 🔴 Kongsvinger 🔴 Stabæk
-19:00  Mjällby vs Kalmar FF   [SVEZIA - ALLSVENSKAN]
-      xG: Mjällby xG 3,00 (1,17+1,83) · Kalmar FF xG 2,58 (1,34+1,24)
-      Kalmar FF 🟢 GG 10%: 1X + GOAL (10) 👻 39/44
-20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]
-      xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
-      Nancy 🟢 GG 30%: 1X + GOAL (10)
-20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,45 (1,45+2,00) · Parma xG 2,49 (0,82+1,67)
-      Parma 🟢 GG 40%: X2 + GOAL (6)
-21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
-      Everton 🟢 GG 40%: 12 + GOAL (9) 👻 42/44 🔴 Newcastle United
+TOTALE    00:45  Lanús vs Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Lanús xG 2,45 (1,41+1,04) · Gimnasia Mendoza xG 2,96 (1,23+1,73)
+           Gimnasia Mendoza 🟢 GG 40%: 1X + GOAL (6) 👻 35/44 🔴 Lanús
+TRASFERTA 00:45  Lanús vs Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Lanús xG 2,45 (1,41+1,04) · Gimnasia Mendoza xG 2,96 (1,23+1,73)
+           Gimnasia Mendoza 🟢 GG 30%: 1X + GOAL (7) 👻 35/44 🔴 Lanús
+TOTALE    03:45  Portland Timbers vs Houston Dynamo FC   [USA/CANADA - MLS]
+           xG: Portland Timbers xG 3,20 (1,54+1,66) · Houston Dynamo FC xG 2,59 (1,16+1,43)
+           Houston Dynamo FC 🟢 GG 50%: 12 + GOAL (8) ❗ 11/44
+TOTALE    17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
+           FC Inter Turku 🟢 GG 30%: 1X + GOAL (7) 👻 38/44 🔴 IF Gnistan
+CASA      17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
+           FC Inter Turku 🟢 GG 50%: 1X + GOAL (7) 👻 38/44
+TOTALE    17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
+           VPS 🟢 GG 0%: 1X + GOAL (13) 👻 38/44; X2 + GOAL (10) 🔴 HJK; 12 + GOAL (10) 👻 43/44 🔴 VPS
+CASA      17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
+           VPS 🟢 GG 20%: 1X + GOAL (9) 👻 38/44 🔴 HJK
+TOTALE    18:00  Polonia Bytom vs Odra Opole   [POLONIA - I LIGA]
+           Odra Opole 🟢 GG 40%: 12 + GOAL (8)
+CASA      18:00  Zagłębie Lubin vs Korona Kielce   [POLONIA - EKSTRAKLASA]
+           xG: Zagłębie Lubin xG 2,90 (1,40+1,50) · Korona Kielce xG 3,06 (1,38+1,68)
+           Zagłębie Lubin 🟢 GG 30%: X2 + GOAL (8)
+TRASFERTA 18:30  Real Valladolid vs Leganés   [SPAGNA - LALIGA 2]
+           xG: Real Valladolid xG 2,75 (1,54+1,21) · Leganés xG 2,82 (1,25+1,57)
+           Leganés 🟢 GG 30%: 12 + GOAL (7) 🔴 Real Valladolid
+TOTALE    19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]
+           Kongsvinger 🟢 GG 70%: X2 + GOAL (6) 🔴 Kongsvinger 🔴 Stabæk
+TRASFERTA 19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]
+           Stabæk 🟢 GG 40%: X2 + GOAL (6) 🔴 Kongsvinger
+CASA      19:00  GAIS vs AIK   [SVEZIA - ALLSVENSKAN]
+           xG: GAIS xG 2,94 (1,57+1,37) · AIK xG 3,33 (1,49+1,84)
+           GAIS 🟢 GG 30%: 12 + GOAL (14) 👻 38/44
+TOTALE    19:00  Mjällby vs Kalmar FF   [SVEZIA - ALLSVENSKAN]
+           xG: Mjällby xG 3,00 (1,17+1,83) · Kalmar FF xG 2,58 (1,34+1,24)
+           Kalmar FF 🟢 GG 10%: 1X + GOAL (10) 👻 39/44
+TRASFERTA 20:00  Heracles vs TOP Oss   [OLANDA - EERSTE DIVISIE]
+           TOP Oss 🟢 GG 60%: X2 + GOAL (7)
+TRASFERTA 20:00  Jong Ajax vs Vitesse   [OLANDA - EERSTE DIVISIE]
+           Vitesse 🟢 GG 30%: 1X + GOAL (6) 🔥 1/44 🔴 Jong Ajax
+CASA      20:30  Casarano vs Foggia   [ITALIA - SERIE C]
+           Casarano 🟢 GG 40%: X2 + GOAL (7)
+TRASFERTA 20:30  Casarano vs Foggia   [ITALIA - SERIE C]
+           Foggia 🟢 GG 20%: X2 + GOAL (15)
+CASA      20:30  Novara vs Desenzano   [ITALIA - SERIE C]
+           Novara 🟢 GG 50%: 12 + GOAL (6)
+TOTALE    20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]
+           xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
+           Nancy 🟢 GG 30%: 1X + GOAL (10)
+TRASFERTA 20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]
+           xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
+           Nancy 🟢 GG 60%: 1X + GOAL (6)
+TOTALE    20:45  Atalanta vs Parma   [ITALIA - SERIE A]
+           xG: Atalanta xG 3,42 (1,43+1,99) · Parma xG 2,49 (0,82+1,67)
+           Parma 🟢 GG 40%: X2 + GOAL (6)
+TRASFERTA 20:45  Atalanta vs Parma   [ITALIA - SERIE A]
+           xG: Atalanta xG 3,42 (1,43+1,99) · Parma xG 2,49 (0,82+1,67)
+           Parma 🟢 GG 40%: X2 + GOAL (7)
+TOTALE    21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
+           Everton 🟢 GG 40%: 12 + GOAL (9) 👻 42/44 🔴 Newcastle United
+TRASFERTA 21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
+           xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
+           Everton 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Newcastle United
+TRASFERTA 21:15  Gil Vicente vs Vitória de Guimarães   [PORTOGALLO - LIGA PORTUGAL]
+           xG: Gil Vicente xG 2,42 (1,32+1,10) · Vitória de Guimarães xG 2,62 (1,67+0,95)
+           Vitória de Guimarães 🟢 GG 40%: X2 + GOAL (7)
+CASA      23:00  Club Atlético Platense vs Central Córdoba de Santiago   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Club Atlético Platense xG 2,64 (1,31+1,33) · Central Córdoba de Santiago xG 2,83 (1,07+1,76)
+           Club Atlético Platense 🟢 GG 50%: 12 + GOAL (14) 👻 37/44
+CASA      23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Defensa y Justicia xG 2,70 (1,56+1,14) · Independiente xG 2,03 (0,93+1,10)
+           Defensa y Justicia 🟢 GG 40%: X2 + GOAL (6) 👻 37/44
 
 ==================================================
 03/11/2026
 ==================================================
-20:45  Charlton Athletic vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Charlton Athletic xG 2,58 (0,99+1,59) · Bolton Wanderers xG 3,37 (1,39+1,98)
-      Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 7/44
-20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
-      xG: Northampton Town xG 2,14 (0,92+1,22) · Oldham Athletic xG 2,88 (1,57+1,31)
-      Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
-20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]
-      xG: Wigan Athletic xG 3,20 (1,30+1,90) · Mansfield Town xG 3,03 (1,76+1,27)
-      Wigan Athletic 🟢 GG 30%: X2 + GOAL (17) ❗ 13/44
-23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]
-      xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,74 (1,32+1,42)
-      Mirassol 🟢 GG 60%: 12 + GOAL (6)
+CASA      01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,44 (1,26+1,18)
+           Atlético Tucumán 🟢 GG 50%: 1X + GOAL (7) 👻 35/44
+TRASFERTA 01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
+           xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,44 (1,26+1,18)
+           Argentinos Juniors 🟢 GG 40%: 12 + GOAL (7) 👻 37/44
+CASA      18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]
+           Chrobry Głogów 🟢 GG 50%: 12 + GOAL (7)
+TRASFERTA 18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]
+           Arka Gdynia 🟢 GG 33% (2/6): X2 + GOAL (6+)
+TRASFERTA 18:00  Pogoń Siedlce vs Ruch Chorzów   [POLONIA - I LIGA]
+           Ruch Chorzów 🟢 GG 40%: 12 + GOAL (6)
+TOTALE    20:45  Charlton Athletic vs Bolton Wanderers   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Charlton Athletic xG 2,58 (0,99+1,59) · Bolton Wanderers xG 3,37 (1,39+1,98)
+           Bolton Wanderers 🟢 GG 60%: 1X + GOAL (8) 🔥 6/44
+TOTALE    20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
+           xG: Northampton Town xG 2,14 (0,92+1,22) · Oldham Athletic xG 2,88 (1,57+1,31)
+           Northampton Town 🟢 GG 30%: 12 + GOAL (11+) 👻 41/44
+CASA      20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
+           xG: Northampton Town xG 2,14 (0,92+1,22) · Oldham Athletic xG 2,88 (1,57+1,31)
+           Northampton Town 🟢 GG 17% (1/6): 12 + GOAL (6+) 👻 41/44
+TOTALE    20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]
+           xG: Wigan Athletic xG 3,20 (1,30+1,90) · Mansfield Town xG 3,03 (1,76+1,27)
+           Wigan Athletic 🟢 GG 30%: X2 + GOAL (17) ❗ 13/44
+CASA      20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]
+           xG: Wigan Athletic xG 3,20 (1,30+1,90) · Mansfield Town xG 3,03 (1,76+1,27)
+           Wigan Athletic 🟢 GG 20%: X2 + GOAL (14) ❗ 13/44
+CASA      21:00  Birmingham City vs Millwall   [INGHILTERRA - CHAMPIONSHIP]
+           xG: Birmingham City xG 3,03 (1,66+1,37) · Millwall xG 3,12 (1,77+1,35)
+           Birmingham City 🟢 GG 60%: 12 + GOAL (6) ❗ 13/44
+TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]
+           xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,74 (1,32+1,42)
+           Mirassol 🟢 GG 60%: 12 + GOAL (6)
 
 ==================================================
 04/11/2026
 ==================================================
-01:30  Internacional vs Coritiba   [BRASILE - SÉRIE A]
-      xG: Internacional xG 2,79 (1,47+1,32) · Coritiba xG 2,71 (1,07+1,64)
-      Coritiba 🟢 GG 60%: 12 + GOAL (6) 🔴 Coritiba
-
-##################################################
-# CASA
-##################################################
-
-PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — CASA
-Aggiornato: 30/10/2026 01:35 (ora italiana)
-Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
-
-
-==================================================
-30/10/2026
-==================================================
-16:00  Liptovský Mikuláš vs Žilina B   [SLOVACCHIA - 2. LIGA]
-      Liptovský Mikuláš 🟢 GG 20%: 12 + GOAL (10) 🔴 Liptovský Mikuláš 🔴 Žilina B
-17:00  FK Pohronie vs Slovan Bratislava B   [SLOVACCHIA - 2. LIGA]
-      FK Pohronie 🟢 GG 60%: X2 + GOAL (7) 👻 35/44 🔴 FK Pohronie 🔴 Slovan Bratislava B
-18:30  SKN St. Pölten vs FC Hertha Wels   [AUSTRIA - 2. LIGA]
-      SKN St. Pölten 🟢 GG 20%: X2 + GOAL (11) 👻 42/44
-19:00  AaB vs Hobro   [DANIMARCA - 1. DIVISION]
-      AaB 🟢 GG 50%: 12 + GOAL (7) 🔴 Hobro
-19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]
-      xG: Lyngby xG 3,30 (1,66+1,64) · Randers FC xG 2,96 (1,21+1,75)
-      Lyngby 🟢 GG 83% (5/6): 12 + GOAL (6+)
-19:00  Bodø/Glimt vs Viking   [NORVEGIA - ELITESERIEN]
-      xG: Bodø/Glimt xG 3,88 (2,91+0,97) · Viking xG 3,53 (2,28+1,25)
-      Bodø/Glimt 🟢 GG 40%: X2 + GOAL (17)
-19:30  FC Stade Lausanne-Ouchy vs Yverdon   [SVIZZERA - CHALLENGE LEAGUE]
-      FC Stade Lausanne-Ouchy 🟢 GG 20%: X2 + GOAL (8) 🔴 FC Stade Lausanne-Ouchy
-20:00  FC Volendam vs De Graafschap   [OLANDA - EERSTE DIVISIE]
-      FC Volendam 🟢 GG 50% (3/6): X2 + GOAL (6+)
-20:30  Pogoń Grodzisk Mazowiecki vs Stal Mielec   [POLONIA - I LIGA]
-      Pogoń Grodzisk Mazowiecki 🟢 GG 40%: 12 + GOAL (7)
-20:45  Zulte Waregem vs Club Brugge   [BELGIO - FIRST DIVISION A]
-      xG: Zulte Waregem xG 2,93 (1,27+1,66) · Club Brugge xG 4,02 (2,71+1,31)
-      Zulte Waregem 🟢 GG 40%: X2 + GOAL (6) 👻 44/44
-20:45  Drogheda United vs Galway United FC   [IRLANDA - PREMIER DIVISION]
-      xG: Drogheda United xG 2,68 (1,11+1,57) · Galway United FC xG 2,78 (1,28+1,50)
-      Drogheda United 🟢 GG 40%: 1X + GOAL (6)
-21:05  Lille vs Lens   [FRANCIA - LIGUE 1]
-      xG: Lille xG 3,07 (1,41+1,66) · Lens xG 3,42 (1,90+1,52)
-      Lille 🟢 GG 40%: 12 + GOAL (11) 🔥 5/44
-
-==================================================
-31/10/2026
-==================================================
-12:15  Wisła Płock vs Piast Gliwice   [POLONIA - EKSTRAKLASA]
-      xG: Wisła Płock xG 3,03 (1,37+1,66) · Piast Gliwice xG 3,46 (1,35+2,11)
-      Wisła Płock 🟢 GG 10%: X2 + GOAL (15)
-13:00  Kaiserslautern vs Hertha BSC   [GERMANIA - 2. BUNDESLIGA]
-      xG: Kaiserslautern xG 2,82 (1,47+1,35) · Hertha BSC xG 3,42 (2,21+1,21)
-      Kaiserslautern 🟢 GG 10%: 1X + GOAL (11) 🔴 Kaiserslautern; X2 + GOAL (8); 12 + GOAL (8) 🔴 Kaiserslautern
-13:00  Inter Bratislava vs Baník Lehota pod Vtacnikom   [SLOVACCHIA - 2. LIGA]
-      Inter Bratislava 🟢 GG 40%: 12 + GOAL (8)
-13:30  Fredericia vs AB   [DANIMARCA - 1. DIVISION]
-      Fredericia 🟢 GG 33% (2/6): 12 + GOAL (6+)
-13:30  Bradford City vs Huddersfield Town   [INGHILTERRA - LEAGUE ONE]
-      xG: Bradford City xG 2,21 (1,22+0,99) · Huddersfield Town xG 3,18 (2,24+0,94)
-      Bradford City 🟢 GG 30%: 1X + GOAL (6)
-13:30  Leyton Orient vs Cambridge United   [INGHILTERRA - LEAGUE ONE]
-      xG: Leyton Orient xG 2,72 (1,14+1,58) · Cambridge United xG 2,84 (1,36+1,48)
-      Leyton Orient 🟢 GG 50%: 1X + GOAL (6)
-14:00  Jahn Regensburg vs Hansa Rostock   [GERMANIA - 3. LIGA]
-      Jahn Regensburg 🟢 GG 50%: 1X + GOAL (6)
-14:30  Bari vs Scafatese   [ITALIA - SERIE C]
-      Bari 🟢 GG 0% (0/6): 1X + GOAL (6+); X2 + GOAL (6+); 12 + GOAL (6+)
-15:00  Modena vs Mantova   [ITALIA - SERIE B]
-      xG: Modena xG 2,37 (1,52+0,85) · Mantova xG 2,91 (1,51+1,40)
-      Modena 🟢 GG 50%: X2 + GOAL (6) 🔥 5/44
-15:00  Südtirol vs Cesena   [ITALIA - SERIE B]
-      xG: Südtirol xG 2,25 (0,97+1,28) · Cesena xG 2,26 (1,11+1,15)
-      Südtirol 🟢 GG 50%: 12 + GOAL (9)
-15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
-      Portimonense 🟢 GG 50%: X2 + GOAL (7) 👻 36/44 🔴 Portimonense
-15:30  Floridsdorfer AC vs Kapfenberger SV   [AUSTRIA - 2. LIGA]
-      Floridsdorfer AC 🟢 GG 10%: 12 + GOAL (11) ❗ 14/44 🔴 Kapfenberger SV
-15:30  Rapid Wien II vs FC Liefering   [AUSTRIA - 2. LIGA]
-      Rapid Wien II 🟢 GG 60%: 1X + GOAL (7) 🔴 FC Liefering
-15:30  Lechia Gdańsk vs Skierniewice   [POLONIA - I LIGA]
-      Lechia Gdańsk 🟢 GG 50% (3/6): X2 + GOAL (6+)
-16:00  AFC Bournemouth vs Leeds United   [INGHILTERRA - PREMIER LEAGUE]
-      xG: AFC Bournemouth xG 2,97 (1,81+1,16) · Leeds United xG 2,63 (1,31+1,32)
-      AFC Bournemouth 🟢 GG 60%: 12 + GOAL (11) 👻 42/44
-16:00  Millwall vs Derby County   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Millwall xG 3,12 (1,77+1,35) · Derby County xG 2,83 (1,01+1,82)
-      Millwall 🟢 GG 30%: 12 + GOAL (9) ❗ 13/44
-16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
-      xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
-      Salford City 🟢 GG 40%: X2 + GOAL (6)
-16:00  Southampton vs Queens Park Rangers   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Southampton xG 3,14 (1,81+1,33) · Queens Park Rangers xG 2,92 (1,78+1,14)
-      Southampton 🟢 GG 70%: X2 + GOAL (6) ❗ 9/44 🔴 Queens Park Rangers
-16:00  Swansea City vs Blackburn Rovers   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Swansea City xG 2,84 (1,49+1,35) · Blackburn Rovers xG 2,79 (1,02+1,77)
-      Swansea City 🟢 GG 50%: X2 + GOAL (7) ❗ 9/44
-16:00  Wigan Athletic vs Bromley   [INGHILTERRA - LEAGUE ONE]
-      xG: Wigan Athletic xG 3,20 (1,30+1,90) · Bromley xG 2,82 (0,77+2,05)
-      Wigan Athletic 🟢 GG 20%: X2 + GOAL (14) ❗ 13/44 🔴 Bromley
-16:00  Dunfermline Athletic vs Inverness Caledonian Thistle   [SCOZIA - CHAMPIONSHIP]
-      Dunfermline Athletic 🟢 GG 30%: 12 + GOAL (7) 👻 44/44
-16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
-      xG: Motherwell xG 3,33 (1,59+1,74) · St. Mirren xG 3,46 (1,52+1,94)
-      Motherwell 🟢 GG 30%: 1X + GOAL (6)
-16:00  Partick Thistle vs Greenock Morton   [SCOZIA - CHAMPIONSHIP]
-      Partick Thistle 🟢 GG 20%: 1X + GOAL (6) 👻 44/44 🔴 Partick Thistle; X2 + GOAL (6) 👻 41/44; 12 + GOAL (8) 👻 44/44 🔴 Greenock Morton
-17:15  Catanzaro vs Padova   [ITALIA - SERIE B]
-      xG: Catanzaro xG 3,53 (1,32+2,21) · Padova xG 2,90 (1,02+1,88)
-      Catanzaro 🟢 GG 60%: 1X + GOAL (7) 🔴 Padova
-17:30  Lech Poznań vs Wisła Kraków   [POLONIA - EKSTRAKLASA]
-      xG: Lech Poznań xG 3,29 (2,28+1,01) · Wisła Kraków xG 3,12 (1,91+1,21)
-      Lech Poznań 🟢 GG 60%: X2 + GOAL (6)
-18:00  Charlotte FC vs Orlando City   [USA/CANADA - MLS]
-      xG: Charlotte FC xG 3,24 (1,56+1,68) · Orlando City xG 3,91 (1,64+2,27)
-      Charlotte FC 🟢 GG 50%: X2 + GOAL (6) ❗ 10/44
-18:15  Standard Liège vs Kortrijk   [BELGIO - FIRST DIVISION A]
-      xG: Standard Liège xG 3,69 (1,95+1,74) · Kortrijk xG 2,84 (0,97+1,87)
-      Standard Liège 🟢 GG 40%: 12 + GOAL (6) 👻 39/44
-18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]
-      xG: SC Heerenveen xG 3,24 (1,65+1,59) · NEC Nijmegen xG 3,60 (1,76+1,84)
-      SC Heerenveen 🟢 GG 40%: 1X + GOAL (6) ❗ 8/44
-21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
-      Deportivo Riestra 🟢 GG 40%: 12 + GOAL (15+) 👻 37/44
-21:30  FC Porto vs Estoril   [PORTOGALLO - LIGA PORTUGAL]
-      xG: FC Porto xG 2,99 (2,16+0,83) · Estoril xG 2,65 (1,07+1,58)
-      FC Porto 🟢 GG 40%: X2 + GOAL (7) 🔴 Estoril
-
-==================================================
-01/11/2026
-==================================================
-02:30  Colorado Rapids vs Chicago Fire FC   [USA/CANADA - MLS]
-      xG: Colorado Rapids xG 2,65 (1,42+1,23) · Chicago Fire FC xG 3,06 (1,75+1,31)
-      Colorado Rapids 🟢 GG 30%: 12 + GOAL (10) ❗ 11/44
-12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
-      Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 43/44; X2 + GOAL (7) 👻 36/44; 12 + GOAL (7) 👻 40/44
-13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
-      Mladá Boleslav 🟢 GG 40%: X2 + GOAL (6) 🔴 Mladá Boleslav
-13:00  Varbergs BoIS FC vs Ljungskile   [SVEZIA - SUPERETTAN]
-      Varbergs BoIS FC 🟢 GG 50%: X2 + GOAL (7) ❗ 11/44
-14:00  AC Oulu vs KuPS   [FINLANDIA - VEIKKAUSLIIGA]
-      AC Oulu 🟢 GG 40%: 1X + GOAL (9) 👻 38/44 🔴 KuPS
-14:00  Getafe vs Sevilla   [SPAGNA - LALIGA]
-      xG: Getafe xG 2,01 (0,60+1,41) · Sevilla xG 2,50 (1,11+1,39)
-      Getafe 🟢 GG 40%: 12 + GOAL (6)
-14:30  Dolomiti Bellunesi vs Lecco   [ITALIA - SERIE C]
-      Dolomiti Bellunesi 🟢 GG 50%: 1X + GOAL (8)
-14:30  Ravenna vs Pineto   [ITALIA - SERIE C]
-      Ravenna 🟢 GG 30%: X2 + GOAL (6)
-15:00  Baník Ostrava vs Viktoria Plzeň   [REP. CECA - 1. LIGA]
-      Baník Ostrava 🟢 GG 10%: 1X + GOAL (10) 👻 37/44 🔴 Viktoria Plzeň
-16:00  St.Truiden vs OH Leuven   [BELGIO - FIRST DIVISION A]
-      xG: St.Truiden xG 3,82 (1,95+1,87) · OH Leuven xG 3,06 (1,37+1,69)
-      St.Truiden 🟢 GG 50%: 12 + GOAL (6) 👻 39/44
-16:00  Nordsjælland vs FC Midtjylland   [DANIMARCA - SUPERLIGAEN]
-      xG: Nordsjælland xG 3,60 (2,24+1,36) · FC Midtjylland xG 2,64 (1,48+1,16)
-      Nordsjælland 🟢 GG 40%: X2 + GOAL (6) ❗ 14/44
-16:30  Elfsborg vs Örgryte   [SVEZIA - ALLSVENSKAN]
-      xG: Elfsborg xG 2,64 (1,46+1,18) · Örgryte xG 3,14 (1,11+2,03)
-      Elfsborg 🟢 GG 40%: 1X + GOAL (7) 👻 39/44 🔴 Örgryte
-16:30  Västerås SK vs Brommapojkarna   [SVEZIA - ALLSVENSKAN]
-      xG: Västerås SK xG 2,85 (1,29+1,56) · Brommapojkarna xG 2,70 (1,31+1,39)
-      Västerås SK 🟢 GG 30%: 1X + GOAL (9) 👻 39/44
-17:00  Austria Wien vs Rapid Wien   [AUSTRIA - BUNDESLIGA]
-      xG: Austria Wien xG 2,99 (1,12+1,87) · Rapid Wien xG 3,44 (2,37+1,07)
-      Austria Wien 🟢 GG 50%: X2 + GOAL (6) 👻 43/44
-17:00  Strømsgodset vs Moss   [NORVEGIA - OBOS-LIGAEN]
-      Strømsgodset 🟢 GG 60%: X2 + GOAL (6)
-17:15  Paris FC vs Monaco   [FRANCIA - LIGUE 1]
-      xG: Paris FC xG 2,77 (1,73+1,04) · Monaco xG 2,65 (1,34+1,31)
-      Paris FC 🟢 GG 50%: X2 + GOAL (11)
-17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
-      Liverpool 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Arsenal
-17:30  Latina vs Pianese   [ITALIA - SERIE C]
-      Latina 🟢 GG 40%: 12 + GOAL (7)
-17:30  Potenza vs Crotone   [ITALIA - SERIE C]
-      Potenza 🟢 GG 70%: X2 + GOAL (7) 🔴 Potenza
-18:00  Brøndby IF vs AGF   [DANIMARCA - SUPERLIGAEN]
-      xG: Brøndby IF xG 3,09 (1,62+1,47) · AGF xG 3,09 (1,58+1,51)
-      Brøndby IF 🟢 GG 50%: X2 + GOAL (6) ❗ 14/44 🔴 AGF
-19:30  Palermo vs LR Vicenza   [ITALIA - SERIE B]
-      xG: Palermo xG 3,72 (2,04+1,68) · LR Vicenza xG 2,64 (1,13+1,51)
-      Palermo 🟢 GG 60%: X2 + GOAL (8) 🔥 5/44
-20:45  Juventus vs Napoli   [ITALIA - SERIE A]
-      xG: Juventus xG 2,01 (1,42+0,59) · Napoli xG 3,23 (1,88+1,35)
-      Juventus 🟢 GG 30%: 12 + GOAL (15) ❗ 12/44
-22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
-      xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
-      Nashville SC 🟢 GG 30%: X2 + GOAL (11) ❗ 10/44
-
-==================================================
-02/11/2026
-==================================================
-17:00  FC Inter Turku vs IF Gnistan   [FINLANDIA - VEIKKAUSLIIGA]
-      FC Inter Turku 🟢 GG 50%: 1X + GOAL (7) 👻 38/44
-17:00  VPS vs HJK   [FINLANDIA - VEIKKAUSLIIGA]
-      VPS 🟢 GG 20%: 1X + GOAL (9) 👻 38/44 🔴 HJK
-18:00  Zagłębie Lubin vs Korona Kielce   [POLONIA - EKSTRAKLASA]
-      xG: Zagłębie Lubin xG 2,90 (1,40+1,50) · Korona Kielce xG 3,06 (1,38+1,68)
-      Zagłębie Lubin 🟢 GG 30%: X2 + GOAL (8)
-19:00  GAIS vs AIK   [SVEZIA - ALLSVENSKAN]
-      xG: GAIS xG 2,94 (1,57+1,37) · AIK xG 3,33 (1,49+1,84)
-      GAIS 🟢 GG 30%: 12 + GOAL (14) 👻 38/44
-20:30  Casarano vs Foggia   [ITALIA - SERIE C]
-      Casarano 🟢 GG 40%: X2 + GOAL (7)
-20:30  Novara vs Desenzano   [ITALIA - SERIE C]
-      Novara 🟢 GG 50%: 12 + GOAL (6)
-23:00  Club Atlético Platense vs Central Córdoba de Santiago   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Club Atlético Platense xG 2,64 (1,31+1,33) · Central Córdoba de Santiago xG 2,83 (1,07+1,76)
-      Club Atlético Platense 🟢 GG 50%: 12 + GOAL (14) 👻 37/44
-23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Defensa y Justicia xG 2,70 (1,56+1,14) · Independiente xG 2,03 (0,93+1,10)
-      Defensa y Justicia 🟢 GG 40%: X2 + GOAL (6) 👻 37/44
-
-==================================================
-03/11/2026
-==================================================
-01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,44 (1,26+1,18)
-      Atlético Tucumán 🟢 GG 50%: 1X + GOAL (7) 👻 35/44
-18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]
-      Chrobry Głogów 🟢 GG 50%: 12 + GOAL (7)
-20:45  Northampton Town vs Oldham Athletic   [INGHILTERRA - LEAGUE TWO]
-      xG: Northampton Town xG 2,14 (0,92+1,22) · Oldham Athletic xG 2,88 (1,57+1,31)
-      Northampton Town 🟢 GG 17% (1/6): 12 + GOAL (6+) 👻 41/44
-20:45  Wigan Athletic vs Mansfield Town   [INGHILTERRA - LEAGUE ONE]
-      xG: Wigan Athletic xG 3,20 (1,30+1,90) · Mansfield Town xG 3,03 (1,76+1,27)
-      Wigan Athletic 🟢 GG 20%: X2 + GOAL (14) ❗ 13/44
-21:00  Birmingham City vs Millwall   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Birmingham City xG 3,03 (1,66+1,37) · Millwall xG 3,12 (1,77+1,35)
-      Birmingham City 🟢 GG 60%: 12 + GOAL (6) ❗ 13/44
-
-##################################################
-# TRASFERTA
-##################################################
-
-PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO — TRASFERTA
-Aggiornato: 30/10/2026 01:35 (ora italiana)
-Soglia ritardo >= 6. Orari in ora italiana. 🟢 GG = segnano entrambe nelle ultime 10 partite della squadra. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
-
-
-==================================================
-30/10/2026
-==================================================
-19:00  Lyngby vs Randers FC   [DANIMARCA - SUPERLIGAEN]
-      xG: Lyngby xG 3,30 (1,66+1,64) · Randers FC xG 2,96 (1,21+1,75)
-      Randers FC 🟢 GG 30%: X2 + GOAL (8) ❗ 14/44
-19:30  FC Rapperswil-Jona vs Stade Nyonnais   [SVIZZERA - CHALLENGE LEAGUE]
-      Stade Nyonnais 🟢 GG 50%: X2 + GOAL (11)
-20:00  Helmond Sport vs FC Eindhoven   [OLANDA - EERSTE DIVISIE]
-      FC Eindhoven 🟢 GG 50%: X2 + GOAL (8)
-21:00  Sheffield United vs Wrexham   [INGHILTERRA - CHAMPIONSHIP]
-      xG: Sheffield United xG 2,67 (1,21+1,46) · Wrexham xG 2,32 (1,13+1,19)
-      Wrexham 🟢 GG 40%: 12 + GOAL (6) ❗ 13/44
-
-==================================================
-31/10/2026
-==================================================
-01:15  Racing Club vs Aldosivi   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Racing Club xG 2,77 (1,17+1,60) · Aldosivi xG 2,56 (1,00+1,56)
-      Aldosivi 🟢 GG 60%: X2 + GOAL (6) 👻 37/44
-07:00  Melbourne City FC vs Sydney FC   [AUSTRALIA - A-LEAGUE MEN]
-      xG: Melbourne City FC xG 1,91 (1,21+0,70) · Sydney FC xG 2,42 (1,33+1,09)
-      Sydney FC 🟢 GG 10%: 12 + GOAL (12)
-12:00  Amarante FC vs FC Porto B   [PORTOGALLO - LIGA PORTUGAL 2]
-      FC Porto B 🟢 GG 40%: 1X + GOAL (6) 👻 43/44
-13:00  MFK Zvolen vs MFK Bytca   [SLOVACCHIA - 2. LIGA]
-      MFK Bytca 🟢 GG 67% (4/6): X2 + GOAL (6+) 👻 35/44
-13:00  IFK Norrköping vs Östersunds FK   [SVEZIA - SUPERETTAN]
-      Östersunds FK 🟢 GG 50%: 12 + GOAL (10) 🔴 IFK Norrköping
-13:30  Chelsea vs Manchester United   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Chelsea xG 2,71 (1,29+1,42) · Manchester United xG 3,10 (1,60+1,50)
-      Manchester United 🟢 GG 50%: 12 + GOAL (8) 👻 42/44 🔴 Chelsea
-14:30  Ospitaletto vs Trento   [ITALIA - SERIE C]
-      Trento 🟢 GG 60%: 12 + GOAL (6)
-15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
-      Slovan Liberec 🟢 GG 40%: 1X + GOAL (6) 👻 37/44
-15:00  Nordic United FC vs GIF Sundsvall   [SVEZIA - SUPERETTAN]
-      GIF Sundsvall 🟢 GG 20%: 1X + GOAL (7); X2 + GOAL (14) ❗ 11/44; 12 + GOAL (7)
-15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]
-      IFK Värnamo 🟢 GG 60%: 1X + GOAL (7)
-16:00  Colchester United vs Walsall   [INGHILTERRA - LEAGUE TWO]
-      xG: Colchester United xG 2,64 (1,18+1,46) · Walsall xG 3,18 (1,65+1,53)
-      Walsall 🟢 GG 80%: 12 + GOAL (6) 👻 41/44
-16:00  Fleetwood Town vs Bristol Rovers   [INGHILTERRA - LEAGUE TWO]
-      xG: Fleetwood Town xG 3,08 (1,29+1,79) · Bristol Rovers xG 2,88 (1,59+1,29)
-      Bristol Rovers 🟢 GG 60%: X2 + GOAL (6)
-16:00  Manchester City vs Brighton & Hove Albion   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Manchester City xG 3,42 (2,09+1,33) · Brighton & Hove Albion xG 3,45 (2,03+1,42)
-      Brighton & Hove Albion 🟢 GG 30%: X2 + GOAL (6) 👻 38/44 🔴 Manchester City
-16:00  Salford City vs Exeter City   [INGHILTERRA - LEAGUE TWO]
-      xG: Salford City xG 2,52 (1,33+1,19) · Exeter City xG 2,28 (1,17+1,11)
-      Exeter City 🟢 GG 17% (1/6): X2 + GOAL (6+) 🔴 Salford City
-16:00  Ayr United vs Queen's Park   [SCOZIA - CHAMPIONSHIP]
-      Queen's Park 🟢 GG 30%: X2 + GOAL (6) 👻 41/44 🔴 Ayr United
-16:00  Motherwell vs St. Mirren   [SCOZIA - PREMIERSHIP]
-      xG: Motherwell xG 3,33 (1,59+1,74) · St. Mirren xG 3,46 (1,52+1,94)
-      St. Mirren 🟢 GG 30%: X2 + GOAL (8)
-16:15  Eibar vs Almería   [SPAGNA - LALIGA 2]
-      xG: Eibar xG 3,05 (1,53+1,52) · Almería xG 2,61 (1,46+1,15)
-      Almería 🟢 GG 40%: 1X + GOAL (6) 👻 36/44 🔴 Almería
-16:15  Rayo Vallecano vs Celta Vigo   [SPAGNA - LALIGA]
-      xG: Rayo Vallecano xG 3,15 (1,42+1,73) · Celta Vigo xG 2,11 (0,92+1,19)
-      Celta Vigo 🟢 GG 50%: 12 + GOAL (6)
-16:30  Leixões vs Sporting CP B   [PORTOGALLO - LIGA PORTUGAL 2]
-      Sporting CP B 🟢 GG 30%: 1X + GOAL (6) 👻 43/44
-17:30  Cavese vs AZ Picerno   [ITALIA - SERIE C]
-      AZ Picerno 🟢 GG 60%: X2 + GOAL (6)
-18:00  Grasshopper vs FC Vaduz   [SVIZZERA - SUPER LEAGUE]
-      xG: Grasshopper xG 3,94 (1,80+2,14) · FC Vaduz xG 3,70 (1,82+1,88)
-      FC Vaduz 🟢 GG 100% (6/6): X2 + GOAL (6+) ❗ 12/44
-19:30  LASK vs WSG Tirol   [AUSTRIA - BUNDESLIGA]
-      xG: LASK xG 3,64 (2,43+1,21) · WSG Tirol xG 3,21 (1,46+1,75)
-      WSG Tirol 🟢 GG 20%: X2 + GOAL (10) 👻 43/44 🔴 LASK
-20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]
-      xG: Anderlecht xG 2,68 (1,63+1,05) · Westerlo xG 3,47 (1,65+1,82)
-      Westerlo 🟢 GG 20%: X2 + GOAL (8) 👻 44/44
-20:45  SK Beveren vs Union St.Gilloise   [BELGIO - FIRST DIVISION A]
-      xG: SK Beveren xG 3,12 (1,15+1,97) · Union St.Gilloise xG 3,23 (2,13+1,10)
-      Union St.Gilloise 🟢 GG 50%: 1X + GOAL (6) 👻 40/44
-21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
-      Talleres 🟢 GG 60%: X2 + GOAL (6) 👻 37/44 🔴 Talleres
-
-==================================================
-01/11/2026
-==================================================
-13:30  Cercle Brugge vs Royal Antwerp   [BELGIO - FIRST DIVISION A]
-      xG: Cercle Brugge xG 3,41 (1,61+1,80) · Royal Antwerp xG 3,70 (1,35+2,35)
-      Royal Antwerp 🟢 GG 50%: X2 + GOAL (6) 👻 44/44
-14:00  Falkirk vs Celtic   [SCOZIA - PREMIERSHIP]
-      xG: Falkirk xG 2,87 (1,15+1,72) · Celtic xG 3,74 (2,68+1,06)
-      Celtic 🟢 GG 70%: 1X + GOAL (10)
-14:30  Salernitana vs Savoia   [ITALIA - SERIE C]
-      Savoia 🟢 GG 33% (2/6): X2 + GOAL (6+)
-14:30  FC Emmen vs FC Den Bosch   [OLANDA - EERSTE DIVISIE]
-      FC Den Bosch 🟢 GG 70%: X2 + GOAL (6)
-16:15  AD Ceuta FC vs Sporting Gijón   [SPAGNA - LALIGA 2]
-      xG: AD Ceuta FC xG 3,31 (1,50+1,81) · Sporting Gijón xG 2,11 (0,97+1,14)
-      Sporting Gijón 🟢 GG 50%: 1X + GOAL (7) 👻 36/44
-17:00  Hødd vs Bryne   [NORVEGIA - OBOS-LIGAEN]
-      Bryne 🟢 GG 30%: X2 + GOAL (6)
-17:30  Liverpool vs Arsenal   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Liverpool xG 2,72 (1,52+1,20) · Arsenal xG 2,51 (1,74+0,77)
-      Arsenal 🟢 GG 40%: 1X + GOAL (6)
-17:30  Latina vs Pianese   [ITALIA - SERIE C]
-      Pianese 🟢 GG 50%: X2 + GOAL (6)
-18:00  Lecce vs Genoa   [ITALIA - SERIE A]
-      xG: Lecce xG 3,45 (1,39+2,06) · Genoa xG 2,20 (0,86+1,34)
-      Genoa 🟢 GG 20%: X2 + GOAL (6)
-18:00  Bohemians 1905 vs Sparta Prague   [REP. CECA - 1. LIGA]
-      Sparta Prague 🟢 GG 30%: X2 + GOAL (14) 🔴 Sparta Prague
-18:00  Dukla Banská Bystrica vs DAC 1904 Dunajska Streda   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
-      DAC 1904 Dunajska Streda 🟢 GG 60%: 1X + GOAL (6)
-18:30  Burgos CF vs Castellón   [SPAGNA - LALIGA 2]
-      xG: Burgos CF xG 2,83 (1,47+1,36) · Castellón xG 3,10 (2,00+1,10)
-      Castellón 🟢 GG 50%: 1X + GOAL (6) 👻 36/44
-19:00  Académico Viseu vs Rio Ave   [PORTOGALLO - LIGA PORTUGAL]
-      xG: Académico Viseu xG 2,98 (1,16+1,82) · Rio Ave xG 2,55 (0,69+1,86)
-      Rio Ave 🟢 GG 20%: 12 + GOAL (7) 👻 35/44
-19:15  Sporting Charleroi vs RAAL La Louvière   [BELGIO - FIRST DIVISION A]
-      xG: Sporting Charleroi xG 3,06 (1,87+1,19) · RAAL La Louvière xG 3,44 (1,31+2,13)
-      RAAL La Louvière 🟢 GG 40%: X2 + GOAL (7) 👻 44/44
-21:30  Braga vs Famalicão   [PORTOGALLO - LIGA PORTUGAL]
-      xG: Braga xG 2,23 (1,41+0,82) · Famalicão xG 2,41 (1,01+1,40)
-      Famalicão 🟢 GG 50%: 12 + GOAL (9) 👻 35/44 🔴 Braga
-22:30  Nashville SC vs Red Bull New York   [USA/CANADA - MLS]
-      xG: Nashville SC xG 2,84 (1,64+1,20) · Red Bull New York xG 3,82 (1,86+1,96)
-      Red Bull New York 🟢 GG 60%: X2 + GOAL (8) ❗ 10/44
-22:30  Vancouver Whitecaps vs Seattle Sounders FC   [USA/CANADA - MLS]
-      xG: Vancouver Whitecaps xG 3,25 (2,12+1,13) · Seattle Sounders FC xG 2,94 (1,49+1,45)
-      Seattle Sounders FC 🟢 GG 60%: 12 + GOAL (6) ❗ 11/44
-
-==================================================
-02/11/2026
-==================================================
-00:45  Lanús vs Gimnasia Mendoza   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Lanús xG 2,45 (1,41+1,04) · Gimnasia Mendoza xG 2,96 (1,23+1,73)
-      Gimnasia Mendoza 🟢 GG 30%: 1X + GOAL (7) 👻 35/44 🔴 Lanús
-18:30  Real Valladolid vs Leganés   [SPAGNA - LALIGA 2]
-      xG: Real Valladolid xG 2,75 (1,54+1,21) · Leganés xG 2,82 (1,25+1,57)
-      Leganés 🟢 GG 30%: 12 + GOAL (7) 🔴 Real Valladolid
-19:00  Kongsvinger vs Stabæk   [NORVEGIA - OBOS-LIGAEN]
-      Stabæk 🟢 GG 40%: X2 + GOAL (6) 🔴 Kongsvinger
-20:00  Heracles vs TOP Oss   [OLANDA - EERSTE DIVISIE]
-      TOP Oss 🟢 GG 60%: X2 + GOAL (7)
-20:00  Jong Ajax vs Vitesse   [OLANDA - EERSTE DIVISIE]
-      Vitesse 🟢 GG 30%: 1X + GOAL (6) 🔥 1/44 🔴 Jong Ajax
-20:30  Casarano vs Foggia   [ITALIA - SERIE C]
-      Foggia 🟢 GG 20%: X2 + GOAL (15)
-20:45  Red Star vs Nancy   [FRANCIA - LIGUE 2]
-      xG: Red Star xG 2,89 (1,80+1,09) · Nancy xG 2,51 (1,66+0,85)
-      Nancy 🟢 GG 60%: 1X + GOAL (6)
-20:45  Atalanta vs Parma   [ITALIA - SERIE A]
-      xG: Atalanta xG 3,45 (1,45+2,00) · Parma xG 2,49 (0,82+1,67)
-      Parma 🟢 GG 40%: X2 + GOAL (7)
-21:00  Newcastle United vs Everton   [INGHILTERRA - PREMIER LEAGUE]
-      xG: Newcastle United xG 2,85 (1,14+1,71) · Everton xG 2,72 (1,26+1,46)
-      Everton 🟢 GG 60%: 12 + GOAL (6) 👻 42/44 🔴 Newcastle United
-21:15  Gil Vicente vs Vitória de Guimarães   [PORTOGALLO - LIGA PORTUGAL]
-      xG: Gil Vicente xG 2,42 (1,32+1,10) · Vitória de Guimarães xG 2,62 (1,67+0,95)
-      Vitória de Guimarães 🟢 GG 40%: X2 + GOAL (7)
-
-==================================================
-03/11/2026
-==================================================
-01:15  Atlético Tucumán vs Argentinos Juniors   [ARGENTINA - PRIMERA DIVISIÓN]
-      xG: Atlético Tucumán xG 1,74 (0,81+0,93) · Argentinos Juniors xG 2,44 (1,26+1,18)
-      Argentinos Juniors 🟢 GG 40%: 12 + GOAL (7) 👻 37/44
-18:00  Chrobry Głogów vs Arka Gdynia   [POLONIA - I LIGA]
-      Arka Gdynia 🟢 GG 33% (2/6): X2 + GOAL (6+)
-18:00  Pogoń Siedlce vs Ruch Chorzów   [POLONIA - I LIGA]
-      Ruch Chorzów 🟢 GG 40%: 12 + GOAL (6)
-
+TOTALE    01:30  Internacional vs Coritiba   [BRASILE - SÉRIE A]
+           xG: Internacional xG 2,79 (1,47+1,32) · Coritiba xG 2,71 (1,07+1,64)
+           Coritiba 🟢 GG 60%: 12 + GOAL (6) 🔴 Coritiba
