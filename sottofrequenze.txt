@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1259,7 +1259,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/26 Rosario Central                37/100
     5/26 Estudiantes                    35/100
      ...
-   26/26 Gimnasia LP                    24/100  (la fa meno spesso)
+   26/26 Gimnasia LP                    23/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/26 Barracas Central               35/100
@@ -1473,7 +1473,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2688,7 +2688,7 @@ SOTTOFREQUENZA X2 + GOAL
     5/20 Independiente                  31/100
     6/20 Estudiantes                    31/100
      ...
-   20/20 Huracán                        16/100  (la fa meno spesso)
+   20/20 Huracán                        15/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
     1/20 Racing Club                    34/100
@@ -2894,7 +2894,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4125,7 +4125,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Unión                          30/100
     5/20 Lanús                          30/100
      ...
-   20/20 Gimnasia LP                    20/100  (la fa meno spesso)
+   20/20 Gimnasia LP                    21/100  (la fa meno spesso)
 
 ==================================================
 USA/CANADA - MLS

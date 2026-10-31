@@ -1,5 +1,5 @@
 FREQUENZA CAMPIONATI — STAGIONE IN CORSO (TOTALE, NON CASA/TRASFERTA)
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 1 ogni N = partite giocate della stagione corrente / partite in cui è uscita la combo.
 Entrano solo i campionati ancora in corso con almeno 7 giornate già giocate.
 Ordine: dal più frequente (N più basso) al meno frequente. 🔥 primi 7, ❗ posizioni 8-14, 👻 ultimi 10.
@@ -42,7 +42,7 @@ Fonte: FotMob
   31/43  ITALIA - SERIE C                 1 ogni 2,6       (130/332, 12 giornate)
   32/43  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 2,6       (28/72, 12 giornate)
   33/43  GERMANIA - BUNDESLIGA            1 ogni 2,7       (24/64, 8 giornate)
-  34/43  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 2,8       (76/210, 14 giornate)
+  34/43  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 2,8       (76/212, 15 giornate)
   35/43  SPAGNA - LALIGA 2                1 ogni 2,8       (43/121, 11 giornate)
   36/43  REP. CECA - 1. LIGA              1 ogni 2,8       (33/94, 12 giornate)
   37/43  FINLANDIA - VEIKKAUSLIIGA        1 ogni 2,9       (60/171, 22 giornate)
@@ -89,8 +89,8 @@ X2 + GOAL
   31/43  ITALIA - SERIE A                 1 ogni 3,1       (29/90, 9 giornate)
   32/43  REP. CECA - 1. LIGA              1 ogni 3,1       (30/94, 12 giornate)
   33/43  SLOVACCHIA - 2. LIGA             1 ogni 3,2       (36/114, 15 giornate)
-  34/43  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,3       (22/72, 8 giornate)
-  35/43  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,3       (64/210, 14 giornate)
+  34/43  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,3       (65/212, 15 giornate)
+  35/43  PORTOGALLO - LIGA PORTUGAL 2     1 ogni 3,3       (22/72, 8 giornate)
   36/43  BELGIO - FIRST DIVISION B        1 ogni 3,3       (17/56, 9 giornate)
   37/43  INGHILTERRA - PREMIER LEAGUE     1 ogni 3,3       (24/80, 8 giornate)
   38/43  SPAGNA - LALIGA 2                1 ogni 3,4       (36/121, 11 giornate)
@@ -138,7 +138,7 @@ X2 + GOAL
   33/43  DANIMARCA - 1. DIVISION          1 ogni 3,0       (24/73, 13 giornate)
   34/43  SLOVACCHIA - 1. LIGA (NIKE LIGA) 1 ogni 3,1       (23/72, 12 giornate)
   35/43  PORTOGALLO - LIGA PORTUGAL       1 ogni 3,2       (26/82, 10 giornate)
-  36/43  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,2       (66/210, 14 giornate)
+  36/43  ARGENTINA - PRIMERA DIVISIÓN     1 ogni 3,2       (67/212, 15 giornate)
   37/43  SVEZIA - ALLSVENSKAN             1 ogni 3,2       (65/208, 26 giornate)
   38/43  BELGIO - FIRST DIVISION A        1 ogni 3,2       (25/81, 10 giornate)
   39/43  INGHILTERRA - LEAGUE TWO         1 ogni 3,4       (45/152, 14 giornate)

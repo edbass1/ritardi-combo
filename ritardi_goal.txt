@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -971,16 +971,16 @@ RITARDI 1X + GOAL
   10. Feirense                          1  👻 42/43
 
 RITARDI X2 + GOAL
-   1. Tondela                          8+  🟢 75%  👻 34/43
-   2. Académica                         7  🟢 86%  🔴  👻 34/43
-   3. Benfica B                         5  🔴  👻 34/43
-   4. Torreense                         5  👻 34/43
-   5. Feirense                          3  👻 34/43
-   6. Sporting CP B                     2  🟢 100%  👻 34/43
-   7. Vizela                            2  🟢 100%  👻 34/43
-   8. AVS Futebol SAD                   1  🟢 100%  👻 34/43
-   9. Amarante FC                       1  👻 34/43
-  10. Chaves                            1  🟢 100%  👻 34/43
+   1. Tondela                          8+  🟢 75%  👻 35/43
+   2. Académica                         7  🟢 86%  🔴  👻 35/43
+   3. Benfica B                         5  🔴  👻 35/43
+   4. Torreense                         5  👻 35/43
+   5. Feirense                          3  👻 35/43
+   6. Sporting CP B                     2  🟢 100%  👻 35/43
+   7. Vizela                            2  🟢 100%  👻 35/43
+   8. AVS Futebol SAD                   1  🟢 100%  👻 35/43
+   9. Amarante FC                       1  👻 35/43
+  10. Chaves                            1  🟢 100%  👻 35/43
 
 RITARDI 12 + GOAL
    1. Torreense                         7  🟢 57%  👻 40/43
@@ -1610,32 +1610,32 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (210 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (212 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
    1. Gimnasia Mendoza                  6  🟢 50%  👻 34/43
-   2. Huracán                           5  🟢 80%  👻 34/43
+   2. Huracán                           6  🟢 83%  👻 34/43
    3. San Lorenzo                       5  🟢 60%  👻 34/43
    4. Belgrano                          4  🟢 50%  👻 34/43
    5. Defensa y Justicia                4  🟢 75%  🔴  👻 34/43
-   6. Rosario Central                   3  🟢 100%  👻 34/43
-   7. Vélez Sarsfield                   3  🟢 67%  👻 34/43
-   8. Argentinos Juniors                2  👻 34/43
-   9. Atlético Tucumán                  2  🟢 50%  👻 34/43
-  10. Club Atlético Platense            2  🟢 50%  👻 34/43
+   6. Gimnasia LP                       3  🟢 100%  👻 34/43
+   7. Rosario Central                   3  🟢 100%  👻 34/43
+   8. Vélez Sarsfield                   3  🟢 67%  👻 34/43
+   9. Argentinos Juniors                2  👻 34/43
+  10. Atlético Tucumán                  2  🟢 50%  👻 34/43
 
 RITARDI X2 + GOAL
-   1. Belgrano                          5  🟢 60%  👻 35/43
-   2. Newell's Old Boys                 5  🔴  👻 35/43
-   3. Estudiantes de Río Cuarto         3  🟢 67%  👻 35/43
-   4. Vélez Sarsfield                   3  🟢 67%  👻 35/43
-   5. Aldosivi                          2  🟢 50%  👻 35/43
-   6. Argentinos Juniors                2  👻 35/43
-   7. Boca Juniors                      2  🟢 50%  👻 35/43
-   8. Central Córdoba de Santiago       2  🟢 100%  👻 35/43
-   9. Instituto                         2  👻 35/43
-  10. River Plate                       2  🟢 50%  👻 35/43
+   1. Belgrano                          5  🟢 60%  👻 34/43
+   2. Newell's Old Boys                 5  🔴  👻 34/43
+   3. Vélez Sarsfield                   3  🟢 67%  👻 34/43
+   4. Aldosivi                          2  🟢 50%  👻 34/43
+   5. Argentinos Juniors                2  👻 34/43
+   6. Boca Juniors                      2  🟢 50%  👻 34/43
+   7. Central Córdoba de Santiago       2  🟢 100%  👻 34/43
+   8. Huracán                           2  🟢 100%  👻 34/43
+   9. Instituto                         2  👻 34/43
+  10. River Plate                       2  🟢 50%  👻 34/43
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra                12  🟢 58%  👻 36/43
@@ -1898,7 +1898,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2866,16 +2866,16 @@ RITARDI 1X + GOAL
   10. Amarante FC                       1  🟢 100%  👻 42/43
 
 RITARDI X2 + GOAL
-   1. Portimonense                      7  🟢 86%  🔴  👻 34/43
-   2. Vizela                            7  👻 34/43
-   3. AVS Futebol SAD                  4+  🟢 50%  🔴  👻 34/43
-   4. Académica                        4+  🟢 75%  👻 34/43
-   5. Tondela                          4+  🟢 75%  🔴  👻 34/43
-   6. Torreense                         3  👻 34/43
-   7. União de Leiria                   3  🟢 67%  👻 34/43
-   8. Benfica B                         2  🟢 50%  👻 34/43
-   9. Chaves                            2  🟢 50%  👻 34/43
-  10. Feirense                          1  👻 34/43
+   1. Portimonense                      7  🟢 86%  🔴  👻 35/43
+   2. Vizela                            7  👻 35/43
+   3. AVS Futebol SAD                  4+  🟢 50%  🔴  👻 35/43
+   4. Académica                        4+  🟢 75%  👻 35/43
+   5. Tondela                          4+  🟢 75%  🔴  👻 35/43
+   6. Torreense                         3  👻 35/43
+   7. União de Leiria                   3  🟢 67%  👻 35/43
+   8. Benfica B                         2  🟢 50%  👻 35/43
+   9. Chaves                            2  🟢 50%  👻 35/43
+  10. Feirense                          1  👻 35/43
 
 RITARDI 12 + GOAL
    1. Vizela                            7  👻 40/43
@@ -3505,7 +3505,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (210 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (212 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -3515,22 +3515,22 @@ RITARDI 1X + GOAL
    4. Tigre                             4  🔴  👻 34/43
    5. Aldosivi                          3  👻 34/43
    6. Gimnasia Mendoza                  3  👻 34/43
-   7. River Plate                       3  👻 34/43
-   8. Rosario Central                   3  🟢 67%  🔴  👻 34/43
-   9. Talleres                          3  👻 34/43
-  10. Estudiantes                       2  🟢 100%  👻 34/43
+   7. Huracán                           3  🟢 67%  👻 34/43
+   8. River Plate                       3  👻 34/43
+   9. Rosario Central                   3  🟢 67%  🔴  👻 34/43
+  10. Talleres                          3  👻 34/43
 
 RITARDI X2 + GOAL
-   1. San Lorenzo                       7  👻 35/43
-   2. Defensa y Justicia                6  🟢 67%  👻 35/43
-   3. Barracas Central                  4  🟢 50%  👻 35/43
-   4. Boca Juniors                      4  🟢 75%  👻 35/43
-   5. Lanús                             3  🟢 67%  👻 35/43
-   6. Rosario Central                   3  🟢 67%  👻 35/43
-   7. Argentinos Juniors                2  🟢 50%  👻 35/43
-   8. Belgrano                          2  🟢 100%  👻 35/43
-   9. Newell's Old Boys                 2  🟢 50%  👻 35/43
-  10. River Plate                       2  👻 35/43
+   1. San Lorenzo                       7  👻 34/43
+   2. Defensa y Justicia                6  🟢 67%  👻 34/43
+   3. Barracas Central                  4  🟢 50%  👻 34/43
+   4. Boca Juniors                      4  🟢 75%  👻 34/43
+   5. Lanús                             3  🟢 67%  👻 34/43
+   6. Rosario Central                   3  🟢 67%  👻 34/43
+   7. Argentinos Juniors                2  🟢 50%  👻 34/43
+   8. Belgrano                          2  🟢 100%  👻 34/43
+   9. Newell's Old Boys                 2  🟢 50%  👻 34/43
+  10. River Plate                       2  👻 34/43
 
 RITARDI 12 + GOAL
    1. Deportivo Riestra               15+  🟢 60%  👻 36/43
@@ -3793,7 +3793,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -4761,16 +4761,16 @@ RITARDI 1X + GOAL
   10. Académica                         1  🟢 100%  🔴  👻 42/43
 
 RITARDI X2 + GOAL
-   1. Amarante FC                      4+  🟢 50%  👻 34/43
-   2. Feirense                          4  🟢 50%  👻 34/43
-   3. Leixões                           4  🟢 50%  👻 34/43
-   4. Tondela                          4+  🟢 75%  🔴  👻 34/43
-   5. Académica                         3  🟢 100%  🔴  👻 34/43
-   6. Benfica B                         3  🔴  👻 34/43
-   7. Farense                           2  🟢 50%  👻 34/43
-   8. Felgueiras 1932                   2  👻 34/43
-   9. Torreense                         2  🟢 50%  👻 34/43
-  10. Portimonense                      1  🟢 100%  👻 34/43
+   1. Amarante FC                      4+  🟢 50%  👻 35/43
+   2. Feirense                          4  🟢 50%  👻 35/43
+   3. Leixões                           4  🟢 50%  👻 35/43
+   4. Tondela                          4+  🟢 75%  🔴  👻 35/43
+   5. Académica                         3  🟢 100%  🔴  👻 35/43
+   6. Benfica B                         3  🔴  👻 35/43
+   7. Farense                           2  🟢 50%  👻 35/43
+   8. Felgueiras 1932                   2  👻 35/43
+   9. Torreense                         2  🟢 50%  👻 35/43
+  10. Portimonense                      1  🟢 100%  👻 35/43
 
 RITARDI 12 + GOAL
    1. Felgueiras 1932                   4  👻 40/43
@@ -5400,7 +5400,7 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (210 partite giocate) + 2026 - Apertura
+Stagione 2026 - Clausura (212 partite giocate) + 2026 - Apertura
   Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 3,2
 ==================================================
 RITARDI 1X + GOAL
@@ -5411,21 +5411,21 @@ RITARDI 1X + GOAL
    5. Independiente Rivadavia           3  👻 34/43
    6. Newell's Old Boys                 3  👻 34/43
    7. Defensa y Justicia                2  🟢 100%  👻 34/43
-   8. Instituto                         2  🟢 50%  👻 34/43
-   9. Racing Club                       2  🟢 50%  👻 34/43
-  10. San Lorenzo                       2  🟢 100%  👻 34/43
+   8. Gimnasia LP                       2  🟢 100%  👻 34/43
+   9. Instituto                         2  🟢 50%  👻 34/43
+  10. Racing Club                       2  🟢 50%  👻 34/43
 
 RITARDI X2 + GOAL
-   1. Independiente Rivadavia           8  🟢 50%  👻 35/43
-   2. Aldosivi                          6  🟢 67%  👻 35/43
-   3. Talleres                          6  🟢 67%  🔴  👻 35/43
-   4. Estudiantes de Río Cuarto         4  🟢 75%  👻 35/43
-   5. Gimnasia Mendoza                  4  🟢 75%  👻 35/43
-   6. Belgrano                          3  👻 35/43
-   7. Deportivo Riestra                 3  👻 35/43
-   8. Newell's Old Boys                 3  🔴  👻 35/43
-   9. Huracán                           2  🟢 100%  👻 35/43
-  10. Vélez Sarsfield                   2  🟢 100%  👻 35/43
+   1. Independiente Rivadavia           8  🟢 50%  👻 34/43
+   2. Aldosivi                          6  🟢 67%  👻 34/43
+   3. Talleres                          6  🟢 67%  🔴  👻 34/43
+   4. Estudiantes de Río Cuarto         4  🟢 75%  👻 34/43
+   5. Gimnasia Mendoza                  4  🟢 75%  👻 34/43
+   6. Belgrano                          3  👻 34/43
+   7. Deportivo Riestra                 3  👻 34/43
+   8. Newell's Old Boys                 3  🔴  👻 34/43
+   9. Huracán                           2  🟢 100%  👻 34/43
+  10. Vélez Sarsfield                   2  🟢 100%  👻 34/43
 
 RITARDI 12 + GOAL
    1. Boca Juniors                      8  🟢 88%  👻 36/43

@@ -1,14 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 31/10/2026 00:26 (ora italiana)
+Aggiornato: 31/10/2026 01:40 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 31/10/2026
 ==================================================
-TRASFERTA 01:15  Racing Club vs Aldosivi   [ARGENTINA - PRIMERA DIVISIÓN]
-           xG: Racing Club xG 2,77 (1,17+1,60) · Aldosivi xG 2,56 (1,00+1,56)
-           Aldosivi 🟢 GG 60%: X2 + GOAL (6) 👻 35/43
 TOTALE    05:00  Newcastle Jets vs Wellington Phoenix   [AUSTRALIA - A-LEAGUE MEN]
            xG: Newcastle Jets xG 3,91 (1,63+2,28) · Wellington Phoenix xG 2,35 (1,44+0,91)
            Newcastle Jets 🟢 GG 90%: 12 + GOAL (7)
@@ -81,7 +78,7 @@ CASA      15:00  Südtirol vs Cesena   [ITALIA - SERIE B]
 TOTALE    15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
            Torreense 🟢 GG 40%: 12 + GOAL (7) 👻 40/43 🔴 Portimonense
 CASA      15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]
-           Portimonense 🟢 GG 50%: X2 + GOAL (7) 👻 34/43 🔴 Portimonense
+           Portimonense 🟢 GG 50%: X2 + GOAL (7) 👻 35/43 🔴 Portimonense
 TOTALE    15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
            Slovan Liberec 🟢 GG 20%: 1X + GOAL (7) 👻 36/43
 TRASFERTA 15:00  Pardubice vs Slovan Liberec   [REP. CECA - 1. LIGA]
@@ -267,7 +264,7 @@ CASA      21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
            Deportivo Riestra 🟢 GG 40%: 12 + GOAL (15+) 👻 36/43
 TRASFERTA 21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Deportivo Riestra xG 1,86 (0,94+0,92) · Talleres xG 2,61 (1,15+1,46)
-           Talleres 🟢 GG 60%: X2 + GOAL (6) 👻 35/43 🔴 Talleres
+           Talleres 🟢 GG 60%: X2 + GOAL (6) 👻 34/43 🔴 Talleres
 CASA      21:30  FC Porto vs Estoril   [PORTOGALLO - LIGA PORTUGAL]
            xG: FC Porto xG 2,99 (2,16+0,83) · Estoril xG 2,65 (1,07+1,58)
            FC Porto 🟢 GG 40%: X2 + GOAL (7) 🔴 Estoril
@@ -281,9 +278,9 @@ CASA      02:30  Colorado Rapids vs Chicago Fire FC   [USA/CANADA - MLS]
 TOTALE    10:30  FC Petržalka 1898 vs Považská Bystrica   [SLOVACCHIA - 2. LIGA]
            FC Petržalka 1898 🟢 GG 30%: 12 + GOAL (10) 🔴 Považská Bystrica
 TOTALE    12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
-           Académica 🟢 GG 25% (2/8): X2 + GOAL (7) 👻 34/43 🔴 Académica
+           Académica 🟢 GG 25% (2/8): X2 + GOAL (7) 👻 35/43 🔴 Académica
 CASA      12:00  Vizela vs Académica   [PORTOGALLO - LIGA PORTUGAL 2]
-           Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 42/43; X2 + GOAL (7) 👻 34/43; 12 + GOAL (7) 👻 40/43
+           Vizela 🟢 GG 30%: 1X + GOAL (8) 👻 42/43; X2 + GOAL (7) 👻 35/43; 12 + GOAL (7) 👻 40/43
 TOTALE    13:00  Mladá Boleslav vs Hradec Králové   [REP. CECA - 1. LIGA]
            Mladá Boleslav 🟢 GG 30%: 12 + GOAL (7)
            Hradec Králové 🟢 GG 50%: 1X + GOAL (6) 👻 36/43 🔴 Mladá Boleslav
@@ -350,7 +347,7 @@ TOTALE    15:00  Empoli vs Juve Stabia   [ITALIA - SERIE B]
            xG: Empoli xG 2,63 (0,88+1,75) · Juve Stabia xG 2,43 (1,25+1,18)
            Juve Stabia 🟢 GG 50%: 12 + GOAL (7)
 TOTALE    15:00  Tondela vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
-           Tondela 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 34/43
+           Tondela 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 35/43
 CASA      15:00  Baník Ostrava vs Viktoria Plzeň   [REP. CECA - 1. LIGA]
            Baník Ostrava 🟢 GG 10%: 1X + GOAL (10) 👻 36/43 🔴 Viktoria Plzeň
 TOTALE    15:30  Ružomberok vs Skalica   [SLOVACCHIA - 1. LIGA (NIKE LIGA)]
@@ -553,7 +550,7 @@ CASA      23:00  Club Atlético Platense vs Central Córdoba de Santiago   [ARGE
            Club Atlético Platense 🟢 GG 50%: 12 + GOAL (14) 👻 36/43
 CASA      23:00  Defensa y Justicia vs Independiente   [ARGENTINA - PRIMERA DIVISIÓN]
            xG: Defensa y Justicia xG 2,70 (1,56+1,14) · Independiente xG 2,03 (0,93+1,10)
-           Defensa y Justicia 🟢 GG 40%: X2 + GOAL (6) 👻 35/43
+           Defensa y Justicia 🟢 GG 40%: X2 + GOAL (6) 👻 34/43
 
 ==================================================
 03/11/2026
@@ -589,7 +586,7 @@ CASA      21:00  Birmingham City vs Millwall   [INGHILTERRA - CHAMPIONSHIP]
            xG: Birmingham City xG 3,03 (1,66+1,37) · Millwall xG 3,12 (1,77+1,35)
            Birmingham City 🟢 GG 60%: 12 + GOAL (6) ❗ 13/43
 TOTALE    23:30  Chapecoense vs Mirassol   [BRASILE - SÉRIE A]
-           xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,66 (1,28+1,38)
+           xG: Chapecoense xG 2,80 (1,03+1,77) · Mirassol xG 2,72 (1,28+1,44)
            Mirassol 🟢 GG 60%: 12 + GOAL (6)
 
 ==================================================
@@ -619,3 +616,10 @@ CASA      21:00  Bristol City vs Wolverhampton Wanderers   [INGHILTERRA - CHAMPI
 CASA      23:30  Flamengo vs Grêmio   [BRASILE - SÉRIE A]
            xG: Flamengo xG 2,78 (1,79+0,99) · Grêmio xG 2,75 (1,11+1,64)
            Flamengo 🟢 GG 40%: X2 + GOAL (7)
+
+==================================================
+05/11/2026
+==================================================
+TRASFERTA 01:30  São Paulo vs Corinthians   [BRASILE - SÉRIE A]
+           xG: São Paulo xG 2,62 (1,39+1,23) · Corinthians xG 2,24 (1,09+1,15)
+           Corinthians 🟢 GG 90%: X2 + GOAL (6)
