@@ -1,46 +1,46 @@
 TIPS DEL GIORNO - 31/10/2026
-Aggiornato: 31/10/2026 14:39 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 31/10/2026 15:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. CASA      17:15  Catanzaro vs Padova   [ITALIA - SERIE B]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 88,4  (Freq 84 · Rit 86 · Lega 95 · GG 84 · xG 96)
+    1X + GOAL  -  punteggio 87,9  (Freq 81 · Rit 89 · Lega 94 · GG 82 · xG 96)
     L'1X+GOAL si fa aspettare da Catanzaro in casa: 7 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 38%). Questo campionato la produce di continuo, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
 
  2. TRASFERTA 18:00  Grasshopper vs FC Vaduz   [SVIZZERA - SUPER LEAGUE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 85,4  (Freq 88 · Rit 77 · Lega 68 · GG 100 · xG 100)
+    X2 + GOAL  -  punteggio 86,0  (Freq 87 · Rit 77 · Lega 73 · GG 100 · xG 100)
     FC Vaduz non vede l'X2+GOAL da 6 partite in trasferta: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. Anche il campionato la vede spesso, nelle ultime 6 hanno segnato entrambe 6 volte e c'è tanto xG.
 
  3. TOTALE    19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 80,0  (Freq 97 · Rit 96 · Lega 73 · GG 84 · xG 32)
+    X2 + GOAL  -  punteggio 80,7  (Freq 96 · Rit 98 · Lega 80 · GG 82 · xG 29)
     L'X2+GOAL si fa aspettare da Columbus Crew: 10 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e l'xG è alto.
 
  4. TOTALE    16:00  Bolton Wanderers vs Bristol City   [INGHILTERRA - CHAMPIONSHIP]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 79,8  (Freq 95 · Rit 81 · Lega 97 · GG 73 · xG 43)
+    1X + GOAL  -  punteggio 79,5  (Freq 93 · Rit 82 · Lega 100 · GG 70 · xG 41)
     L'1X+GOAL si fa aspettare da Bolton Wanderers: 8 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 46% delle volte. Questo campionato la produce di continuo, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
 
  5. TOTALE    18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 76,8  (Freq 99 · Rit 27 · Lega 99 · GG 95 · xG 81)
+    1X + GOAL  -  punteggio 76,6  (Freq 98 · Rit 30 · Lega 98 · GG 93 · xG 80)
     L'1X+GOAL si fa aspettare da SC Heerenveen: 6 gare, di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. Questo campionato la produce di continuo, nelle ultime 10 hanno segnato entrambe 9 volte e c'è tanto xG.
 
  6. CASA      16:00  Southampton vs Queens Park Rangers   [INGHILTERRA - CHAMPIONSHIP]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 76,6  (Freq 84 · Rit 71 · Lega 76 · GG 97 · xG 54)
+    X2 + GOAL  -  punteggio 76,2  (Freq 81 · Rit 74 · Lega 76 · GG 97 · xG 52)
     Sono 6 partite che Southampton resta senza l'X2+GOAL in casa: di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. In questo campionato non è una rarità, nelle ultime 10 il gol di entrambe è arrivato 7 volte e c'è tanto xG.
 
- 7. TRASFERTA 15:00  Norrby vs IFK Värnamo   [SVEZIA - SUPERETTAN]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 73,0  (Freq 53 · Rit 73 · Lega 90 · GG 84)
-    L'1X+GOAL si fa aspettare da IFK Värnamo in trasferta: 7 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 33% delle volte. In questo campionato non è una rarità e nelle ultime 10 il gol di entrambe è arrivato 6 volte.
-
- 8. CASA      15:00  Portimonense vs Torreense   [PORTOGALLO - LIGA PORTUGAL 2]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 72,6  (Freq 94 · Rit 91 · Lega 27 · GG 63)
-    Per Portimonense in casa l'X2+GOAL manca da 7 partite: di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 41% delle volte. Questo campionato la propone abbastanza spesso e nelle ultime 10 il gol di entrambe è arrivato 5 volte.
-
- 9. TOTALE    17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 70,6  (Freq 82 · Rit 47 · Lega 78 · GG 84)
+ 7. TOTALE    17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 71,4  (Freq 79 · Rit 51 · Lega 82 · GG 82)
     Sono 8 partite che Perugia resta senza l'1X+GOAL: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 7 volte.
 
-10. CASA      15:30  Floridsdorfer AC vs Kapfenberger SV   [AUSTRIA - 2. LIGA]  [OK 12+GOAL]
-    12 + GOAL  -  punteggio 68,5  (Freq 68 · Rit 99 · Lega 87 · GG 0)
-    Sono 11 partite che Floridsdorfer AC resta senza il 12+GOAL in casa: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 35%). In questo campionato non è una rarità e nelle ultime 10 il GG è uscito 1 volte.
+ 8. TRASFERTA 16:15  Eibar vs Almería   [SPAGNA - LALIGA 2]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 66,8  (Freq 100 · Rit 97 · Lega 52 · GG 34 · xG 17)
+    L'1X+GOAL si fa aspettare da Almería in trasferta: 6 gare, di solito non passa più di una partita senza, e la fa spesso, circa il 55% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il GG è uscito 4 volte e l'xG è buono.
+
+ 9. TRASFERTA 17:30  Cavese vs AZ Picerno   [ITALIA - SERIE C]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 66,7  (Freq 70 · Rit 67 · Lega 48 · GG 82)
+    Per AZ Picerno in trasferta l'X2+GOAL manca da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 6 volte.
+
+10. TOTALE    16:00  Milton Keynes Dons vs Doncaster Rovers   [INGHILTERRA - LEAGUE ONE]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 65,4  (Freq 75 · Rit 64 · Lega 68 · GG 70 · xG 46)
+    Doncaster Rovers non vede l'X2+GOAL da 7 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. In questo campionato non è una rarità, su 10 partite recenti il GG è uscito 6 volte e c'è tanto xG.
 
 
 COME CALCOLIAMO IL PUNTEGGIO

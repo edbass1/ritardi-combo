@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 31/10/2026 14:39 (ora italiana)
+Aggiornato: 31/10/2026 15:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -141,17 +141,18 @@ SOTTOFREQUENZA 12 + GOAL
 INGHILTERRA - CHAMPIONSHIP
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/24 Preston North End              50/100
-    2/24 Cardiff City                   50/100
+    1/24 Cardiff City                   50/100
+    2/24 Preston North End              49/100
     3/24 West Bromwich Albion           48/100
     4/24 West Ham United                47/100
     5/24 Watford                        47/100
+    6/24 Norwich City                   47/100
      ...
    24/24 Sheffield United               30/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/24 Preston North End              41/100
-    2/24 Wolverhampton Wanderers        40/100
+    1/24 Wolverhampton Wanderers        40/100
+    2/24 Preston North End              40/100
     3/24 West Ham United                39/100
     4/24 Southampton                    39/100
     5/24 Wrexham                        38/100
@@ -161,7 +162,7 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/24 Southampton                    48/100
-    2/24 Norwich City                   46/100
+    2/24 Norwich City                   47/100
     3/24 Queens Park Rangers            45/100
     4/24 Bolton Wanderers               43/100
     5/24 West Ham United                38/100
@@ -219,7 +220,6 @@ SOTTOFREQUENZA X2 + GOAL
     3/24 Fleetwood Town                 38/100
     4/24 Tranmere Rovers                37/100
     5/24 Salford City                   37/100
-    6/24 Grimsby Town                   37/100
      ...
    24/24 Bristol Rovers                 24/100  (la fa meno spesso)
 
@@ -227,10 +227,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/24 Barnet                         40/100
     2/24 Newport County                 39/100
     3/24 Bristol Rovers                 39/100
-    4/24 Salford City                   38/100
-    5/24 York City                      37/100
-    6/24 Swindon Town                   37/100
-    7/24 Rochdale                       37/100
+    4/24 York City                      38/100
+    5/24 Salford City                   38/100
      ...
    24/24 Gillingham                     24/100  (la fa meno spesso)
 
@@ -276,7 +274,7 @@ SOTTOFREQUENZA 1X + GOAL
     6/18 Bochum                         46/100
     7/18 1. FC Nürnberg                 46/100
      ...
-   18/18 Magdeburg                      31/100  (la fa meno spesso)
+   18/18 Magdeburg                      32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 Wolfsburg                      52/100
@@ -288,9 +286,9 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 Kaiserslautern                 26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Wolfsburg                      44/100
-    2/18 Hertha BSC                     44/100
-    3/18 Energie Cottbus                44/100
+    1/18 Hertha BSC                     44/100
+    2/18 Energie Cottbus                44/100
+    3/18 Wolfsburg                      43/100
     4/18 Kaiserslautern                 43/100
     5/18 Karlsruher SC                  42/100
      ...
@@ -874,8 +872,8 @@ SOTTOFREQUENZA 12 + GOAL
 DANIMARCA - 1. DIVISION
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 Vendsyssel FF                  45/100
-    2/12 HB Køge                        45/100
+    1/12 HB Køge                        46/100
+    2/12 Vendsyssel FF                  45/100
     3/12 Vejle Boldklub                 43/100
     4/12 AaB                            43/100
     5/12 Hillerød                       42/100
@@ -895,14 +893,9 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/12 Esbjerg fB                     43/100
     2/12 Vendsyssel FF                  42/100
-    3/12 HB Køge                        37/100
+    3/12 HB Køge                        38/100
     4/12 AB                             37/100
-    5/12 Vejle Boldklub                 34/100
-    6/12 Hvidovre                       34/100
-    7/12 Hobro                          34/100
-    8/12 Hillerød                       34/100
-    9/12 Fredericia                     34/100
-   10/12 AaB                            34/100
+    5/12 Fredericia                     35/100
      ...
    12/12 Aarhus Fremad                  32/100  (la fa meno spesso)
 
@@ -945,7 +938,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/13 Örebro                         56/100
     2/13 Varbergs BoIS FC               48/100
     3/13 Falkenbergs FF                 47/100
-    4/13 Östersunds FK                  46/100
+    4/13 Östersunds FK                  45/100
     5/13 Norrby                         41/100
     6/13 Ljungskile                     41/100
      ...
@@ -962,8 +955,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/13 Falkenbergs FF                 45/100
-    2/13 IFK Norrköping                 43/100
-    3/13 Örebro                         42/100
+    2/13 Örebro                         42/100
+    3/13 IFK Norrköping                 42/100
     4/13 Varbergs BoIS FC               41/100
     5/13 IFK Värnamo                    40/100
      ...
@@ -1066,32 +1059,32 @@ SOTTOFREQUENZA 12 + GOAL
 SLOVACCHIA - 2. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/12 Považská Bystrica              56/100
-    2/12 Liptovský Mikuláš              51/100
-    3/12 Slovan Bratislava B            48/100
-    4/12 Inter Bratislava               46/100
-    5/12 FK Pohronie                    46/100
+    1/13 Považská Bystrica              56/100
+    2/13 Liptovský Mikuláš              51/100
+    3/13 Slovan Bratislava B            48/100
+    4/13 FK Pohronie                    46/100
+    5/13 Inter Bratislava               45/100
      ...
-   12/12 FC Petržalka 1898              34/100  (la fa meno spesso)
+   13/13 FC Petržalka 1898              34/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 Považská Bystrica              38/100
-    2/12 FC STK 1914 Šamorín            37/100
-    3/12 Slovan Bratislava B            33/100
-    4/12 Liptovský Mikuláš              33/100
-    5/12 Zlaté Moravce                  32/100
+    1/13 Považská Bystrica              38/100
+    2/13 FC STK 1914 Šamorín            37/100
+    3/13 Slovan Bratislava B            33/100
+    4/13 Liptovský Mikuláš              33/100
+    5/13 Zlaté Moravce                  32/100
+    6/13 Inter Bratislava               32/100
      ...
-   12/12 Tatran Prešov                  25/100  (la fa meno spesso)
+   13/13 Tatran Prešov                  25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/12 Žilina B                       47/100
-    2/12 Považská Bystrica              46/100
-    3/12 FC STK 1914 Šamorín            43/100
-    4/12 Liptovský Mikuláš              42/100
-    5/12 Slovan Bratislava B            41/100
-    6/12 Inter Bratislava               41/100
+    1/13 Žilina B                       47/100
+    2/13 Považská Bystrica              46/100
+    3/13 Malženice                      43/100
+    4/13 FC STK 1914 Šamorín            43/100
+    5/13 Liptovský Mikuláš              42/100
      ...
-   12/12 Humenné                        30/100  (la fa meno spesso)
+   13/13 Humenné                        30/100  (la fa meno spesso)
 
 ==================================================
 SCOZIA - PREMIERSHIP
@@ -1473,7 +1466,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 31/10/2026 14:39 (ora italiana)
+Aggiornato: 31/10/2026 15:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1606,9 +1599,9 @@ SOTTOFREQUENZA 1X + GOAL
     1/24 Portsmouth                     49/100
     2/24 Wrexham                        47/100
     3/24 Bolton Wanderers               45/100
-    4/24 West Ham United                43/100
-    5/24 Preston North End              43/100
-    6/24 Norwich City                   43/100
+    4/24 Norwich City                   44/100
+    5/24 West Ham United                43/100
+    6/24 Preston North End              43/100
     7/24 Lincoln City                   43/100
      ...
    24/24 Wolverhampton Wanderers        28/100  (la fa meno spesso)
@@ -1625,8 +1618,8 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/24 Queens Park Rangers            44/100
     2/24 Wrexham                        43/100
-    3/24 Southampton                    42/100
-    4/24 Norwich City                   42/100
+    3/24 Norwich City                   43/100
+    4/24 Southampton                    42/100
     5/24 Charlton Athletic              39/100
     6/24 Bolton Wanderers               39/100
      ...
@@ -1674,7 +1667,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/24 Rotherham United               46/100
     5/24 York City                      45/100
      ...
-   24/24 Port Vale                      24/100  (la fa meno spesso)
+   24/24 Port Vale                      25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/24 Fleetwood Town                 44/100
@@ -2318,7 +2311,8 @@ SOTTOFREQUENZA X2 + GOAL
     2/12 Vejle Boldklub                 39/100
     3/12 AaB                            37/100
     4/12 AB                             37/100
-    5/12 Kolding IF                     35/100
+    5/12 Kolding IF                     34/100
+    6/12 Aarhus Fremad                  34/100
      ...
    12/12 Esbjerg fB                     27/100  (la fa meno spesso)
 
@@ -2329,7 +2323,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/12 Vendsyssel FF                  39/100
     5/12 Vejle Boldklub                 38/100
      ...
-   12/12 Fredericia                     32/100  (la fa meno spesso)
+   12/12 HB Køge                        32/100  (la fa meno spesso)
 
 ==================================================
 SVEZIA - ALLSVENSKAN
@@ -2896,7 +2890,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 31/10/2026 14:39 (ora italiana)
+Aggiornato: 31/10/2026 15:27 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3028,7 +3022,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/24 West Bromwich Albion           49/100
     2/24 Southampton                    46/100
     3/24 Norwich City                   46/100
-    4/24 Watford                        43/100
+    4/24 Watford                        44/100
     5/24 Charlton Athletic              43/100
      ...
    24/24 Blackburn Rovers               31/100  (la fa meno spesso)
@@ -3078,8 +3072,9 @@ SOTTOFREQUENZA 12 + GOAL
     1/24 Peterborough United            48/100
     2/24 Barnsley                       45/100
     3/24 Leicester City                 42/100
-    4/24 Huddersfield Town              41/100
-    5/24 Reading                        40/100
+    4/24 Huddersfield Town              40/100
+    5/24 Reading                        39/100
+    6/24 Notts County                   39/100
      ...
    24/24 Stevenage                      28/100  (la fa meno spesso)
 
@@ -3090,7 +3085,7 @@ SOTTOFREQUENZA 1X + GOAL
     1/24 Fleetwood Town                 46/100
     2/24 Tranmere Rovers                43/100
     3/24 Swindon Town                   43/100
-    4/24 York City                      41/100
+    4/24 York City                      42/100
     5/24 Northampton Town               41/100
     6/24 Grimsby Town                   41/100
      ...
@@ -3099,8 +3094,8 @@ SOTTOFREQUENZA 1X + GOAL
 SOTTOFREQUENZA X2 + GOAL
     1/24 Barnet                         41/100
     2/24 Salford City                   40/100
-    3/24 York City                      39/100
-    4/24 Rochdale                       39/100
+    3/24 Rochdale                       39/100
+    4/24 York City                      38/100
     5/24 Walsall                        38/100
     6/24 Oldham Athletic                38/100
     7/24 Crewe Alexandra                38/100
@@ -3157,7 +3152,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/18 Karlsruher SC                  47/100
     5/18 Darmstadt                      46/100
      ...
-   18/18 Magdeburg                      31/100  (la fa meno spesso)
+   18/18 Magdeburg                      32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/18 VfL Osnabrück                  44/100
@@ -3171,7 +3166,7 @@ SOTTOFREQUENZA X2 + GOAL
    18/18 Eintracht Braunschweig         26/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/18 Magdeburg                      51/100
+    1/18 Magdeburg                      50/100
     2/18 Hertha BSC                     48/100
     3/18 VfL Osnabrück                  44/100
     4/18 Holstein Kiel                  44/100
@@ -3727,7 +3722,7 @@ DANIMARCA - 1. DIVISION
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/12 Vendsyssel FF                  51/100
-    2/12 HB Køge                        46/100
+    2/12 HB Køge                        47/100
     3/12 AaB                            46/100
     4/12 Vejle Boldklub                 44/100
     5/12 Hobro                          44/100
@@ -3735,7 +3730,7 @@ SOTTOFREQUENZA 1X + GOAL
    12/12 Esbjerg fB                     27/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/12 AB                             44/100
+    1/12 AB                             43/100
     2/12 AaB                            42/100
     3/12 Aarhus Fremad                  40/100
     4/12 Esbjerg fB                     39/100
