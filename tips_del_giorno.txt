@@ -1,5 +1,5 @@
 TIPS DEL GIORNO - 31/10/2026
-Aggiornato: 31/10/2026 11:01 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 31/10/2026 11:18 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. CASA      17:15  Catanzaro vs Padova   [ITALIA - SERIE B]  [OK 1X+GOAL]
