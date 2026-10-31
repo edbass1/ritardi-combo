@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 31/10/2026 01:40 (ora italiana)
+Aggiornato: 31/10/2026 11:01 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1224,7 +1224,7 @@ BRASILE - SÉRIE A
 SOTTOFREQUENZA 1X + GOAL
     1/18 Grêmio                         47/100
     2/18 RB Bragantino                  46/100
-    3/18 Corinthians                    46/100
+    3/18 Corinthians                    45/100
     4/18 Bahia                          44/100
     5/18 Internacional                  43/100
     6/18 Athletico Paranaense           43/100
@@ -1271,7 +1271,7 @@ SOTTOFREQUENZA X2 + GOAL
    26/26 Aldosivi                       17/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/26 Racing Club                    35/100
+    1/26 Racing Club                    36/100
     2/26 Banfield                       32/100
     3/26 Instituto                      30/100
     4/26 Defensa y Justicia             30/100
@@ -1473,7 +1473,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 31/10/2026 01:40 (ora italiana)
+Aggiornato: 31/10/2026 11:01 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -2642,10 +2642,10 @@ BRASILE - SÉRIE A
 SOTTOFREQUENZA 1X + GOAL
     1/18 Athletico Paranaense           46/100
     2/18 Fluminense                     43/100
-    3/18 Corinthians                    43/100
-    4/18 Atlético-MG                    43/100
-    5/18 Internacional                  42/100
-    6/18 Grêmio                         42/100
+    3/18 Atlético-MG                    43/100
+    4/18 Internacional                  42/100
+    5/18 Grêmio                         42/100
+    6/18 Corinthians                    42/100
      ...
    18/18 Coritiba                       27/100  (la fa meno spesso)
 
@@ -2672,32 +2672,34 @@ SOTTOFREQUENZA 12 + GOAL
 ARGENTINA - PRIMERA DIVISIÓN
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 Rosario Central                47/100
-    2/20 Lanús                          44/100
-    3/20 Tigre                          42/100
-    4/20 Defensa y Justicia             41/100
-    5/20 Argentinos Juniors             37/100
+    1/21 Rosario Central                47/100
+    2/21 Lanús                          44/100
+    3/21 Tigre                          42/100
+    4/21 Defensa y Justicia             41/100
+    5/21 Argentinos Juniors             37/100
      ...
-   20/20 Newell's Old Boys              22/100  (la fa meno spesso)
+   21/21 Newell's Old Boys              22/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
-    1/20 Banfield                       42/100
-    2/20 Tigre                          39/100
-    3/20 Atlético Tucumán               36/100
-    4/20 Racing Club                    32/100
-    5/20 Independiente                  31/100
-    6/20 Estudiantes                    31/100
+    1/21 Banfield                       42/100
+    2/21 Tigre                          39/100
+    3/21 Sarmiento                      38/100
+    4/21 Atlético Tucumán               36/100
+    5/21 Racing Club                    31/100
+    6/21 Independiente                  31/100
+    7/21 Estudiantes                    31/100
      ...
-   20/20 Huracán                        15/100  (la fa meno spesso)
+   21/21 Huracán                        15/100  (la fa meno spesso)
 
 SOTTOFREQUENZA 12 + GOAL
-    1/20 Racing Club                    34/100
-    2/20 River Plate                    32/100
-    3/20 Rosario Central                31/100
-    4/20 Defensa y Justicia             30/100
-    5/20 Talleres                       29/100
+    1/21 Racing Club                    35/100
+    2/21 River Plate                    32/100
+    3/21 Rosario Central                31/100
+    4/21 Defensa y Justicia             30/100
+    5/21 Talleres                       29/100
+    6/21 Sarmiento                      29/100
      ...
-   20/20 Vélez Sarsfield                17/100  (la fa meno spesso)
+   21/21 Vélez Sarsfield                17/100  (la fa meno spesso)
 
 ==================================================
 USA/CANADA - MLS
@@ -2894,7 +2896,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 31/10/2026 01:40 (ora italiana)
+Aggiornato: 31/10/2026 11:01 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -4112,9 +4114,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/20 River Plate                    37/100
     2/20 Unión                          35/100
     3/20 Talleres                       34/100
-    4/20 Newell's Old Boys              34/100
-    5/20 Rosario Central                33/100
-    6/20 Defensa y Justicia             33/100
+    4/20 Rosario Central                34/100
+    5/20 Newell's Old Boys              34/100
      ...
    20/20 Atlético Tucumán               20/100  (la fa meno spesso)
 
@@ -4169,7 +4170,7 @@ SOTTOFREQUENZA 1X + GOAL
     4/10 Perth Glory                    48/100
     5/10 Wellington Phoenix             45/100
      ...
-   10/10 Sydney FC                      31/100  (la fa meno spesso)
+   10/10 Sydney FC                      32/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/10 Adelaide United                50/100
@@ -4183,12 +4184,12 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/10 Adelaide United                56/100
-    2/10 Wellington Phoenix             44/100
-    3/10 Brisbane Roar FC               44/100
+    2/10 Brisbane Roar FC               44/100
+    3/10 Wellington Phoenix             43/100
     4/10 Melbourne Victory              43/100
     5/10 Newcastle Jets                 41/100
      ...
-   10/10 Sydney FC                      33/100  (la fa meno spesso)
+   10/10 Sydney FC                      34/100  (la fa meno spesso)
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA

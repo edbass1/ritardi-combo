@@ -3,7 +3,7 @@
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TOTALI
-Aggiornato: 31/10/2026 01:40 (ora italiana)
+Aggiornato: 31/10/2026 11:01 (ora italiana)
 Ritardo = partite di campionato consecutive senza la combo (segno della partita, casa o trasferta indifferente).
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -180,16 +180,16 @@ Stagione 2026/2027 (145 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bolton Wanderers                  8  🟢 75%  ❗ 10/43
-   2. Birmingham City                   4  🟢 50%  ❗ 10/43
-   3. Southampton                       4  ❗ 10/43
-   4. Stoke City                        4  🟢 50%  ❗ 10/43
-   5. Bristol City                      3  ❗ 10/43
-   6. Norwich City                      3  ❗ 10/43
-   7. Swansea City                      3  ❗ 10/43
-   8. West Ham United                   3  🟢 67%  ❗ 10/43
-   9. Charlton Athletic                 2  🟢 100%  ❗ 10/43
-  10. Queens Park Rangers               2  🟢 100%  ❗ 10/43
+   1. Bolton Wanderers                  8  🟢 75%  ❗ 9/43
+   2. Birmingham City                   4  🟢 50%  ❗ 9/43
+   3. Southampton                       4  ❗ 9/43
+   4. Stoke City                        4  🟢 50%  ❗ 9/43
+   5. Bristol City                      3  ❗ 9/43
+   6. Norwich City                      3  ❗ 9/43
+   7. Swansea City                      3  ❗ 9/43
+   8. West Ham United                   3  🟢 67%  ❗ 9/43
+   9. Charlton Athletic                 2  🟢 100%  ❗ 9/43
+  10. Queens Park Rangers               2  🟢 100%  ❗ 9/43
 
 RITARDI X2 + GOAL
    1. Watford                           5  🟢 60%  ❗ 8/43
@@ -672,16 +672,16 @@ Stagione 2026/2027 (90 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 1,8 · 12 + GOAL 1 ogni 2,2
 ==================================================
 RITARDI 1X + GOAL
-   1. SC Heerenveen                     6  🟢 83%  ❗ 8/43
-   2. Excelsior                         3  🟢 67%  ❗ 8/43
-   3. Ajax                              2  🟢 100%  🔴  ❗ 8/43
-   4. FC Twente                         2  🟢 100%  🔴  ❗ 8/43
-   5. ADO Den Haag                      1  🟢 100%  ❗ 8/43
-   6. AZ Alkmaar                        1  🟢 100%  ❗ 8/43
-   7. Cambuur                           1  🟢 100%  ❗ 8/43
-   8. Fortuna Sittard                   1  ❗ 8/43
-   9. Sparta Rotterdam                  1  🟢 100%  ❗ 8/43
-  10. Willem II                         1  🟢 100%  ❗ 8/43
+   1. SC Heerenveen                     6  🟢 83%  🔥 7/43
+   2. Excelsior                         3  🟢 67%  🔥 7/43
+   3. Ajax                              2  🟢 100%  🔴  🔥 7/43
+   4. FC Twente                         2  🟢 100%  🔴  🔥 7/43
+   5. ADO Den Haag                      1  🟢 100%  🔥 7/43
+   6. AZ Alkmaar                        1  🟢 100%  🔥 7/43
+   7. Cambuur                           1  🟢 100%  🔥 7/43
+   8. Fortuna Sittard                   1  🔥 7/43
+   9. Sparta Rotterdam                  1  🟢 100%  🔥 7/43
+  10. Willem II                         1  🟢 100%  🔥 7/43
 
 RITARDI X2 + GOAL
    1. Excelsior                         2  🟢 50%  🔥 1/43
@@ -942,16 +942,16 @@ RITARDI X2 + GOAL
   10. Famalicão                         1  🟢 100%
 
 RITARDI 12 + GOAL
-   1. Estrela da Amadora                4  🟢 75%  👻 35/43
-   2. Arouca                            3  🔴  👻 35/43
-   3. Casa Pia AC                       3  🟢 67%  👻 35/43
-   4. Vitória de Guimarães              3  🟢 100%  👻 35/43
-   5. Alverca                           1  👻 35/43
-   6. Braga                             1  👻 35/43
-   7. FC Porto                          1  👻 35/43
-   8. Famalicão                         1  🟢 100%  👻 35/43
-   9. Gil Vicente                       1  👻 35/43
-  10. Marítimo                          1  🟢 100%  👻 35/43
+   1. Estrela da Amadora                4  🟢 75%  👻 36/43
+   2. Arouca                            3  🔴  👻 36/43
+   3. Casa Pia AC                       3  🟢 67%  👻 36/43
+   4. Vitória de Guimarães              3  🟢 100%  👻 36/43
+   5. Alverca                           1  👻 36/43
+   6. Braga                             1  👻 36/43
+   7. FC Porto                          1  👻 36/43
+   8. Famalicão                         1  🟢 100%  👻 36/43
+   9. Gil Vicente                       1  👻 36/43
+  10. Marítimo                          1  🟢 100%  👻 36/43
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -1041,16 +1041,16 @@ Stagione 2026 (224 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              9  🟢 78%  ❗ 9/43
-   2. Odds Ballklubb                    3  🟢 67%  ❗ 9/43
-   3. Stabæk                            2  🟢 50%  ❗ 9/43
-   4. Strømmen                          2  🟢 50%  ❗ 9/43
-   5. Strømsgodset                      2  🟢 50%  ❗ 9/43
-   6. Åsane                             2  🟢 50%  ❗ 9/43
-   7. Ranheim                           1  🟢 100%  ❗ 9/43
-   8. Raufoss                           1  🟢 100%  ❗ 9/43
-   9. Bryne                             0  ❗ 9/43
-  10. Egersund                          0  🔴  ❗ 9/43
+   1. Moss                              9  🟢 78%  ❗ 8/43
+   2. Odds Ballklubb                    3  🟢 67%  ❗ 8/43
+   3. Stabæk                            2  🟢 50%  ❗ 8/43
+   4. Strømmen                          2  🟢 50%  ❗ 8/43
+   5. Strømsgodset                      2  🟢 50%  ❗ 8/43
+   6. Åsane                             2  🟢 50%  ❗ 8/43
+   7. Ranheim                           1  🟢 100%  ❗ 8/43
+   8. Raufoss                           1  🟢 100%  ❗ 8/43
+   9. Bryne                             0  ❗ 8/43
+  10. Egersund                          0  🔴  ❗ 8/43
 
 RITARDI X2 + GOAL
    1. Kongsvinger                       6  🟢 100%  🔴
@@ -1352,16 +1352,16 @@ RITARDI X2 + GOAL
   10. Zeleziarne Podbrezová             0  🔥 3/43
 
 RITARDI 12 + GOAL
-   1. Ružomberok                        6  🟢 83%  👻 34/43
-   2. FC Košice                         5  🟢 80%  🔴  👻 34/43
-   3. Dukla Banská Bystrica             4  👻 34/43
-   4. Skalica                           4  🟢 75%  👻 34/43
-   5. Slovan Bratislava                 4  🟢 100%  🔴  👻 34/43
-   6. Trenčín                           4  🟢 50%  👻 34/43
-   7. Komárno                           3  👻 34/43
-   8. DAC 1904 Dunajska Streda          2  🟢 50%  👻 34/43
-   9. Spartak Trnava                    2  🟢 100%  👻 34/43
-  10. Žilina                            1  🟢 100%  🔴  👻 34/43
+   1. Ružomberok                        6  🟢 83%  👻 35/43
+   2. FC Košice                         5  🟢 80%  🔴  👻 35/43
+   3. Dukla Banská Bystrica             4  👻 35/43
+   4. Skalica                           4  🟢 75%  👻 35/43
+   5. Slovan Bratislava                 4  🟢 100%  🔴  👻 35/43
+   6. Trenčín                           4  🟢 50%  👻 35/43
+   7. Komárno                           3  👻 35/43
+   8. DAC 1904 Dunajska Streda          2  🟢 50%  👻 35/43
+   9. Spartak Trnava                    2  🟢 100%  👻 35/43
+  10. Žilina                            1  🟢 100%  🔴  👻 35/43
 
 ==================================================
 SLOVACCHIA - 2. LIGA
@@ -1569,20 +1569,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (327 partite giocate) + 2025
+Stagione 2026 (328 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Cruzeiro                          3  🔥 7/43
-   2. Grêmio                            3  🟢 67%  🔴  🔥 7/43
-   3. Palmeiras                         3  🟢 67%  🔥 7/43
-   4. Coritiba                          2  🔥 7/43
-   5. RB Bragantino                     2  🟢 100%  🔴  🔥 7/43
-   6. Athletico Paranaense              1  🟢 100%  🔥 7/43
-   7. Atlético-MG                       1  🔥 7/43
-   8. Chapecoense                       1  🟢 100%  🔥 7/43
-   9. Flamengo                          1  🟢 100%  🔥 7/43
-  10. Santos                            1  🔥 7/43
+   1. Cruzeiro                          3  ❗ 10/43
+   2. Grêmio                            3  🟢 67%  🔴  ❗ 10/43
+   3. Palmeiras                         3  🟢 67%  ❗ 10/43
+   4. Coritiba                          2  ❗ 10/43
+   5. RB Bragantino                     2  🟢 100%  🔴  ❗ 10/43
+   6. Athletico Paranaense              1  🟢 100%  ❗ 10/43
+   7. Atlético-MG                       1  ❗ 10/43
+   8. Chapecoense                       1  🟢 100%  ❗ 10/43
+   9. Corinthians                       1  🟢 100%  🔴  ❗ 10/43
+  10. Flamengo                          1  🟢 100%  ❗ 10/43
 
 RITARDI X2 + GOAL
    1. Palmeiras                         8  🟢 50%
@@ -1590,15 +1590,15 @@ RITARDI X2 + GOAL
    3. Botafogo                          3  🟢 67%
    4. Chapecoense                       3  🟢 67%  🔴
    5. Internacional                     3  🟢 100%  🔴
-   6. Coritiba                          2
-   7. Cruzeiro                          2
-   8. Fluminense                        2  🟢 100%
-   9. Grêmio                            2  🟢 50%
-  10. RB Bragantino                     2  🟢 100%
+   6. Corinthians                       2  🟢 100%
+   7. Coritiba                          2
+   8. Cruzeiro                          2
+   9. Fluminense                        2  🟢 100%
+  10. Grêmio                            2  🟢 50%
 
 RITARDI 12 + GOAL
-   1. Coritiba                          6  🟢 67%  🔴
-   2. Mirassol                          6  🟢 83%
+   1. Mirassol                          7  🟢 86%
+   2. Coritiba                          6  🟢 67%  🔴
    3. Athletico Paranaense              3  🟢 100%
    4. Palmeiras                         3  🟢 67%  🔴
    5. RB Bragantino                     3  🟢 100%  🔴
@@ -1610,8 +1610,8 @@ RITARDI 12 + GOAL
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (212 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 3,2
+Stagione 2026 - Clausura (214 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
    1. Gimnasia Mendoza                  6  🟢 50%  👻 34/43
@@ -1619,8 +1619,8 @@ RITARDI 1X + GOAL
    3. San Lorenzo                       5  🟢 60%  👻 34/43
    4. Belgrano                          4  🟢 50%  👻 34/43
    5. Defensa y Justicia                4  🟢 75%  🔴  👻 34/43
-   6. Gimnasia LP                       3  🟢 100%  👻 34/43
-   7. Rosario Central                   3  🟢 100%  👻 34/43
+   6. Rosario Central                   4  🟢 100%  👻 34/43
+   7. Gimnasia LP                       3  🟢 100%  👻 34/43
    8. Vélez Sarsfield                   3  🟢 67%  👻 34/43
    9. Argentinos Juniors                2  👻 34/43
   10. Atlético Tucumán                  2  🟢 50%  👻 34/43
@@ -1628,26 +1628,26 @@ RITARDI 1X + GOAL
 RITARDI X2 + GOAL
    1. Belgrano                          5  🟢 60%  👻 34/43
    2. Newell's Old Boys                 5  🔴  👻 34/43
-   3. Vélez Sarsfield                   3  🟢 67%  👻 34/43
-   4. Aldosivi                          2  🟢 50%  👻 34/43
+   3. Aldosivi                          3  🟢 67%  👻 34/43
+   4. Vélez Sarsfield                   3  🟢 67%  👻 34/43
    5. Argentinos Juniors                2  👻 34/43
    6. Boca Juniors                      2  🟢 50%  👻 34/43
    7. Central Córdoba de Santiago       2  🟢 100%  👻 34/43
    8. Huracán                           2  🟢 100%  👻 34/43
    9. Instituto                         2  👻 34/43
-  10. River Plate                       2  🟢 50%  👻 34/43
+  10. Racing Club                       2  🟢 50%  👻 34/43
 
 RITARDI 12 + GOAL
-   1. Deportivo Riestra                12  🟢 58%  👻 36/43
-   2. Independiente Rivadavia           5  🟢 60%  👻 36/43
-   3. Belgrano                          4  🟢 50%  👻 36/43
-   4. Lanús                             4  🟢 50%  👻 36/43
-   5. River Plate                       4  🟢 50%  👻 36/43
-   6. Vélez Sarsfield                   4  🟢 75%  👻 36/43
-   7. Argentinos Juniors                3  👻 36/43
-   8. Independiente                     3  👻 36/43
-   9. Instituto                         3  🔴  👻 36/43
-  10. Racing Club                       3  🟢 67%  🔴  👻 36/43
+   1. Deportivo Riestra                12  🟢 58%  👻 34/43
+   2. Independiente Rivadavia           5  🟢 60%  👻 34/43
+   3. Belgrano                          4  🟢 50%  👻 34/43
+   4. Lanús                             4  🟢 50%  👻 34/43
+   5. River Plate                       4  🟢 50%  👻 34/43
+   6. Vélez Sarsfield                   4  🟢 75%  👻 34/43
+   7. Argentinos Juniors                3  👻 34/43
+   8. Independiente                     3  👻 34/43
+   9. Instituto                         3  🔴  👻 34/43
+  10. Tigre                             3  🟢 67%  👻 34/43
 
 ==================================================
 USA/CANADA - MLS
@@ -1692,42 +1692,42 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (12 partite giocate) + 2025/2026
+Stagione 2026/2027 (14 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Central Coast Mariners            1  🟢 100%
-   2. Wellington Phoenix                1  🟢 100%
-   3. Adelaide United                   0  🔴
-   4. Auckland FC                       0
-   5. Brisbane Roar FC                  0
-   6. Macarthur FC                      0  🔴
-   7. Melbourne City FC                 0
-   8. Melbourne Victory                 0
-   9. Newcastle Jets                    0
+   1. Wellington Phoenix                2  🟢 100%
+   2. Central Coast Mariners            1  🟢 100%
+   3. Newcastle Jets                    1  🟢 100%
+   4. Adelaide United                   0  🔴
+   5. Auckland FC                       0
+   6. Brisbane Roar FC                  0
+   7. Macarthur FC                      0  🔴
+   8. Melbourne City FC                 0
+   9. Melbourne Victory                 0
   10. Perth Glory                       0  🔴
 
 RITARDI X2 + GOAL
-   1. Wellington Phoenix                6  🟢 83%
+   1. Wellington Phoenix                7  🟢 86%
    2. Western Sydney Wanderers FC       6  🟢 83%
    3. Perth Glory                       5  🟢 80%
-   4. Sydney FC                         3
+   4. Sydney FC                         4  🟢 50%
    5. Adelaide United                   2  🟢 100%  🔴
    6. Central Coast Mariners            1  🟢 100%
-   7. Auckland FC                       0
-   8. Brisbane Roar FC                  0
-   9. Macarthur FC                      0  🔴
-  10. Melbourne City FC                 0
+   7. Melbourne City FC                 1  🟢 100%
+   8. Newcastle Jets                    1  🟢 100%  🔴
+   9. Auckland FC                       0
+  10. Brisbane Roar FC                  0
 
 RITARDI 12 + GOAL
-   1. Newcastle Jets                    7  🟢 100%
+   1. Newcastle Jets                    8  🟢 100%
    2. Central Coast Mariners            5  🟢 80%
-   3. Auckland FC                       1  🟢 100%
-   4. Brisbane Roar FC                  1  🟢 100%  🔴
-   5. Macarthur FC                      1  🟢 100%  🔴
-   6. Melbourne City FC                 1  🟢 100%
+   3. Wellington Phoenix                2  🟢 100%
+   4. Auckland FC                       1  🟢 100%
+   5. Brisbane Roar FC                  1  🟢 100%  🔴
+   6. Macarthur FC                      1  🟢 100%  🔴
    7. Melbourne Victory                 1  🟢 100%
-   8. Wellington Phoenix                1  🟢 100%
-   9. Adelaide United                   0  🔴
+   8. Adelaide United                   0  🔴
+   9. Melbourne City FC                 0
   10. Perth Glory                       0
 
 ==================================================
@@ -1898,7 +1898,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — CASA
-Aggiornato: 31/10/2026 01:40 (ora italiana)
+Aggiornato: 31/10/2026 11:01 (ora italiana)
 Ritardo = partite IN CASA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in casa.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -2075,16 +2075,16 @@ Stagione 2026/2027 (145 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bolton Wanderers                  5  🟢 60%  🔴  ❗ 10/43
-   2. Bristol City                      4  ❗ 10/43
-   3. Norwich City                      3  ❗ 10/43
-   4. Watford                           3  🟢 100%  ❗ 10/43
-   5. Birmingham City                   2  🟢 100%  ❗ 10/43
-   6. Southampton                       2  ❗ 10/43
-   7. Stoke City                        2  🟢 50%  ❗ 10/43
-   8. Blackburn Rovers                  1  🟢 100%  ❗ 10/43
-   9. Burnley                           1  🟢 100%  ❗ 10/43
-  10. Cardiff City                      1  ❗ 10/43
+   1. Bolton Wanderers                  5  🟢 60%  🔴  ❗ 9/43
+   2. Bristol City                      4  ❗ 9/43
+   3. Norwich City                      3  ❗ 9/43
+   4. Watford                           3  🟢 100%  ❗ 9/43
+   5. Birmingham City                   2  🟢 100%  ❗ 9/43
+   6. Southampton                       2  ❗ 9/43
+   7. Stoke City                        2  🟢 50%  ❗ 9/43
+   8. Blackburn Rovers                  1  🟢 100%  ❗ 9/43
+   9. Burnley                           1  🟢 100%  ❗ 9/43
+  10. Cardiff City                      1  ❗ 9/43
 
 RITARDI X2 + GOAL
    1. Bristol City                      7  ❗ 8/43
@@ -2567,16 +2567,16 @@ Stagione 2026/2027 (90 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 1,8 · 12 + GOAL 1 ogni 2,2
 ==================================================
 RITARDI 1X + GOAL
-   1. SC Heerenveen                     6  🟢 50%  ❗ 8/43
-   2. Willem II                         3  🟢 67%  ❗ 8/43
-   3. AZ Alkmaar                        2  🟢 50%  🔴  ❗ 8/43
-   4. Excelsior                         2  🟢 100%  ❗ 8/43
-   5. FC Groningen                      2  🟢 100%  ❗ 8/43
-   6. Feyenoord                         2  🟢 100%  ❗ 8/43
-   7. ADO Den Haag                      1  🟢 100%  🔴  ❗ 8/43
-   8. FC Twente                         1  🟢 100%  ❗ 8/43
-   9. Fortuna Sittard                   1  ❗ 8/43
-  10. Sparta Rotterdam                  1  🟢 100%  ❗ 8/43
+   1. SC Heerenveen                     6  🟢 50%  🔥 7/43
+   2. Willem II                         3  🟢 67%  🔥 7/43
+   3. AZ Alkmaar                        2  🟢 50%  🔴  🔥 7/43
+   4. Excelsior                         2  🟢 100%  🔥 7/43
+   5. FC Groningen                      2  🟢 100%  🔥 7/43
+   6. Feyenoord                         2  🟢 100%  🔥 7/43
+   7. ADO Den Haag                      1  🟢 100%  🔴  🔥 7/43
+   8. FC Twente                         1  🟢 100%  🔥 7/43
+   9. Fortuna Sittard                   1  🔥 7/43
+  10. Sparta Rotterdam                  1  🟢 100%  🔥 7/43
 
 RITARDI X2 + GOAL
    1. PEC Zwolle                        3  🟢 67%  🔥 1/43
@@ -2837,16 +2837,16 @@ RITARDI X2 + GOAL
   10. Arouca                            1
 
 RITARDI 12 + GOAL
-   1. Vitória de Guimarães              8  🟢 50%  👻 35/43
-   2. Gil Vicente                       5  👻 35/43
-   3. Alverca                           2  👻 35/43
-   4. Casa Pia AC                       2  🟢 50%  👻 35/43
-   5. Estrela da Amadora                2  🟢 100%  👻 35/43
-   6. Nacional                          2  🟢 50%  🔴  👻 35/43
-   7. Arouca                            1  👻 35/43
-   8. Benfica                           1  🟢 100%  🔴  👻 35/43
-   9. Moreirense                        1  🔴  👻 35/43
-  10. Rio Ave                           1  🟢 100%  👻 35/43
+   1. Vitória de Guimarães              8  🟢 50%  👻 36/43
+   2. Gil Vicente                       5  👻 36/43
+   3. Alverca                           2  👻 36/43
+   4. Casa Pia AC                       2  🟢 50%  👻 36/43
+   5. Estrela da Amadora                2  🟢 100%  👻 36/43
+   6. Nacional                          2  🟢 50%  🔴  👻 36/43
+   7. Arouca                            1  👻 36/43
+   8. Benfica                           1  🟢 100%  🔴  👻 36/43
+   9. Moreirense                        1  🔴  👻 36/43
+  10. Rio Ave                           1  🟢 100%  👻 36/43
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -2936,16 +2936,16 @@ Stagione 2026 (224 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              5  🟢 80%  ❗ 9/43
-   2. Lyn                               3  🟢 67%  ❗ 9/43
-   3. Raufoss                           3  🟢 100%  ❗ 9/43
-   4. Kongsvinger                       1  🟢 100%  🔴  ❗ 9/43
-   5. Odds Ballklubb                    1  🟢 100%  ❗ 9/43
-   6. Stabæk                            1  🟢 100%  ❗ 9/43
-   7. Strømmen                          1  ❗ 9/43
-   8. Strømsgodset                      1  🟢 100%  ❗ 9/43
-   9. Åsane                             1  ❗ 9/43
-  10. Bryne                             0  ❗ 9/43
+   1. Moss                              5  🟢 80%  ❗ 8/43
+   2. Lyn                               3  🟢 67%  ❗ 8/43
+   3. Raufoss                           3  🟢 100%  ❗ 8/43
+   4. Kongsvinger                       1  🟢 100%  🔴  ❗ 8/43
+   5. Odds Ballklubb                    1  🟢 100%  ❗ 8/43
+   6. Stabæk                            1  🟢 100%  ❗ 8/43
+   7. Strømmen                          1  ❗ 8/43
+   8. Strømsgodset                      1  🟢 100%  ❗ 8/43
+   9. Åsane                             1  ❗ 8/43
+  10. Bryne                             0  ❗ 8/43
 
 RITARDI X2 + GOAL
    1. FK Haugesund                      7  🟢 100%
@@ -3247,16 +3247,16 @@ RITARDI X2 + GOAL
   10. Zeleziarne Podbrezová             0  🔥 3/43
 
 RITARDI 12 + GOAL
-   1. DAC 1904 Dunajska Streda          6  🟢 100%  🔴  👻 34/43
-   2. FC Košice                         5  🟢 80%  👻 34/43
-   3. Ružomberok                        4  🟢 75%  👻 34/43
-   4. Skalica                           4  🟢 75%  👻 34/43
-   5. Komárno                           2  👻 34/43
-   6. Slovan Bratislava                 2  🟢 100%  👻 34/43
-   7. Trenčín                           2  🟢 50%  👻 34/43
-   8. Dukla Banská Bystrica             1  🔴  👻 34/43
-   9. Spartak Trnava                    1  🟢 100%  👻 34/43
-  10. Zeleziarne Podbrezová             0  👻 34/43
+   1. DAC 1904 Dunajska Streda          6  🟢 100%  🔴  👻 35/43
+   2. FC Košice                         5  🟢 80%  👻 35/43
+   3. Ružomberok                        4  🟢 75%  👻 35/43
+   4. Skalica                           4  🟢 75%  👻 35/43
+   5. Komárno                           2  👻 35/43
+   6. Slovan Bratislava                 2  🟢 100%  👻 35/43
+   7. Trenčín                           2  🟢 50%  👻 35/43
+   8. Dukla Banská Bystrica             1  🔴  👻 35/43
+   9. Spartak Trnava                    1  🟢 100%  👻 35/43
+  10. Zeleziarne Podbrezová             0  👻 35/43
 
 ==================================================
 SLOVACCHIA - 2. LIGA
@@ -3464,20 +3464,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (327 partite giocate) + 2025
+Stagione 2026 (328 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Atlético-MG                       2  🔴  🔥 7/43
-   2. Botafogo                          2  🟢 50%  🔥 7/43
-   3. Cruzeiro                          2  🟢 50%  🔥 7/43
-   4. Grêmio                            2  🟢 100%  🔥 7/43
-   5. Athletico Paranaense              1  🟢 100%  🔴  🔥 7/43
-   6. Coritiba                          1  🔥 7/43
-   7. Internacional                     1  🟢 100%  🔥 7/43
-   8. Palmeiras                         1  🟢 100%  🔥 7/43
-   9. RB Bragantino                     1  🟢 100%  🔥 7/43
-  10. Santos                            1  🔥 7/43
+   1. Atlético-MG                       2  🔴  ❗ 10/43
+   2. Botafogo                          2  🟢 50%  ❗ 10/43
+   3. Cruzeiro                          2  🟢 50%  ❗ 10/43
+   4. Grêmio                            2  🟢 100%  ❗ 10/43
+   5. Athletico Paranaense              1  🟢 100%  🔴  ❗ 10/43
+   6. Corinthians                       1  🟢 100%  ❗ 10/43
+   7. Coritiba                          1  ❗ 10/43
+   8. Internacional                     1  🟢 100%  ❗ 10/43
+   9. Palmeiras                         1  🟢 100%  ❗ 10/43
+  10. RB Bragantino                     1  🟢 100%  ❗ 10/43
 
 RITARDI X2 + GOAL
    1. Flamengo                          7  🟢 86%
@@ -3497,16 +3497,16 @@ RITARDI 12 + GOAL
    3. Santos                            3  🟢 67%
    4. Athletico Paranaense              2  🟢 100%
    5. Atlético-MG                       2
-   6. Cruzeiro                          2  🟢 50%
-   7. Vitória                           2  🟢 100%
-   8. Botafogo                          1
-   9. Corinthians                       1  🟢 100%
+   6. Corinthians                       2  🟢 100%
+   7. Cruzeiro                          2  🟢 50%
+   8. Vitória                           2  🟢 100%
+   9. Botafogo                          1
   10. Grêmio                            1  🟢 100%  🔴
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (212 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 3,2
+Stagione 2026 - Clausura (214 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
    1. San Lorenzo                      11  👻 34/43
@@ -3533,16 +3533,16 @@ RITARDI X2 + GOAL
   10. River Plate                       2  👻 34/43
 
 RITARDI 12 + GOAL
-   1. Deportivo Riestra               15+  🟢 60%  👻 36/43
-   2. Club Atlético Platense           14  🟢 57%  👻 36/43
-   3. Central Córdoba de Santiago       7  🟢 57%  👻 36/43
-   4. San Lorenzo                       7  👻 36/43
-   5. Sarmiento                         5  🟢 100%  👻 36/43
-   6. Banfield                          4  🟢 75%  👻 36/43
-   7. Defensa y Justicia                4  🟢 50%  👻 36/43
-   8. Rosario Central                   4  🟢 75%  🔴  👻 36/43
-   9. Gimnasia LP                       3  🟢 100%  👻 36/43
-  10. Independiente Rivadavia           2  🟢 100%  👻 36/43
+   1. Deportivo Riestra               15+  🟢 60%  👻 34/43
+   2. Club Atlético Platense           14  🟢 57%  👻 34/43
+   3. Central Córdoba de Santiago       7  🟢 57%  👻 34/43
+   4. San Lorenzo                       7  👻 34/43
+   5. Banfield                          4  🟢 75%  👻 34/43
+   6. Defensa y Justicia                4  🟢 50%  👻 34/43
+   7. Rosario Central                   4  🟢 75%  🔴  👻 34/43
+   8. Gimnasia LP                       3  🟢 100%  👻 34/43
+   9. Independiente Rivadavia           2  🟢 100%  👻 34/43
+  10. Instituto                         2  🟢 50%  👻 34/43
 
 ==================================================
 USA/CANADA - MLS
@@ -3587,18 +3587,18 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (12 partite giocate) + 2025/2026
+Stagione 2026/2027 (14 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Melbourne City FC                 2  🟢 100%
-   2. Adelaide United                   1  🟢 100%  🔴
+   1. Adelaide United                   1  🟢 100%  🔴
+   2. Newcastle Jets                    1  🟢 100%
    3. Wellington Phoenix                1  🟢 100%  🔴
    4. Auckland FC                       0
    5. Brisbane Roar FC                  0
    6. Central Coast Mariners            0
    7. Macarthur FC                      0
-   8. Melbourne Victory                 0
-   9. Newcastle Jets                    0
+   8. Melbourne City FC                 0
+   9. Melbourne Victory                 0
   10. Perth Glory                       0
 
 RITARDI X2 + GOAL
@@ -3609,14 +3609,14 @@ RITARDI X2 + GOAL
    5. Auckland FC                       2  🟢 50%
    6. Perth Glory                       2  🟢 100%  🔴
    7. Sydney FC                         2  🟢 50%
-   8. Brisbane Roar FC                  0
-   9. Central Coast Mariners            0
-  10. Melbourne City FC                 0
+   8. Melbourne City FC                 1  🟢 100%
+   9. Newcastle Jets                    1  🟢 100%  🔴
+  10. Brisbane Roar FC                  0
 
 RITARDI 12 + GOAL
    1. Central Coast Mariners            5  🟢 80%
-   2. Melbourne Victory                 4  🟢 50%
-   3. Newcastle Jets                    4  🟢 100%  🔴
+   2. Newcastle Jets                    5  🟢 100%  🔴
+   3. Melbourne Victory                 4  🟢 50%
    4. Adelaide United                   1  🟢 100%  🔴
    5. Brisbane Roar FC                  1  🟢 100%
    6. Wellington Phoenix                1  🟢 100%  🔴
@@ -3793,7 +3793,7 @@ RITARDI 12 + GOAL
 ##################################################
 
 RITARDI DOPPIA CHANCE + GOAL — TRASFERTA
-Aggiornato: 31/10/2026 01:40 (ora italiana)
+Aggiornato: 31/10/2026 11:01 (ora italiana)
 Ritardo = partite IN TRASFERTA consecutive senza la combo. Si contano solo le gare in cui la squadra gioca in trasferta.
 Include la stagione precedente solo se la squadra era nella stessa divisione. '+' = mai uscita nel periodo considerato.
 🔴 = squadra tra le prime 3 per uscite della combo (le più frequenti, pari merito inclusi) nel suo campionato.
@@ -3970,16 +3970,16 @@ Stagione 2026/2027 (145 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,6 · 12 + GOAL 1 ogni 2,4
 ==================================================
 RITARDI 1X + GOAL
-   1. Bolton Wanderers                  4  🟢 75%  ❗ 10/43
-   2. Birmingham City                   3  ❗ 10/43
-   3. Stoke City                        3  🟢 67%  ❗ 10/43
-   4. Swansea City                      3  🟢 67%  ❗ 10/43
-   5. Wolverhampton Wanderers           3  ❗ 10/43
-   6. Middlesbrough                     2  🟢 100%  ❗ 10/43
-   7. Southampton                       2  🟢 50%  🔴  ❗ 10/43
-   8. West Ham United                   2  🟢 50%  ❗ 10/43
-   9. Wrexham                           2  🟢 50%  ❗ 10/43
-  10. Bristol City                      1  ❗ 10/43
+   1. Bolton Wanderers                  4  🟢 75%  ❗ 9/43
+   2. Birmingham City                   3  ❗ 9/43
+   3. Stoke City                        3  🟢 67%  ❗ 9/43
+   4. Swansea City                      3  🟢 67%  ❗ 9/43
+   5. Wolverhampton Wanderers           3  ❗ 9/43
+   6. Middlesbrough                     2  🟢 100%  ❗ 9/43
+   7. Southampton                       2  🟢 50%  🔴  ❗ 9/43
+   8. West Ham United                   2  🟢 50%  ❗ 9/43
+   9. Wrexham                           2  🟢 50%  ❗ 9/43
+  10. Bristol City                      1  ❗ 9/43
 
 RITARDI X2 + GOAL
    1. Watford                           5  ❗ 8/43
@@ -4462,16 +4462,16 @@ Stagione 2026/2027 (90 partite giocate) + 2025/2026
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 1,8 · 12 + GOAL 1 ogni 2,2
 ==================================================
 RITARDI 1X + GOAL
-   1. Ajax                              8  🟢 88%  ❗ 8/43
-   2. FC Utrecht                        3  🟢 100%  ❗ 8/43
-   3. SC Heerenveen                     3  🟢 100%  ❗ 8/43
-   4. Cambuur                           2  🟢 50%  ❗ 8/43
-   5. Excelsior                         2  🟢 50%  🔴  ❗ 8/43
-   6. FC Twente                         1  🟢 100%  ❗ 8/43
-   7. ADO Den Haag                      0  ❗ 8/43
-   8. AZ Alkmaar                        0  ❗ 8/43
-   9. FC Groningen                      0  ❗ 8/43
-  10. Feyenoord                         0  ❗ 8/43
+   1. Ajax                              8  🟢 88%  🔥 7/43
+   2. FC Utrecht                        3  🟢 100%  🔥 7/43
+   3. SC Heerenveen                     3  🟢 100%  🔥 7/43
+   4. Cambuur                           2  🟢 50%  🔥 7/43
+   5. Excelsior                         2  🟢 50%  🔴  🔥 7/43
+   6. FC Twente                         1  🟢 100%  🔥 7/43
+   7. ADO Den Haag                      0  🔥 7/43
+   8. AZ Alkmaar                        0  🔥 7/43
+   9. FC Groningen                      0  🔥 7/43
+  10. Feyenoord                         0  🔥 7/43
 
 RITARDI X2 + GOAL
    1. Telstar                           4  🔥 1/43
@@ -4732,16 +4732,16 @@ RITARDI X2 + GOAL
   10. FC Porto                          1
 
 RITARDI 12 + GOAL
-   1. Famalicão                         9  🟢 67%  👻 35/43
-   2. Rio Ave                           7  🟢 71%  👻 35/43
-   3. Arouca                            5  👻 35/43
-   4. Braga                             2  🔴  👻 35/43
-   5. Estrela da Amadora                2  🟢 50%  👻 35/43
-   6. Marítimo                          2  🟢 100%  🔴  👻 35/43
-   7. Casa Pia AC                       1  🟢 100%  👻 35/43
-   8. FC Porto                          1  👻 35/43
-   9. Santa Clara                       1  👻 35/43
-  10. Sporting CP                       1  🟢 100%  👻 35/43
+   1. Famalicão                         9  🟢 67%  👻 36/43
+   2. Rio Ave                           7  🟢 71%  👻 36/43
+   3. Arouca                            5  👻 36/43
+   4. Braga                             2  🔴  👻 36/43
+   5. Estrela da Amadora                2  🟢 50%  👻 36/43
+   6. Marítimo                          2  🟢 100%  🔴  👻 36/43
+   7. Casa Pia AC                       1  🟢 100%  👻 36/43
+   8. FC Porto                          1  👻 36/43
+   9. Santa Clara                       1  👻 36/43
+  10. Sporting CP                       1  🟢 100%  👻 36/43
 
 ==================================================
 PORTOGALLO - LIGA PORTUGAL 2
@@ -4831,16 +4831,16 @@ Stagione 2026 (224 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,9 · 12 + GOAL 1 ogni 2,0
 ==================================================
 RITARDI 1X + GOAL
-   1. Moss                              4  🟢 75%  ❗ 9/43
-   2. Odds Ballklubb                    3  🟢 67%  ❗ 9/43
-   3. Stabæk                            3  🟢 67%  🔴  ❗ 9/43
-   4. Strømsgodset                      3  🟢 67%  ❗ 9/43
-   5. FK Haugesund                      1  🟢 100%  ❗ 9/43
-   6. Ranheim                           1  🟢 100%  ❗ 9/43
-   7. Sandnes Ulf                       1  🟢 100%  ❗ 9/43
-   8. Strømmen                          1  🟢 100%  ❗ 9/43
-   9. Åsane                             1  🟢 100%  🔴  ❗ 9/43
-  10. Bryne                             0  ❗ 9/43
+   1. Moss                              4  🟢 75%  ❗ 8/43
+   2. Odds Ballklubb                    3  🟢 67%  ❗ 8/43
+   3. Stabæk                            3  🟢 67%  🔴  ❗ 8/43
+   4. Strømsgodset                      3  🟢 67%  ❗ 8/43
+   5. FK Haugesund                      1  🟢 100%  ❗ 8/43
+   6. Ranheim                           1  🟢 100%  ❗ 8/43
+   7. Sandnes Ulf                       1  🟢 100%  ❗ 8/43
+   8. Strømmen                          1  🟢 100%  ❗ 8/43
+   9. Åsane                             1  🟢 100%  🔴  ❗ 8/43
+  10. Bryne                             0  ❗ 8/43
 
 RITARDI X2 + GOAL
    1. Bryne                             6  🟢 83%
@@ -5142,16 +5142,16 @@ RITARDI X2 + GOAL
   10. Spartak Trnava                    0  🔥 3/43
 
 RITARDI 12 + GOAL
-   1. Dukla Banská Bystrica            7+  🟢 57%  👻 34/43
-   2. Komárno                           3  🟢 100%  👻 34/43
-   3. Ružomberok                        3  🟢 67%  👻 34/43
-   4. Slovan Bratislava                 3  🟢 100%  🔴  👻 34/43
-   5. Žilina                            3  🟢 100%  🔴  👻 34/43
-   6. Trenčín                           2  🟢 50%  👻 34/43
-   7. DAC 1904 Dunajska Streda          1  👻 34/43
-   8. FC Košice                         1  🟢 100%  👻 34/43
-   9. Spartak Trnava                    1  🟢 100%  👻 34/43
-  10. Zemplín Michalovce                1  🟢 100%  👻 34/43
+   1. Dukla Banská Bystrica            7+  🟢 57%  👻 35/43
+   2. Komárno                           3  🟢 100%  👻 35/43
+   3. Ružomberok                        3  🟢 67%  👻 35/43
+   4. Slovan Bratislava                 3  🟢 100%  🔴  👻 35/43
+   5. Žilina                            3  🟢 100%  🔴  👻 35/43
+   6. Trenčín                           2  🟢 50%  👻 35/43
+   7. DAC 1904 Dunajska Streda          1  👻 35/43
+   8. FC Košice                         1  🟢 100%  👻 35/43
+   9. Spartak Trnava                    1  🟢 100%  👻 35/43
+  10. Zemplín Michalovce                1  🟢 100%  👻 35/43
 
 ==================================================
 SLOVACCHIA - 2. LIGA
@@ -5359,20 +5359,20 @@ RITARDI 12 + GOAL
 
 ==================================================
 BRASILE - SÉRIE A
-Stagione 2026 (327 partite giocate) + 2025
+Stagione 2026 (328 partite giocate) + 2025
   Frequenza stagione: 1X + GOAL 1 ogni 2,2 · X2 + GOAL 1 ogni 2,8 · 12 + GOAL 1 ogni 2,7
 ==================================================
 RITARDI 1X + GOAL
-   1. Coritiba                          4  🟢 75%  🔴  🔥 7/43
-   2. Palmeiras                         4  🔥 7/43
-   3. Vasco da Gama                     4  🟢 50%  🔥 7/43
-   4. Chapecoense                       3  🟢 67%  🔥 7/43
-   5. Cruzeiro                          2  🟢 50%  🔥 7/43
-   6. Flamengo                          2  🟢 100%  🔥 7/43
-   7. Remo                              2  🔥 7/43
-   8. Athletico Paranaense              1  🟢 100%  🔥 7/43
-   9. Grêmio                            1  🔥 7/43
-  10. Mirassol                          1  🔥 7/43
+   1. Coritiba                          4  🟢 75%  🔴  ❗ 10/43
+   2. Palmeiras                         4  ❗ 10/43
+   3. Vasco da Gama                     4  🟢 50%  ❗ 10/43
+   4. Chapecoense                       3  🟢 67%  ❗ 10/43
+   5. Cruzeiro                          2  🟢 50%  ❗ 10/43
+   6. Flamengo                          2  🟢 100%  ❗ 10/43
+   7. Mirassol                          2  🟢 50%  ❗ 10/43
+   8. Remo                              2  ❗ 10/43
+   9. Athletico Paranaense              1  🟢 100%  ❗ 10/43
+  10. Grêmio                            1  ❗ 10/43
 
 RITARDI X2 + GOAL
    1. Corinthians                       6  🟢 100%
@@ -5383,25 +5383,25 @@ RITARDI X2 + GOAL
    6. Botafogo                          2  🟢 100%
    7. Fluminense                        2  🟢 50%
    8. Internacional                     2  🟢 100%  🔴
-   9. Athletico Paranaense              1  🟢 100%
-  10. Atlético-MG                       1  🟢 100%
+   9. Mirassol                          2  🟢 50%
+  10. Athletico Paranaense              1  🟢 100%
 
 RITARDI 12 + GOAL
    1. Palmeiras                         5
    2. Chapecoense                       4  🟢 75%
    3. Coritiba                          3  🟢 67%  🔴
-   4. RB Bragantino                     3  🟢 67%
-   5. Athletico Paranaense              2  🟢 100%
-   6. Bahia                             2  🟢 50%
-   7. Grêmio                            2  🟢 50%
-   8. Mirassol                          2  🟢 50%
+   4. Mirassol                          3  🟢 67%
+   5. RB Bragantino                     3  🟢 67%
+   6. Athletico Paranaense              2  🟢 100%
+   7. Bahia                             2  🟢 50%
+   8. Grêmio                            2  🟢 50%
    9. Remo                              2
   10. Cruzeiro                          1
 
 ==================================================
 ARGENTINA - PRIMERA DIVISIÓN
-Stagione 2026 - Clausura (212 partite giocate) + 2026 - Apertura
-  Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,3 · 12 + GOAL 1 ogni 3,2
+Stagione 2026 - Clausura (214 partite giocate) + 2026 - Apertura
+  Frequenza stagione: 1X + GOAL 1 ogni 2,8 · X2 + GOAL 1 ogni 3,2 · 12 + GOAL 1 ogni 3,1
 ==================================================
 RITARDI 1X + GOAL
    1. Gimnasia Mendoza                  7  🟢 57%  👻 34/43
@@ -5417,7 +5417,7 @@ RITARDI 1X + GOAL
 
 RITARDI X2 + GOAL
    1. Independiente Rivadavia           8  🟢 50%  👻 34/43
-   2. Aldosivi                          6  🟢 67%  👻 34/43
+   2. Aldosivi                          7  🟢 71%  👻 34/43
    3. Talleres                          6  🟢 67%  🔴  👻 34/43
    4. Estudiantes de Río Cuarto         4  🟢 75%  👻 34/43
    5. Gimnasia Mendoza                  4  🟢 75%  👻 34/43
@@ -5428,16 +5428,16 @@ RITARDI X2 + GOAL
   10. Vélez Sarsfield                   2  🟢 100%  👻 34/43
 
 RITARDI 12 + GOAL
-   1. Boca Juniors                      8  🟢 88%  👻 36/43
-   2. Argentinos Juniors                7  👻 36/43
-   3. Belgrano                          7  👻 36/43
-   4. Deportivo Riestra                 6  👻 36/43
-   5. Lanús                             6  🟢 50%  👻 36/43
-   6. Vélez Sarsfield                   6  🟢 100%  👻 36/43
-   7. Newell's Old Boys                 5  👻 36/43
-   8. Gimnasia Mendoza                  4  🟢 75%  👻 36/43
-   9. Atlético Tucumán                  3  👻 36/43
-  10. Independiente Rivadavia           3  👻 36/43
+   1. Boca Juniors                      8  🟢 88%  👻 34/43
+   2. Argentinos Juniors                7  👻 34/43
+   3. Belgrano                          7  👻 34/43
+   4. Deportivo Riestra                 6  👻 34/43
+   5. Lanús                             6  🟢 50%  👻 34/43
+   6. Vélez Sarsfield                   6  🟢 100%  👻 34/43
+   7. Newell's Old Boys                 5  👻 34/43
+   8. Gimnasia Mendoza                  4  🟢 75%  👻 34/43
+   9. Atlético Tucumán                  3  👻 34/43
+  10. Independiente Rivadavia           3  👻 34/43
 
 ==================================================
 USA/CANADA - MLS
@@ -5482,43 +5482,43 @@ RITARDI 12 + GOAL
 
 ==================================================
 AUSTRALIA - A-LEAGUE MEN
-Stagione 2026/2027 (12 partite giocate) + 2025/2026
+Stagione 2026/2027 (14 partite giocate) + 2025/2026
 ==================================================
 RITARDI 1X + GOAL
-   1. Wellington Phoenix                4  🟢 75%
+   1. Wellington Phoenix                5  🟢 80%
    2. Central Coast Mariners            3  🟢 67%
-   3. Sydney FC                         1
-   4. Western Sydney Wanderers FC       1  🔴
-   5. Adelaide United                   0  🔴
-   6. Auckland FC                       0
-   7. Brisbane Roar FC                  0  🔴
-   8. Macarthur FC                      0
-   9. Melbourne City FC                 0
-  10. Melbourne Victory                 0
+   3. Western Sydney Wanderers FC       1  🔴
+   4. Adelaide United                   0  🔴
+   5. Auckland FC                       0
+   6. Brisbane Roar FC                  0  🔴
+   7. Macarthur FC                      0
+   8. Melbourne City FC                 0
+   9. Melbourne Victory                 0
+  10. Newcastle Jets                    0
 
 RITARDI X2 + GOAL
    1. Central Coast Mariners            5  🟢 80%
-   2. Perth Glory                       3  🟢 67%
-   3. Wellington Phoenix                3  🟢 67%
+   2. Wellington Phoenix                4  🟢 75%
+   3. Perth Glory                       3  🟢 67%
    4. Western Sydney Wanderers FC       3  🟢 67%  🔴
    5. Melbourne Victory                 2  🟢 100%
-   6. Adelaide United                   1  🟢 100%  🔴
-   7. Brisbane Roar FC                  1  🟢 100%
-   8. Sydney FC                         1
+   6. Sydney FC                         2  🟢 50%
+   7. Adelaide United                   1  🟢 100%  🔴
+   8. Brisbane Roar FC                  1  🟢 100%
    9. Auckland FC                       0
   10. Macarthur FC                      0
 
 RITARDI 12 + GOAL
-   1. Sydney FC                        12
+   1. Wellington Phoenix                4  🟢 75%  🔴
    2. Central Coast Mariners            3  🟢 67%
    3. Newcastle Jets                    3  🟢 100%
-   4. Wellington Phoenix                3  🟢 67%  🔴
-   5. Auckland FC                       1  🟢 100%
-   6. Macarthur FC                      1  🟢 100%
-   7. Melbourne City FC                 1  🟢 100%
-   8. Western Sydney Wanderers FC       1
-   9. Adelaide United                   0  🔴
-  10. Brisbane Roar FC                  0  🔴
+   4. Auckland FC                       1  🟢 100%
+   5. Macarthur FC                      1  🟢 100%
+   6. Melbourne City FC                 1  🟢 100%
+   7. Western Sydney Wanderers FC       1
+   8. Adelaide United                   0  🔴
+   9. Brisbane Roar FC                  0  🔴
+  10. Melbourne Victory                 0  🔴
 
 ==================================================
 FINLANDIA - VEIKKAUSLIIGA
