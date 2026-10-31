@@ -1,16 +1,11 @@
 PROSSIME PARTITE (5 GIORNI) - COMBO + GOAL - SQUADRE IN RITARDO
-Aggiornato: 31/10/2026 11:30 (ora italiana)
+Aggiornato: 31/10/2026 12:25 (ora italiana)
 Soglia ritardo >= 6. Orari in ora italiana. La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. 1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. Sopra il nome: 🔥 attacco forte o tanti gol subiti, 🧊 attacco debole o pochi gol subiti, con A o D. È il 20% della classifica gol di stagione, sempre arrotondato per difetto (20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. Servono almeno 8 giornate già giocate, altrimenti nessuna icona. Il passaggio sull'icona mostra quella fetta di classifica. 🟢 GG = segnano entrambe nelle ultime 10 partite di quel contesto. xG = media a partita (fatti + subiti) se FotMob la pubblica; è di stagione, non diviso casa/trasferta. 🔴 Squadra = tra le 3 con più uscite di quella combo. Fonte: FotMob
 
 
 ==================================================
 31/10/2026
 ==================================================
-TRASFERTA 12:00  Amarante FC [🧊A] vs FC Porto B [🔥D]   [PORTOGALLO - LIGA PORTUGAL 2]
-           FC Porto B 🟢 GG 40%: 1X + GOAL (6) 👻 42/43
-CASA      12:15  Wisła Płock [🧊A] vs Piast Gliwice [🔥A]   [POLONIA - EKSTRAKLASA]
-           xG: Wisła Płock xG 3,03 (1,37+1,66) · Piast Gliwice xG 3,46 (1,35+2,11)
-           Wisła Płock 🟢 GG 10%: X2 + GOAL (15)
 TOTALE    13:00  Darmstadt [🧊A 🔥D] vs Magdeburg [🔥A]   [GERMANIA - 2. BUNDESLIGA]
            xG: Darmstadt xG 2,67 (1,04+1,63) · Magdeburg xG 2,94 (1,37+1,57)
            Darmstadt 🟢 GG 40%: X2 + GOAL (8)
@@ -336,7 +331,7 @@ TOTALE    15:00  Sheffield Wednesday vs Blackpool   [INGHILTERRA - LEAGUE ONE]
 TOTALE    15:00  Empoli [🧊A] vs Juve Stabia [🧊A 🧊D]   [ITALIA - SERIE B]
            xG: Empoli xG 2,63 (0,88+1,75) · Juve Stabia xG 2,43 (1,25+1,18)
            Juve Stabia 🟢 GG 50%: 12 + GOAL (7)
-TOTALE    15:00  Tondela vs Felgueiras 1932   [PORTOGALLO - LIGA PORTUGAL 2]
+TOTALE    15:00  Tondela vs Felgueiras 1932 [🧊A]   [PORTOGALLO - LIGA PORTUGAL 2]
            Tondela 🟢 GG 25% (2/8): X2 + GOAL (8+) 👻 35/43
 CASA      15:00  Baník Ostrava [🧊A] vs Viktoria Plzeň [🔥A 🔥D]   [REP. CECA - 1. LIGA]
            Baník Ostrava 🟢 GG 10%: 1X + GOAL (10) 👻 36/43 🔴 Viktoria Plzeň
