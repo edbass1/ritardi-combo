@@ -53,6 +53,10 @@ _CACHE = {}
 SOGLIA_GOAL = 6   # ritardo minimo per 'Prossime partite' (combo Goal)
 GIORNI = 5
 MIN_GIORNATE = 7  # giornate giocate minime per la frequenza di campionato
+AD_MIN_ROUNDS = 8  # icone attacco/difesa solo da 8 giornate giocate
+AD_ORDER = ("sa", "wa", "sd", "wd")
+AD_ICON = {"sa": ("hi", "🔥", "A"), "wa": ("lo", "🧊", "A"), "sd": ("hi", "🔥", "D"), "wd": ("lo", "🧊", "D")}
+AD_LABEL = {"sa": "Attacco forte", "wa": "Attacco debole", "sd": "Difesa forte", "wd": "Difesa debole"}
 ROME = ZoneInfo('Europe/Rome')
 # (campionato, combo) -> "🔥 2/16" oppure "" ; riempito a ogni aggiornamento
 LEAGUE_BADGES = {}
@@ -414,6 +418,187 @@ def team_form_map(teams, cur, prev_m, prev_teams):
         out[str(tid)] = rec
     return out
 
+def floor_share(n, pct=20):
+    """Quante squadre sono il pct%. Sempre per difetto: 20 -> 4, 18 -> 3, 16 -> 3."""
+    if n <= 0 or pct <= 0:
+        return 0
+    return (n * pct) // 100
+
+def _rank_best_first(rows, value, higher_better):
+    """Rank di classifica (1, 2, 2, 4) sul valore, i migliori per primi."""
+    ordered = sorted(rows, key=lambda r: (-value(r) if higher_better else value(r), r["name"]))
+    out, prev, rank = [], None, 0
+    for i, r in enumerate(ordered, 1):
+        v = value(r)
+        if v != prev:
+            rank, prev = i, v
+        out.append({"rank": rank, "name": r["name"], "v": v})
+    return out
+
+def _top_band(ranked, k, higher_better):
+    """Prime k posizioni, più chi è in pari sul valore del confine."""
+    if k <= 0 or not ranked:
+        return []
+    cut = ranked[min(k, len(ranked)) - 1]["v"]
+    if higher_better:
+        return [r for r in ranked if r["v"] >= cut]
+    return [r for r in ranked if r["v"] <= cut]
+
+def _bottom_band(ranked, k, higher_better):
+    """Ultime k posizioni della stessa classifica, pari merito sul confine inclusi.
+    L'ordine resta quello della classifica (i migliori prima), così in fondo si leggono i peggiori."""
+    if k <= 0 or not ranked:
+        return []
+    cut = ranked[-min(k, len(ranked))]["v"]
+    if higher_better:
+        return [r for r in ranked if r["v"] <= cut]
+    return [r for r in ranked if r["v"] >= cut]
+
+def _without_overlap(strong, weak):
+    """Chi finirebbe sia forte sia debole sulla stessa statistica non prende nessuna delle due."""
+    both = {r["name"] for r in strong} & {r["name"] for r in weak}
+    if not both:
+        return strong, weak
+    return [r for r in strong if r["name"] not in both], [r for r in weak if r["name"] not in both]
+
+def classify_goal_rows(rows):
+    """rows: {name, gf, ga}. None se il 20% per difetto è 0.
+    Attacco: più gol fatti = forte. Difesa: meno gol subiti = forte."""
+    n = len(rows)
+    k = floor_share(n)
+    if k <= 0:
+        return None
+    attack = _rank_best_first(rows, lambda r: r["gf"], True)
+    defense = _rank_best_first(rows, lambda r: r["ga"], False)
+    strong_a, weak_a = _without_overlap(_top_band(attack, k, True), _bottom_band(attack, k, True))
+    strong_d, weak_d = _without_overlap(_top_band(defense, k, False), _bottom_band(defense, k, False))
+    bands = {"sa": strong_a, "wa": weak_a, "sd": strong_d, "wd": weak_d}
+    mark = {}
+    for key in AD_ORDER:
+        for r in bands[key]:
+            mark.setdefault(r["name"], []).append(key)
+    return {
+        "n": n, "k": k,
+        "band": {key: [[r["rank"], r["name"], r["v"]] for r in bands[key]] for key in AD_ORDER},
+        "mark": mark,
+    }
+
+def _parse_score_pair(text):
+    m = re.match(r"^\s*(\d+)\s*[-–]\s*(\d+)\s*$", text or "")
+    if not m:
+        return None
+    return int(m.group(1)), int(m.group(2))
+
+def _table_goal_rows(group, teams):
+    rows, seen = [], set()
+    for r in (group.get("table") or {}).get("all") or []:
+        pair = _parse_score_pair(r.get("scoresStr"))
+        if not pair:
+            continue
+        tid = r.get("id")
+        name = teams.get(tid, teams.get(str(tid), r.get("name")))
+        if not name or name in seen:
+            continue
+        seen.add(name)
+        rows.append({"name": name, "gf": pair[0], "ga": pair[1]})
+    return rows
+
+def _fixture_goal_rows(d, teams):
+    acc = {}
+    for m in (d.get("fixtures") or {}).get("allMatches") or []:
+        st = m.get("status") or {}
+        if not st.get("finished") or st.get("cancelled") or st.get("awarded"):
+            continue
+        pair = _parse_score_pair(st.get("scoreStr"))
+        if not pair:
+            continue
+        h, a = pair
+        for tid, gf, ga in ((m["home"]["id"], h, a), (m["away"]["id"], a, h)):
+            rec = acc.setdefault(tid, [0, 0])
+            rec[0] += gf
+            rec[1] += ga
+    rows = []
+    for tid, (gf, ga) in acc.items():
+        name = teams.get(tid, teams.get(str(tid)))
+        if name:
+            rows.append({"name": name, "gf": gf, "ga": ga})
+    return rows
+
+def goal_strength(d, teams):
+    """Classifica gol della stagione corrente. None sotto le 8 giornate o senza dati.
+    Prima la classifica FotMob (scoresStr fatti-subiti), già scaricata con la lega.
+    Se manca, la somma delle partite finite della stessa risposta."""
+    try:
+        rounds = season_combo_stats(d)["rounds"]
+    except Exception:
+        return None
+    if rounds < AD_MIN_ROUNDS:
+        # Senza etichetta di giornata, il massimo di partite in classifica è il sostituto.
+        played = []
+        try:
+            for g in _table_groups(d):
+                for r in (g.get("table") or {}).get("all") or []:
+                    if r.get("played"):
+                        played.append(int(r["played"]))
+        except (TypeError, ValueError):
+            played = []
+        if rounds == 0 and played and max(played) >= AD_MIN_ROUNDS:
+            rounds = max(played)
+        else:
+            return None
+    groups = []
+    try:
+        for g in _table_groups(d):
+            classified = classify_goal_rows(_table_goal_rows(g, teams))
+            if classified:
+                classified["rounds"] = rounds
+                groups.append(classified)
+    except Exception:
+        groups = []
+    if not groups:
+        classified = classify_goal_rows(_fixture_goal_rows(d, teams))
+        if classified:
+            classified["rounds"] = rounds
+            groups.append(classified)
+    if not groups:
+        return None
+    return {"rounds": rounds, "groups": groups}
+
+def ad_keys(gol, name):
+    if not gol:
+        return []
+    for g in gol["groups"]:
+        keys = g["mark"].get(name)
+        if keys:
+            return [k for k in AD_ORDER if k in keys]
+    return []
+
+def ad_suffix(name, gol):
+    keys = ad_keys(gol, name)
+    if not keys:
+        return ""
+    return " [" + " ".join(AD_ICON[k][1] + AD_ICON[k][2] for k in keys) + "]"
+
+def ad_html(li, name, gol):
+    keys = ad_keys(gol, name)
+    if not keys:
+        return ""
+    bits = []
+    for key in keys:
+        kind, icon, letter = AD_ICON[key]
+        bits.append(
+            f'<span class="adb {kind}" data-k="{li}" data-ad="{key}" data-t="{esc(name)}" '
+            f'role="button" tabindex="0" aria-label="{esc(AD_LABEL[key])}">{icon} {letter}</span>'
+        )
+    return f'<span class="ads">{"".join(bits)}</span>'
+
+def club_html(li, home, away, name, gol):
+    name_html = tspan(li, home, away, name)
+    badges = ad_html(li, name, gol)
+    if not badges:
+        return name_html
+    return f'<span class="club">{badges}{name_html}</span>'
+
 def compute(lid, POOL):
     d, cur, teams = matches(lid)
     seasons = d.get("allAvailableSeasons") or []
@@ -430,7 +615,8 @@ def compute(lid, POOL):
     venues = {}
     for venue in ("all", "home", "away"):
         venues[venue] = _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms if venue == "all" else None)
-    return {"cs": cur_season, "ps": prev, "n": len(cur), "up": d["_upcoming"], "teams": teams, "xg": xg, "venues": venues}
+    return {"cs": cur_season, "ps": prev, "n": len(cur), "up": d["_upcoming"], "teams": teams, "xg": xg,
+            "gol": goal_strength(d, teams), "venues": venues}
 
 def _compute_venue(d, teams, cur, prev_m, prev_teams, POOL, venue, forms=None):
     sotto, freq, sinfo = [], {}, {}
@@ -1165,6 +1351,8 @@ def render_venue(data, venue, now):
                    "sotto": {name: [[t, k2, nn] for k2, nn, t in rows] for name, rows in view["sotto"]},
                    "tab": view["tab"],
                    "stot": {k: [val[0], [val[1][2], val[1][0], val[1][1]] if val[1] else None] for k, val in view["sinfo"].items()}}
+        if venue == "all" and r.get("gol"):
+            pop[LI]["gol"] = r["gol"]
         for t, h, a in up:
             info, tags = [], []
             for tid in _fixture_sides(venue, h, a):
@@ -1186,7 +1374,7 @@ def render_venue(data, venue, now):
                 xgp = xg_pieces(r["xg"], ((h, teams[h]), (a, teams[a])))
                 nms = [p.split(" (")[0] for _k, _tn, ps, _hp, _g in tags for p in ps]
                 dh, dt = dbadges(view["danger"], lg, nms)
-                cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt))
+                cf.append((t, c, l, teams[h], teams[a], tags, info, LI, xgp, dh, dt, r.get("gol")))
     sal = []
     for c, l, r, err in data:
         if not r:
@@ -1230,17 +1418,22 @@ def render_prossime(chunks, now):
     """Una scheda per contesto, raggruppata sulla stessa partita: TOTALE, poi CASA, poi TRASFERTA."""
     groups = {}
     for venue, _label, _desc in VENUES:
-        for t, c, l, hn, an, tags, info, LIX, xgp, dh, dt in chunks[venue]["cards"]:
+        for t, c, l, hn, an, tags, info, LIX, xgp, dh, dt, gol in chunks[venue]["cards"]:
             key = (t.isoformat(), c, l, hn, an)
             g = groups.setdefault(key, {"t": t, "c": c, "l": l, "hn": hn, "an": an, "by": {}})
-            g["by"][venue] = (tags, info, LIX, xgp, dh, dt)
+            g["by"][venue] = (tags, info, LIX, xgp, dh, dt, gol)
     ordered = sorted(groups.values(), key=lambda g: (g["t"], g["c"], g["hn"]))
     note = ("La stessa partita può comparire più volte, una scheda per contesto, in quest'ordine: "
             "TOTALE (entrambe le squadre, ritardi complessivi), CASA (solo chi gioca in casa, ritardi delle sue gare in casa), "
             "TRASFERTA (solo chi gioca fuori, ritardi delle sue gare in trasferta). "
             "Una scheda c'è solo se in quel contesto almeno una combo è sopra soglia. "
             "1 = vince chi gioca in casa, 2 = vince chi gioca fuori, X = pareggio, 12 = non pareggio (con GOAL = segnano entrambe). "
-            "Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite.")
+            "Il passaggio sul nome della squadra mostra sempre la classifica totale, con i punti delle ultime 5 partite. "
+            "Sopra il nome: 🔥 attacco o difesa forte, 🧊 attacco o difesa debole, con A o D. "
+            f"È il {20}% della classifica gol di stagione, sempre arrotondato per difetto "
+            "(20 squadre → 4, 18 → 3, 16 → 3). Chi ha gli stessi gol del confine entra nel gruppo. "
+            f"Servono almeno {AD_MIN_ROUNDS} giornate già giocate, altrimenti nessuna icona. "
+            "Il passaggio sull'icona mostra quella fetta di classifica.")
     full_header = [f"PROSSIME PARTITE ({GIORNI} GIORNI) - SQUADRE IN RITARDO",
                    f"Aggiornato: {now} (ora italiana)",
                    f"Soglia: combo Goal ritardo >= {SOGLIA_GOAL}. Orari in ora italiana. {note} "
@@ -1264,7 +1457,12 @@ def render_prossime(chunks, now):
            f'<span class="vtag all">TOTALE</span> entrambe le squadre, '
            f'<span class="vtag home">CASA</span> solo chi gioca in casa, '
            f'<span class="vtag away">TRASFERTA</span> solo chi gioca fuori. '
-           f'Il passaggio sul nome mostra sempre la classifica totale, con i punti delle ultime 5.</p>')
+           f'Il passaggio sul nome mostra sempre la classifica totale, con i punti delle ultime 5. '
+           f'<span class="adb hi eg">🔥 A</span> attacco forte, <span class="adb lo eg">🧊 A</span> attacco debole, '
+           f'<span class="adb hi eg">🔥 D</span> difesa forte, <span class="adb lo eg">🧊 D</span> difesa debole: '
+           f'il 20% della classifica gol di stagione, sempre per difetto (20 squadre → 4, 18 → 3). '
+           f'Pari merito sul gol del confine. Solo con almeno {AD_MIN_ROUNDS} giornate, altrimenti nessuna icona. '
+           f'Il passaggio o il tocco sull&rsquo;icona mostra quella fetta, con la squadra evidenziata.</p>')
     P, PG, H = list(full_header), list(goal_header), []
     day = None
     if not ordered:
@@ -1285,10 +1483,10 @@ def render_prossime(chunks, now):
             item = g["by"].get(venue)
             if not item:
                 continue
-            tags, _info, LIX, xgp, dh, dt = item
+            tags, _info, LIX, xgp, dh, dt, gol = item
             mark = VENUE_TAG[venue]
-            P.append(f"{mark:<9} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]  {dt}")
-            PG.append(f"{mark:<9} {lt:%H:%M}  {hn} vs {an}   [{c} - {l}]")
+            P.append(f"{mark:<9} {lt:%H:%M}  {hn}{ad_suffix(hn, gol)} vs {an}{ad_suffix(an, gol)}   [{c} - {l}]  {dt}")
+            PG.append(f"{mark:<9} {lt:%H:%M}  {hn}{ad_suffix(hn, gol)} vs {an}{ad_suffix(an, gol)}   [{c} - {l}]")
             if xgp:
                 line = " · ".join(p for p, _h in xgp)
                 P.append(f"           xG: {line}")
@@ -1302,7 +1500,7 @@ def render_prossime(chunks, now):
             H.append(
                 f'<div class="fx"><span class="vtag {venue}">{mark}</span>'
                 f'<div class="fxh"><span class="time copy-time" data-copy="{esc(hn + " vs " + an)}" title="Clicca per copiare la partita">{lt:%H:%M}</span> '
-                f'{tspan(LIX, hn, an, hn)} vs {tspan(LIX, hn, an, an)} '
+                f'{club_html(LIX, hn, an, hn, gol)} vs {club_html(LIX, hn, an, an, gol)} '
                 f'<span class="lg">{esc(c)} - {esc(l)}</span> {dh} {bookmaker_badges(hn, an, LIX)}</div>{xg_html}'
                 + "".join(hb) + "</div>"
             )
@@ -1329,7 +1527,13 @@ b{color:var(--accent)}
 pre{background:var(--card);color:var(--ink);padding:1rem;overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--glow);font-size:clamp(.72rem,2.6vw,.92rem);line-height:1.45;white-space:pre}
 h3.day{color:var(--accent);margin:1.4rem 0 .5rem;border-bottom:1px solid var(--line)}
 .fx{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:.6rem .8rem;margin:.5rem 0;box-shadow:var(--glow)}
-.fxh{font-weight:600;color:var(--fg)}.time{color:var(--accent);margin-right:.4rem}
+.fxh{font-weight:600;color:var(--fg);display:flex;flex-wrap:wrap;align-items:flex-end;column-gap:.35rem;row-gap:.12rem}.time{color:var(--accent);margin-right:.15rem}
+.club{display:inline-flex;flex-direction:column;align-items:flex-start;vertical-align:bottom;max-width:100%}
+.ads{display:flex;flex-wrap:wrap;gap:.12rem;margin:0 0 .08rem}
+.adb{display:inline-flex;align-items:center;gap:.08rem;padding:.08rem .34rem;border-radius:999px;font-size:.68rem;font-weight:800;cursor:pointer;line-height:1.1;white-space:nowrap;border:0}
+.adb.hi{background:#ff9f1a;color:#1a1004}.adb.lo{background:#8fd4ff;color:#042033}
+.adb.eg,.leg .adb{cursor:default;vertical-align:middle}
+@media (max-width:700px){.adb{padding:.14rem .42rem;font-size:.74rem}}
 .copy-time{cursor:pointer;border-bottom:1px dotted var(--accent)}.copy-time:hover{color:var(--fg)}
 .lg{color:var(--muted);font-weight:400;font-size:.85em;margin-left:.4rem}
 .tagrow{margin-top:.35rem;line-height:1.5}
@@ -1425,11 +1629,12 @@ ___SALTATI___
 <script>var POP=___POP___;(function(){var pop=document.getElementById('pop'),cur=null;function esc(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function forma(r){return (r&&r.length>5&&r[5])?(' <span class="fm">· forma ultime '+r[5]+': '+r[4]+' pnt</span>'):''}
 function pack(el){var v=(el&&el.dataset&&el.dataset.v)||'all';if(el&&el.classList.contains('pt'))return POP.all||{};return POP[v]||POP.all||{}}
-function show(el){if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack(el)[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica totale non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica totale</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pnt</b>'+forma(r)}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'/'+N+'</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' pnt</td><td>'+(r[5]?('ultime '+r[5]+': '+r[4]+' pnt'):'')+'</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
+function showAd(el){var d=(POP.all||{})[el.dataset.k],team=el.dataset.t,kind=el.dataset.ad;var titles={sa:'Attacco forte — gol fatti',wa:'Attacco debole — gol fatti',sd:'Difesa forte — gol subiti',wd:'Difesa debole — gol subiti'};var unit=(kind==='sa'||kind==='wa')?'fatti':'subiti';var where=(kind==='sa'||kind==='sd')?'Prime posizioni':'Ultime posizioni';var rows=null,grp=null,groups=(d&&d.gol&&d.gol.groups)||[];for(var i=0;i<groups.length;i++){var x=groups[i];if(x.mark&&x.mark[team]&&x.band&&x.band[kind]){grp=x;rows=x.band[kind];break}}var h;if(!d||!rows){h='<h4>Classifica gol non disponibile</h4>'}else{h='<h4>'+esc(d.lg)+'<br>'+esc(titles[kind]||'')+'</h4><div class="fm">'+esc(where)+' · '+grp.k+' su '+grp.n+' squadre, 20% per difetto · '+grp.rounds+' giornate. Pari merito sul gol del confine. Stagione intera, non solo casa o trasferta.</div><table>'+rows.map(function(r){return '<tr'+(r[1]==team?' class="hl"':'')+'><td>'+r[0]+'.</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' '+unit+'</td></tr>'}).join('')+'</table>'}pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,ph=pop.offsetHeight,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));var top=b.bottom+window.scrollY+6;if(b.bottom+ph+12>window.innerHeight&&b.top>ph+12)top=b.top+window.scrollY-ph-6;pop.style.left=x+'px';pop.style.top=top+'px';cur=el}
+function show(el){if(el.classList.contains('adb')){if(el.classList.contains('eg'))return;showAd(el);return}if(el.classList.contains('dz')){pop.innerHTML='<div>'+esc(el.dataset.msg)+'</div>';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el;return}var d=pack(el)[el.dataset.k];if(!d)return;var c=el.dataset.c,t=el.dataset.t,h;if(el.classList.contains('pt')){var A=el.dataset.a,B=el.dataset.b,tb=(d.tab||[]).filter(function(x){return x.some(function(r){return r[1]==A||r[1]==B})});if(!tb.length){h='<h4>'+esc(d.lg)+'</h4>Classifica totale non disponibile'}else{h='<h4>'+esc(d.lg)+' - Classifica totale</h4>';tb.forEach(function(x){var N=x.length;h+='<div>'+x.filter(function(r){return r[1]==A||r[1]==B}).map(function(r){return '<b style="color:var(--accent)">'+r[0]+'/'+N+'</b> '+esc(r[1])+' <b>'+r[2]+' pnt</b>'+forma(r)}).join('<br>')+'</div><details style="margin-top:.4rem"><summary style="color:var(--accent);cursor:pointer">Classifica completa</summary><table>'+x.map(function(r){return '<tr'+((r[1]==A||r[1]==B)?' class="hl"':'')+'><td>'+r[0]+'/'+N+'</td><td>'+esc(r[1])+'</td><td class="n">'+r[2]+' pnt</td><td>'+(r[5]?('ultime '+r[5]+': '+r[4]+' pnt'):'')+'</td></tr>'}).join('')+'</table></details>'})}}else if(el.classList.contains('pp')){var rows=d.rit[c]||[];h='<h4>'+esc(d.lg)+'<br>Ritardi '+esc(c)+' (top 10)</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'.</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+(r[2]?'+':'')+(r[4]?' '+r[4]:'')+'</td><td>'+(r[1]&&r[3]>=50?'🟢 '+r[3]+'%':'')+'</td></tr>'}).join('')+'</table>'}else{var rows=d.sotto[c]||[];var st=(d.stot||{})[c]||[rows.length,null],N=st[0];h='<h4>'+esc(d.lg)+'<br>Sottofrequenza '+esc(c)+'</h4><table>'+rows.map(function(r,i){return '<tr'+(r[0]==t?' class="hl"':'')+'><td>'+(i+1)+'/'+N+'</td><td>'+esc(r[0])+'</td><td class="n">'+r[1]+'/'+r[2]+'</td></tr>'}).join('')+(st[1]&&N>rows.length?'<tr><td colspan="3" style="text-align:center;color:var(--muted)">&middot;&middot;&middot;</td></tr><tr'+(st[1][0]==t?' class="hl"':'')+'><td>'+N+'/'+N+'</td><td>'+esc(st[1][0])+'</td><td class="n">'+st[1][1]+'/'+st[1][2]+'</td></tr>':'')+'</table>'}
 pop.innerHTML=h;pop.style.fontSize=(typeof Z!=='undefined'?Z*90:90)+'%';pop.style.display='block';var b=el.getBoundingClientRect(),w=pop.offsetWidth,x=b.left+window.scrollX;x=Math.max(window.scrollX+6,Math.min(x,window.scrollX+document.documentElement.clientWidth-w-6));pop.style.left=x+'px';pop.style.top=(b.bottom+window.scrollY+6)+'px';cur=el}
 function hide(){pop.style.display='none';cur=null}
-document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
-if(window.matchMedia('(hover:hover)').matches){document.addEventListener('mouseover',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad');if(el&&el!==cur)show(el)})}
+document.addEventListener('click',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el){if(cur===el)hide();else show(el);e.stopPropagation();return}if(!pop.contains(e.target))hide()});
+if(window.matchMedia('(hover:hover)').matches){document.addEventListener('mouseover',function(e){var el=e.target.closest('.pp,.pr,.pt,.dz.bad,.adb:not(.eg)');if(el&&el!==cur)show(el)})}
 document.addEventListener('keydown',function(e){if(e.key==='Escape')hide()})})();</script>
 <script>(function(){function copyText(txt){if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(function(){copied()}).catch(function(){fallback(txt)})}else fallback(txt)}function copied(){var msg=document.getElementById('copymsg');if(!msg){msg=document.createElement('div');msg.id='copymsg';msg.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:300;background:var(--accent);color:var(--on);padding:.65rem 1rem;border-radius:10px;font-weight:700;box-shadow:var(--glow)';document.body.appendChild(msg)}msg.textContent='Partita copiata!';msg.style.display='block';clearTimeout(msg._timer);msg._timer=setTimeout(function(){msg.style.display='none'},1600)}function fallback(txt){var ta=document.createElement('textarea');ta.value=txt;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{var ok=document.execCommand('copy');if(ok)copied();else alert('Seleziona e copia: '+txt)}catch(e){alert('Seleziona e copia: '+txt)}ta.remove()}document.addEventListener('click',function(e){var el=e.target.closest('.time[data-copy]');if(!el)return;copyText(el.dataset.copy);e.preventDefault();e.stopPropagation()})})();</script>
 <script>(function(){var hs=[].slice.call(document.querySelectorAll('body > h2[id]')),ids=[];hs.forEach(function(h){var sec=document.createElement('section');sec.className='tabsec';sec.dataset.id=h.id;h.parentNode.insertBefore(sec,h);var n=h;while(n&&!(n!==h&&n.tagName==='H2')&&!(n.id==='pop'||n.id==='totop'||n.tagName==='SCRIPT'||n.tagName==='ASIDE'||(n.tagName==='BUTTON'))){var nx=n.nextElementSibling;sec.appendChild(n);n=nx}ids.push(h.id)});
