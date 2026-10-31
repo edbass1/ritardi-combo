@@ -1,46 +1,46 @@
 TIPS DEL GIORNO - 31/10/2026
-Aggiornato: 31/10/2026 16:25 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
+Aggiornato: 31/10/2026 17:27 (ora italiana). Calcolo automatico, nessuna garanzia: sono solo statistiche.
 Punteggio da 0 a 100 sulle partite di oggi. Pesi: frequenza squadra 24, ritardo rispetto alla media 26, frequenza del campionato 18, GG sulle ultime 10 16, xG 16. Chi fa uscire la combo più spesso prende più punti. Se manca l'xG o il campionato non è in classifica, quel fattore non conta e gli altri si riproporzionano.
 
  1. TRASFERTA 18:00  Grasshopper vs FC Vaduz   [SVIZZERA - SUPER LEAGUE]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 84,5  (Freq 84 · Rit 80 · Lega 64 · GG 100 · xG 100)
+    X2 + GOAL  -  punteggio 85,0  (Freq 83 · Rit 81 · Lega 67 · GG 100 · xG 100)
     FC Vaduz non vede l'X2+GOAL da 6 partite in trasferta: di solito ne saltano un paio, e la fa meno spesso, circa il 39% delle volte. Anche il campionato la vede spesso, nelle ultime 6 hanno segnato entrambe 6 volte e c'è tanto xG.
 
- 2. CASA      17:15  Catanzaro vs Padova   [ITALIA - SERIE B]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 83,2  (Freq 76 · Rit 88 · Lega 90 · GG 72 · xG 90)
-    L'1X+GOAL si fa aspettare da Catanzaro in casa: 7 gare, di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 38%). Questo campionato la produce di continuo, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è alto.
-
- 3. TOTALE    18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]  [OK 1X+GOAL]
-    1X + GOAL  -  punteggio 79,7  (Freq 100 · Rit 44 · Lega 98 · GG 94 · xG 72)
+ 2. TOTALE    18:45  SC Heerenveen vs NEC Nijmegen   [OLANDA - EREDIVISIE]  [OK 1X+GOAL]
+    1X + GOAL  -  punteggio 82,0  (Freq 100 · Rit 52 · Lega 98 · GG 93 · xG 75)
     L'1X+GOAL si fa aspettare da SC Heerenveen: 6 gare, di solito ne saltano un paio, e la incontra abbastanza spesso, circa il 46% delle volte. Questo campionato la produce di continuo, nelle ultime 10 hanno segnato entrambe 9 volte e c'è tanto xG.
 
- 4. TOTALE    19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 76,4  (Freq 96 · Rit 100 · Lega 70 · GG 72 · xG 20)
+ 3. TOTALE    19:00  Columbus Crew vs DC United   [USA/CANADA - MLS]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 77,1  (Freq 95 · Rit 100 · Lega 74 · GG 71 · xG 22)
     L'X2+GOAL si fa aspettare da Columbus Crew: 10 gare, di solito ne saltano un paio, e la fa meno spesso, circa il 38% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 7 volte e l'xG è alto.
 
- 5. TOTALE    17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 71,6  (Freq 72 · Rit 68 · Lega 76 · GG 72)
+ 4. TOTALE    17:30  Guidonia Montecelio vs Perugia   [ITALIA - SERIE C]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 73,4  (Freq 76 · Rit 67 · Lega 81 · GG 71)
     Sono 8 partite che Perugia resta senza l'1X+GOAL: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 37%). Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 7 volte.
 
- 6. TRASFERTA 17:30  Cavese vs AZ Picerno   [ITALIA - SERIE C]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 65,2  (Freq 62 · Rit 76 · Lega 48 · GG 72)
+ 5. TRASFERTA 17:30  Cavese vs AZ Picerno   [ITALIA - SERIE C]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 66,8  (Freq 64 · Rit 76 · Lega 52 · GG 71)
     Per AZ Picerno in trasferta l'X2+GOAL manca da 6 partite: di solito ne saltano un paio, e la fa meno spesso, circa il 36% delle volte. Anche il campionato la vede spesso e su 10 partite recenti il GG è uscito 6 volte.
 
- 7. TOTALE    16:30  Fortuna Köln vs Würzburger Kickers   [GERMANIA - 3. LIGA]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 65,1  (Freq 84 · Rit 64 · Lega 80 · GG 22)
-    L'1X+GOAL si fa aspettare da Fortuna Köln: 6 gare, di solito ne saltano un paio, e la vede abbastanza spesso, circa il 41% delle volte. Anche il campionato la vede spesso e nelle ultime 10 il GG è uscito 4 volte.
-
- 8. TOTALE    20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]  [ALT 1X+GOAL]
-    1X + GOAL  -  punteggio 53,2  (Freq 46 · Rit 16 · Lega 84 · GG 88 · xG 55)
+ 6. TOTALE    20:45  Troyes vs Le Mans   [FRANCIA - LIGUE 1]  [ALT 1X+GOAL]
+    1X + GOAL  -  punteggio 54,7  (Freq 45 · Rit 19 · Lega 86 · GG 86 · xG 61)
     Per Troyes l'1X+GOAL manca da 8 partite: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 29%). In questo campionato non è una rarità, nelle ultime 8 hanno segnato entrambe 7 volte e c'è tanto xG.
 
- 9. TRASFERTA 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]  [OK X2+GOAL]
-    X2 + GOAL  -  punteggio 50,2  (Freq 52 · Rit 92 · Lega 4 · GG 2 · xG 80)
+ 7. TRASFERTA 20:45  Anderlecht vs Westerlo   [BELGIO - FIRST DIVISION A]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 50,7  (Freq 52 · Rit 90 · Lega 5 · GG 2 · xG 83)
     L'X2+GOAL si fa aspettare da Westerlo in trasferta: 8 gare, in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 33% delle volte. Nel campionato esce con regolarità, nelle ultime 10 il GG è uscito 2 volte e c'è tanto xG.
 
-10. CASA      17:30  Lech Poznań vs Wisła Kraków   [POLONIA - EKSTRAKLASA]  [ALT X2+GOAL]
-    X2 + GOAL  -  punteggio 49,4  (Freq 16 · Rit 52 · Lega 56 · GG 72 · xG 65)
-    Sono 6 partite che Lech Poznań resta senza l'X2+GOAL in casa: in media ne restano fuori tre o quattro, e la fa meno spesso, circa il 25% delle volte. Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e c'è tanto xG.
+ 8. TRASFERTA 21:00  Deportivo Riestra vs Talleres   [ARGENTINA - PRIMERA DIVISIÓN]  [ALT X2+GOAL]
+    X2 + GOAL  -  punteggio 48,1  (Freq 57 · Rit 71 · Lega 14 · GG 71 · xG 11)
+    Sono 6 partite che Talleres resta senza l'X2+GOAL in trasferta: in media ne restano fuori tre o quattro, e non è tra le sue giocate più solite (circa il 34%). Questo campionato la propone abbastanza spesso, su 10 partite recenti il GG è uscito 6 volte e l'xG dà una mano.
+
+ 9. TOTALE    20:00  Coritiba vs Vitória   [BRASILE - SÉRIE A]  [OK 12+GOAL]
+    12 + GOAL  -  punteggio 45,5  (Freq 45 · Rit 43 · Lega 62 · GG 71 · xG 6)
+    Per Coritiba il 12+GOAL manca da 6 partite: di solito ne saltano un paio, e non è tra le sue giocate più solite (circa il 36%). Anche il campionato la vede spesso, nelle ultime 10 il gol di entrambe è arrivato 6 volte e l'xG è buono.
+
+10. CASA      18:00  Charlotte FC vs Orlando City   [USA/CANADA - MLS]  [OK X2+GOAL]
+    X2 + GOAL  -  punteggio 44,8  (Freq 10 · Rit 48 · Lega 74 · GG 50 · xG 56)
+    Per Charlotte FC in casa l'X2+GOAL manca da 6 partite: in media ne restano fuori circa 4, e la fa meno spesso, circa il 20% delle volte. Anche il campionato la vede spesso, su 10 partite recenti il GG è uscito 5 volte e c'è tanto xG.
 
 
 COME CALCOLIAMO IL PUNTEGGIO
