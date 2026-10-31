@@ -3,7 +3,7 @@
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali valide)
-Aggiornato: 31/10/2026 15:27 (ora italiana)
+Aggiornato: 31/10/2026 16:25 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali valide (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -78,10 +78,8 @@ SOTTOFREQUENZA 1X + GOAL
     1/43 Cosenza                        47/100
     2/43 Potenza                        45/100
     3/43 Torres                         44/100
-    4/43 Atalanta U23                   44/100
-    5/43 Spezia                         43/100
-    6/43 Novara                         43/100
-    7/43 Bari                           43/100
+    4/43 Bari                           44/100
+    5/43 Atalanta U23                   44/100
      ...
    43/43 Catania                        30/100  (la fa meno spesso)
 
@@ -117,8 +115,8 @@ SOTTOFREQUENZA 1X + GOAL
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 AFC Bournemouth                42/100
-    2/20 Chelsea                        40/100
-    3/20 Ipswich Town                   39/100
+    2/20 Ipswich Town                   39/100
+    3/20 Chelsea                        39/100
     4/20 Tottenham Hotspur              38/100
     5/20 Fulham                         38/100
     6/20 Everton                        38/100
@@ -130,8 +128,8 @@ SOTTOFREQUENZA 12 + GOAL
     1/20 Newcastle United               47/100
     2/20 Fulham                         44/100
     3/20 Liverpool                      42/100
-    4/20 Chelsea                        42/100
-    5/20 Tottenham Hotspur              41/100
+    4/20 Tottenham Hotspur              41/100
+    5/20 Chelsea                        41/100
     6/20 Brentford                      41/100
     7/20 Aston Villa                    41/100
      ...
@@ -299,18 +297,18 @@ GERMANIA - 3. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/20 VfB Stuttgart II               50/100
-    2/20 SC Verl                        50/100
-    3/20 Waldhof Mannheim               48/100
-    4/20 TSV Havelse                    48/100
-    5/20 MSV Duisburg                   48/100
-    6/20 Ingolstadt                     48/100
+    2/20 TSV Havelse                    49/100
+    3/20 SC Verl                        49/100
+    4/20 Ingolstadt                     49/100
+    5/20 Waldhof Mannheim               48/100
+    6/20 MSV Duisburg                   48/100
      ...
    20/20 Viktoria Köln 1904             33/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Ingolstadt                     45/100
-    2/20 Preussen Münster               43/100
-    3/20 SC Verl                        42/100
+    2/20 SC Verl                        43/100
+    3/20 Preussen Münster               43/100
     4/20 RW Essen                       42/100
     5/20 Sonnenhof Großaspach           39/100
     6/20 Saarbrücken                    39/100
@@ -321,10 +319,9 @@ SOTTOFREQUENZA X2 + GOAL
 SOTTOFREQUENZA 12 + GOAL
     1/20 TSV Havelse                    49/100
     2/20 VfB Stuttgart II               48/100
-    3/20 Hoffenheim II                  48/100
-    4/20 MSV Duisburg                   47/100
-    5/20 Viktoria Köln 1904             44/100
-    6/20 Alemannia Aachen               44/100
+    3/20 MSV Duisburg                   47/100
+    4/20 Hoffenheim II                  47/100
+    5/20 Alemannia Aachen               44/100
      ...
    20/20 Würzburger Kickers             23/100  (la fa meno spesso)
 
@@ -385,8 +382,8 @@ SOTTOFREQUENZA X2 + GOAL
 
 SOTTOFREQUENZA 12 + GOAL
     1/18 Metz                           42/100
-    2/18 Annecy FC                      40/100
-    3/18 Rodez                          39/100
+    2/18 Rodez                          39/100
+    3/18 Annecy FC                      39/100
     4/18 Dijon                          38/100
     5/18 Reims                          37/100
      ...
@@ -1466,7 +1463,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in casa)
-Aggiornato: 31/10/2026 15:27 (ora italiana)
+Aggiornato: 31/10/2026 16:25 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in casa (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -1535,7 +1532,7 @@ ITALIA - SERIE C
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
     1/32 Potenza                        49/100
-    2/32 Pescara                        47/100
+    2/32 Pescara                        46/100
     3/32 Salernitana                    45/100
     4/32 Casertana                      44/100
     5/32 Bari                           42/100
@@ -1570,7 +1567,8 @@ SOTTOFREQUENZA 1X + GOAL
     2/20 Liverpool                      52/100
     3/20 Aston Villa                    50/100
     4/20 Arsenal                        49/100
-    5/20 Chelsea                        48/100
+    5/20 Chelsea                        47/100
+    6/20 Brighton & Hove Albion         47/100
      ...
    20/20 Everton                        24/100  (la fa meno spesso)
 
@@ -1757,15 +1755,15 @@ SOTTOFREQUENZA 1X + GOAL
     4/20 RW Essen                       48/100
     5/20 Fortuna Düsseldorf             47/100
      ...
-   20/20 Jahn Regensburg                35/100  (la fa meno spesso)
+   20/20 Jahn Regensburg                36/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 Ingolstadt                     44/100
-    2/20 Sonnenhof Großaspach           42/100
-    3/20 SC Verl                        42/100
+    2/20 SC Verl                        43/100
+    3/20 Sonnenhof Großaspach           42/100
     4/20 Hansa Rostock                  39/100
-    5/20 TSV Havelse                    37/100
-    6/20 MSV Duisburg                   37/100
+    5/20 TSV Havelse                    38/100
+    6/20 MSV Duisburg                   38/100
      ...
    20/20 Alemannia Aachen               25/100  (la fa meno spesso)
 
@@ -1774,9 +1772,10 @@ SOTTOFREQUENZA 12 + GOAL
     2/20 Ingolstadt                     48/100
     3/20 Wehen Wiesbaden                44/100
     4/20 Waldhof Mannheim               43/100
-    5/20 Hoffenheim II                  43/100
+    5/20 Viktoria Köln 1904             42/100
+    6/20 Hoffenheim II                  42/100
      ...
-   20/20 Jahn Regensburg                30/100  (la fa meno spesso)
+   20/20 Würzburger Kickers             30/100  (la fa meno spesso)
 
 ==================================================
 FRANCIA - LIGUE 1
@@ -2890,7 +2889,7 @@ SOTTOFREQUENZA 12 + GOAL
 ##################################################
 
 SOTTOFREQUENZE - DOPPIA CHANCE + GOAL (ultime 100 partite nazionali in trasferta)
-Aggiornato: 31/10/2026 15:27 (ora italiana)
+Aggiornato: 31/10/2026 16:25 (ora italiana)
 Le 5 squadre con più uscite della combo (pari merito inclusi). Incluse neopromosse/retrocesse quando lo storico nazionale è disponibile. Classifica per numero di uscite, dalla più frequente alla meno frequente; incluse solo squadre con almeno 100 partite nazionali in trasferta (N<100 = storico insufficiente). Fonte: FotMob
 
 ==================================================
@@ -3001,8 +3000,8 @@ SOTTOFREQUENZA X2 + GOAL
     1/20 Liverpool                      41/100
     2/20 Ipswich Town                   41/100
     3/20 Manchester City                40/100
-    4/20 Manchester United              39/100
-    5/20 Brighton & Hove Albion         39/100
+    4/20 Brighton & Hove Albion         39/100
+    5/20 Manchester United              38/100
      ...
    20/20 Brentford                      31/100  (la fa meno spesso)
 
@@ -3178,23 +3177,21 @@ SOTTOFREQUENZA 12 + GOAL
 GERMANIA - 3. LIGA
 ==================================================
 SOTTOFREQUENZA 1X + GOAL
-    1/20 VfB Stuttgart II               48/100
+    1/20 VfB Stuttgart II               49/100
     2/20 SC Verl                        48/100
     3/20 Waldhof Mannheim               45/100
-    4/20 Viktoria Köln 1904             45/100
+    4/20 Viktoria Köln 1904             44/100
     5/20 TSV Havelse                    44/100
     6/20 Ingolstadt                     44/100
      ...
-   20/20 Hansa Rostock                  24/100  (la fa meno spesso)
+   20/20 Hansa Rostock                  25/100  (la fa meno spesso)
 
 SOTTOFREQUENZA X2 + GOAL
     1/20 RW Essen                       47/100
     2/20 Saarbrücken                    43/100
     3/20 Preussen Münster               43/100
-    4/20 SC Verl                        42/100
-    5/20 Würzburger Kickers             41/100
-    6/20 Waldhof Mannheim               41/100
-    7/20 VfB Stuttgart II               41/100
+    4/20 VfB Stuttgart II               42/100
+    5/20 SC Verl                        42/100
      ...
    20/20 MSV Duisburg                   26/100  (la fa meno spesso)
 
@@ -3205,7 +3202,7 @@ SOTTOFREQUENZA 12 + GOAL
     4/20 Preussen Münster               44/100
     5/20 VfB Stuttgart II               43/100
      ...
-   20/20 Hansa Rostock                  24/100  (la fa meno spesso)
+   20/20 Hansa Rostock                  25/100  (la fa meno spesso)
 
 ==================================================
 FRANCIA - LIGUE 1
